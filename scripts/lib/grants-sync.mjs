@@ -268,6 +268,7 @@ function publicAttempt(attempt) {
     scope: attempt.scope,
     counts: attempt.counts,
     pagination: attempt.pagination,
+    integrity: attempt.integrity,
     errors: attempt.errors,
   };
 }
@@ -333,8 +334,17 @@ export async function runGrantsSync(options) {
     completedAt: null,
     durationSeconds: null,
     scope: { statuses, keyword: keyword || null, maxRecords: maxRecords || null, pageSize: rows },
-    counts: { fetched: 0, created: 0, updated: 0, unchanged: 0, archivedOrClosed: 0, failed: 0 },
+    counts: {
+      fetched: 0,
+      created: 0,
+      updated: 0,
+      unchanged: 0,
+      removedFromActive: 0,
+      archivedOrClosed: 0,
+      failed: 0,
+    },
     pagination: { totalAvailable: 0, target: 0, uniqueResults: 0, pagesRequested: 0, pagesSucceeded: 0, pagesFailed: 0 },
+    integrity: { storedRecords: 0, duplicateIds: 0, duplicateOpportunityNumbers: 0 },
     errors: [],
   };
   const history = await readJson(historyPath, { schemaVersion: 1, attempts: [] });
@@ -398,6 +408,7 @@ export async function runGrantsSync(options) {
       const missingActive = [...previousById.values()].filter((record) =>
         ["posted", "forecasted"].includes(record.status) && !currentSeen.has(String(record.grantsGovId))
       );
+      attempt.counts.removedFromActive = missingActive.length;
       const reconciled = await mapWithConcurrency(missingActive, concurrency, async (previous) => {
         try {
           const detail = await fetchDetail(previous.grantsGovId);
@@ -432,6 +443,19 @@ export async function runGrantsSync(options) {
     attempt.durationSeconds = Math.round((Date.parse(attempt.completedAt) - Date.parse(attempt.startedAt)) / 1000);
 
     const records = [...nextById.values()].sort((a, b) => String(a.grantsGovId).localeCompare(String(b.grantsGovId), undefined, { numeric: true }));
+    const idCounts = new Map();
+    const numberCounts = new Map();
+    for (const record of records) {
+      const id = String(record.grantsGovId || "").trim();
+      if (id) idCounts.set(id, Number(idCounts.get(id) || 0) + 1);
+      const number = String(record.opportunityNumber || "").trim().toLowerCase();
+      if (number) numberCounts.set(number, Number(numberCounts.get(number) || 0) + 1);
+    }
+    attempt.integrity = {
+      storedRecords: records.length,
+      duplicateIds: [...idCounts.values()].filter((count) => count > 1).length,
+      duplicateOpportunityNumbers: [...numberCounts.values()].filter((count) => count > 1).length,
+    };
     await writeJsonAtomic(recordsPath, {
       schemaVersion: 1,
       source: "Grants.gov public API",

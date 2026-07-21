@@ -40,6 +40,36 @@ The production workflow is staged and exhaustive:
 6. Closed opportunities remain active for a 20-day grace period. Saved browser snapshots remain in the Saved view after source removal until the user confirms permanent removal.
 7. The public search filters only already-qualified records; raw Grants.gov search hits never bypass the publication gate.
 
+### Source synchronization operations
+
+The source-only inventory workflow is `.github/workflows/grants-inventory.yml`.
+Its production schedule is `23 10 * * *`: once daily at **10:23 UTC**. GitHub
+scheduled workflows use UTC and run the workflow from the default branch. A
+scheduled run has no manual inputs, so it synchronizes the complete
+`forecasted|posted` population with a 100-record page size, no keyword, and no
+maximum-record limit. The manual workflow remains bounded by default (12
+records, five per page) so operators can perform inexpensive checks without
+replacing the complete inventory.
+
+Both Grants.gov workflows use the `grants-data` concurrency group with queued,
+non-cancelling execution. This prevents the source inventory and AI screening
+jobs from writing the repository-backed data files at the same time. Individual
+detail failures are recorded and preserved as partial attempts while the
+remaining records continue; failed page retrievals prevent full-inventory
+replacement. Every attempt updates `monitor/grants-sync-history.json` and the
+bounded production status file `app/generated/grants-sync.json`.
+
+### Pilot persistence and technical debt
+
+Repository-backed JSON persistence is acceptable for the current METSS pilot.
+The compressed raw/normalized Grants.gov source snapshot is currently about
+**4 MB** (`monitor/grants-source-records.json.gz`). This model provides simple,
+reviewable history today, but rewriting and redeploying the snapshot may become
+inefficient as additional sources and customers are added. Before converting
+the tracker into a multi-customer commercial platform, evaluate a hosted
+database for normalized records and synchronization history plus separate
+object storage for raw source snapshots.
+
 Required GitHub Actions repository secret: `OPENAI_API_KEY`.
 
 Default safeguards:
