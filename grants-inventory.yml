@@ -1,0 +1,68 @@
+name: Inventory Grants.gov
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_records:
+        description: "Maximum records for a bounded manual test (blank = all current records)"
+        required: false
+        default: "12"
+      page_size:
+        description: "Grants.gov results per page"
+        required: false
+        default: "5"
+      statuses:
+        description: "Grants.gov statuses to synchronize"
+        required: false
+        default: "forecasted|posted"
+      keyword:
+        description: "Optional Grants.gov keyword filter"
+        required: false
+        default: ""
+  schedule:
+    - cron: "23 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: grants-data
+  cancel-in-progress: false
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Synchronize Grants.gov opportunities without AI
+        env:
+          GRANTS_SYNC_MAX_RECORDS: ${{ inputs.max_records || '' }}
+          GRANTS_SYNC_PAGE_SIZE: ${{ inputs.page_size || '100' }}
+          GRANTS_SYNC_STATUSES: ${{ inputs.statuses || 'forecasted|posted' }}
+          GRANTS_SYNC_KEYWORD: ${{ inputs.keyword || '' }}
+        run: node scripts/inventory-grants.mjs
+
+      - name: Save inventory changes
+        run: |
+          if git diff --quiet -- monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json; then
+            echo "No Grants.gov inventory changes."
+            exit 0
+          fi
+          git config user.name "METSS Opportunity Monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json
+          git commit -m "Synchronize Grants.gov source records"
+          git pull --rebase
+          git push
