@@ -208,7 +208,7 @@ export default function Home() {
           <p className="eyebrow">METSS federal opportunity intelligence</p>
           <h1>Find the opportunities METSS can actually win.</h1>
           <p className="hero-description">
-            Search official federal grants, screen curated contracts and BAAs, and rank every result against METSS capabilities and its DPA Title III critical-chemicals position.
+            Monitor official federal grants, review AI-screened solicitations, and rank evidence-backed results against METSS capabilities and its DPA Title III critical-chemicals position.
           </p>
 
           <form className="search-row" role="search" onSubmit={(event) => runSearch(event)}>
@@ -241,7 +241,7 @@ export default function Home() {
           </div>
 
           <div className="metrics" aria-label="Opportunity summary">
-            <div><span className="metric-icon">↗</span><strong>{opportunities.length}</strong><small>Deep-screened matches</small></div>
+            <div><span className="metric-icon">↗</span><strong>{opportunities.length}</strong><small>Curated + AI-screened matches</small></div>
             <div><span className="metric-icon">III</span><strong>{vehicles.filter((vehicle) => vehicle.titleIII).length}</strong><small>Title III pathways</small></div>
             <div><span className="metric-icon">●</span><strong>Live</strong><small>Grants.gov connection</small></div>
           </div>
@@ -299,8 +299,8 @@ export default function Home() {
       </section>
 
       <div className="coverage-strip">
-        <span><i /> Data as of July 13, 2026</span>
-        <span>Live Grants.gov search + METSS-curated SAM.gov, SBIR.gov, agency BAA, DPA, DIBC, and internal past-performance intelligence.</span>
+        <span><i /> Grants.gov monitoring configured</span>
+        <span>Live Grants.gov search plus scheduled full-record and public-attachment screening against an approved public METSS profile.</span>
         <button type="button" onClick={() => jumpTo("vehicles")}>See source coverage →</button>
       </div>
 
@@ -335,7 +335,7 @@ export default function Home() {
               </div>
               {loading && <div className="live-banner loading"><span className="spinner" />Searching the official Grants.gov opportunity feed…</div>}
               {liveError && <div className="live-banner error">Live source error: {liveError}. The curated METSS results remain available.</div>}
-              {submittedQuery && !loading && !liveError && <div className="live-banner success"><span>●</span> Live Grants.gov results are mixed with the curated METSS set. Scores on live records are preliminary until technical review.</div>}
+              {submittedQuery && !loading && !liveError && <div className="live-banner success"><span>●</span> Live search results are preliminary. Records labeled AI-screened have a separate full-record review; all results still require human bid/no-bid validation.</div>}
               <div className="opportunity-grid">
                 {filteredOpportunities.map((item) => (
                   <article className="opportunity-card" key={item.id}>

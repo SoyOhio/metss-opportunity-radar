@@ -1,4 +1,29 @@
-# vinext-starter
+# METSS Opportunity Radar
+
+The site combines a live Grants.gov search with a scheduled, evidence-controlled opportunity monitor.
+
+## Grants.gov monitor
+
+The workflow in `.github/workflows/grants-monitor.yml`:
+
+1. Searches Grants.gov posted and forecasted opportunities across approved METSS technical lanes.
+2. Retrieves full records through `fetchOpportunity`.
+3. Applies a deterministic prefilter only to control volume and cost.
+4. Sends the highest-priority new or modified records and up to three public PDF attachments to the OpenAI Responses API.
+5. Requires schema-validated eligibility, role, score, evidence, gap, partner, confidence, and next-action fields.
+6. Publishes AI-screened records to `app/generated/grants.json`, which triggers the normal Vercel deployment.
+
+Required GitHub Actions repository secret: `OPENAI_API_KEY`.
+
+Default safeguards:
+
+- Five new or modified AI evaluations per run.
+- GPT-5.6 Terra with low reasoning effort and low PDF image detail.
+- No automatic eligibility assumptions.
+- Unverified facts remain unknown.
+- Human bid/no-bid validation is always required.
+
+## Original starter notes
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and

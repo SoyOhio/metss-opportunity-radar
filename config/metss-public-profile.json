@@ -1,0 +1,115 @@
+{
+  "profile_version": "2026-07-21-public-v1",
+  "scope": "METSS Corporation only",
+  "evidence_policy": "Use only the public facts in this profile. Treat every unlisted registration, certification, clearance, personnel, ownership, and availability fact as unknown until METSS approves it.",
+  "company": {
+    "name": "METSS Corporation",
+    "location": "Westerville, Ohio",
+    "type": "Applied research and development company",
+    "experience": "Approximately three decades of applied R&D supporting government and industry"
+  },
+  "capabilities": [
+    {
+      "category": "Advanced materials",
+      "details": [
+        "Organic materials including polymers, rubbers, composite resins, coatings, adhesives, specialty resins, packaging and barrier films",
+        "Materials for temperature extremes, strong chemicals, and harsh environments",
+        "Chemical-protective, electrostatic-dissipative, EMI, intumescent, self-sealing, and impact-resistant materials",
+        "Polymer processing and recycling"
+      ],
+      "source": "https://www.metss.com/our-work"
+    },
+    {
+      "category": "Chemistry and functional fluids",
+      "details": [
+        "Physical, organic, inorganic, and analytical chemistry",
+        "Hydraulic and lubricating fluids, greases, surfactants, anti-wear additives, corrosion inhibitors, dielectric fluids, thermal-control fluids, deicing fluids, cleaners, degreasers, sterilants, and disinfectants",
+        "Sample analysis, reaction characterization, formulation, and product development"
+      ],
+      "source": "https://www.metss.com/our-work"
+    },
+    {
+      "category": "Engineering and manufacturing scale-up",
+      "details": [
+        "Mechanical and chemical engineering",
+        "Product and process design from laboratory development through commercial production",
+        "Pilot-scale operations and light manufacturing"
+      ],
+      "source": "https://www.metss.com/"
+    },
+    {
+      "category": "Testing and validation",
+      "details": [
+        "Chemical, physical, mechanical, environmental, performance, and materials-compatibility testing",
+        "Chemical and biological field testing",
+        "Advanced analytical laboratory and environmental testing capabilities"
+      ],
+      "source": "https://www.metss.com/"
+    },
+    {
+      "category": "Microbiology and CBRN",
+      "details": [
+        "BSL-2 biological testing",
+        "Room-scale bioaerosol testing",
+        "Chemical and physical decontamination evaluation",
+        "Chemical and biological defense, decontamination, agent persistence, and sensitive-equipment survivability work"
+      ],
+      "source": "https://www.metss.com/our-work"
+    },
+    {
+      "category": "Domestic industrial base and critical chemicals",
+      "details": [
+        "Current public contract FA8650-24-2-5555 under the DPA Title III Critical Chemicals Production program",
+        "Prior public work involving critical supply-chain production of energetic materials and associated precursors"
+      ],
+      "source": "https://www.metss.com/contracts"
+    }
+  ],
+  "facilities": [
+    "Owner-occupied headquarters with office, laboratory, analytical, warehouse, product-development, testing, pilot-scale, and light-manufacturing space",
+    "BSL-2 facility",
+    "Room-scale bioaerosol test chamber",
+    "Mechanical, physical, environmental, and advanced analytical testing capabilities"
+  ],
+  "public_past_performance_examples": [
+    "DPA Title III Critical Chemicals Production — FA8650-24-2-5555",
+    "Advanced Lightweight Composite Structures for Ground Vehicle Systems — W56HZV-23-9-F001 (subcontract)",
+    "Compact Sensor for Non-Destructive Propellant Mechanical Property Evaluation — N68335-23-C-0122",
+    "Non-PFAS Elastomeric Chemical Barrier Materials — W911QY-23-P-0038",
+    "Improved Towed Array Acoustic Hose — N68335-22-C-0633",
+    "Critical Supply Chain Production of Energetic Materials and Associated Precursors — SP4701-22-P-0054",
+    "Lubricating Oil Study — SP4701-22-C-0079",
+    "Vapor Purge and Chemical Agent Persistence in Aircraft — FA8650-22-F-6302",
+    "Aircraft and Sensitive Equipment CBRN Survivability Capability Development and Transition — FA8650-22-D-6295"
+  ],
+  "public_compliance_statements": [
+    "METSS states that it complies with DFARS 252.204-7012 and NIST SP 800-171 requirements. This is not proof of a facility clearance, personnel clearance, CMMC status, or eligibility for any specific opportunity."
+  ],
+  "strategic_priorities": [
+    "DPA Title III and domestic critical-chemical production",
+    "Defense industrial-base resilience and domestic manufacturing",
+    "Advanced materials and polymers",
+    "Functional fluids and specialty chemistry",
+    "CBRN, decontamination, and chemical/biological survivability",
+    "Materials testing, compatibility, validation, and harsh-environment performance",
+    "Applied R&D with a credible scale-up or transition path"
+  ],
+  "unknowns_requiring_human_verification": [
+    "Current SAM.gov registration and representations",
+    "Current small-business, socioeconomic, and ownership status",
+    "Approved NAICS codes and size-standard status",
+    "Facility clearance and personnel clearances",
+    "CMMC certification or assessment status",
+    "Export-control registrations and restrictions",
+    "Available personnel, equipment capacity, schedule, and proposal budget",
+    "Approved indirect rates, cost-sharing capacity, and financial eligibility",
+    "Whether METSS wants to prime, subcontract, or decline a specific opportunity"
+  ],
+  "prohibited_assumptions": [
+    "Do not infer eligibility from technical relevance.",
+    "Do not infer a clearance, certification, registration, ownership status, or available resource unless explicitly documented.",
+    "Do not treat a broad BAA closing date as proof that a current topic is accepting submissions.",
+    "Do not recommend pursuing an opportunity when a mandatory requirement is unmet and cannot reasonably be closed by a partner.",
+    "Do not use METSS-affiliated companies or other METSS businesses as evidence for METSS Corporation."
+  ]
+}

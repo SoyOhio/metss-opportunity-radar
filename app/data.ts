@@ -1,3 +1,5 @@
+import generatedGrants from "./generated/grants.json";
+
 export type Opportunity = {
   id: string;
   title: string;
@@ -22,6 +24,9 @@ export type Opportunity = {
   verification: string;
   partnerIds: string[];
   live?: boolean;
+  sourceUpdatedAt?: string;
+  sourceHash?: string;
+  analysis?: Record<string, unknown>;
 };
 
 export type Vehicle = {
@@ -62,7 +67,7 @@ export const capabilityCategories = [
   "Critical chemicals",
 ];
 
-export const opportunities: Opportunity[] = [
+const curatedOpportunities: Opportunity[] = [
   {
     id: "nrl-f3",
     title: "F3 / AFFF alternative compatibility with shipboard nozzles",
@@ -256,6 +261,10 @@ export const opportunities: Opportunity[] = [
     partnerIds: ["osu", "faraday", "tda-research"],
   },
 ];
+
+const generatedOpportunities = (generatedGrants as unknown as { opportunities: Opportunity[] }).opportunities;
+
+export const opportunities: Opportunity[] = [...generatedOpportunities, ...curatedOpportunities];
 
 export const vehicles: Vehicle[] = [
   {
