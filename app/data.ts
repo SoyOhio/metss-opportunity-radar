@@ -67,7 +67,10 @@ export const capabilityCategories = [
   "Critical chemicals",
 ];
 
-const curatedOpportunities: Opportunity[] = [
+// Retained as an internal research archive only. These records are intentionally
+// excluded from the displayed pipeline because they were not produced by the
+// Grants.gov API monitor.
+export const unmonitoredReferenceOpportunities: Opportunity[] = [
   {
     id: "nrl-f3",
     title: "F3 / AFFF alternative compatibility with shipboard nozzles",
@@ -264,7 +267,9 @@ const curatedOpportunities: Opportunity[] = [
 
 const generatedOpportunities = (generatedGrants as unknown as { opportunities: Opportunity[] }).opportunities;
 
-export const opportunities: Opportunity[] = [...generatedOpportunities, ...curatedOpportunities];
+// The displayed opportunity pipeline is source-pure: every record here came
+// from the scheduled Grants.gov API monitor and its evidence-backed AI review.
+export const opportunities: Opportunity[] = generatedOpportunities;
 
 export const vehicles: Vehicle[] = [
   {
