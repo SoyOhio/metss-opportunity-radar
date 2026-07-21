@@ -348,6 +348,7 @@ export async function runGrantsSync(options) {
 
   try {
     const store = await readJson(recordsPath, { schemaVersion: 1, source: "Grants.gov", updatedAt: null, records: [] });
+    const previousInventory = await readJson(inventoryPath, { updatedAt: null, hitCount: 0, records: [] });
     const previousById = new Map((store.records || []).map((record) => [String(record.grantsGovId), record]));
     const search = await searchCurrent({ statuses, rows, maxRecords, keyword, errors: attempt.errors });
     attempt.pagination = {
@@ -438,14 +439,27 @@ export async function runGrantsSync(options) {
       recordCount: records.length,
       records,
     });
+    const inventoryRows = search.hits.map((item) => ({
+      id: String(item.id), number: item.number ?? null, title: item.title ?? null,
+      status: item.oppStatus ?? null, openDate: item.openDate ?? null,
+      closeDate: item.closeDate ?? null, hash: sha256(item),
+    }));
+    const statusScope = String(statuses).split("|").filter(Boolean).sort().join("|");
+    const replacesCompleteInventory = maxRecords === 0 && !keyword && search.pagesFailed === 0 && statusScope === "forecasted|posted";
+    let nextInventoryRows = inventoryRows;
+    let nextInventoryUpdatedAt = attempt.completedAt;
+    let nextInventoryHitCount = search.totalAvailable;
+    if (!replacesCompleteInventory) {
+      const inventoryById = new Map((previousInventory.records || []).map((record) => [String(record.id), record]));
+      for (const row of inventoryRows) inventoryById.set(row.id, row);
+      nextInventoryRows = [...inventoryById.values()].sort((a, b) => String(a.id).localeCompare(String(b.id), undefined, { numeric: true }));
+      nextInventoryUpdatedAt = previousInventory.updatedAt || attempt.completedAt;
+      nextInventoryHitCount = Number(previousInventory.hitCount || nextInventoryRows.length);
+    }
     await writeJsonAtomic(inventoryPath, {
-      updatedAt: attempt.completedAt,
-      hitCount: search.totalAvailable,
-      records: search.hits.map((item) => ({
-        id: String(item.id), number: item.number ?? null, title: item.title ?? null,
-        status: item.oppStatus ?? null, openDate: item.openDate ?? null,
-        closeDate: item.closeDate ?? null, hash: sha256(item),
-      })),
+      updatedAt: nextInventoryUpdatedAt,
+      hitCount: nextInventoryHitCount,
+      records: nextInventoryRows,
     });
 
     history.attempts[0] = attempt;
