@@ -148,6 +148,28 @@ function chunks(items, size) {
   return result;
 }
 
+function wait(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function withRetry(fn, { attempts = 4, label = "operation" } = {}) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      return await fn();
+    } catch (error) {
+      lastError = error;
+      const message = String(error?.message || error);
+      const permanentHttpError = /returned (400|401|403|404):/i.test(message);
+      if (permanentHttpError || attempt === attempts) break;
+      const delayMs = 5_000 * (2 ** (attempt - 1));
+      console.warn(`${label} failed on attempt ${attempt}/${attempts}: ${message.slice(0, 500)}. Retrying in ${Math.round(delayMs / 1000)}s.`);
+      await wait(delayMs);
+    }
+  }
+  throw lastError;
+}
+
 async function readJson(file, fallback) {
   try { return JSON.parse(await readFile(file, "utf8")); }
   catch { return fallback; }
@@ -458,13 +480,33 @@ ${JSON.stringify(profile)}
 
 OFFICIAL RECORD BATCH
 ${JSON.stringify(officials.map(triageView))}`;
-  const result = await openaiStructured({ model: TRIAGE_MODEL, prompt, schema: TRIAGE_SCHEMA, name: "metss_grants_triage" });
-  const expected = new Set(officials.map((item) => String(item.opportunityId)));
-  const received = new Set(result.decisions.map((item) => item.opportunity_id));
-  if (expected.size !== received.size || [...expected].some((id) => !received.has(id))) {
-    throw new Error(`Triage batch returned ${received.size} of ${expected.size} opportunity decisions.`);
-  }
-  return result.decisions;
+  const batchLabel = `Triage batch ${officials[0]?.opportunityNumber || officials[0]?.opportunityId || "unknown"}`;
+  return withRetry(async () => {
+    const result = await openaiStructured({ model: TRIAGE_MODEL, prompt, schema: TRIAGE_SCHEMA, name: "metss_grants_triage" });
+    const expected = new Set(officials.map((item) => String(item.opportunityId)));
+    const received = new Set(result.decisions.map((item) => item.opportunity_id));
+    if (expected.size !== received.size || [...expected].some((id) => !received.has(id))) {
+      throw new Error(`Triage batch returned ${received.size} of ${expected.size} opportunity decisions.`);
+    }
+    return result.decisions;
+  }, { attempts: 4, label: batchLabel });
+}
+
+async function saveTriageCheckpoint(officials, triageById, cacheById) {
+  const records = officials.map((official) => {
+    const id = String(official.opportunityId);
+    const sourceHash = hash(official);
+    const cached = cacheById.get(id);
+    const sameSource = cached?.sourceHash === sourceHash;
+    return {
+      ...(sameSource ? cached : {}),
+      id,
+      sourceHash,
+      lastUpdatedDate: official.lastUpdatedDate,
+      ...(triageById.has(id) ? { triage: triageById.get(id) } : {})
+    };
+  });
+  await writeFile(CACHE_PATH, `${JSON.stringify({ updatedAt: new Date().toISOString(), checkpoint: "triage", records }, null, 2)}\n`);
 }
 
 async function resolveOfficialDocument(file) {
@@ -754,9 +796,13 @@ async function main() {
   }
   console.log(`Triage: ${triageById.size} unchanged cached records; ${needsTriage.length} new or modified records.`);
   const triageGroups = chunks(needsTriage, TRIAGE_BATCH_SIZE);
-  const triaged = await mapWithConcurrency(triageGroups, 3, (group) => triageBatch(profile, group));
-  if (triaged.errors.length) throw new Error(`Exhaustive triage incomplete: ${triaged.errors.length} batch(es) failed.`);
+  const triaged = await mapWithConcurrency(triageGroups, 2, (group) => triageBatch(profile, group));
   for (const decision of triaged.results.flat()) triageById.set(decision.opportunity_id, decision);
+  if (triaged.errors.length) {
+    for (const failure of triaged.errors) console.error(`Triage batch failed after retries: ${failure.error}`);
+    await saveTriageCheckpoint(officials, triageById, cacheById);
+    throw new Error(`Exhaustive triage incomplete: ${triaged.errors.length} batch(es) failed after automatic retries. Successful batches were checkpointed for the next run.`);
+  }
   if (triageById.size !== officials.length) throw new Error(`Exhaustive triage incomplete: ${triageById.size} of ${officials.length} records screened.`);
 
   const deepCandidates = officials.filter((official) => {
