@@ -254,7 +254,11 @@ async function mapWithConcurrency(items, limit, worker) {
 
 async function fetchDetail(id) {
   const payload = await postJson(`${GRANTS_API}/fetchOpportunity`, { opportunityId: Number(id) });
-  if (!payload?.data?.id) throw new Error("The detail response did not contain an opportunity record.");
+  if (!payload?.data?.id) {
+    const error = new Error("The detail response did not contain an opportunity record.");
+    error.code = "GRANTS_RECORD_UNAVAILABLE";
+    throw error;
+  }
   return payload.data;
 }
 
@@ -411,7 +415,39 @@ export async function runGrantsSync(options) {
       attempt.counts.removedFromActive = missingActive.length;
       const reconciled = await mapWithConcurrency(missingActive, concurrency, async (previous) => {
         try {
-          const detail = await fetchDetail(previous.grantsGovId);
+          let detail;
+          try {
+            detail = await fetchDetail(previous.grantsGovId);
+          } catch (error) {
+            if (error?.code !== "GRANTS_RECORD_UNAVAILABLE") throw error;
+            // A record can disappear from the current search before Grants.gov
+            // exposes a replacement lifecycle status. Retry once to avoid
+            // classifying a transient empty response. If it remains absent,
+            // retain the last official snapshot and mark it unavailable rather
+            // than leaving a stale posted/forecasted status in the source store.
+            await wait(1_000);
+            try {
+              detail = await fetchDetail(previous.grantsGovId);
+            } catch (retryError) {
+              if (retryError?.code !== "GRANTS_RECORD_UNAVAILABLE") throw retryError;
+              detail = previous.rawSource?.opportunity || {
+                id: Number(previous.grantsGovId),
+                opportunityNumber: previous.opportunityNumber,
+                opportunityTitle: previous.title,
+              };
+              return {
+                previous,
+                detail,
+                syntheticHit: {
+                  ...(previous.rawSource?.searchHit || {}),
+                  id: previous.grantsGovId,
+                  number: previous.opportunityNumber,
+                  title: previous.title,
+                  oppStatus: "unavailable",
+                },
+              };
+            }
+          }
           const detailStatus = normalizeStatus(detail?.ost ?? detail?.opportunityStatus);
           const effectiveStatus = ["posted", "forecasted"].includes(detailStatus) ? "unavailable" : detailStatus;
           const syntheticHit = {
