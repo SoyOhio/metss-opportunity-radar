@@ -2,42 +2,90 @@
   "source": "Grants.gov public API",
   "lastSuccessfulCheckAt": "2026-07-21T20:23:03.299Z",
   "lastAttempt": {
-    "id": "grants-2026-07-21T20:23:01.786Z-83f8a9ed",
-    "status": "success",
-    "startedAt": "2026-07-21T20:23:01.786Z",
-    "completedAt": "2026-07-21T20:23:03.299Z",
-    "durationSeconds": 2,
+    "id": "grants-2026-07-21T20:27:13.514Z-ff44250f",
+    "status": "partial",
+    "startedAt": "2026-07-21T20:27:13.514Z",
+    "completedAt": "2026-07-21T20:28:13.969Z",
+    "durationSeconds": 60,
     "scope": {
       "statuses": "forecasted|posted",
       "keyword": null,
-      "maxRecords": 12,
+      "maxRecords": null,
       "pageSize": 100
     },
     "counts": {
-      "fetched": 12,
-      "created": 0,
-      "updated": 0,
-      "unchanged": 12,
-      "removedFromActive": 0,
+      "fetched": 1752,
+      "created": 1,
+      "updated": 2,
+      "unchanged": 1749,
+      "removedFromActive": 1,
       "archivedOrClosed": 0,
-      "failed": 0
+      "failed": 1
     },
     "pagination": {
       "totalAvailable": 1752,
-      "target": 12,
-      "uniqueResults": 12,
-      "pagesRequested": 1,
-      "pagesSucceeded": 1,
+      "target": 1752,
+      "uniqueResults": 1752,
+      "pagesRequested": 18,
+      "pagesSucceeded": 18,
       "pagesFailed": 0
     },
     "integrity": {
-      "storedRecords": 1752,
+      "storedRecords": 1753,
       "duplicateIds": 0,
       "duplicateOpportunityNumbers": 0
     },
-    "errors": []
+    "errors": [
+      {
+        "stage": "status-reconciliation",
+        "record": "362634",
+        "message": "The detail response did not contain an opportunity record."
+      }
+    ]
   },
   "recentAttempts": [
+    {
+      "id": "grants-2026-07-21T20:27:13.514Z-ff44250f",
+      "status": "partial",
+      "startedAt": "2026-07-21T20:27:13.514Z",
+      "completedAt": "2026-07-21T20:28:13.969Z",
+      "durationSeconds": 60,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1752,
+        "created": 1,
+        "updated": 2,
+        "unchanged": 1749,
+        "removedFromActive": 1,
+        "archivedOrClosed": 0,
+        "failed": 1
+      },
+      "pagination": {
+        "totalAvailable": 1752,
+        "target": 1752,
+        "uniqueResults": 1752,
+        "pagesRequested": 18,
+        "pagesSucceeded": 18,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 1753,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 0
+      },
+      "errors": [
+        {
+          "stage": "status-reconciliation",
+          "record": "362634",
+          "message": "The detail response did not contain an opportunity record."
+        }
+      ]
+    },
     {
       "id": "grants-2026-07-21T20:23:01.786Z-83f8a9ed",
       "status": "success",
