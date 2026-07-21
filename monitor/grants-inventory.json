@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T15:20:27.683Z",
+  "updatedAt": "2026-07-21T15:47:32.053Z",
   "hitCount": 1752,
   "records": [
     {
@@ -579,15 +579,6 @@
       "hash": "61cd40163eaebbc6aaa8c18ff6ab413b99667022e8f52e18f240a55d83961138"
     },
     {
-      "id": "359022",
-      "number": "FOR-NR-25-003",
-      "title": "NINR Mentoring Resources and Activities",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "77102b2a14c38c0f40ac889cc0aa14b8b79d0338d277b1a4247be7bd49d74170"
-    },
-    {
       "id": "359169",
       "number": "NOT-RM-25-019",
       "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination, Integration and Organizational Center (U24 or UM1)",
@@ -820,15 +811,6 @@
       "openDate": "11/15/2024",
       "closeDate": "05/04/2028",
       "hash": "0d5775ebc25deef9736124134e8cdf0466da18dc75af25ccb0fb466a74251e8d"
-    },
-    {
-      "id": "358932",
-      "number": "FOR-NR-25-007",
-      "title": "Strategies to Improve Health Outcomes and Reduce Health Disparities in Rural Populations (R01 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "05/13/2025",
-      "closeDate": "",
-      "hash": "98b9d833f270ec4a6480476b1ec2eac367b16077dd770e8e8505120e949c8d4f"
     },
     {
       "id": "358854",
@@ -13539,15 +13521,6 @@
       "hash": "f3515e8e417580bfcf5d0264fcd7e6098e722ac6eda7b9de4f257404c4f1173a"
     },
     {
-      "id": "362929",
-      "number": "DFOP0018810",
-      "title": "Advancing Civilian Nuclear Power in T&uuml;rkiye",
-      "status": "posted",
-      "openDate": "06/23/2026",
-      "closeDate": "07/23/2026",
-      "hash": "14ffb9c961d859eacdbd756b117c7f1febb0bad27f254657286f52322af35ca9"
-    },
-    {
       "id": "363067",
       "number": "NNH26ZTR001N-26ESI-B7",
       "title": "EARLY STAGE INNOVATIONS FOR IN SITU RESOURCE UTILIZATION (ESI26-ISRU)",
@@ -15769,6 +15742,33 @@
       "openDate": "07/11/2025",
       "closeDate": "11/12/2026",
       "hash": "6fe97004de9e8dde10266e5870ef8fccb7719115dfd80bd3915747fe479d80fb"
+    },
+    {
+      "id": "359022",
+      "number": "FOR-NR-25-003",
+      "title": "NINR Mentoring Resources and Activities",
+      "status": "forecasted",
+      "openDate": "05/28/2025",
+      "closeDate": "",
+      "hash": "77102b2a14c38c0f40ac889cc0aa14b8b79d0338d277b1a4247be7bd49d74170"
+    },
+    {
+      "id": "358932",
+      "number": "FOR-NR-25-007",
+      "title": "Strategies to Improve Health Outcomes and Reduce Health Disparities in Rural Populations (R01 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "05/13/2025",
+      "closeDate": "",
+      "hash": "98b9d833f270ec4a6480476b1ec2eac367b16077dd770e8e8505120e949c8d4f"
+    },
+    {
+      "id": "363262",
+      "number": "DFOP0018810",
+      "title": "Advancing Civilian Nuclear Power in T&uuml;rkiye",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "07/23/2026",
+      "hash": "13bb8e4910fb0ab2c95aab0473f3ccb1d0abf4fd1b43478e40712eafbf6687f1"
     }
   ]
 }
