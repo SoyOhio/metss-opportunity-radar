@@ -35,7 +35,12 @@ jobs:
           OPENAI_TRIAGE_MODEL: gpt-5.6-luna
           OPENAI_MODEL: gpt-5.6-terra
           TRIAGE_BATCH_SIZE: "25"
-          MAX_DEEP_REVIEWS: "20"
+          DEEP_REVIEW_BATCH_SIZE: "20"
+          MAX_ESTIMATED_RUN_SPEND_USD: "4.50"
+          TRIAGE_INPUT_USD_PER_MILLION: "1"
+          TRIAGE_OUTPUT_USD_PER_MILLION: "6"
+          REVIEW_INPUT_USD_PER_MILLION: "2.5"
+          REVIEW_OUTPUT_USD_PER_MILLION: "15"
         run: node scripts/scan-grants-exhaustive.mjs
 
       - name: Publish changed intelligence
