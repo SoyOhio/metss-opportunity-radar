@@ -1,0 +1,49 @@
+name: Monitor Grants.gov
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 11 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: grants-monitor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Search, retrieve, and evaluate Grants.gov opportunities
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.6-terra
+          MAX_AI_EVALUATIONS: "5"
+        run: node scripts/scan-grants.mjs
+
+      - name: Publish changed intelligence
+        run: |
+          if git diff --quiet -- app/generated/grants.json; then
+            echo "No opportunity intelligence changed."
+            exit 0
+          fi
+          git config user.name "METSS Opportunity Monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add app/generated/grants.json
+          git commit -m "Update Grants.gov opportunity intelligence"
+          git push
