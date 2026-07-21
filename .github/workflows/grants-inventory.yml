@@ -20,7 +20,10 @@ on:
         required: false
         default: ""
   schedule:
+    # Production schedule: every day at 10:23 UTC.
     - cron: "23 10 * * *"
+    # Temporary Phase A.1 unattended-run verification; remove after evidence is captured.
+    - cron: "5 20 * * *"
 
 permissions:
   contents: write
@@ -35,10 +38,10 @@ jobs:
     timeout-minutes: 120
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
@@ -48,10 +51,12 @@ jobs:
 
       - name: Synchronize Grants.gov opportunities without AI
         env:
-          GRANTS_SYNC_MAX_RECORDS: ${{ inputs.max_records || '' }}
-          GRANTS_SYNC_PAGE_SIZE: ${{ inputs.page_size || '100' }}
-          GRANTS_SYNC_STATUSES: ${{ inputs.statuses || 'forecasted|posted' }}
-          GRANTS_SYNC_KEYWORD: ${{ inputs.keyword || '' }}
+          # Scheduled events have no inputs, so they always run the complete
+          # unbounded posted/forecasted population with 100 results per page.
+          GRANTS_SYNC_MAX_RECORDS: ${{ github.event_name == 'workflow_dispatch' && inputs.max_records || '' }}
+          GRANTS_SYNC_PAGE_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.page_size || '100' }}
+          GRANTS_SYNC_STATUSES: ${{ github.event_name == 'workflow_dispatch' && inputs.statuses || 'forecasted|posted' }}
+          GRANTS_SYNC_KEYWORD: ${{ github.event_name == 'workflow_dispatch' && inputs.keyword || '' }}
         run: node scripts/inventory-grants.mjs
 
       - name: Save inventory changes
