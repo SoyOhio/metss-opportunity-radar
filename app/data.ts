@@ -7,7 +7,7 @@ export type Opportunity = {
   office: string;
   number: string;
   type: string;
-  status: "Open" | "Forecast" | "Rolling" | "Watch" | "Revalidate";
+  status: "Open" | "Forecast" | "Rolling" | "Watch" | "Revalidate" | "Closed";
   due: string;
   dueSort: string;
   fit: number;
@@ -26,7 +26,27 @@ export type Opportunity = {
   live?: boolean;
   sourceUpdatedAt?: string;
   sourceHash?: string;
+  sourceClosedAt?: string;
+  documentReviewComplete?: boolean;
   analysis?: Record<string, unknown>;
+};
+
+export type GrantsAudit = {
+  generatedAt: string | null;
+  currentInventory: number;
+  fullyFetched: number;
+  initiallyScreened: number;
+  plausibleCandidates: number;
+  completeDocumentReviews: number;
+  incompleteDocumentReviews: number;
+  deepReviewBacklog: number;
+  published: number;
+  rejectedAtInitialScreen: number;
+  rejectedAtFinalGate: number;
+  fetchErrors: number;
+  triageErrors: number;
+  expirationGraceDays: number;
+  sourceStatuses: string;
 };
 
 export type Vehicle = {
@@ -265,7 +285,26 @@ export const unmonitoredReferenceOpportunities: Opportunity[] = [
   },
 ];
 
-const generatedOpportunities = (generatedGrants as unknown as { opportunities: Opportunity[] }).opportunities;
+const generatedSnapshot = generatedGrants as unknown as { opportunities?: Opportunity[]; audit?: GrantsAudit };
+const generatedOpportunities = generatedSnapshot.opportunities ?? [];
+
+export const grantsAudit: GrantsAudit = generatedSnapshot.audit ?? {
+  generatedAt: null,
+  currentInventory: 0,
+  fullyFetched: 0,
+  initiallyScreened: 0,
+  plausibleCandidates: 0,
+  completeDocumentReviews: 0,
+  incompleteDocumentReviews: 0,
+  deepReviewBacklog: 0,
+  published: generatedOpportunities.length,
+  rejectedAtInitialScreen: 0,
+  rejectedAtFinalGate: 0,
+  fetchErrors: 0,
+  triageErrors: 0,
+  expirationGraceDays: 20,
+  sourceStatuses: "posted|forecasted",
+};
 
 // The displayed opportunity pipeline is source-pure: every record here came
 // from the scheduled Grants.gov API monitor and its evidence-backed AI review.

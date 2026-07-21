@@ -3,6 +3,7 @@
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import {
   capabilityCategories,
+  grantsAudit,
   opportunities,
   Opportunity,
   partners,
@@ -10,6 +11,16 @@ import {
 
 type Tab = "opportunities" | "partners" | "saved";
 type Sort = "fit" | "deadline";
+
+const SAVED_SNAPSHOTS_KEY = "metss-opportunity-radar-saved-snapshots";
+
+function isPastGracePeriod(item: Opportunity) {
+  if (!item.dueSort || item.dueSort === "9999-12-31") return false;
+  const closeDate = new Date(`${item.dueSort}T23:59:59Z`);
+  if (Number.isNaN(closeDate.valueOf())) return false;
+  closeDate.setUTCDate(closeDate.getUTCDate() + 20);
+  return closeDate < new Date();
+}
 
 function escapeCsv(value: string | number | boolean) {
   return `"${String(value).replaceAll('"', '""')}"`;
@@ -23,11 +34,8 @@ export default function Home() {
   const [capability, setCapability] = useState("All capabilities");
   const [instrument, setInstrument] = useState("All instruments");
   const [sort, setSort] = useState<Sort>("fit");
-  const [liveResults, setLiveResults] = useState<Opportunity[]>([]);
-  const [liveHitCount, setLiveHitCount] = useState(0);
-  const [loading, setLoading] = useState(false);
-  const [liveError, setLiveError] = useState("");
   const [savedIds, setSavedIds] = useState<string[]>([]);
+  const [savedSnapshots, setSavedSnapshots] = useState<Opportunity[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [selectedPartnerOpportunity, setSelectedPartnerOpportunity] = useState(opportunities[0]?.id ?? "");
   const [partnerKind, setPartnerKind] = useState("All partner types");
@@ -38,6 +46,8 @@ export default function Home() {
       try {
         const stored = window.localStorage.getItem("metss-opportunity-radar-saved");
         if (stored) setSavedIds(JSON.parse(stored));
+        const storedSnapshots = window.localStorage.getItem(SAVED_SNAPSHOTS_KEY);
+        if (storedSnapshots) setSavedSnapshots(JSON.parse(storedSnapshots));
       } catch {
         setSavedIds([]);
       } finally {
@@ -50,18 +60,11 @@ export default function Home() {
   useEffect(() => {
     if (storageReady) {
       window.localStorage.setItem("metss-opportunity-radar-saved", JSON.stringify(savedIds));
+      window.localStorage.setItem(SAVED_SNAPSHOTS_KEY, JSON.stringify(savedSnapshots));
     }
-  }, [savedIds, storageReady]);
+  }, [savedIds, savedSnapshots, storageReady]);
 
-  const allOpportunities = useMemo(() => {
-    const seen = new Set<string>();
-    return [...opportunities, ...liveResults].filter((item) => {
-      const key = item.number.toLowerCase();
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
-  }, [liveResults]);
+  const allOpportunities = opportunities;
 
   const filteredOpportunities = useMemo(() => {
     const terms = searchDraft.trim().toLowerCase().split(/\s+/).filter(Boolean);
@@ -88,7 +91,7 @@ export default function Home() {
     return [...list].sort((a, b) => sort === "fit" ? b.fit - a.fit : a.dueSort.localeCompare(b.dueSort));
   }, [allOpportunities, capability, instrument, searchDraft, sort, titleIIIOnly]);
 
-  const selectedOpportunity = allOpportunities.find((item) => item.id === selectedId) ?? null;
+  const selectedOpportunity = [...allOpportunities, ...savedSnapshots].find((item) => item.id === selectedId) ?? null;
   const partnerOpportunity = opportunities.find((item) => item.id === selectedPartnerOpportunity) ?? opportunities[0] ?? null;
 
   const rankedPartners = useMemo(() => {
@@ -109,45 +112,39 @@ export default function Home() {
   }, [partnerKind, partnerOpportunity]);
 
   const priorityPreview = filteredOpportunities.slice(0, 3);
-  const savedOpportunities = allOpportunities.filter((item) => savedIds.includes(item.id));
+  const savedOpportunities = [...new Map([...allOpportunities, ...savedSnapshots].map((item) => [item.id, item])).values()]
+    .filter((item) => savedIds.includes(item.id));
 
   function jumpTo(tab: Tab) {
     setActiveTab(tab);
     window.setTimeout(() => document.getElementById("workspace")?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
   }
 
-  async function runSearch(event?: FormEvent, override?: string) {
+  function runSearch(event?: FormEvent, override?: string) {
     event?.preventDefault();
     const query = (override ?? searchDraft).trim();
     if (override !== undefined) setSearchDraft(override);
     setSubmittedQuery(query);
-    setLiveError("");
-
-    if (!query) {
-      setLiveResults([]);
-      setLiveHitCount(0);
-      return;
-    }
-
-    setLoading(true);
-    try {
-      const response = await fetch(`/api/grants?q=${encodeURIComponent(query)}`);
-      const payload = await response.json();
-      if (!response.ok) throw new Error(payload.error || "Live search failed.");
-      setLiveResults(payload.results ?? []);
-      setLiveHitCount(payload.hitCount ?? 0);
-      setActiveTab("opportunities");
-      window.setTimeout(() => document.getElementById("workspace")?.scrollIntoView({ behavior: "smooth", block: "start" }), 80);
-    } catch (error) {
-      setLiveError(error instanceof Error ? error.message : "Live search is temporarily unavailable.");
-      setLiveResults([]);
-    } finally {
-      setLoading(false);
-    }
+    setActiveTab("opportunities");
+    window.setTimeout(() => document.getElementById("workspace")?.scrollIntoView({ behavior: "smooth", block: "start" }), 80);
   }
 
   function toggleSaved(id: string) {
-    setSavedIds((current) => current.includes(id) ? current.filter((savedId) => savedId !== id) : [...current, id]);
+    if (savedIds.includes(id)) {
+      const item = savedOpportunities.find((candidate) => candidate.id === id);
+      const noLongerActive = !opportunities.some((candidate) => candidate.id === id);
+      if (item && (isPastGracePeriod(item) || noLongerActive)) {
+        const confirmed = window.confirm("This opportunity is closed or no longer exists in the active pipeline. If you unsave it, the saved copy will be permanently removed from this device.\n\nSelect OK to remove it permanently, or Cancel to keep it saved.");
+        if (!confirmed) return;
+      }
+      setSavedIds((current) => current.filter((savedId) => savedId !== id));
+      setSavedSnapshots((current) => current.filter((snapshot) => snapshot.id !== id));
+      return;
+    }
+    const item = allOpportunities.find((candidate) => candidate.id === id);
+    if (!item) return;
+    setSavedIds((current) => [...current, id]);
+    setSavedSnapshots((current) => [...current.filter((snapshot) => snapshot.id !== id), item]);
   }
 
   function openPartnerFinder(opportunity: Opportunity) {
@@ -226,7 +223,7 @@ export default function Home() {
                 Title III focus
               </button>
             </label>
-            <button className="search-button" type="submit" disabled={loading}>{loading ? "Searching…" : "Search live"}</button>
+            <button className="search-button" type="submit">Search screened</button>
           </form>
 
           <div className="search-chips" aria-label="Suggested searches">
@@ -239,7 +236,7 @@ export default function Home() {
           <div className="metrics" aria-label="Opportunity summary">
             <div><span className="metric-icon">↗</span><strong>{opportunities.length}</strong><small>API-connected, AI-screened matches</small></div>
             <div><span className="metric-icon">III</span><strong>{opportunities.filter((item) => item.titleIII).length}</strong><small>Screened Title III matches</small></div>
-            <div><span className="metric-icon">●</span><strong>Live</strong><small>Grants.gov connection</small></div>
+            <div><span className="metric-icon">●</span><strong>{grantsAudit.currentInventory && grantsAudit.currentInventory === grantsAudit.initiallyScreened ? "100%" : "Live"}</strong><small>Current Grants.gov inventory screened</small></div>
           </div>
         </div>
 
@@ -295,8 +292,8 @@ export default function Home() {
       </section>
 
       <div className="coverage-strip">
-        <span><i /> Grants.gov monitoring configured</span>
-        <span>Live Grants.gov search plus scheduled full-record and public-attachment screening against an approved public METSS profile.</span>
+        <span><i /> Weekly exhaustive Grants.gov screening</span>
+        <span>{grantsAudit.currentInventory ? `${grantsAudit.initiallyScreened.toLocaleString()} of ${grantsAudit.currentInventory.toLocaleString()} current records screened · ${grantsAudit.completeDocumentReviews.toLocaleString()} complete document reviews · ${grantsAudit.published.toLocaleString()} published` : "Full inventory, document review, and strict METSS publication gating configured."}</span>
         <button type="button" onClick={() => jumpTo("opportunities")}>View API-screened pipeline →</button>
       </div>
 
@@ -321,17 +318,15 @@ export default function Home() {
               <label>Instrument<select value={instrument} onChange={(event) => setInstrument(event.target.value)}><option>All instruments</option><option>BAA</option><option>SBIR</option><option>Grant</option><option>Other</option></select></label>
               <label>Sort by<select value={sort} onChange={(event) => setSort(event.target.value as Sort)}><option value="fit">Best METSS fit</option><option value="deadline">Nearest deadline</option></select></label>
               <button type="button" className={`filter-title-iii ${titleIIIOnly ? "active" : ""}`} onClick={() => setTitleIIIOnly((value) => !value)}><span className="tiny-radar" />Title III only</button>
-              <div className="source-note"><strong>Displayed source coverage</strong><p>Opportunities: Grants.gov API only</p><p>AI review: scheduled full-record screening</p><p>Not displayed: static listings or SAM.gov contracts</p></div>
+              <div className="source-note"><strong>Displayed source coverage</strong><p>Opportunities: Grants.gov API only</p><p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records</p><p>Initial screening: {grantsAudit.initiallyScreened.toLocaleString()}</p><p>Deep-review backlog: {grantsAudit.deepReviewBacklog.toLocaleString()}</p><p>Not displayed: rejected, incomplete, static, or SAM.gov listings</p></div>
             </aside>
 
             <div className="results-column">
               <div className="results-toolbar">
-                <div><strong>{filteredOpportunities.length} METSS matches</strong><span>{submittedQuery ? ` · ${liveHitCount.toLocaleString()} official grant records found for “${submittedQuery}”` : " · Grants.gov API records with completed AI screening"}</span></div>
+                <div><strong>{filteredOpportunities.length} METSS matches</strong><span>{submittedQuery ? ` · screened results matching “${submittedQuery}”` : " · Grants.gov API records with completed AI screening"}</span></div>
                 <button type="button" onClick={() => exportCsv(filteredOpportunities)}>↓ Export briefing</button>
               </div>
-              {loading && <div className="live-banner loading"><span className="spinner" />Searching the official Grants.gov opportunity feed…</div>}
-              {liveError && <div className="live-banner error">Live source error: {liveError}. Previously monitored Grants.gov results remain available.</div>}
-              {submittedQuery && !loading && !liveError && <div className="live-banner success"><span>●</span> Live search results are preliminary. Records labeled AI-screened have a separate full-record review; all results still require human bid/no-bid validation.</div>}
+              {submittedQuery && <div className="live-banner success"><span>●</span> Search is limited to opportunities that completed the full METSS screening and publication gate.</div>}
               <div className="opportunity-grid">
                 {filteredOpportunities.map((item) => (
                   <article className="opportunity-card" key={item.id}>
@@ -385,7 +380,7 @@ export default function Home() {
         {activeTab === "saved" && (
           <div className="saved-workspace">
             <div className="saved-overview"><div><span>★</span><strong>{savedOpportunities.length}</strong><small>Saved opportunities</small></div><p>Shortlist the items worth discussing, then export a clean briefing for the METSS team.</p><button type="button" onClick={() => exportCsv(savedOpportunities)} disabled={!savedOpportunities.length}>↓ Export saved briefing</button></div>
-            {savedOpportunities.length ? <div className="opportunity-grid">{savedOpportunities.map((item) => <article className="saved-opportunity" key={item.id}><span className="card-score"><strong>{item.fit}</strong><small>fit</small></span><div><span className="section-kicker">{item.agency}</span><h3>{item.title}</h3><p>{item.number} · {item.due}</p><strong>{item.action}</strong></div><div><button type="button" onClick={() => setSelectedId(item.id)}>Open</button><button type="button" onClick={() => toggleSaved(item.id)}>Remove</button></div></article>)}</div> : <div className="empty-state"><span>☆</span><h3>Your shortlist is empty</h3><p>Save the best opportunities from the pipeline and they will stay on this device.</p><button type="button" onClick={() => setActiveTab("opportunities")}>Browse opportunities</button></div>}
+            {savedOpportunities.length ? <div className="opportunity-grid">{savedOpportunities.map((item) => { const archived = isPastGracePeriod(item) || !opportunities.some((candidate) => candidate.id === item.id); return <article className="saved-opportunity" key={item.id}><span className="card-score"><strong>{item.fit}</strong><small>fit</small></span><div><span className="section-kicker">{item.agency}{archived ? " · Closed/Archived" : ""}</span><h3>{item.title}</h3><p>{item.number} · {item.due}</p><strong>{item.action}</strong></div><div><button type="button" onClick={() => setSelectedId(item.id)}>Open</button><button type="button" onClick={() => toggleSaved(item.id)}>Remove</button></div></article>; })}</div> : <div className="empty-state"><span>☆</span><h3>Your shortlist is empty</h3><p>Save the best opportunities from the pipeline and they will stay on this device.</p><button type="button" onClick={() => setActiveTab("opportunities")}>Browse opportunities</button></div>}
           </div>
         )}
       </section>

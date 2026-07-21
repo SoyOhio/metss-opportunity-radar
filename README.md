@@ -1,24 +1,26 @@
 # METSS Opportunity Radar
 
-The site combines a live Grants.gov search with a scheduled, evidence-controlled opportunity monitor.
+The site provides an evidence-controlled Grants.gov opportunity monitor for METSS.
 
 ## Grants.gov monitor
 
-The workflow in `.github/workflows/grants-monitor.yml`:
+The production workflow is staged and exhaustive:
 
-1. Searches Grants.gov posted and forecasted opportunities across approved METSS technical lanes.
-2. Retrieves full records through `fetchOpportunity`.
-3. Applies a deterministic prefilter only to control volume and cost.
-4. Sends the highest-priority new or modified records and up to three public PDF attachments to the OpenAI Responses API.
-5. Requires schema-validated eligibility, role, score, evidence, gap, partner, confidence, and next-action fields.
-6. Publishes AI-screened records to `app/generated/grants.json`, which triggers the normal Vercel deployment.
+1. A free daily inventory paginates through every posted and forecasted Grants.gov record without calling OpenAI.
+2. A weekly screen retrieves every full official record. New and modified records receive low-cost batched AI triage; unchanged decisions come from a source-hash cache.
+3. Every plausible candidate enters a complete public-document review queue. A candidate is never published if a listed file is unsupported, too large, unavailable, or not confirmed as reviewed.
+4. A separate final evaluation compares official evidence with the approved METSS profile. Eligibility, technical relevance, role, confidence, evidence, and minimum scores must all pass deterministic publication rules.
+5. Rejections are cached so they are not repeatedly billed. Up to 20 new deep document packages are processed per weekly run, and the visible audit reports any backlog.
+6. Closed opportunities remain active for a 20-day grace period. Saved browser snapshots remain in the Saved view after source removal until the user confirms permanent removal.
+7. The public search filters only already-qualified records; raw Grants.gov search hits never bypass the publication gate.
 
 Required GitHub Actions repository secret: `OPENAI_API_KEY`.
 
 Default safeguards:
 
-- Five new or modified AI evaluations per run.
-- GPT-5.6 Terra with low reasoning effort and low PDF image detail.
+- GPT-5.6 Luna for high-volume triage and document extraction; GPT-5.6 Terra for final bid/no-bid reasoning.
+- Complete current-inventory coverage is required; a full-record or triage failure aborts publication.
+- Every candidate must have a complete listed-document review.
 - No automatic eligibility assumptions.
 - Unverified facts remain unknown.
 - Human bid/no-bid validation is always required.
