@@ -1,5 +1,5 @@
 {
-  "profile_version": "2026-07-21-public-v1",
+  "profile_version": "2026-07-21-public-v2",
   "scope": "METSS Corporation only",
   "evidence_policy": "Use only the public facts in this profile. Treat every unlisted registration, certification, clearance, personnel, ownership, and availability fact as unknown until METSS approves it.",
   "company": {
@@ -86,13 +86,13 @@
     "METSS states that it complies with DFARS 252.204-7012 and NIST SP 800-171 requirements. This is not proof of a facility clearance, personnel clearance, CMMC status, or eligibility for any specific opportunity."
   ],
   "strategic_priorities": [
-    "DPA Title III and domestic critical-chemical production",
-    "Defense industrial-base resilience and domestic manufacturing",
     "Advanced materials and polymers",
     "Functional fluids and specialty chemistry",
     "CBRN, decontamination, and chemical/biological survivability",
     "Materials testing, compatibility, validation, and harsh-environment performance",
-    "Applied R&D with a credible scale-up or transition path"
+    "Engineering, product development, process development, and manufacturing scale-up",
+    "Applied R&D with a credible scale-up or transition path",
+    "Domestic manufacturing and supply-chain resilience where technically relevant"
   ],
   "unknowns_requiring_human_verification": [
     "Current SAM.gov registration and representations",

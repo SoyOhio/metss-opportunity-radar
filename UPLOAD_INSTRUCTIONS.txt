@@ -1,0 +1,41 @@
+METSS GRANTS.GOV COMPLETION UPDATE
+
+This package updates the existing SoyOhio/metss-opportunity-radar repository.
+It does not contain or overwrite generated opportunity data, scan caches, or inventory files.
+
+WHAT THIS UPDATE DOES
+
+- Evaluates METSS Corporation as a broad applied-research organization.
+- Removes the Title III emphasis from the site and screening rules.
+- Processes plausible Grants.gov candidates automatically in batches until complete.
+- Uses a conservative $4.50 estimated OpenAI-spend ceiling per workflow run.
+- Opens and reviews official linked requirements and attachments.
+- Fails closed: an opportunity is not published when required source material cannot be verified.
+- Publishes a new screening cycle only after its candidate backlog reaches zero.
+- Keeps the weekly Sunday schedule and allows manual runs.
+
+UPLOAD STEPS
+
+1. Open https://github.com/SoyOhio/metss-opportunity-radar
+2. Select Code, then Add file, then Upload files.
+3. Open this extracted METSS_Grants_Gov_Completion_Update folder.
+4. Select everything inside it, including the .github folder, and drag it onto GitHub.
+5. Use the commit message:
+   Complete Grants.gov screening and refocus on METSS
+6. Select Commit directly to the main branch and click Commit changes.
+7. Wait for the correct Vercel project, metss-opportunity-finder, to finish deploying.
+8. In GitHub, open Actions, select Monitor Grants.gov, choose Run workflow on main,
+   and start a NEW run. Do not re-run the old workflow result.
+
+COMPLETION STANDARD
+
+Do not describe a cycle as complete unless the audit reports:
+
+- all current Grants.gov records fetched and triaged;
+- deep-review backlog = 0;
+- fetch errors = 0;
+- triage errors = 0; and
+- every published opportunity has a complete, verified official-document review.
+
+If the $4.50 run ceiling is reached, start the workflow again. Cached decisions are reused,
+so the next run continues the remaining queue instead of paying to repeat completed reviews.

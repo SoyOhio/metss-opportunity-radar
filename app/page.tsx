@@ -30,7 +30,6 @@ export default function Home() {
   const [activeTab, setActiveTab] = useState<Tab>("opportunities");
   const [searchDraft, setSearchDraft] = useState("");
   const [submittedQuery, setSubmittedQuery] = useState("");
-  const [titleIIIOnly, setTitleIIIOnly] = useState(false);
   const [capability, setCapability] = useState("All capabilities");
   const [instrument, setInstrument] = useState("All instruments");
   const [sort, setSort] = useState<Sort>("fit");
@@ -77,19 +76,17 @@ export default function Home() {
         item.type,
         item.role,
         item.summary,
-        item.titleIII ? "title iii critical chemicals domestic industrial base" : "",
         ...item.capabilities,
       ].join(" ").toLowerCase();
       return (
         (!terms.length || terms.every((term) => haystack.includes(term))) &&
-        (!titleIIIOnly || item.titleIII) &&
         (capability === "All capabilities" || item.capabilities.includes(capability)) &&
         (instrument === "All instruments" || item.type.toLowerCase().includes(instrument.toLowerCase()))
       );
     });
 
     return [...list].sort((a, b) => sort === "fit" ? b.fit - a.fit : a.dueSort.localeCompare(b.dueSort));
-  }, [allOpportunities, capability, instrument, searchDraft, sort, titleIIIOnly]);
+  }, [allOpportunities, capability, instrument, searchDraft, sort]);
 
   const selectedOpportunity = [...allOpportunities, ...savedSnapshots].find((item) => item.id === selectedId) ?? null;
   const partnerOpportunity = opportunities.find((item) => item.id === selectedPartnerOpportunity) ?? opportunities[0] ?? null;
@@ -155,7 +152,7 @@ export default function Home() {
   }
 
   function exportCsv(rows: Opportunity[]) {
-    const headers = ["Fit", "Title", "Agency", "Opportunity number", "Type", "Status", "Due", "Title III", "Recommended role", "Next action", "Source"];
+    const headers = ["Fit", "Title", "Agency", "Opportunity number", "Type", "Status", "Due", "Recommended role", "Next action", "Source"];
     const lines = [headers.map(escapeCsv).join(",")];
     for (const item of rows) {
       lines.push([
@@ -166,7 +163,6 @@ export default function Home() {
         item.type,
         item.status,
         item.due,
-        item.titleIII,
         item.role,
         item.action,
         item.sourceUrl,
@@ -201,7 +197,7 @@ export default function Home() {
           <p className="eyebrow">METSS federal opportunity intelligence</p>
           <h1>Find the opportunities METSS can actually win.</h1>
           <p className="hero-description">
-            Monitor official federal grants, review AI-screened solicitations, and rank evidence-backed results against METSS capabilities and its DPA Title III critical-chemicals position.
+            Monitor official federal grants, review complete public solicitation packages, and rank evidence-backed results against the full research, testing, engineering, and scale-up capabilities of METSS Corporation.
           </p>
 
           <form className="search-row" role="search" onSubmit={(event) => runSearch(event)}>
@@ -213,29 +209,20 @@ export default function Home() {
                 onChange={(event) => setSearchDraft(event.target.value)}
                 placeholder="Search Grants.gov opportunities, agencies, technologies…"
               />
-              <button
-                type="button"
-                className={`focus-toggle ${titleIIIOnly ? "is-active" : ""}`}
-                aria-pressed={titleIIIOnly}
-                onClick={() => setTitleIIIOnly((value) => !value)}
-              >
-                <span className="tiny-radar" aria-hidden="true" />
-                Title III focus
-              </button>
             </label>
             <button className="search-button" type="submit">Search screened</button>
           </form>
 
           <div className="search-chips" aria-label="Suggested searches">
             <span>Try:</span>
-            {["critical chemicals", "CBRNE decontamination", "advanced materials", "industrial base"].map((term) => (
+            {["advanced materials", "specialty chemistry", "CBRNE decontamination", "testing and validation"].map((term) => (
               <button type="button" key={term} onClick={() => runSearch(undefined, term)}>{term}</button>
             ))}
           </div>
 
           <div className="metrics" aria-label="Opportunity summary">
             <div><span className="metric-icon">↗</span><strong>{opportunities.length}</strong><small>API-connected, AI-screened matches</small></div>
-            <div><span className="metric-icon">III</span><strong>{opportunities.filter((item) => item.titleIII).length}</strong><small>Screened Title III matches</small></div>
+            <div><span className="metric-icon">✓</span><strong>{grantsAudit.completeDocumentReviews}</strong><small>Complete candidate reviews</small></div>
             <div><span className="metric-icon">●</span><strong>{grantsAudit.currentInventory && grantsAudit.currentInventory === grantsAudit.initiallyScreened ? "100%" : "Live"}</strong><small>Current Grants.gov inventory screened</small></div>
           </div>
         </div>
@@ -253,7 +240,7 @@ export default function Home() {
           <i className="radar-dot dot-two" />
           <i className="radar-dot dot-three" />
           <i className="radar-dot dot-four" />
-          <div className="radar-caption"><strong>Title III signal</strong><span>Domestic capacity · demand · readiness</span></div>
+          <div className="radar-caption"><strong>METSS research fit</strong><span>Science · testing · engineering · scale-up</span></div>
         </div>
       </section>
 
@@ -274,7 +261,6 @@ export default function Home() {
                   <h3>{item.title}</h3>
                   <p>{item.agency} <i>•</i> {item.type} <i>•</i> {item.due}</p>
                 </button>
-                {item.titleIII && <span className="tag title-iii-tag">Title III</span>}
                 <span className="fit-badge">{item.fit}% match</span>
                 <button className={`save-button ${savedIds.includes(item.id) ? "saved" : ""}`} type="button" onClick={() => toggleSaved(item.id)} aria-label={`${savedIds.includes(item.id) ? "Remove" : "Save"} ${item.title}`}>{savedIds.includes(item.id) ? "★" : "☆"}</button>
               </article>
@@ -285,7 +271,7 @@ export default function Home() {
         <aside className="saved-panel">
           <span className="section-kicker">Decision lanes</span>
           <h2>Return to the work that matters</h2>
-          <button className="saved-search-card" type="button" onClick={() => { setTitleIIIOnly(true); jumpTo("opportunities"); }}><span>⌕</span><strong>Title III expansion</strong><small>Critical chemicals · DIBC · DPA</small><b>→</b></button>
+          <button className="saved-search-card" type="button" onClick={() => runSearch(undefined, "research development")}><span>⌕</span><strong>Applied research</strong><small>R&D · engineering · transition</small><b>→</b></button>
           <button className="saved-search-card" type="button" onClick={() => runSearch(undefined, "advanced materials")}><span>⌕</span><strong>Advanced materials</strong><small>BAAs · SBIR · testing</small><b>→</b></button>
           <button className="saved-link" type="button" onClick={() => jumpTo("saved")}>★ {savedIds.length} saved item{savedIds.length === 1 ? "" : "s"}</button>
         </aside>
@@ -293,7 +279,7 @@ export default function Home() {
 
       <div className="coverage-strip">
         <span><i /> Weekly exhaustive Grants.gov screening</span>
-        <span>{grantsAudit.currentInventory ? `${grantsAudit.initiallyScreened.toLocaleString()} of ${grantsAudit.currentInventory.toLocaleString()} current records screened · ${grantsAudit.completeDocumentReviews.toLocaleString()} complete document reviews · ${grantsAudit.published.toLocaleString()} published` : "Full inventory, document review, and strict METSS publication gating configured."}</span>
+        <span>{grantsAudit.currentInventory ? `${grantsAudit.initiallyScreened.toLocaleString()} of ${grantsAudit.currentInventory.toLocaleString()} current records screened · ${grantsAudit.completeDocumentReviews.toLocaleString()} complete document reviews · ${grantsAudit.deepReviewBacklog.toLocaleString()} awaiting deep review · ${grantsAudit.published.toLocaleString()} published` : "Full inventory, document review, and strict METSS publication gating configured."}</span>
         <button type="button" onClick={() => jumpTo("opportunities")}>View API-screened pipeline →</button>
       </div>
 
@@ -313,12 +299,11 @@ export default function Home() {
         {activeTab === "opportunities" && (
           <div className="opportunity-workspace">
             <aside className="filter-panel">
-              <div className="filter-title"><strong>Filters</strong><button type="button" onClick={() => { setCapability("All capabilities"); setInstrument("All instruments"); setTitleIIIOnly(false); }}>Reset</button></div>
+              <div className="filter-title"><strong>Filters</strong><button type="button" onClick={() => { setCapability("All capabilities"); setInstrument("All instruments"); }}>Reset</button></div>
               <label>Capability<select value={capability} onChange={(event) => setCapability(event.target.value)}><option>All capabilities</option>{capabilityCategories.map((item) => <option key={item}>{item}</option>)}</select></label>
               <label>Instrument<select value={instrument} onChange={(event) => setInstrument(event.target.value)}><option>All instruments</option><option>BAA</option><option>SBIR</option><option>Grant</option><option>Other</option></select></label>
               <label>Sort by<select value={sort} onChange={(event) => setSort(event.target.value as Sort)}><option value="fit">Best METSS fit</option><option value="deadline">Nearest deadline</option></select></label>
-              <button type="button" className={`filter-title-iii ${titleIIIOnly ? "active" : ""}`} onClick={() => setTitleIIIOnly((value) => !value)}><span className="tiny-radar" />Title III only</button>
-              <div className="source-note"><strong>Displayed source coverage</strong><p>Opportunities: Grants.gov API only</p><p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records</p><p>Initial screening: {grantsAudit.initiallyScreened.toLocaleString()}</p><p>Deep-review backlog: {grantsAudit.deepReviewBacklog.toLocaleString()}</p><p>Not displayed: rejected, incomplete, static, or SAM.gov listings</p></div>
+              <div className="source-note"><strong>Displayed source coverage</strong><p>Opportunities: Grants.gov API only</p><p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records</p><p>Initial screening: {grantsAudit.initiallyScreened.toLocaleString()}</p><p>Deep-review backlog: {grantsAudit.deepReviewBacklog.toLocaleString()}</p><p>Incomplete document packages: {grantsAudit.incompleteDocumentReviews.toLocaleString()}</p><p>Official linked requirements: fail closed</p><p>Not displayed: rejected, incomplete, static, or SAM.gov listings</p></div>
             </aside>
 
             <div className="results-column">
@@ -336,7 +321,7 @@ export default function Home() {
                       <h3>{item.title}</h3>
                       <p className="opportunity-number">{item.number} · {item.type}</p>
                       <p className="card-summary">{item.summary}</p>
-                      <div className="capability-tags">{item.titleIII && <span className="title-iii-tag">Title III</span>}{item.capabilities.slice(0, 3).map((tag) => <span key={tag}>{tag}</span>)}</div>
+                      <div className="capability-tags">{item.capabilities.slice(0, 3).map((tag) => <span key={tag}>{tag}</span>)}</div>
                       <div className="card-footer"><span><small>Deadline</small>{item.due}</span><span><small>Best role</small>{item.role}</span><span><small>Value</small>{item.value}</span></div>
                     </div>
                     <div className="card-actions"><button type="button" onClick={() => setSelectedId(item.id)}>Open analysis</button><button type="button" className={savedIds.includes(item.id) ? "saved" : ""} onClick={() => toggleSaved(item.id)} aria-label={`${savedIds.includes(item.id) ? "Remove" : "Save"} ${item.title}`}>{savedIds.includes(item.id) ? "★" : "☆"}</button></div>
@@ -391,7 +376,7 @@ export default function Home() {
         <div className="drawer-backdrop" role="presentation" onMouseDown={(event) => { if (event.currentTarget === event.target) setSelectedId(null); }}>
           <aside className="detail-drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title">
             <button className="drawer-close" type="button" onClick={() => setSelectedId(null)} aria-label="Close opportunity analysis">×</button>
-            <div className="drawer-score"><span><strong>{selectedOpportunity.fit}</strong><small>METSS fit</small></span><div>{selectedOpportunity.titleIII && <b>Title III lane</b>}<em>{selectedOpportunity.status}</em></div></div>
+            <div className="drawer-score"><span><strong>{selectedOpportunity.fit}</strong><small>METSS fit</small></span><div><em>{selectedOpportunity.status}</em></div></div>
             <p className="eyebrow">{selectedOpportunity.agency} · {selectedOpportunity.office}</p>
             <h2 id="drawer-title">{selectedOpportunity.title}</h2>
             <p className="drawer-number">{selectedOpportunity.number} · {selectedOpportunity.type}</p>

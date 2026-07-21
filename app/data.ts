@@ -11,7 +11,7 @@ export type Opportunity = {
   due: string;
   dueSort: string;
   fit: number;
-  titleIII: boolean;
+  titleIII?: boolean;
   value: string;
   role: string;
   capabilities: string[];
@@ -45,6 +45,11 @@ export type GrantsAudit = {
   rejectedAtFinalGate: number;
   fetchErrors: number;
   triageErrors: number;
+  screeningCycleComplete?: boolean;
+  budgetStopped?: boolean;
+  estimatedOpenAISpendUsd?: number;
+  maxEstimatedRunSpendUsd?: number;
+  reviewRulesVersion?: string;
   expirationGraceDays: number;
   sourceStatuses: string;
 };
