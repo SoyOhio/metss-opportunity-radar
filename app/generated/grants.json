@@ -1,5 +1,575 @@
 {
-  "generatedAt": null,
-  "source": "Grants.gov",
-  "opportunities": []
+  "generatedAt": "2026-07-21T14:40:40.080Z",
+  "source": "Grants.gov search2 + fetchOpportunity + public attachments",
+  "model": "gpt-5.6-terra",
+  "opportunities": [
+    {
+      "id": "ai-grants-39841",
+      "title": "Joint Center of Excellence for Advanced Materials Research",
+      "agency": "FAA-COE-JAMS",
+      "office": "AI-screened Grants.gov record",
+      "number": "FAA-COE-JAMS",
+      "type": "Cooperative Agreement / Grant",
+      "status": "Open",
+      "due": "No close date listed",
+      "dueSort": "9999-12-31",
+      "fit": 45,
+      "titleIII": false,
+      "value": "$20,000,000",
+      "role": "Research partner",
+      "capabilities": [
+        "Advanced materials",
+        "Testing / validation"
+      ],
+      "summary": "This is technically relevant to METSS advanced materials and testing capabilities, especially composite/adhesive durability and environmental-performance research. It is not a direct METSS prime opportunity based on the stated eligibility restriction to COE member universities. Recommend partner-oriented investigation only after confirming that an active, open project call exists and that an eligible university can include METSS under acceptable cost-share and teaming terms.",
+      "why": "The opportunity addresses research and engineering related to composites and advanced materials in commercial aircraft, including bonded-joint durability, environmental aging, additive manufacturing, crashworthiness, lightning effects, new material systems, and maintenance/inspection.: These areas align with METSS public capabilities in polymers, composite resins, coatings, adhesives, harsh-environment materials, and materials-performance testing. (Official Grants.gov record — synopsis) METSS has public advanced-materials capability relevant to composite and adhesive-material research.: The profile lists polymers, rubbers, composite resins, coatings, adhesives, specialty resins, and materials for harsh environments. (Approved METSS public profile — Advanced materials) METSS has public testing and validation capabilities relevant to durability, environmental exposure, performance, and materials compatibility work.: The profile lists chemical, physical, mechanical, environmental, performance, and materials-compatibility testing, plus analytical and environmental testing capabilities. (Approved METSS public profile — Testing and validation; facilities)",
+      "action": "Contact the FAA COE/JAMS point of contact or the COE university leads to confirm whether an active project-specific call is open, identify the applicable topic deadline, and verify whether a non-member company may participate as a subcontractor or research partner. Do not allocate proposal resources until those points and cost-share terms are confirmed.",
+      "eligibility": "CONDITIONAL: The official record limits applicants to member universities of the Joint Center of Excellence. METSS Corporation is described in the approved profile as an applied R&D company, not a member university. METSS therefore is not shown eligible to apply directly. A role supporting an eligible COE university may be possible, but the record does not establish subcontractor, research-partner, or cost-share rules for METSS. Blocking or unverified requirements: Direct applicant must be a member university of the COE.; Active project-specific submission timing and requirements are not provided in the supplied Grants.gov record.; Any required cost share and METSS's ability or willingness to provide it are unknown.; An eligible COE university partner and its ability to include METSS are not established.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/39841",
+      "sourceLabel": "Grants.gov",
+      "verification": "AI-screened with gpt-5.6-terra; confidence medium. Reviewed: official record only. Not reviewed: none listed. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Nov 01, 2023 11:58:23 AM EDT",
+      "sourceHash": "2cb6078ea1ac35ca82385c67b3ac87676448eaff733be73daffb7f00bbe4643e",
+      "analysis": {
+        "recommendation": "partner",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "The official record limits applicants to member universities of the Joint Center of Excellence. METSS Corporation is described in the approved profile as an applied R&D company, not a member university. METSS therefore is not shown eligible to apply directly. A role supporting an eligible COE university may be possible, but the record does not establish subcontractor, research-partner, or cost-share rules for METSS.",
+          "blocking_requirements": [
+            "Direct applicant must be a member university of the COE.",
+            "Active project-specific submission timing and requirements are not provided in the supplied Grants.gov record.",
+            "Any required cost share and METSS's ability or willingness to provide it are unknown.",
+            "An eligible COE university partner and its ability to include METSS are not established."
+          ]
+        },
+        "recommended_role": "research_partner",
+        "scores": {
+          "technical_relevance": 75,
+          "past_performance_alignment": 45,
+          "execution_readiness": 45,
+          "strategic_relevance": 50,
+          "overall_pursuit_strength": 45
+        },
+        "title_iii_relevance": {
+          "relevant": false,
+          "rationale": "The opportunity concerns FAA commercial-aircraft advanced-materials research, safety, certification support, and technology transfer. Although METSS has DPA Title III and domestic critical-chemicals experience, the official record does not identify a DPA Title III, critical-chemical-production, or domestic industrial-base objective."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Testing / validation"
+        ],
+        "evidence": [
+          {
+            "claim": "The opportunity addresses research and engineering related to composites and advanced materials in commercial aircraft, including bonded-joint durability, environmental aging, additive manufacturing, crashworthiness, lightning effects, new material systems, and maintenance/inspection.",
+            "source": "Official Grants.gov record — synopsis",
+            "support": "These areas align with METSS public capabilities in polymers, composite resins, coatings, adhesives, harsh-environment materials, and materials-performance testing."
+          },
+          {
+            "claim": "METSS has public advanced-materials capability relevant to composite and adhesive-material research.",
+            "source": "Approved METSS public profile — Advanced materials",
+            "support": "The profile lists polymers, rubbers, composite resins, coatings, adhesives, specialty resins, and materials for harsh environments."
+          },
+          {
+            "claim": "METSS has public testing and validation capabilities relevant to durability, environmental exposure, performance, and materials compatibility work.",
+            "source": "Approved METSS public profile — Testing and validation; facilities",
+            "support": "The profile lists chemical, physical, mechanical, environmental, performance, and materials-compatibility testing, plus analytical and environmental testing capabilities."
+          },
+          {
+            "claim": "METSS has some related public past performance in composite structures and material-barrier development.",
+            "source": "Approved METSS public profile — public past performance examples",
+            "support": "Examples include Advanced Lightweight Composite Structures for Ground Vehicle Systems (W56HZV-23-9-F001, subcontract) and Non-PFAS Elastomeric Chemical Barrier Materials (W911QY-23-P-0038)."
+          },
+          {
+            "claim": "Eligibility is restricted to COE member universities.",
+            "source": "Official Grants.gov record — Additional Eligibility",
+            "support": "The record states: “Member universities of the COE can apply.”"
+          },
+          {
+            "claim": "The opportunity indicates cost sharing.",
+            "source": "Official Grants.gov record — costSharing",
+            "support": "The record marks costSharing as true, without supplying the amount, allocation, or treatment of non-university contributors."
+          }
+        ],
+        "gaps": [
+          "METSS is not documented as a COE member university and is not shown eligible as a direct applicant.",
+          "No solicitation attachments or project-specific calls were included in the request; detailed scope, deadlines, evaluation criteria, cost-share terms, IP terms, and team rules are unknown.",
+          "The record has no close date or active topic deadline. Its November 1, 2023 posting date alone does not establish that submissions are currently being accepted.",
+          "No public evidence establishes METSS aircraft-composite certification, FAA regulatory, structural-airframe, lightning-strike, crashworthiness, or aircraft-maintenance specialization.",
+          "METSS's current registration, representations, capacity, cost-share capability, and decision to participate are unknown."
+        ],
+        "partner_needs": [
+          "An eligible current COE member university, likely CECAM/Wichita State University or AMTAS/University of Washington network participant, to determine whether METSS can participate as a research performer or subcontractor.",
+          "A university lead with demonstrated FAA COE governance, proposal-submission authority, and management of required cost sharing.",
+          "If the work emphasizes aircraft certification, airframe structures, lightning, crashworthiness, or maintenance/inspection, partner expertise in those FAA-specific domains."
+        ],
+        "summary": "This is technically relevant to METSS advanced materials and testing capabilities, especially composite/adhesive durability and environmental-performance research. It is not a direct METSS prime opportunity based on the stated eligibility restriction to COE member universities. Recommend partner-oriented investigation only after confirming that an active, open project call exists and that an eligible university can include METSS under acceptable cost-share and teaming terms.",
+        "immediate_action": "Contact the FAA COE/JAMS point of contact or the COE university leads to confirm whether an active project-specific call is open, identify the applicable topic deadline, and verify whether a non-member company may participate as a subcontractor or research partner. Do not allocate proposal resources until those points and cost-share terms are confirmed.",
+        "confidence": "medium",
+        "caveats": [
+          "No attachments were included in the supplied request; no attachment was reviewed.",
+          "The supplied Grants.gov record provides a vehicle description and applicant restriction but no close date, detailed solicitation text, or active-topic status.",
+          "Technical fit does not establish METSS eligibility, available capacity, or a university partner commitment."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-348793",
+      "title": "Process Systems, Reaction Engineering, and Molecular Thermodynamics",
+      "agency": "U.S. National Science Foundation",
+      "office": "AI-screened Grants.gov record",
+      "number": "PD-23-1403",
+      "type": "Grant",
+      "status": "Open",
+      "due": "No close date listed",
+      "dueSort": "9999-12-31",
+      "fit": 40,
+      "titleIII": false,
+      "value": "$4,900,000",
+      "role": "Research partner",
+      "capabilities": [
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation"
+      ],
+      "summary": "This is a technically adjacent NSF fundamental-research opportunity, particularly for reactive polymer processing, specialized chemical materials, and experimental validation tied to a genuinely new engineering-science question. METSS's public profile supports chemistry, polymers, process scale-up, and testing, but does not establish the core theory, modeling, or academic research infrastructure emphasized by the program. The unrestricted applicant-type field supports entity-type eligibility, but PAPPG compliance, staffing, and proposal readiness remain unknown. Investigate only if METSS can identify a fundamental research concept and an academically strong research partner; do not position a routine process-development or scale-up project as responsive.",
+      "why": "The program supports fundamental research in chemical reaction engineering, process systems, reactive polymer processing, and molecular thermodynamics, including chemical reactors, sustainable manufacturing, modular systems, and functional polymer materials.: The synopsis identifies reactor design, reactive polymer processing, molecular thermodynamics, process modeling/control, sustainable manufacturing, and tailored functional materials as program areas. (Official Grants.gov record — Synopsis) METSS has public capabilities relevant to polymer materials, chemistry, formulation, reaction characterization, process design, pilot-scale work, and materials testing.: The profile documents polymers, resins, coatings, specialty chemistry, sample analysis, reaction characterization, product/process design, pilot-scale operations, and chemical/materials testing. (Approved METSS public profile — capabilities) METSS has some adjacent public past performance in advanced polymer materials and chemical production.: Examples include Non-PFAS Elastomeric Chemical Barrier Materials (W911QY-23-P-0038), DPA Title III Critical Chemicals Production (FA8650-24-2-5555), and Critical Supply Chain Production of Energetic Materials and Associated Precursors (SP4701-22-P-0054). (Approved METSS public profile — public past performance examples)",
+      "action": "Before investing in a proposal, identify a university research partner and prepare a one-page fundamental research concept that clearly separates the work from process development. Contact the NSF Program Director to validate topical fit and request the current applicable submission/target-date guidance. Internally verify NSF/PAPPG submission readiness, PI/team availability, budget capacity, and METSS's desired role.",
+      "eligibility": "CONDITIONAL: The Grants.gov record lists applicant type as unrestricted, with no additional eligibility text, so METSS Corporation is not excluded by the published entity-type field. However, eligibility for submission and award remains conditional on compliance with the NSF PAPPG and any program-specific proposal requirements, which the approved METSS profile does not establish. Blocking or unverified requirements: NSF PAPPG-compliant proposal preparation and submission requirements are not evidenced in the METSS public profile.; The proposed work must fit the program's fundamental, hypothesis-driven engineering-research scope; the record expressly states that process-development proposals are not appropriate.; A qualified PI, research team, budget, and available proposal resources are unknown.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/348793",
+      "sourceLabel": "Grants.gov",
+      "verification": "AI-screened with gpt-5.6-terra; confidence high. Reviewed: official record only. Not reviewed: none listed. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Feb 24, 2024 12:50:23 AM EST",
+      "sourceHash": "48e34fac1847e1405eaf8f631d427dbb22243e43ada79bf903feeed4666ac75b",
+      "analysis": {
+        "recommendation": "investigate",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "The Grants.gov record lists applicant type as unrestricted, with no additional eligibility text, so METSS Corporation is not excluded by the published entity-type field. However, eligibility for submission and award remains conditional on compliance with the NSF PAPPG and any program-specific proposal requirements, which the approved METSS profile does not establish.",
+          "blocking_requirements": [
+            "NSF PAPPG-compliant proposal preparation and submission requirements are not evidenced in the METSS public profile.",
+            "The proposed work must fit the program's fundamental, hypothesis-driven engineering-research scope; the record expressly states that process-development proposals are not appropriate.",
+            "A qualified PI, research team, budget, and available proposal resources are unknown."
+          ]
+        },
+        "recommended_role": "research_partner",
+        "scores": {
+          "technical_relevance": 55,
+          "past_performance_alignment": 35,
+          "execution_readiness": 30,
+          "strategic_relevance": 40,
+          "overall_pursuit_strength": 40
+        },
+        "title_iii_relevance": {
+          "relevant": false,
+          "rationale": "The opportunity is an NSF fundamental chemical-engineering research program, not a DPA Title III or domestic critical-chemical production solicitation. METSS's Title III experience may provide contextual manufacturing insight but is not a direct programmatic match."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation"
+        ],
+        "evidence": [
+          {
+            "claim": "The program supports fundamental research in chemical reaction engineering, process systems, reactive polymer processing, and molecular thermodynamics, including chemical reactors, sustainable manufacturing, modular systems, and functional polymer materials.",
+            "source": "Official Grants.gov record — Synopsis",
+            "support": "The synopsis identifies reactor design, reactive polymer processing, molecular thermodynamics, process modeling/control, sustainable manufacturing, and tailored functional materials as program areas."
+          },
+          {
+            "claim": "METSS has public capabilities relevant to polymer materials, chemistry, formulation, reaction characterization, process design, pilot-scale work, and materials testing.",
+            "source": "Approved METSS public profile — capabilities",
+            "support": "The profile documents polymers, resins, coatings, specialty chemistry, sample analysis, reaction characterization, product/process design, pilot-scale operations, and chemical/materials testing."
+          },
+          {
+            "claim": "METSS has some adjacent public past performance in advanced polymer materials and chemical production.",
+            "source": "Approved METSS public profile — public past performance examples",
+            "support": "Examples include Non-PFAS Elastomeric Chemical Barrier Materials (W911QY-23-P-0038), DPA Title III Critical Chemicals Production (FA8650-24-2-5555), and Critical Supply Chain Production of Energetic Materials and Associated Precursors (SP4701-22-P-0054)."
+          },
+          {
+            "claim": "The opportunity does not seek routine product or process development.",
+            "source": "Official Grants.gov record — Synopsis",
+            "support": "The synopsis states that process-development proposals are not appropriate and encourages novel, potentially transformative, hypothesis-driven research plans."
+          },
+          {
+            "claim": "The published applicant type is unrestricted.",
+            "source": "Official Grants.gov record — applicantTypes and additionalEligibility",
+            "support": "Applicant type is listed as unrestricted, and the Additional Eligibility field is blank."
+          }
+        ],
+        "gaps": [
+          "No public METSS evidence of molecular-thermodynamics research, atomistic simulation, multiscale modeling, process-systems theory, optimization-algorithm development, quantum computing, or machine-learning research capabilities.",
+          "No public evidence of a hypothesis-driven fundamental-research concept that would distinguish this effort from product or process development.",
+          "No public evidence of NSF proposal infrastructure, qualified PI availability, graduate-student support, academic appointment arrangements, or proposal-budget capacity.",
+          "No active submission deadline, target date, or program-specific due-date information is provided in the supplied Grants.gov record.",
+          "No solicitation attachments were included in this request; no attachment review was performed."
+        ],
+        "partner_needs": [
+          "A university or research-institution partner with demonstrated chemical-reaction engineering, process-systems modeling/control, reactive polymer processing, or molecular-thermodynamics expertise.",
+          "A lead PI and team able to frame a novel, fundamental, hypothesis-driven research question and execute computational/theoretical work if required.",
+          "Potential academic laboratory access and student/research staffing appropriate for the NSF research model.",
+          "METSS could contribute experimental validation, formulation/materials knowledge, pilot-scale perspective, and transition/industry-relevance input if an aligned research concept is developed."
+        ],
+        "summary": "This is a technically adjacent NSF fundamental-research opportunity, particularly for reactive polymer processing, specialized chemical materials, and experimental validation tied to a genuinely new engineering-science question. METSS's public profile supports chemistry, polymers, process scale-up, and testing, but does not establish the core theory, modeling, or academic research infrastructure emphasized by the program. The unrestricted applicant-type field supports entity-type eligibility, but PAPPG compliance, staffing, and proposal readiness remain unknown. Investigate only if METSS can identify a fundamental research concept and an academically strong research partner; do not position a routine process-development or scale-up project as responsive.",
+        "immediate_action": "Before investing in a proposal, identify a university research partner and prepare a one-page fundamental research concept that clearly separates the work from process development. Contact the NSF Program Director to validate topical fit and request the current applicable submission/target-date guidance. Internally verify NSF/PAPPG submission readiness, PI/team availability, budget capacity, and METSS's desired role.",
+        "confidence": "high",
+        "caveats": [
+          "The official record provides no active application deadline. The posting date and broad program record should not be treated as proof of a current submission window.",
+          "No public solicitation attachments were supplied; this assessment relies only on the official Grants.gov record and approved METSS public profile.",
+          "Unrestricted applicant type does not prove that METSS satisfies all PAPPG, proposal, budget, or award-administration requirements.",
+          "A stronger recommendation would require verified METSS or partner evidence of fundamental research and modeling capability, an eligible submission structure, and confirmation from the Program Director that the concept is within scope."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-58617",
+      "title": "State Veterans Home Construction Grant Program",
+      "agency": "Construction of State Home Facilities",
+      "office": "AI-screened Grants.gov record",
+      "number": "VA-GRANTS-112508-002",
+      "type": "Grant",
+      "status": "Open",
+      "due": "No close date listed",
+      "dueSort": "9999-12-31",
+      "fit": 4,
+      "titleIII": false,
+      "value": "$275,000,000",
+      "role": "Do not pursue",
+      "capabilities": [
+        "Advanced materials",
+        "Domestic manufacturing"
+      ],
+      "summary": "This is a large VA infrastructure grant program for eligible State and Tribal governments to construct or renovate veterans nursing, domiciliary, and adult day health-care facilities. METSS has only peripheral technical relevance through advanced materials and domestic manufacturing. The explicit applicant restriction is dispositive: METSS cannot prime or apply directly. No defined work package supports a meaningful subcontractor recommendation from the supplied record.",
+      "why": "Only State and Tribal Governments may apply; private organizations are expressly excluded.: States: \"ONLY STATE AND TRIBAL GOVERNMENTS MAY APPLY\" and \"NO PRIVATE ORGANIZATION... IS QUALIFIED TO APPLY.\" (Official Grants.gov record — additionalEligibility) The grant supports construction or renovation of State/Tribal-owned and operated skilled nursing, domiciliary, and adult day health care facilities.: The program funds construction/renovation of veterans extended-care facilities, rather than R&D or procurement of METSS-developed products. (Official Grants.gov record — fundingActivityDescription and synopsis) Adult Day Health Care, bed replacement, and new-construction applications require a space-program analysis; supplied forms identify facility-room square-footage categories.: The included forms require proposed square footage for administrative, clinical, therapy, storage, utility, and related facility spaces. The nursing/domiciliary form also includes bed units and bathing/toilet facilities. (Included attachment: Form 10-0388-3 Space Program Analysis-Nursing Home and Domiciliary.pdf; Form 10-0388-4 Space Program Analysis-Adult Day Health Care.pdf)",
+      "action": "Do not allocate capture or proposal resources. Log as ineligible for METSS direct pursuit. Monitor only if a known eligible State/Tribal facility project separately releases a defined subcontract or supplier need that matches METSS capabilities; verify the current VA application cycle and project-specific requirements at that time.",
+      "eligibility": "NO: METSS Corporation is not an eligible direct applicant. The official Grants.gov record expressly limits applicants to State and federally recognized Tribal Governments and states that no private organization is qualified to apply. METSS is identified in the approved profile as an applied R&D company. Blocking or unverified requirements: Applicant must be a State government or federally recognized Tribal government.; Project must concern a State/Tribal-owned and operated veterans extended-care facility.; A complete initial application must be submitted by the eligible government applicant, including State/Tribal certifications, Governor's designation, needs assessment, financial/capital plans, and applicable facility documentation.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/58617",
+      "sourceLabel": "Grants.gov",
+      "verification": "AI-screened with gpt-5.6-terra; confidence high. Reviewed: Form 10-0388-4 Space Program Analysis-Adult day Health Care.pdf, Form 10-0388-3 Space Program Analysis-Nursing Home and Domiciliary.pdf, Form 10-0388-1 Initial Application.pdf. Not reviewed: Financial Plan Guidance.docx, TEMPLATE Checklist Item A11 Fully Occupied.docx, TEMPLATE Checklist Item A12 Number of Beds-Rate.docx, TEMPLATE Checklist Item A13 Number of Beds-Distance.docx, TEMPLATE Project Scope.doc, SF424_2_1-V2.1.pdf, SF424D-V1.1.pdf, SF424C_2_0-V2.0.pdf, TEMPLATE Budget Justification and Construction Cost Worksheet.xlsx, TEMPLATE Governors Designation Letter 2019.docx, TEMPLATE Needs Assessment 2019.docx, TEMPLATE State Clearinghouse 2019.docx, Schematics Guidance.docx, SHC Safety Program.pdf, Capital Plan Guidance.docx, SVHCGP 2019 Checklist.pdf. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Mar 09, 2026 03:02:59 PM EDT",
+      "sourceHash": "c9962383c60e1f4e430a9629b3024c84b4f52095e7a10f5986496880ce845d36",
+      "analysis": {
+        "recommendation": "do_not_pursue",
+        "eligibility": {
+          "status": "no",
+          "rationale": "METSS Corporation is not an eligible direct applicant. The official Grants.gov record expressly limits applicants to State and federally recognized Tribal Governments and states that no private organization is qualified to apply. METSS is identified in the approved profile as an applied R&D company.",
+          "blocking_requirements": [
+            "Applicant must be a State government or federally recognized Tribal government.",
+            "Project must concern a State/Tribal-owned and operated veterans extended-care facility.",
+            "A complete initial application must be submitted by the eligible government applicant, including State/Tribal certifications, Governor's designation, needs assessment, financial/capital plans, and applicable facility documentation."
+          ]
+        },
+        "recommended_role": "not_pursue",
+        "scores": {
+          "technical_relevance": 18,
+          "past_performance_alignment": 10,
+          "execution_readiness": 5,
+          "strategic_relevance": 12,
+          "overall_pursuit_strength": 4
+        },
+        "title_iii_relevance": {
+          "relevant": false,
+          "rationale": "The opportunity is a VA capital-construction grant for State/Tribal veterans extended-care facilities, not a DPA Title III production, critical-chemical, or industrial-base solicitation. Its domestic-content provisions are incidental infrastructure requirements rather than a Title III objective."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Domestic manufacturing"
+        ],
+        "evidence": [
+          {
+            "claim": "Only State and Tribal Governments may apply; private organizations are expressly excluded.",
+            "source": "Official Grants.gov record — additionalEligibility",
+            "support": "States: \"ONLY STATE AND TRIBAL GOVERNMENTS MAY APPLY\" and \"NO PRIVATE ORGANIZATION... IS QUALIFIED TO APPLY.\""
+          },
+          {
+            "claim": "The grant supports construction or renovation of State/Tribal-owned and operated skilled nursing, domiciliary, and adult day health care facilities.",
+            "source": "Official Grants.gov record — fundingActivityDescription and synopsis",
+            "support": "The program funds construction/renovation of veterans extended-care facilities, rather than R&D or procurement of METSS-developed products."
+          },
+          {
+            "claim": "Adult Day Health Care, bed replacement, and new-construction applications require a space-program analysis; supplied forms identify facility-room square-footage categories.",
+            "source": "Included attachment: Form 10-0388-3 Space Program Analysis-Nursing Home and Domiciliary.pdf; Form 10-0388-4 Space Program Analysis-Adult Day Health Care.pdf",
+            "support": "The included forms require proposed square footage for administrative, clinical, therapy, storage, utility, and related facility spaces. The nursing/domiciliary form also includes bed units and bathing/toilet facilities."
+          },
+          {
+            "claim": "The initial-application package requires State-specific planning and certifications.",
+            "source": "Included attachment: Form 10-0388-1 Initial Application.pdf; Official Grants.gov record — synopsis",
+            "support": "Requirements include SF-424 forms, project scope, Governor's designation, needs assessment, clearinghouse compliance, schematics, signed State certification, and—where applicable—capital, financial, occupancy, and bed-count documentation."
+          },
+          {
+            "claim": "METSS has public advanced-materials, specialty-chemistry, testing, pilot-scale, and light-manufacturing capabilities.",
+            "source": "Approved METSS public profile — capabilities and facilities",
+            "support": "These capabilities could be tangentially relevant to domestically manufactured construction materials or specialized facility materials, but the record does not request a materials R&D, validation, or supply effort."
+          },
+          {
+            "claim": "The program is subject to Build America, Buy America domestic-content requirements for incorporated infrastructure articles, materials, and supplies.",
+            "source": "Official Grants.gov record — synopsis",
+            "support": "Domestic manufacturing is potentially relevant at the project supply-chain level, but this does not create applicant eligibility for METSS or establish a defined subcontracting requirement."
+          }
+        ],
+        "gaps": [
+          "METSS is explicitly ineligible to submit as the grant applicant.",
+          "No eligible State or Tribal applicant, project, facility, construction team, or partner relationship is identified.",
+          "No defined requirement for METSS materials, chemistry, testing, CBRN, functional-fluid, or manufacturing capabilities is stated in the official record or included forms.",
+          "METSS domestic-content compliance for a particular construction material or product is unknown; the profile does not establish that any specific item meets Build America, Buy America standards.",
+          "METSS capacity, pricing, construction-product qualifications, building-code compliance, and willingness to act as a supplier/subcontractor are unknown.",
+          "The official record gives an April 15 initial-application timing rule for next-fiscal-year priority-list consideration, but a specific currently active submission deadline/year should be verified with VA before any partner outreach."
+        ],
+        "partner_needs": [
+          "A qualifying State government or federally recognized Tribal government would have to lead and submit the grant application.",
+          "If a specific facility project identifies a METSS-relevant material or testing need, the eligible applicant would need an architect/engineer, construction contractor, and any required specialty product suppliers.",
+          "Verification from the project team regarding whether a METSS product/service is actually needed and whether it can satisfy applicable domestic-content, construction, code, and procurement requirements."
+        ],
+        "summary": "This is a large VA infrastructure grant program for eligible State and Tribal governments to construct or renovate veterans nursing, domiciliary, and adult day health-care facilities. METSS has only peripheral technical relevance through advanced materials and domestic manufacturing. The explicit applicant restriction is dispositive: METSS cannot prime or apply directly. No defined work package supports a meaningful subcontractor recommendation from the supplied record.",
+        "immediate_action": "Do not allocate capture or proposal resources. Log as ineligible for METSS direct pursuit. Monitor only if a known eligible State/Tribal facility project separately releases a defined subcontract or supplier need that matches METSS capabilities; verify the current VA application cycle and project-specific requirements at that time.",
+        "confidence": "high",
+        "caveats": [
+          "The three supplied VA PDF attachments were reviewed as included in the request: VA Forms 10-0388-1, 10-0388-3, and 10-0388-4. Other attachments listed in the Grants.gov record were not supplied in the model request and were not reviewed.",
+          "The Grants.gov record was last updated March 9, 2026, but the listed supporting attachments carry 2019 timestamps; current instructions, forms, and deadline implementation should be confirmed directly with VA by any eligible applicant.",
+          "A private company might later have a commercial supplier or subcontractor opportunity under an eligible grantee's project, but that would be outside direct eligibility for this federal grant and is not evidenced here."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-361526",
+      "title": "The Genesis Mission:  Transforming Science and Energy with AI",
+      "agency": "Office of Science",
+      "office": "AI-screened Grants.gov record",
+      "number": "DE-FOA-0003612",
+      "type": "Other",
+      "status": "Open",
+      "due": "Due 2026-12-17",
+      "dueSort": "2026-12-17",
+      "fit": 3,
+      "titleIII": true,
+      "value": "$293,760,000",
+      "role": "Research partner",
+      "capabilities": [
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation",
+        "Domestic manufacturing",
+        "Critical chemicals"
+      ],
+      "summary": "This is a strong strategic and moderate technical-adjacency opportunity for METSS, particularly around AI-enabled chemical manufacturing, materials processing, critical-minerals processing, and materials qualification. METSS's public profile supports a substantive materials/chemistry, experimental-validation, and pilot-scale/manufacturing role—not the AI-model lead role. However, current pursuit strength is low because the ordinary FY26 submission deadlines have passed, the December 17 route is limited to FY26 Phase I awardees, and METSS's AI, data, team, cost-share, and compliance readiness are unproven. Monitor for the stated FY27 amendment or replacement opportunity while developing a compliant lab-plus-industry team.",
+      "why": "The opportunity seeks AI-enabled scientific-discovery and R&D workflows across advanced manufacturing, critical materials, energy, and other science domains.: The synopsis identifies advanced manufacturing, critical materials, and energy among the topic areas and states that teams will use novel AI models and frameworks to accelerate R&D workflows. (Official Grants.gov record, synopsis for DE-FOA-0003612) Relevant technical lanes include agentic AI-driven chemical manufacturing, AI-driven materials processing, critical-minerals extraction and processing, and AI-enabled materials discovery/development/qualification.: These focus areas align with METSS public capabilities in specialty chemistry, polymers/composites/coatings, process design, pilot-scale operations, light manufacturing, and testing. (Attachment: DE-FOA-0003612.000003.pdf, Section III, Topics 1, 3, and 12) METSS has publicly documented chemistry, functional-fluid, advanced-materials, engineering, scale-up, testing, and domestic critical-chemical capabilities.: The profile lists formulation/product development, polymers and coatings, mechanical and chemical engineering, pilot-scale/light manufacturing, advanced analytical and environmental testing, and public DPA Title III Critical Chemicals Production contract FA8650-24-2-5555. (Approved METSS Public Profile v2026-07-21-public-v1)",
+      "action": "Within one business week, verify internally whether METSS received a FY26 Phase I Genesis Mission award and whether it has an approved AI/data/laboratory partner. If not, do not invest in a December 17 Phase II application; instead, contact GenesisMissionNOFO@science.doe.gov only to clarify whether any late or FY27 pathway is available, and begin FY27 teaming around one narrowly defined METSS-led experimental/materials work package with quantitative AI-advantage metrics.",
+      "eligibility": "CONDITIONAL: METSS is technically relevant as a U.S.-based applied R&D company with materials, chemistry, testing, and scale-up capabilities, but the only stated remaining FY26 deadline—December 17, 2026—is specifically for Phase II applications resulting from FY26 Phase I awards. The approved METSS profile does not establish that METSS holds a FY26 Phase I Genesis Mission award. The RFA also says DOE may decline post-deadline applications without review. For a future/open competition, METSS would need a compliant multi-institutional team and must verify all business, SAM, cost-share, RTES, and resource requirements. Blocking or unverified requirements: For the stated December 17, 2026 Phase II deadline, verify whether METSS is a recipient of a FY26 Phase I Genesis Mission award; this is not established in the approved profile.; For a Phase II team, inclusion of at least one DOE/NNSA National Laboratory or Scientific User Facility partner and at least one industry partner is required; METSS can potentially satisfy the industry category, but a laboratory/user-facility partner is not identified.; As a for-profit entity, METSS would be required to provide at least 20% cost share for R&D work and 50% of total project costs for demonstration/commercial-application tasks, where applicable. METSS cost-share capacity is unknown.; Current SAM registration, UEI, representations, indirect-rate status, RTES disclosures, foreign-connection review, and ability to perform all work in the United States are unknown.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/361526",
+      "sourceLabel": "Grants.gov",
+      "verification": "AI-screened with gpt-5.6-terra; confidence high. Reviewed: Sample OT and Project Agreements for DE-FOA-0003612 REV2.pdf, DE-FOA-0003612.000003.pdf. Not reviewed: Genesis Mission Phase I Application Template v2.xlsx, Genesis Mission Phase II Application Template.xlsx, Genesis Mission Phase II LOI Template v2.xlsx. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Apr 10, 2026 09:22:17 AM EDT",
+      "sourceHash": "4b53631de71ea2391e2a13492c2df9dc7059a97a75fb769dea19ccb704b98fc2",
+      "analysis": {
+        "recommendation": "monitor",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "METSS is technically relevant as a U.S.-based applied R&D company with materials, chemistry, testing, and scale-up capabilities, but the only stated remaining FY26 deadline—December 17, 2026—is specifically for Phase II applications resulting from FY26 Phase I awards. The approved METSS profile does not establish that METSS holds a FY26 Phase I Genesis Mission award. The RFA also says DOE may decline post-deadline applications without review. For a future/open competition, METSS would need a compliant multi-institutional team and must verify all business, SAM, cost-share, RTES, and resource requirements.",
+          "blocking_requirements": [
+            "For the stated December 17, 2026 Phase II deadline, verify whether METSS is a recipient of a FY26 Phase I Genesis Mission award; this is not established in the approved profile.",
+            "For a Phase II team, inclusion of at least one DOE/NNSA National Laboratory or Scientific User Facility partner and at least one industry partner is required; METSS can potentially satisfy the industry category, but a laboratory/user-facility partner is not identified.",
+            "As a for-profit entity, METSS would be required to provide at least 20% cost share for R&D work and 50% of total project costs for demonstration/commercial-application tasks, where applicable. METSS cost-share capacity is unknown.",
+            "Current SAM registration, UEI, representations, indirect-rate status, RTES disclosures, foreign-connection review, and ability to perform all work in the United States are unknown."
+          ]
+        },
+        "recommended_role": "research_partner",
+        "scores": {
+          "technical_relevance": 7,
+          "past_performance_alignment": 6,
+          "execution_readiness": 2,
+          "strategic_relevance": 8,
+          "overall_pursuit_strength": 3
+        },
+        "title_iii_relevance": {
+          "relevant": true,
+          "rationale": "This is not a DPA Title III solicitation, but it is strategically adjacent to METSS's Title III critical-chemicals production work. The RFA includes AI-enabled chemical manufacturing, materials processing, critical-minerals extraction/processing, and materials development/qualification areas that could support domestic industrial-base and critical-chemical objectives."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation",
+          "Domestic manufacturing",
+          "Critical chemicals"
+        ],
+        "evidence": [
+          {
+            "claim": "The opportunity seeks AI-enabled scientific-discovery and R&D workflows across advanced manufacturing, critical materials, energy, and other science domains.",
+            "source": "Official Grants.gov record, synopsis for DE-FOA-0003612",
+            "support": "The synopsis identifies advanced manufacturing, critical materials, and energy among the topic areas and states that teams will use novel AI models and frameworks to accelerate R&D workflows."
+          },
+          {
+            "claim": "Relevant technical lanes include agentic AI-driven chemical manufacturing, AI-driven materials processing, critical-minerals extraction and processing, and AI-enabled materials discovery/development/qualification.",
+            "source": "Attachment: DE-FOA-0003612.000003.pdf, Section III, Topics 1, 3, and 12",
+            "support": "These focus areas align with METSS public capabilities in specialty chemistry, polymers/composites/coatings, process design, pilot-scale operations, light manufacturing, and testing."
+          },
+          {
+            "claim": "METSS has publicly documented chemistry, functional-fluid, advanced-materials, engineering, scale-up, testing, and domestic critical-chemical capabilities.",
+            "source": "Approved METSS Public Profile v2026-07-21-public-v1",
+            "support": "The profile lists formulation/product development, polymers and coatings, mechanical and chemical engineering, pilot-scale/light manufacturing, advanced analytical and environmental testing, and public DPA Title III Critical Chemicals Production contract FA8650-24-2-5555."
+          },
+          {
+            "claim": "METSS has relevant public past performance for material qualification and chemical/harsh-environment work.",
+            "source": "Approved METSS Public Profile v2026-07-21-public-v1",
+            "support": "Examples include Non-PFAS Elastomeric Chemical Barrier Materials, Advanced Lightweight Composite Structures, Lubricating Oil Study, Critical Supply Chain Production of Energetic Materials and Associated Precursors, and CBRN survivability/decontamination-related work."
+          },
+          {
+            "claim": "The active-looking Grants.gov response date should not be treated as a general open-topic deadline.",
+            "source": "Official Grants.gov record and attachment: DE-FOA-0003612.000003.pdf, cover page and Section III",
+            "support": "The record lists December 17, 2026, but the RFA specifies that date for Phase II applications resulting from FY26 Phase I awards. Original FY26 Phase I and direct FY26 Phase II deadlines were May 1 and May 19, 2026, respectively."
+          },
+          {
+            "claim": "The supplied sample OT and project-agreement document establishes substantial data-rights, IP, domestic-performance, and security obligations if an award is negotiated.",
+            "source": "Attachment: Sample OT and Project Agreements for DE-FOA-0003612 REV2.pdf",
+            "support": "Sample terms require a project agreement, data/IP-rights certifications for delivered models and data, U.S. performance absent waiver, RTES controls, invention reporting, and flowdown obligations. The samples also show that terms remain subject to award negotiation."
+          }
+        ],
+        "gaps": [
+          "No public evidence that METSS currently develops, trains, validates, or deploys AI/ML models, agentic workflows, digital twins, foundation models, or HPC-enabled scientific software.",
+          "No identified DOE/NNSA National Laboratory, Scientific User Facility, university, AI developer, data owner, or other committed partner.",
+          "No evidence that METSS is eligible for the remaining December 17 Phase II route through an FY26 Phase I Genesis Mission award.",
+          "No public evidence of available proprietary or non-proprietary datasets suitable for AI curation, associated data rights, model-component licensing rights, or American Science Cloud deployment rights.",
+          "No evidence of a data-management/sharing plan, AI safety plan, model/data cards, provenance records, red-team approach, or secure approved cloud/HPC environment.",
+          "No verified capacity for required for-profit cost share, proposal budget, indirect-rate basis, personnel availability, or computing allocation.",
+          "No verified SAM/UEI status, ownership/RTES posture, export-control constraints, or current compliance representations."
+        ],
+        "partner_needs": [
+          "DOE/NNSA National Laboratory or Scientific User Facility partner for required team composition, access to DOE datasets/facilities, and potential American Science Cloud integration.",
+          "AI/HPC partner with demonstrated scientific ML, digital-twin, agentic-workflow, model-evaluation, data-engineering, and cybersecurity capabilities.",
+          "University or nonprofit research partner for domain-science modeling, scientific validation, and workforce/research depth, especially if pursuing a future Phase I team.",
+          "Industrial end user or manufacturer able to supply operational process data, define measurable deployment metrics, and support validation/transition; this is especially important for applied manufacturing or chemical-process proposals.",
+          "Data-rights and IP counsel/lead to establish a compliant project agreement, artifact register, data provenance, data-use terms, and protected-data/open-data strategy."
+        ],
+        "summary": "This is a strong strategic and moderate technical-adjacency opportunity for METSS, particularly around AI-enabled chemical manufacturing, materials processing, critical-minerals processing, and materials qualification. METSS's public profile supports a substantive materials/chemistry, experimental-validation, and pilot-scale/manufacturing role—not the AI-model lead role. However, current pursuit strength is low because the ordinary FY26 submission deadlines have passed, the December 17 route is limited to FY26 Phase I awardees, and METSS's AI, data, team, cost-share, and compliance readiness are unproven. Monitor for the stated FY27 amendment or replacement opportunity while developing a compliant lab-plus-industry team.",
+        "immediate_action": "Within one business week, verify internally whether METSS received a FY26 Phase I Genesis Mission award and whether it has an approved AI/data/laboratory partner. If not, do not invest in a December 17 Phase II application; instead, contact GenesisMissionNOFO@science.doe.gov only to clarify whether any late or FY27 pathway is available, and begin FY27 teaming around one narrowly defined METSS-led experimental/materials work package with quantitative AI-advantage metrics.",
+        "confidence": "high",
+        "caveats": [
+          "Assessment is based only on the supplied official Grants.gov record, the supplied RFA PDF, the supplied Sample OT and Project Agreements PDF, and the approved METSS public profile.",
+          "The attached Excel templates are listed in the Grants.gov record but their contents were not supplied as parsed text and are not relied upon here.",
+          "The Sample OT and Project Agreements document is a sample, not a final award; actual milestones, data rights, patent terms, protection periods, payment method, and negotiated scope may differ.",
+          "Several listed focus areas explicitly did not accept Phase II applications in FY26; relevance to a topic does not establish that the topic remains open or that METSS is eligible.",
+          "DOE stated that it may amend the RFA or issue an alternative funding opportunity for FY27; that future competition, timing, topics, and terms are not yet established."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-361773",
+      "title": "Critical Minerals and Materials Accelerator Notice of Funding Opportunity",
+      "agency": "Golden Field Office",
+      "office": "AI-screened Grants.gov record",
+      "number": "DE-FOA-0003589",
+      "type": "Cooperative Agreement",
+      "status": "Open",
+      "due": "Due 2026-07-23",
+      "dueSort": "2026-07-23",
+      "fit": 2,
+      "titleIII": false,
+      "value": "$69,000,000",
+      "role": "Testing partner",
+      "capabilities": [
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation",
+        "Domestic manufacturing",
+        "Critical chemicals"
+      ],
+      "summary": "DE-FOA-0003589 is strategically adjacent to METSS's domestic critical-chemicals, applied chemistry, pilot-scale, and testing capabilities, but the published topic scopes are specialized critical-minerals processing areas not evidenced in the approved METSS profile. METSS is not currently supported as a credible prime for a standalone submission. A limited testing, validation, process-development, or scale-up support role may be worth investigating only if a qualified CMM technology lead needs those capabilities and the unreveiwed NOFO requirements permit the proposed team structure. Timing in the official record: LOI deadline is April 24, 2026; Topic Area 1 full application deadline is May 29, 2026; Topic Area 2 is June 25, 2026; and Topic Area 3 is July 23, 2026. Submissions are through DOE eXCHANGE under separate Topic Area opportunity numbers, not through Grants.gov.",
+      "why": "The NOFO seeks collaborative industry partnerships to prototype and pilot bench-scale critical-minerals-and-materials processing technologies, with validation, benchmarking, industry-relevant testing, technoeconomic analysis, life-cycle assessment, and a domestic-commercialization path.: This creates a possible supporting role for METSS in testing, validation, formulation/process development, pilot-scale work, or scale-up, contingent on fit to a qualified minerals-processing technology. (Official Grants.gov synopsis, DE-FOA-0003589) The active technical scopes are materials recovery from manufacturing/postconsumer/mixed scrap; semiconductor-grade gallium, gallium nitride, germanium, and silicon-carbide refining/alloying; and direct lithium extraction, separation, processing, and associated pretreatment/disposal technologies.: METSS's approved profile does not identify direct experience in critical-mineral recovery, rare-earth processing, semiconductor-material refining, gallium/germanium/silicon-carbide processing, or direct lithium extraction. (Official Grants.gov synopsis, DE-FOA-0003589) METSS publicly describes chemical engineering, laboratory-to-commercial product/process design, pilot-scale operations, light manufacturing, and analytical, environmental, physical, and materials-compatibility testing.: These capabilities could support process validation or pilot activities, but do not by themselves prove suitability for the specified CMM processing technologies. (Approved METSS public profile, Engineering and manufacturing scale-up; Testing and validation capabilities)",
+      "action": "Obtain and review the current MOD0002 NOFO attachment—especially Section II.A, Topic-specific performance metrics, cost-share rules, LOI requirements, and team/lead-applicant rules—before any outreach. In parallel, use the listed eXCHANGE Teaming Partner List (TPL-0000069) to identify a technology lead whose defined scope needs METSS testing, validation, pilot/process-development, or scale-up support; do not commit METSS as prime or represent eligibility until internal verification is complete.",
+      "eligibility": "UNKNOWN: The Grants.gov record lists applicant type as unrestricted, but expressly subjects eligibility to NOFO Section II.A. That section is contained in an attachment that was listed but not supplied in the request, so METSS-specific legal and program eligibility cannot be determined. METSS public-profile unknowns also include SAM registration, representations, size status, financial eligibility, available resources, and cost-sharing capacity. Blocking or unverified requirements: Confirm all applicant and project eligibility conditions in NOFO Section II.A.; Confirm whether the required cost share can be provided and documented.; Confirm current SAM.gov registration, representations, and any DOE/eXCHANGE submission prerequisites.; Confirm a qualifying technology, feedstock, and project team aligned to a specific Topic Area.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/361773",
+      "sourceLabel": "Grants.gov",
+      "verification": "AI-screened with gpt-5.6-terra; confidence medium. Reviewed: official record only. Not reviewed: DE-FOA-0003589_Critical_Minerals_and_Materials_Accelerator_Notice_of Funding_Opportunity_Part_1_MOD0001.pdf, DE-FOA-0003589_CMMA_NOFO_Part_1_MOD0002.pdf. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Apr 21, 2026 04:00:09 PM EDT",
+      "sourceHash": "4081c88a192a9b1fcc0c1bc194d614c12270c837a44e7bde9c4aabcfab9106dd",
+      "analysis": {
+        "recommendation": "investigate",
+        "eligibility": {
+          "status": "unknown",
+          "rationale": "The Grants.gov record lists applicant type as unrestricted, but expressly subjects eligibility to NOFO Section II.A. That section is contained in an attachment that was listed but not supplied in the request, so METSS-specific legal and program eligibility cannot be determined. METSS public-profile unknowns also include SAM registration, representations, size status, financial eligibility, available resources, and cost-sharing capacity.",
+          "blocking_requirements": [
+            "Confirm all applicant and project eligibility conditions in NOFO Section II.A.",
+            "Confirm whether the required cost share can be provided and documented.",
+            "Confirm current SAM.gov registration, representations, and any DOE/eXCHANGE submission prerequisites.",
+            "Confirm a qualifying technology, feedstock, and project team aligned to a specific Topic Area."
+          ]
+        },
+        "recommended_role": "testing_partner",
+        "scores": {
+          "technical_relevance": 2,
+          "past_performance_alignment": 2,
+          "execution_readiness": 2,
+          "strategic_relevance": 4,
+          "overall_pursuit_strength": 2
+        },
+        "title_iii_relevance": {
+          "relevant": false,
+          "rationale": "This is a DOE cooperative-agreement NOFO, not a DPA Title III solicitation. It is strategically adjacent to METSS's public DPA Title III and domestic critical-chemical-production experience, but the record does not establish Title III applicability."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation",
+          "Domestic manufacturing",
+          "Critical chemicals"
+        ],
+        "evidence": [
+          {
+            "claim": "The NOFO seeks collaborative industry partnerships to prototype and pilot bench-scale critical-minerals-and-materials processing technologies, with validation, benchmarking, industry-relevant testing, technoeconomic analysis, life-cycle assessment, and a domestic-commercialization path.",
+            "source": "Official Grants.gov synopsis, DE-FOA-0003589",
+            "support": "This creates a possible supporting role for METSS in testing, validation, formulation/process development, pilot-scale work, or scale-up, contingent on fit to a qualified minerals-processing technology."
+          },
+          {
+            "claim": "The active technical scopes are materials recovery from manufacturing/postconsumer/mixed scrap; semiconductor-grade gallium, gallium nitride, germanium, and silicon-carbide refining/alloying; and direct lithium extraction, separation, processing, and associated pretreatment/disposal technologies.",
+            "source": "Official Grants.gov synopsis, DE-FOA-0003589",
+            "support": "METSS's approved profile does not identify direct experience in critical-mineral recovery, rare-earth processing, semiconductor-material refining, gallium/germanium/silicon-carbide processing, or direct lithium extraction."
+          },
+          {
+            "claim": "METSS publicly describes chemical engineering, laboratory-to-commercial product/process design, pilot-scale operations, light manufacturing, and analytical, environmental, physical, and materials-compatibility testing.",
+            "source": "Approved METSS public profile, Engineering and manufacturing scale-up; Testing and validation capabilities",
+            "support": "These capabilities could support process validation or pilot activities, but do not by themselves prove suitability for the specified CMM processing technologies."
+          },
+          {
+            "claim": "METSS has public DPA Title III Critical Chemicals Production work and prior public work on critical supply-chain production of energetic materials and associated precursors.",
+            "source": "Approved METSS public profile, Domestic industrial base and critical chemicals; public past-performance examples",
+            "support": "This supports strategic alignment with domestic industrial-base resilience and specialty-chemical production, but is only indirect past-performance alignment for this CMM-focused NOFO."
+          },
+          {
+            "claim": "The program requires cost sharing and provides cooperative agreements; the record estimates $69 million, up to 44 awards, and a $3 million award ceiling.",
+            "source": "Official Grants.gov record fields: costSharing, funding instrument, estimatedFunding, numberOfAwards, awardCeiling",
+            "support": "METSS cost-sharing capacity and cooperative-agreement readiness are not established by the public profile."
+          }
+        ],
+        "gaps": [
+          "No public-profile evidence of a target technology directly responsive to any Topic Area or subtopic.",
+          "No evidence of relevant feedstock access, mineral-processing flowsheet, extraction/separation performance data, pilot plant, semiconductor-material qualification capability, or lithium-brine capability.",
+          "NOFO Part 1, including Section II.A eligibility and detailed technical, teaming, cost-share, and submission requirements, was not included in the request and was not reviewed.",
+          "No evidence of current SAM.gov/eXCHANGE readiness, financial eligibility, cost-share capacity, available personnel, schedule capacity, or approved proposal budget.",
+          "No identified industry partner, national-laboratory relationship, commercializer, technology owner, or feedstock provider."
+        ],
+        "partner_needs": [
+          "A technology owner or industrial lead with a mature bench-scale process explicitly aligned to Topic Area 1, 2, or 3.",
+          "For Topic Area 1, a scrap/feedstock supplier and recovery/recycling process specialist; for Topic Area 2, a semiconductor-material refining/alloying specialist; or for Topic Area 3, a direct-lithium-extraction and brine-processing specialist.",
+          "A prime/team member able to lead DOE eXCHANGE submission, project management, commercialization planning, technoeconomic analysis, life-cycle assessment, and required cost share.",
+          "Potential national-lab test-bed access or a partner with an established pathway to applicable DOE facilities, if required or advantageous under the unreveiwed NOFO terms."
+        ],
+        "summary": "DE-FOA-0003589 is strategically adjacent to METSS's domestic critical-chemicals, applied chemistry, pilot-scale, and testing capabilities, but the published topic scopes are specialized critical-minerals processing areas not evidenced in the approved METSS profile. METSS is not currently supported as a credible prime for a standalone submission. A limited testing, validation, process-development, or scale-up support role may be worth investigating only if a qualified CMM technology lead needs those capabilities and the unreveiwed NOFO requirements permit the proposed team structure. Timing in the official record: LOI deadline is April 24, 2026; Topic Area 1 full application deadline is May 29, 2026; Topic Area 2 is June 25, 2026; and Topic Area 3 is July 23, 2026. Submissions are through DOE eXCHANGE under separate Topic Area opportunity numbers, not through Grants.gov.",
+        "immediate_action": "Obtain and review the current MOD0002 NOFO attachment—especially Section II.A, Topic-specific performance metrics, cost-share rules, LOI requirements, and team/lead-applicant rules—before any outreach. In parallel, use the listed eXCHANGE Teaming Partner List (TPL-0000069) to identify a technology lead whose defined scope needs METSS testing, validation, pilot/process-development, or scale-up support; do not commit METSS as prime or represent eligibility until internal verification is complete.",
+        "confidence": "medium",
+        "caveats": [
+          "The two NOFO PDF attachments are listed in the Grants.gov record but their contents were not supplied in this request; they were not reviewed.",
+          "The Grants.gov synopsis contains the official amended deadlines, but it does not provide enough detail to determine Section II.A eligibility or Topic-specific mandatory technical thresholds.",
+          "The listed LOI and application dates should be confirmed in the current eXCHANGE posting before action because the system enforces hard deadlines.",
+          "A matching capability does not establish technical qualification, eligibility, cost-share capacity, or resource availability."
+        ]
+      }
+    }
+  ]
 }
