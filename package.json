@@ -9,7 +9,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --ignore-pattern .next"
+    "lint": "eslint . --ignore-pattern .next",
+    "sync:grants": "node scripts/inventory-grants.mjs",
+    "verify:grants": "node scripts/verify-grants-sync.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",

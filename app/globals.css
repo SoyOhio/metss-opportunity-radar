@@ -305,6 +305,10 @@ h1 {
 .source-note strong { color: var(--evergreen); font-size: 11px; }
 .source-note p { margin: 5px 0; }
 .source-note a { display: block; margin-top: 10px; color: var(--evergreen); font-weight: 700; }
+.sync-history { margin: 10px 0 14px; border-top: 1px solid #d4dad4; border-bottom: 1px solid #d4dad4; padding: 8px 0; }
+.sync-history summary { color: var(--evergreen); font-weight: 750; cursor: pointer; }
+.sync-history div { margin-top: 7px; }
+.sync-history .sync-error { margin: 3px 0; color: #8a351c; overflow-wrap: anywhere; }
 
 .results-column, .partner-results { min-width: 0; }
 .results-toolbar { min-height: 54px; padding: 0 3px 15px; display: flex; align-items: center; justify-content: space-between; gap: 16px; color: var(--slate); font-size: 12px; }

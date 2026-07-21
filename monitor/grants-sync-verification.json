@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-07-21T18:30:49.270Z",
+  "scope": "Live bounded Grants.gov verification: 12 current records, page size 5; plus one closed record.",
+  "temporaryDataDirectory": "/tmp/metss-grants-verification-EEnr90",
+  "runs": {
+    "initial": {
+      "id": "grants-2026-07-21T18:30:03.864Z-761e8d4b",
+      "status": "success",
+      "startedAt": "2026-07-21T18:30:03.864Z",
+      "completedAt": "2026-07-21T18:30:27.545Z",
+      "durationSeconds": 24,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": 12,
+        "pageSize": 5
+      },
+      "counts": {
+        "fetched": 12,
+        "created": 12,
+        "updated": 0,
+        "unchanged": 0,
+        "archivedOrClosed": 0,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1752,
+        "target": 12,
+        "uniqueResults": 12,
+        "pagesRequested": 3,
+        "pagesSucceeded": 3,
+        "pagesFailed": 0
+      },
+      "errors": []
+    },
+    "idempotency": {
+      "id": "grants-2026-07-21T18:30:27.554Z-66fa219a",
+      "status": "success",
+      "startedAt": "2026-07-21T18:30:27.554Z",
+      "completedAt": "2026-07-21T18:30:41.023Z",
+      "durationSeconds": 13,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": 12,
+        "pageSize": 5
+      },
+      "counts": {
+        "fetched": 12,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 12,
+        "archivedOrClosed": 0,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1752,
+        "target": 12,
+        "uniqueResults": 12,
+        "pagesRequested": 3,
+        "pagesSucceeded": 3,
+        "pagesFailed": 0
+      },
+      "errors": []
+    },
+    "updateDetection": {
+      "id": "grants-2026-07-21T18:30:41.036Z-d0acf9e5",
+      "status": "success",
+      "startedAt": "2026-07-21T18:30:41.036Z",
+      "completedAt": "2026-07-21T18:30:42.511Z",
+      "durationSeconds": 1,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": 12,
+        "pageSize": 5
+      },
+      "counts": {
+        "fetched": 12,
+        "created": 0,
+        "updated": 1,
+        "unchanged": 11,
+        "archivedOrClosed": 0,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1752,
+        "target": 12,
+        "uniqueResults": 12,
+        "pagesRequested": 3,
+        "pagesSucceeded": 3,
+        "pagesFailed": 0
+      },
+      "errors": []
+    },
+    "isolatedFailure": {
+      "id": "grants-2026-07-21T18:30:42.516Z-0205af10",
+      "status": "partial",
+      "startedAt": "2026-07-21T18:30:42.516Z",
+      "completedAt": "2026-07-21T18:30:43.994Z",
+      "durationSeconds": 1,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": 12,
+        "pageSize": 5
+      },
+      "counts": {
+        "fetched": 11,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 11,
+        "archivedOrClosed": 0,
+        "failed": 1
+      },
+      "pagination": {
+        "totalAvailable": 1752,
+        "target": 12,
+        "uniqueResults": 12,
+        "pagesRequested": 3,
+        "pagesSucceeded": 3,
+        "pagesFailed": 0
+      },
+      "errors": [
+        {
+          "stage": "opportunity-detail",
+          "record": "355297",
+          "message": "Injected verification failure."
+        }
+      ]
+    },
+    "closedStatus": {
+      "id": "grants-2026-07-21T18:30:44.003Z-3daf0bc3",
+      "status": "success",
+      "startedAt": "2026-07-21T18:30:44.003Z",
+      "completedAt": "2026-07-21T18:30:44.551Z",
+      "durationSeconds": 1,
+      "scope": {
+        "statuses": "closed",
+        "keyword": null,
+        "maxRecords": 1,
+        "pageSize": 1
+      },
+      "counts": {
+        "fetched": 1,
+        "created": 1,
+        "updated": 0,
+        "unchanged": 0,
+        "archivedOrClosed": 1,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 8560,
+        "target": 1,
+        "uniqueResults": 1,
+        "pagesRequested": 1,
+        "pagesSucceeded": 1,
+        "pagesFailed": 0
+      },
+      "errors": []
+    }
+  },
+  "actualStoredRecordCount": 12,
+  "duplicateCount": 0,
+  "injectedFailureRecord": "355297",
+  "comparisons": [
+    {
+      "grantsGovId": "141593",
+      "opportunityNumber": "P12AC10113",
+      "title": "Vegetation Interns",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/141593",
+      "sourceUrlHttpStatus": 200,
+      "checks": {
+        "id": true,
+        "opportunityNumber": true,
+        "title": true,
+        "status": true,
+        "sourceUpdatedAt": true,
+        "sourceLink": true
+      }
+    },
+    {
+      "grantsGovId": "355297",
+      "opportunityNumber": "RFA-CA-24-026",
+      "title": "National Cancer Institute Youth Enjoy Science Research Education Program (R25 Clinical Trial Not Allowed)",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/355297",
+      "sourceUrlHttpStatus": 200,
+      "checks": {
+        "id": true,
+        "opportunityNumber": true,
+        "title": true,
+        "status": true,
+        "sourceUpdatedAt": true,
+        "sourceLink": true
+      }
+    },
+    {
+      "grantsGovId": "355824",
+      "opportunityNumber": "MP-CPI-25-001",
+      "title": "Making America Healthy Again by Addressing Dementia Disparities",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/355824",
+      "sourceUrlHttpStatus": 200,
+      "checks": {
+        "id": true,
+        "opportunityNumber": true,
+        "title": true,
+        "status": true,
+        "sourceUpdatedAt": true,
+        "sourceLink": true
+      }
+    },
+    {
+      "grantsGovId": "355829",
+      "opportunityNumber": "MP-CPI-25-003",
+      "title": "Coordinating Center for Language Access Services",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/355829",
+      "sourceUrlHttpStatus": 200,
+      "checks": {
+        "id": true,
+        "opportunityNumber": true,
+        "title": true,
+        "status": true,
+        "sourceUpdatedAt": true,
+        "sourceLink": true
+      }
+    },
+    {
+      "grantsGovId": "355830",
+      "opportunityNumber": "MP-CPI-25-004",
+      "title": "Promoting Access with a Language Services Assistance Symbol",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/355830",
+      "sourceUrlHttpStatus": 200,
+      "checks": {
+        "id": true,
+        "opportunityNumber": true,
+        "title": true,
+        "status": true,
+        "sourceUpdatedAt": true,
+        "sourceLink": true
+      }
+    }
+  ],
+  "checks": {
+    "liveSynchronizationCompleted": true,
+    "pagination": true,
+    "firstRunStoredTwelve": true,
+    "duplicatePrevention": true,
+    "updateDetection": true,
+    "isolatedFailureVisible": true,
+    "failedRecordPreserved": true,
+    "closedStatusPreserved": true,
+    "fiveOfficialComparisons": true
+  },
+  "passed": true
+}

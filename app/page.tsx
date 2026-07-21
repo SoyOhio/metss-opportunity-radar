@@ -4,6 +4,7 @@ import { FormEvent, useEffect, useMemo, useState } from "react";
 import {
   capabilityCategories,
   grantsAudit,
+  grantsSync,
   opportunities,
   Opportunity,
   partners,
@@ -24,6 +25,12 @@ function isPastGracePeriod(item: Opportunity) {
 
 function escapeCsv(value: string | number | boolean) {
   return `"${String(value).replaceAll('"', '""')}"`;
+}
+
+function formatSyncTime(value: string | null | undefined) {
+  if (!value) return "Not yet available";
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.valueOf()) ? value : parsed.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
 }
 
 export default function Home() {
@@ -278,8 +285,8 @@ export default function Home() {
       </section>
 
       <div className="coverage-strip">
-        <span><i /> Weekly exhaustive Grants.gov screening</span>
-        <span>{grantsAudit.currentInventory ? `${grantsAudit.initiallyScreened.toLocaleString()} of ${grantsAudit.currentInventory.toLocaleString()} current records screened · ${grantsAudit.completeDocumentReviews.toLocaleString()} complete document reviews · ${grantsAudit.deepReviewBacklog.toLocaleString()} awaiting deep review · ${grantsAudit.published.toLocaleString()} published` : "Full inventory, document review, and strict METSS publication gating configured."}</span>
+        <span><i /> Grants.gov connector {grantsSync.lastAttempt?.status === "success" ? "healthy" : grantsSync.lastAttempt?.status || "awaiting first sync"}</span>
+        <span>Last successful check: {formatSyncTime(grantsSync.lastSuccessfulCheckAt)}{grantsSync.lastAttempt ? ` · ${grantsSync.lastAttempt.counts.fetched.toLocaleString()} fetched · ${grantsSync.lastAttempt.counts.created.toLocaleString()} created · ${grantsSync.lastAttempt.counts.updated.toLocaleString()} updated · ${grantsSync.lastAttempt.counts.unchanged.toLocaleString()} unchanged · ${grantsSync.lastAttempt.counts.failed.toLocaleString()} failed` : ""}</span>
         <button type="button" onClick={() => jumpTo("opportunities")}>View API-screened pipeline →</button>
       </div>
 
@@ -303,7 +310,21 @@ export default function Home() {
               <label>Capability<select value={capability} onChange={(event) => setCapability(event.target.value)}><option>All capabilities</option>{capabilityCategories.map((item) => <option key={item}>{item}</option>)}</select></label>
               <label>Instrument<select value={instrument} onChange={(event) => setInstrument(event.target.value)}><option>All instruments</option><option>BAA</option><option>SBIR</option><option>Grant</option><option>Other</option></select></label>
               <label>Sort by<select value={sort} onChange={(event) => setSort(event.target.value as Sort)}><option value="fit">Best METSS fit</option><option value="deadline">Nearest deadline</option></select></label>
-              <div className="source-note"><strong>Displayed source coverage</strong><p>Opportunities: Grants.gov API only</p><p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records</p><p>Initial screening: {grantsAudit.initiallyScreened.toLocaleString()}</p><p>Deep-review backlog: {grantsAudit.deepReviewBacklog.toLocaleString()}</p><p>Incomplete document packages: {grantsAudit.incompleteDocumentReviews.toLocaleString()}</p><p>Official linked requirements: fail closed</p><p>Not displayed: rejected, incomplete, static, or SAM.gov listings</p></div>
+              <div className="source-note">
+                <strong>Grants.gov synchronization</strong>
+                <p>Source: public Grants.gov API only</p>
+                <p>Last successful check: {formatSyncTime(grantsSync.lastSuccessfulCheckAt)}</p>
+                {grantsSync.lastAttempt && <>
+                  <p>Last attempt: {grantsSync.lastAttempt.status} · started {formatSyncTime(grantsSync.lastAttempt.startedAt)} · completed {formatSyncTime(grantsSync.lastAttempt.completedAt)}</p>
+                  <p>Fetched {grantsSync.lastAttempt.counts.fetched.toLocaleString()} · created {grantsSync.lastAttempt.counts.created.toLocaleString()} · updated {grantsSync.lastAttempt.counts.updated.toLocaleString()}</p>
+                  <p>Unchanged {grantsSync.lastAttempt.counts.unchanged.toLocaleString()} · archived/closed {grantsSync.lastAttempt.counts.archivedOrClosed.toLocaleString()} · failed {grantsSync.lastAttempt.counts.failed.toLocaleString()}</p>
+                  <p>Pages: {grantsSync.lastAttempt.pagination.pagesSucceeded.toLocaleString()} of {grantsSync.lastAttempt.pagination.pagesRequested.toLocaleString()} · source results {grantsSync.lastAttempt.pagination.totalAvailable.toLocaleString()}</p>
+                </>}
+                <details className="sync-history"><summary>Recent sync history and errors</summary>{grantsSync.recentAttempts.length ? grantsSync.recentAttempts.slice(0, 5).map((attempt) => <div key={attempt.id}><b>{attempt.status}</b> · {formatSyncTime(attempt.completedAt || attempt.startedAt)} · {attempt.counts.fetched} fetched · {attempt.counts.failed} failed{attempt.errors.map((error, index) => <p className="sync-error" key={`${attempt.id}-${index}`}>{error.stage}{error.record ? ` (${error.record})` : ""}: {error.message}</p>)}</div>) : <p>No synchronization attempts recorded yet.</p>}</details>
+                <strong>Displayed screening coverage</strong>
+                <p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records · screened: {grantsAudit.initiallyScreened.toLocaleString()}</p>
+                <p>Not displayed: rejected, incomplete, static, or non-Grants.gov listings</p>
+              </div>
             </aside>
 
             <div className="results-column">

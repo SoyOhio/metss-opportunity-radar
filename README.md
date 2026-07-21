@@ -4,6 +4,32 @@ The site provides an evidence-controlled Grants.gov opportunity monitor for METS
 
 ## Grants.gov monitor
 
+The Phase A source connector uses only the public Grants.gov `search2` and
+`fetchOpportunity` endpoints. It follows every result page, retries bounded
+transient failures, isolates malformed detail records, and retains prior data
+when one record cannot be refreshed. The operational store remains the
+repository-backed JSON architecture already used by this project:
+
+- `monitor/grants-inventory.json` — current posted/forecasted search inventory.
+- `monitor/grants-source-records.json.gz` — normalized records plus the full
+  public search/detail source snapshots used for troubleshooting.
+- `monitor/grants-sync-history.json` — the latest 50 successful, partial,
+  failed, and recovered-interruption attempts.
+- `app/generated/grants-sync.json` — bounded public status/history displayed by
+  the existing tracker.
+
+Each source record is keyed by the official Grants.gov ID, preserves the
+official opportunity number and source URL, and records `firstRetrievedAt`,
+`lastCheckedAt`, `lastUpdatedAt`, and a canonical source hash. Set-like arrays
+are canonicalized before hashing so changes in API ordering do not create false
+updates. Missing source fields remain `null` or empty arrays.
+
+Run `npm run sync:grants` for a complete source sync. Run
+`npm run verify:grants` for the bounded live regression suite (12 current
+records with a five-row page size, an idempotent rerun, a forced stale-record
+update, an isolated failed record, one closed record, five source-link checks,
+and five independent detail comparisons). Neither command uses OpenAI.
+
 The production workflow is staged and exhaustive:
 
 1. A free daily inventory paginates through every posted and forecasted Grants.gov record without calling OpenAI.

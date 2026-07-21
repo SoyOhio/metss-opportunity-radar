@@ -1,44 +1,31 @@
-import { createHash } from "node:crypto";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { recoverInterruptedSyncs, runGrantsSync } from "./lib/grants-sync.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const OUTPUT_PATH = path.join(ROOT, "monitor", "grants-inventory.json");
-const API = "https://api.grants.gov/v1/api/search2";
+const paths = {
+  inventoryPath: process.env.GRANTS_INVENTORY_PATH || path.join(ROOT, "monitor", "grants-inventory.json"),
+  recordsPath: process.env.GRANTS_RECORDS_PATH || path.join(ROOT, "monitor", "grants-source-records.json.gz"),
+  historyPath: process.env.GRANTS_HISTORY_PATH || path.join(ROOT, "monitor", "grants-sync-history.json"),
+  statusPath: process.env.GRANTS_STATUS_PATH || path.join(ROOT, "app", "generated", "grants-sync.json"),
+};
 
-function hash(value) {
-  return createHash("sha256").update(JSON.stringify(value)).digest("hex");
-}
-
-async function page(startRecordNum, rows = 100) {
-  const response = await fetch(API, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({ rows, startRecordNum, oppStatuses: "forecasted|posted" })
-  });
-  if (!response.ok) throw new Error(`Grants.gov search2 returned ${response.status}`);
-  return response.json();
+if (process.env.GRANTS_SYNC_RECOVER_ONLY === "1") {
+  const recovered = await recoverInterruptedSyncs(paths);
+  console.log(recovered ? "Recorded interrupted Grants.gov synchronization." : "No interrupted synchronization required recovery.");
+  process.exit(0);
 }
 
-const first = await page(0);
-const total = Number(first?.data?.hitCount || 0);
-const hits = [...(first?.data?.oppHits || [])];
-for (let start = 100; start < total; start += 100) {
-  const result = await page(start);
-  hits.push(...(result?.data?.oppHits || []));
-}
-const records = [...new Map(hits.map((item) => [String(item.id), item])).values()]
-  .map((item) => ({ id: String(item.id), number: item.number, title: item.title, status: item.oppStatus, openDate: item.openDate, closeDate: item.closeDate, hash: hash(item) }));
-await mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-try {
-  const previous = JSON.parse(await readFile(OUTPUT_PATH, "utf8"));
-  if (hash(previous.records || []) === hash(records)) {
-    console.log(`No inventory change across ${records.length} current Grants.gov records.`);
-    process.exit(0);
-  }
-} catch {
-  // The first inventory run creates the file.
-}
-await writeFile(OUTPUT_PATH, `${JSON.stringify({ updatedAt: new Date().toISOString(), hitCount: total, records }, null, 2)}\n`);
-console.log(`Inventoried ${records.length} unique of ${total} current Grants.gov records without using OpenAI.`);
+const result = await runGrantsSync({
+  ...paths,
+  statuses: process.env.GRANTS_SYNC_STATUSES || "forecasted|posted",
+  rows: Number(process.env.GRANTS_SYNC_PAGE_SIZE || 100),
+  maxRecords: Number(process.env.GRANTS_SYNC_MAX_RECORDS || 0),
+  keyword: process.env.GRANTS_SYNC_KEYWORD || "",
+  concurrency: Number(process.env.GRANTS_SYNC_CONCURRENCY || 8),
+  detailDelayMs: Number(process.env.GRANTS_SYNC_DETAIL_DELAY_MS || 150),
+});
+
+const { counts, pagination, status, completedAt } = result.attempt;
+console.log(JSON.stringify({ status, completedAt, pagination, counts, errors: result.attempt.errors }, null, 2));
+if (status === "partial") console.warn("The synchronization completed with isolated record errors; see the committed sync history.");

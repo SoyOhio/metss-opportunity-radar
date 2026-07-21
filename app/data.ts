@@ -1,4 +1,5 @@
 import generatedGrants from "./generated/grants.json";
+import generatedGrantsSync from "./generated/grants-sync.json";
 
 export type Opportunity = {
   id: string;
@@ -52,6 +53,25 @@ export type GrantsAudit = {
   reviewRulesVersion?: string;
   expirationGraceDays: number;
   sourceStatuses: string;
+};
+
+export type GrantsSyncAttempt = {
+  id: string;
+  status: "running" | "success" | "partial" | "failed";
+  startedAt: string;
+  completedAt: string | null;
+  durationSeconds: number | null;
+  scope: { statuses: string; keyword: string | null; maxRecords: number | null; pageSize: number };
+  counts: { fetched: number; created: number; updated: number; unchanged: number; archivedOrClosed: number; failed: number };
+  pagination: { totalAvailable: number; target: number; uniqueResults: number; pagesRequested: number; pagesSucceeded: number; pagesFailed: number };
+  errors: { stage: string; record: string | null; message: string }[];
+};
+
+export type GrantsSyncStatus = {
+  source: string;
+  lastSuccessfulCheckAt: string | null;
+  lastAttempt: GrantsSyncAttempt | null;
+  recentAttempts: GrantsSyncAttempt[];
 };
 
 export type Vehicle = {
@@ -310,6 +330,8 @@ export const grantsAudit: GrantsAudit = generatedSnapshot.audit ?? {
   expirationGraceDays: 20,
   sourceStatuses: "posted|forecasted",
 };
+
+export const grantsSync = generatedGrantsSync as GrantsSyncStatus;
 
 // The displayed opportunity pipeline is source-pure: every record here came
 // from the scheduled Grants.gov API monitor and its evidence-backed AI review.
