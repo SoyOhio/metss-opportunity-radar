@@ -1,22 +1,47 @@
 {
-  "generatedAt": "2026-07-21T16:30:51.067Z",
-  "source": "Complete Grants.gov posted/forecasted inventory + full records + public documents",
+  "generatedAt": "2026-07-21T18:02:58.323Z",
+  "source": "Complete Grants.gov posted/forecasted inventory + official linked requirements + full public documents",
   "triageModel": "gpt-5.6-luna",
   "reviewModel": "gpt-5.6-terra",
   "audit": {
-    "generatedAt": "2026-07-21T16:30:51.067Z",
+    "generatedAt": "2026-07-21T18:02:58.323Z",
     "currentInventory": 1752,
     "fullyFetched": 1752,
     "initiallyScreened": 1752,
     "plausibleCandidates": 37,
-    "completeDocumentReviews": 19,
-    "incompleteDocumentReviews": 1,
-    "deepReviewBacklog": 17,
+    "completeDocumentReviews": 25,
+    "incompleteDocumentReviews": 6,
+    "deepReviewBacklog": 6,
     "published": 2,
     "rejectedAtInitialScreen": 1715,
-    "rejectedAtFinalGate": 18,
+    "rejectedAtFinalGate": 26,
     "fetchErrors": 0,
     "triageErrors": 0,
+    "screeningCycleComplete": false,
+    "budgetStopped": true,
+    "estimatedOpenAISpendUsd": 4.5445,
+    "maxEstimatedRunSpendUsd": 4.5,
+    "openAIUsage": {
+      "inputTokens": 2490831,
+      "outputTokens": 228936,
+      "totalTokens": 2719767,
+      "estimatedSpendUsd": 4.544523,
+      "byModel": {
+        "gpt-5.6-luna": {
+          "inputTokens": 2346165,
+          "outputTokens": 177483,
+          "totalTokens": 2523648,
+          "estimatedSpendUsd": 3.4110629999999995
+        },
+        "gpt-5.6-terra": {
+          "inputTokens": 144666,
+          "outputTokens": 51453,
+          "totalTokens": 196119,
+          "estimatedSpendUsd": 1.1334599999999997
+        }
+      }
+    },
+    "reviewRulesVersion": "metss-corporation-v2",
     "expirationGraceDays": 20,
     "sourceStatuses": "posted|forecasted"
   },
