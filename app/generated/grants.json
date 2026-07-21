@@ -1,24 +1,261 @@
 {
-  "generatedAt": "2026-07-21T00:00:00.000Z",
-  "source": "Complete Grants.gov posted/forecasted inventory pending first exhaustive screening run",
+  "generatedAt": "2026-07-21T16:30:51.067Z",
+  "source": "Complete Grants.gov posted/forecasted inventory + full records + public documents",
   "triageModel": "gpt-5.6-luna",
   "reviewModel": "gpt-5.6-terra",
   "audit": {
-    "generatedAt": "2026-07-21T00:00:00.000Z",
+    "generatedAt": "2026-07-21T16:30:51.067Z",
     "currentInventory": 1752,
-    "fullyFetched": 0,
-    "initiallyScreened": 0,
-    "plausibleCandidates": 0,
-    "completeDocumentReviews": 0,
-    "incompleteDocumentReviews": 0,
-    "deepReviewBacklog": 0,
-    "published": 0,
-    "rejectedAtInitialScreen": 0,
-    "rejectedAtFinalGate": 0,
+    "fullyFetched": 1752,
+    "initiallyScreened": 1752,
+    "plausibleCandidates": 37,
+    "completeDocumentReviews": 19,
+    "incompleteDocumentReviews": 1,
+    "deepReviewBacklog": 17,
+    "published": 2,
+    "rejectedAtInitialScreen": 1715,
+    "rejectedAtFinalGate": 18,
     "fetchErrors": 0,
     "triageErrors": 0,
     "expirationGraceDays": 20,
     "sourceStatuses": "posted|forecasted"
   },
-  "opportunities": []
+  "opportunities": [
+    {
+      "id": "ai-grants-361080",
+      "title": "ERDC Broad Agency Announcement",
+      "agency": "Engineer Research and Development Center",
+      "office": "Exhaustively screened Grants.gov record",
+      "number": "W912HZ26S0001",
+      "type": "Cooperative Agreement",
+      "status": "Open",
+      "due": "Due 2027-01-01",
+      "dueSort": "2027-01-01",
+      "fit": 58,
+      "titleIII": false,
+      "value": "$999,999,999",
+      "role": "Partner role to be determined",
+      "capabilities": [
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation",
+        "Domestic manufacturing",
+        "Critical chemicals"
+      ],
+      "summary": "This is a technically relevant, continuously open ERDC R&D BAA with an unrestricted applicant classification, but it is not yet a defined pursuit. METSS has evidence-backed adjacency in advanced materials, specialty chemistry and fluids, testing/validation, harsh-environment performance, and pilot-scale transition. The official record, however, provides no specific solicitation topic or submission package from which to establish a scoped work package, full eligibility, prime readiness, or funding fit. Investigate rather than pursue immediately. Timing: the record lists a January 1, 2027 response date and states that pre-proposals are reviewed throughout the year, subject to funding availability.",
+      "why": "ERDC seeks R&D across materials and structures, engineering and environmental processes, hazardous-waste treatment, physical/mechanical/chemical properties, infrastructure, and related military-engineering fields.: The synopsis expressly identifies these fields among ERDC's broad research areas and states that pre-proposals are sought for all identified research areas. (Official Grants.gov record) METSS has public capabilities relevant to potential ERDC materials, chemistry, environmental-process, and testing concepts.: The profile documents advanced materials; physical, organic, inorganic, and analytical chemistry; functional fluids; product/process development; chemical, physical, mechanical, environmental, performance, and materials-compatibility testing; and pilot-scale/light-manufacturing capability. (Approved METSS public profile) METSS has public past-performance examples that provide subject-matter adjacency for materials, fluids, chemical survivability, and domestic critical-chemical work.: Public examples include Non-PFAS Elastomeric Chemical Barrier Materials, Lubricating Oil Study, Vapor Purge and Chemical Agent Persistence in Aircraft, Aircraft and Sensitive Equipment CBRN Survivability Capability Development and Transition, and DPA Title III Critical Chemicals Production. (Approved METSS public profile) The opportunity is structurally open to a broad applicant population and remains open for pre-proposals during the stated announcement period.: Applicant type is listed as unrestricted; additional eligibility is blank; the synopsis states the announcement is continuously open and that pre-proposals may be submitted and reviewed throughout the year. The listed response date is January 1, 2027. (Official Grants.gov record)",
+      "action": "Retrieve and review the current ERDCWERX BAA materials referenced by the Official Grants.gov record, identify an active research area with a concrete METSS-led materials/chemistry/testing concept, and then verify METSS registration, submission, resource, and cooperative-agreement requirements before selecting prime or partner role.",
+      "eligibility": "CONDITIONAL: The Official Grants.gov record identifies applicants as unrestricted and lists no additional eligibility text. However, the record does not establish proposal submission requirements, registration requirements, cooperative-agreement terms, or any topic-specific restrictions available through the referenced ERDCWERX site. METSS's current SAM.gov registration, representations, applicable size status, resources, and intent to apply are unknown. Blocking or unverified requirements: METSS must verify current SAM.gov registration and required federal assistance representations before submission.; METSS must review the current ERDCWERX BAA materials, topic instructions, and submission requirements; those materials were not included in the reviewed document set.; METSS must confirm an ERDC research area and pre-proposal concept with a defined technical work package.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/361080",
+      "sourceLabel": "Grants.gov",
+      "verification": "Full-record screening with gpt-5.6-luna; final evaluation with gpt-5.6-terra; confidence medium. Reviewed all 0 listed public document(s): no separate documents listed. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Jan 22, 2026 09:35:25 AM EST",
+      "sourceHash": "d19de64d50625a25f23276099465abbdf63fe4b6cc706cda57a7c253147aa9ef",
+      "documentReviewComplete": true,
+      "analysis": {
+        "recommendation": "investigate",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "The Official Grants.gov record identifies applicants as unrestricted and lists no additional eligibility text. However, the record does not establish proposal submission requirements, registration requirements, cooperative-agreement terms, or any topic-specific restrictions available through the referenced ERDCWERX site. METSS's current SAM.gov registration, representations, applicable size status, resources, and intent to apply are unknown.",
+          "blocking_requirements": [
+            "METSS must verify current SAM.gov registration and required federal assistance representations before submission.",
+            "METSS must review the current ERDCWERX BAA materials, topic instructions, and submission requirements; those materials were not included in the reviewed document set.",
+            "METSS must confirm an ERDC research area and pre-proposal concept with a defined technical work package."
+          ]
+        },
+        "recommended_role": "partner_to_be_determined",
+        "scores": {
+          "technical_relevance": 72,
+          "past_performance_alignment": 61,
+          "execution_readiness": 43,
+          "strategic_relevance": 68,
+          "overall_pursuit_strength": 58
+        },
+        "title_iii_relevance": {
+          "relevant": false,
+          "rationale": "The opportunity is an ERDC science-and-technology broad agency announcement, not a DPA Title III opportunity. Its broad materials, environmental, hazardous-waste, infrastructure, and engineering scope may overlap with METSS strategic priorities, but the Official Grants.gov record does not identify Title III, domestic-production, or critical-chemical objectives."
+        },
+        "matching_capabilities": [
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation",
+          "Domestic manufacturing",
+          "Critical chemicals"
+        ],
+        "evidence": [
+          {
+            "claim": "ERDC seeks R&D across materials and structures, engineering and environmental processes, hazardous-waste treatment, physical/mechanical/chemical properties, infrastructure, and related military-engineering fields.",
+            "source": "Official Grants.gov record",
+            "support": "The synopsis expressly identifies these fields among ERDC's broad research areas and states that pre-proposals are sought for all identified research areas."
+          },
+          {
+            "claim": "METSS has public capabilities relevant to potential ERDC materials, chemistry, environmental-process, and testing concepts.",
+            "source": "Approved METSS public profile",
+            "support": "The profile documents advanced materials; physical, organic, inorganic, and analytical chemistry; functional fluids; product/process development; chemical, physical, mechanical, environmental, performance, and materials-compatibility testing; and pilot-scale/light-manufacturing capability."
+          },
+          {
+            "claim": "METSS has public past-performance examples that provide subject-matter adjacency for materials, fluids, chemical survivability, and domestic critical-chemical work.",
+            "source": "Approved METSS public profile",
+            "support": "Public examples include Non-PFAS Elastomeric Chemical Barrier Materials, Lubricating Oil Study, Vapor Purge and Chemical Agent Persistence in Aircraft, Aircraft and Sensitive Equipment CBRN Survivability Capability Development and Transition, and DPA Title III Critical Chemicals Production."
+          },
+          {
+            "claim": "The opportunity is structurally open to a broad applicant population and remains open for pre-proposals during the stated announcement period.",
+            "source": "Official Grants.gov record",
+            "support": "Applicant type is listed as unrestricted; additional eligibility is blank; the synopsis states the announcement is continuously open and that pre-proposals may be submitted and reviewed throughout the year. The listed response date is January 1, 2027."
+          }
+        ],
+        "gaps": [
+          "No ERDCWERX BAA attachment, research-topic list, pre-proposal template, evaluation criteria, or cooperative-agreement terms was included in the complete document-review findings.",
+          "The Official Grants.gov record is broad and does not identify a specific current topic, sponsor need, funding availability, award size, performance period, or defined METSS work package.",
+          "METSS's current SAM.gov registration, representations, size/socioeconomic status, available personnel, equipment capacity, proposal budget, indirect rates, and willingness to prime or subcontract are unknown.",
+          "No evidence establishes that METSS independently meets any topic-specific compliance, security, data-rights, export-control, or cost requirements that may appear in the linked ERDCWERX materials."
+        ],
+        "partner_needs": [
+          "An ERDC mission-area lead or technical partner may be useful if the selected concept requires domain depth outside METSS's documented chemistry, materials, testing, and scale-up scope.",
+          "A university, environmental-engineering, geotechnical, hydrology, infrastructure, or computational partner may be needed depending on the specific ERDC topic selected.",
+          "No partner commitment, partner eligibility, or partner need is proven until the active ERDCWERX topic materials are reviewed and a METSS concept is selected."
+        ],
+        "summary": "This is a technically relevant, continuously open ERDC R&D BAA with an unrestricted applicant classification, but it is not yet a defined pursuit. METSS has evidence-backed adjacency in advanced materials, specialty chemistry and fluids, testing/validation, harsh-environment performance, and pilot-scale transition. The official record, however, provides no specific solicitation topic or submission package from which to establish a scoped work package, full eligibility, prime readiness, or funding fit. Investigate rather than pursue immediately. Timing: the record lists a January 1, 2027 response date and states that pre-proposals are reviewed throughout the year, subject to funding availability.",
+        "immediate_action": "Retrieve and review the current ERDCWERX BAA materials referenced by the Official Grants.gov record, identify an active research area with a concrete METSS-led materials/chemistry/testing concept, and then verify METSS registration, submission, resource, and cooperative-agreement requirements before selecting prime or partner role.",
+        "confidence": "medium",
+        "caveats": [
+          "No documents were included in the complete document-review findings; conclusions are limited to the Official Grants.gov record and Approved METSS public profile.",
+          "The Grants.gov synopsis directs applicants to ERDCWERX for research-topic and submission details, but that linked content was not reviewed and cannot be treated as evidence here.",
+          "The broad BAA response date and continuous-open language do not prove that funds are currently available for a particular concept.",
+          "Technical relevance does not establish METSS's legal, administrative, financial, or program eligibility."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-355150",
+      "title": "ARMY APPLICATIONS LAB BROAD AGENCY ANNOUNCEMENT FOR DISRUPTIVE APPLICATIONS",
+      "agency": "Dept of the Army -- Materiel Command",
+      "office": "Exhaustively screened Grants.gov record",
+      "number": "W911NF-24-S-0008",
+      "type": "Cooperative Agreement / Grant / Other / Procurement Contract",
+      "status": "Open",
+      "due": "Due 2029-04-04",
+      "dueSort": "2029-04-04",
+      "fit": 55,
+      "titleIII": true,
+      "value": "Not stated",
+      "role": "Prime",
+      "capabilities": [
+        "CBRN / decon",
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation",
+        "Domestic manufacturing",
+        "Critical chemicals"
+      ],
+      "summary": "This is a technically adjacent, continuously open Army applied-research BAA rather than a defined procurement requirement. METSS has evidence-backed relevance for a narrowly framed protection, chemical/materials, CBRN survivability, decontamination, harsh-environment, testing/validation, or domestic scale-up concept. The record does not prove that such a topic is currently funded or sought, nor does it establish METSS's administrative and instrument-specific eligibility. Investigation is warranted before committing bid and proposal resources; a generic response based only on broad Army modernization keywords should not be pursued.",
+      "why": "The BAA seeks basic and applied research, early-stage technology demonstrations, translational research, and dual-use commercialization supporting Army modernization and future-force needs.: Pages 6–10 describe AAL discovery, acceleration, translation, disruptive-innovation, dual-use, and continuously open research structure. (AAL BAA W911NF-24-S-0008.pdf) The BAA expressly includes protection, contested logistics, sensing, power and energy, signature reduction, and related materials-science-relevant disciplines among its areas of interest.: Pages 11–16 identify the Army modernization technical areas; pages 20–21 identify chemistry, life sciences, materials science, mechanical sciences, and environmental sciences as eligible scientific disciplines. (AAL BAA W911NF-24-S-0008.pdf) METSS has public capabilities potentially applicable to a protection-focused or materials/chemistry-based applied-R&D concept, including chemical-protective materials, polymers, coatings, adhesives, harsh-environment materials, formulation, and product development.: The Advanced materials and Chemistry and functional fluids capability sections describe chemical-protective materials, polymers, coatings, adhesives, specialty chemistry, harsh-environment materials, formulation, sample analysis, and product development. (Approved METSS public profile) METSS has public testing, CBRN, and survivability capabilities that could support an evidence-backed research work package if a current AAL topic accepts such a concept.: The Testing and validation and Microbiology and CBRN capability sections identify compatibility, environmental, performance, chemical and biological field testing, decontamination evaluation, agent persistence, and sensitive-equipment survivability work. (Approved METSS public profile)",
+      "action": "Check the current AAL website for active ongoing or special topics and request/identify the appropriate AAL technical contact. Proceed only if a current topic supports a concrete METSS-led applied-R&D concept with a defensible Army use case and measurable disruptive improvement. In parallel, obtain internal verification of SAM/UEI status, intended prime/subcontract posture, resource availability, budget/indirect-rate readiness, disclosure information, and any export-control or security constraints before submitting a whitepaper.",
+      "eligibility": "CONDITIONAL: METSS Corporation is a for-profit organization, a permitted applicant category under the BAA. However, eligibility for submission and award remains conditional because the reviewed materials require an active SAM registration and valid UEI, and may require recipient-qualification, contractor-responsibility, disclosure, export-control, security, and instrument-specific determinations. The approved METSS public profile does not establish these items. Blocking or unverified requirements: Active SAM registration and valid UEI are required for applicable submissions and must remain active during consideration or award; METSS status is unknown.; Recipient qualification or contractor-responsibility determinations, as applicable to the selected award instrument, are not established by the public profile.; The applicable instrument is unknown; Research OT or Prototype OTA eligibility, including potentially applicable cost-sharing conditions, must be confirmed if AAL selects an OTA pathway.; Required current-and-pending-support, representations, certifications, disclosure-preference, and conflict-of-interest information must be completed and supportable.; Any work involving controlled unclassified information, classified access, export-controlled technology, human subjects, or animal research may create requirements not established by the public profile.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/355150",
+      "sourceLabel": "Grants.gov",
+      "verification": "Full-record screening with gpt-5.6-luna; final evaluation with gpt-5.6-terra; confidence medium. Reviewed all 1 listed public document(s): AAL BAA W911NF-24-S-0008.pdf. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "Jun 26, 2024 12:06:30 PM EDT",
+      "sourceHash": "ce6ba5dede737776a66536ab97ec1e70338c81541ad54bd68769207f1a06563a",
+      "documentReviewComplete": true,
+      "analysis": {
+        "recommendation": "investigate",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "METSS Corporation is a for-profit organization, a permitted applicant category under the BAA. However, eligibility for submission and award remains conditional because the reviewed materials require an active SAM registration and valid UEI, and may require recipient-qualification, contractor-responsibility, disclosure, export-control, security, and instrument-specific determinations. The approved METSS public profile does not establish these items.",
+          "blocking_requirements": [
+            "Active SAM registration and valid UEI are required for applicable submissions and must remain active during consideration or award; METSS status is unknown.",
+            "Recipient qualification or contractor-responsibility determinations, as applicable to the selected award instrument, are not established by the public profile.",
+            "The applicable instrument is unknown; Research OT or Prototype OTA eligibility, including potentially applicable cost-sharing conditions, must be confirmed if AAL selects an OTA pathway.",
+            "Required current-and-pending-support, representations, certifications, disclosure-preference, and conflict-of-interest information must be completed and supportable.",
+            "Any work involving controlled unclassified information, classified access, export-controlled technology, human subjects, or animal research may create requirements not established by the public profile."
+          ]
+        },
+        "recommended_role": "prime",
+        "scores": {
+          "technical_relevance": 65,
+          "past_performance_alignment": 60,
+          "execution_readiness": 45,
+          "strategic_relevance": 65,
+          "overall_pursuit_strength": 55
+        },
+        "title_iii_relevance": {
+          "relevant": true,
+          "rationale": "The BAA is not identified as a DPA Title III solicitation and does not specifically seek critical-chemical production. It is strategically adjacent to METSS's public DPA Title III and domestic-industrial-base priorities because it seeks disruptive applied R&D, technology translation, dual-use commercialization, and may support prototyping or transition. A Title III production work package is not evidenced by the reviewed BAA."
+        },
+        "matching_capabilities": [
+          "CBRN / decon",
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation",
+          "Domestic manufacturing",
+          "Critical chemicals"
+        ],
+        "evidence": [
+          {
+            "claim": "The BAA seeks basic and applied research, early-stage technology demonstrations, translational research, and dual-use commercialization supporting Army modernization and future-force needs.",
+            "source": "AAL BAA W911NF-24-S-0008.pdf",
+            "support": "Pages 6–10 describe AAL discovery, acceleration, translation, disruptive-innovation, dual-use, and continuously open research structure."
+          },
+          {
+            "claim": "The BAA expressly includes protection, contested logistics, sensing, power and energy, signature reduction, and related materials-science-relevant disciplines among its areas of interest.",
+            "source": "AAL BAA W911NF-24-S-0008.pdf",
+            "support": "Pages 11–16 identify the Army modernization technical areas; pages 20–21 identify chemistry, life sciences, materials science, mechanical sciences, and environmental sciences as eligible scientific disciplines."
+          },
+          {
+            "claim": "METSS has public capabilities potentially applicable to a protection-focused or materials/chemistry-based applied-R&D concept, including chemical-protective materials, polymers, coatings, adhesives, harsh-environment materials, formulation, and product development.",
+            "source": "Approved METSS public profile",
+            "support": "The Advanced materials and Chemistry and functional fluids capability sections describe chemical-protective materials, polymers, coatings, adhesives, specialty chemistry, harsh-environment materials, formulation, sample analysis, and product development."
+          },
+          {
+            "claim": "METSS has public testing, CBRN, and survivability capabilities that could support an evidence-backed research work package if a current AAL topic accepts such a concept.",
+            "source": "Approved METSS public profile",
+            "support": "The Testing and validation and Microbiology and CBRN capability sections identify compatibility, environmental, performance, chemical and biological field testing, decontamination evaluation, agent persistence, and sensitive-equipment survivability work."
+          },
+          {
+            "claim": "METSS has relevant public past-performance examples in chemical barriers, CBRN survivability, decontamination-related work, materials, critical chemicals, and pilot-scale/light-manufacturing capabilities.",
+            "source": "Approved METSS public profile",
+            "support": "Public past-performance examples include Non-PFAS Elastomeric Chemical Barrier Materials; Vapor Purge and Chemical Agent Persistence in Aircraft; Aircraft and Sensitive Equipment CBRN Survivability Capability Development and Transition; DPA Title III Critical Chemicals Production; and Critical Supply Chain Production of Energetic Materials and Associated Precursors."
+          },
+          {
+            "claim": "For-profit organizations, including large and small businesses, are eligible applicants, but SAM/UEI and award-qualification requirements apply.",
+            "source": "Official Grants.gov record",
+            "support": "The Additional Eligibility field states that for-profit organizations, including large and small businesses, are eligible for scientific research in BAA areas."
+          },
+          {
+            "claim": "The normal submission path requires a whitepaper or qualifying demonstration presentation before a full proposal; current topics and funding availability must be checked through AAL channels.",
+            "source": "AAL BAA W911NF-24-S-0008.pdf",
+            "support": "Pages 21–26 establish the preliminary whitepaper/qualifying-demonstration process and AAL website submission; pages 6–10 state the continuously open structure and that topics are subject to relevance and funding availability."
+          }
+        ],
+        "gaps": [
+          "The BAA is broad, and no supplied current AAL ongoing topic or special topic specifically requests chemical-protective materials, CBRN survivability, decontamination, functional fluids, critical chemicals, or METSS's other public capability areas.",
+          "A concept must demonstrate the BAA's stated disruptive improvement standard, approximately 2–4 times improvement over current or planned Army capabilities; no METSS-specific performance evidence supporting that threshold was supplied.",
+          "METSS public profile does not establish active SAM registration, UEI, representations, responsibility status, available personnel, facility/equipment capacity, schedule availability, indirect rates, proposal budget, or cost-sharing capacity.",
+          "The specific award instrument, funding amount, award duration, Government technical sponsor, and current funding availability are unknown.",
+          "The profile does not establish export-control registrations, clearances, CMMC status, or the ability to perform any classified or CUI-restricted requirement, should such requirements arise.",
+          "No publicly supported METSS concept, technical objectives, Army use case, current/end-state TRL, milestones, schedule, or cost estimate has been provided for the required whitepaper."
+        ],
+        "partner_needs": [
+          "No partner is presently required for a plausible METSS prime whitepaper focused on materials, chemistry, CBRN/decontamination, testing, or scale-up research.",
+          "If the selected current topic requires autonomy, AI/ML, networking, sensing hardware, PNT, quantum, space, or other areas not evidenced in the METSS profile, a qualified technical partner would be needed or METSS should decline that topic.",
+          "If a proposed effort requires specialized Army operational validation, classified/CUI access, human-subjects work, animal research, or resources beyond METSS's confirmed public facilities, identify an appropriately qualified partner only after verifying the requirement and METSS's role."
+        ],
+        "summary": "This is a technically adjacent, continuously open Army applied-research BAA rather than a defined procurement requirement. METSS has evidence-backed relevance for a narrowly framed protection, chemical/materials, CBRN survivability, decontamination, harsh-environment, testing/validation, or domestic scale-up concept. The record does not prove that such a topic is currently funded or sought, nor does it establish METSS's administrative and instrument-specific eligibility. Investigation is warranted before committing bid and proposal resources; a generic response based only on broad Army modernization keywords should not be pursued.",
+        "immediate_action": "Check the current AAL website for active ongoing or special topics and request/identify the appropriate AAL technical contact. Proceed only if a current topic supports a concrete METSS-led applied-R&D concept with a defensible Army use case and measurable disruptive improvement. In parallel, obtain internal verification of SAM/UEI status, intended prime/subcontract posture, resource availability, budget/indirect-rate readiness, disclosure information, and any export-control or security constraints before submitting a whitepaper.",
+        "confidence": "medium",
+        "caveats": [
+          "The official Grants.gov response date is 4 April 2029, but the approved METSS profile expressly prohibits treating a broad BAA closing date as proof that a current topic is accepting submissions.",
+          "Funding availability, topic priority, special-topic deadlines, award instrument, award size, period of performance, and selection likelihood are not specified for a METSS-relevant concept.",
+          "The reviewed document notes an apparent solicitation-number inconsistency in attachment-title instructions; clarify the current instruction with AAL before a formal submission.",
+          "A favorable whitepaper evaluation or invitation to submit a full proposal is not an award commitment.",
+          "This assessment uses only the Official Grants.gov record, the reviewed PDF findings, and the Approved METSS public profile; it does not verify current AAL website postings or METSS nonpublic eligibility facts."
+        ]
+      }
+    }
+  ]
 }

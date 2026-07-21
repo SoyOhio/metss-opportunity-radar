@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T15:47:32.053Z",
+  "updatedAt": "2026-07-21T16:30:51.067Z",
   "hitCount": 1752,
   "records": [
     {
@@ -14673,15 +14673,6 @@
       "hash": "e8664c301c3eade699842383697188f3eb6859e0e8c01604c0e1150ad4860288"
     },
     {
-      "id": "363229",
-      "number": "NOAA-NOS-OCM-2026-33239",
-      "title": "National Estuarine Research Reserve System (NERRS) Land Acquisition and Construction Program for Fiscal Year 2026",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "09/18/2026",
-      "hash": "49959407e7f3fc9658baf1be31950a4e4fe13b04f22f01ee28f5e50c999edf01"
-    },
-    {
       "id": "362805",
       "number": "OFOP0003000",
       "title": "Combating Transnational Criminal Organizations through Data-Driven Analysis and Customized Investigative Mentoring",
@@ -15690,15 +15681,6 @@
       "hash": "6bbe06b22380d5e5dce93ea3692976c13fcce3d5615f49fef4acacc426e268ed"
     },
     {
-      "id": "363254",
-      "number": "O-BJA-2026-172657",
-      "title": "BJA FY 2026 Invited to Apply &ndash; Public Safety Officers&rsquo; Benefits (PSOB) Support Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "07/21/2026",
-      "hash": "874ae6d69c1a58c92764f9b693d28b8572551ef5c6e529918028638339c24ed2"
-    },
-    {
       "id": "363077",
       "number": "TASHKENT-PDS-FY26-003",
       "title": "English Language Teaching and Learning Program",
@@ -15769,6 +15751,24 @@
       "openDate": "07/21/2026",
       "closeDate": "07/23/2026",
       "hash": "13bb8e4910fb0ab2c95aab0473f3ccb1d0abf4fd1b43478e40712eafbf6687f1"
+    },
+    {
+      "id": "363229",
+      "number": "NOAA-NOS-OCM-2026-33239",
+      "title": "National Estuarine Research Reserve System (NERRS) Land Acquisition and Construction Program for Fiscal Year 2026",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "09/18/2026",
+      "hash": "49959407e7f3fc9658baf1be31950a4e4fe13b04f22f01ee28f5e50c999edf01"
+    },
+    {
+      "id": "363254",
+      "number": "O-BJA-2026-172657",
+      "title": "BJA FY 2026 Invited to Apply &ndash; Public Safety Officers&rsquo; Benefits (PSOB) Support Program",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "07/22/2026",
+      "hash": "bfd9cd1504e3452591af86901f2225f1e343390d22c49273738804dbbe47dbcd"
     }
   ]
 }
