@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       max_records:
-        description: "Maximum records for a bounded manual test (blank = all current records)"
+        description: "Maximum records for a manual test (0 = all current records)"
         required: false
         default: "12"
       page_size:
@@ -22,8 +22,6 @@ on:
   schedule:
     # Production schedule: every day at 10:23 UTC.
     - cron: "23 10 * * *"
-    # Temporary Phase A.1 unattended-run verification; remove after evidence is captured.
-    - cron: "5 20 * * *"
 
 permissions:
   contents: write
