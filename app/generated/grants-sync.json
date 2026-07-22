@@ -1,12 +1,12 @@
 {
   "source": "Grants.gov public API",
-  "lastSuccessfulCheckAt": "2026-07-21T20:37:28.999Z",
+  "lastSuccessfulCheckAt": "2026-07-22T12:09:35.895Z",
   "lastAttempt": {
-    "id": "grants-2026-07-21T20:36:22.968Z-ca235d97",
+    "id": "grants-2026-07-22T12:08:27.152Z-629c98c6",
     "status": "success",
-    "startedAt": "2026-07-21T20:36:22.968Z",
-    "completedAt": "2026-07-21T20:37:28.999Z",
-    "durationSeconds": 66,
+    "startedAt": "2026-07-22T12:08:27.152Z",
+    "completedAt": "2026-07-22T12:09:35.895Z",
+    "durationSeconds": 69,
     "scope": {
       "statuses": "forecasted|posted",
       "keyword": null,
@@ -14,30 +14,66 @@
       "pageSize": 100
     },
     "counts": {
-      "fetched": 1753,
-      "created": 0,
-      "updated": 1,
-      "unchanged": 1752,
-      "removedFromActive": 1,
-      "archivedOrClosed": 1,
+      "fetched": 1758,
+      "created": 6,
+      "updated": 11,
+      "unchanged": 1741,
+      "removedFromActive": 9,
+      "archivedOrClosed": 9,
       "failed": 0
     },
     "pagination": {
-      "totalAvailable": 1752,
-      "target": 1752,
-      "uniqueResults": 1752,
+      "totalAvailable": 1749,
+      "target": 1749,
+      "uniqueResults": 1749,
       "pagesRequested": 18,
       "pagesSucceeded": 18,
       "pagesFailed": 0
     },
     "integrity": {
-      "storedRecords": 1753,
+      "storedRecords": 1759,
       "duplicateIds": 0,
       "duplicateOpportunityNumbers": 0
     },
     "errors": []
   },
   "recentAttempts": [
+    {
+      "id": "grants-2026-07-22T12:08:27.152Z-629c98c6",
+      "status": "success",
+      "startedAt": "2026-07-22T12:08:27.152Z",
+      "completedAt": "2026-07-22T12:09:35.895Z",
+      "durationSeconds": 69,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1758,
+        "created": 6,
+        "updated": 11,
+        "unchanged": 1741,
+        "removedFromActive": 9,
+        "archivedOrClosed": 9,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1749,
+        "target": 1749,
+        "uniqueResults": 1749,
+        "pagesRequested": 18,
+        "pagesSucceeded": 18,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 1759,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 0
+      },
+      "errors": []
+    },
     {
       "id": "grants-2026-07-21T20:36:22.968Z-ca235d97",
       "status": "success",
