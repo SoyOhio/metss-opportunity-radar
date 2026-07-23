@@ -57,15 +57,18 @@ jobs:
           GRANTS_SYNC_KEYWORD: ${{ github.event_name == 'workflow_dispatch' && inputs.keyword || '' }}
         run: node scripts/inventory-grants.mjs
 
+      - name: Reconcile inventory and screening coverage
+        run: node scripts/update-grants-coverage.mjs
+
       - name: Save inventory changes
         run: |
-          if git diff --quiet -- monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json; then
+          if git diff --quiet -- monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json app/generated/grants-coverage.json; then
             echo "No Grants.gov inventory changes."
             exit 0
           fi
           git config user.name "METSS Opportunity Monitor"
           git config user.email "actions@users.noreply.github.com"
-          git add monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json
+          git add monitor/grants-inventory.json monitor/grants-source-records.json.gz monitor/grants-sync-history.json app/generated/grants-sync.json app/generated/grants-coverage.json
           git commit -m "Synchronize Grants.gov source records"
           git pull --rebase
           git push
