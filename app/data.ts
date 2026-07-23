@@ -1,4 +1,5 @@
 import generatedGrants from "./generated/grants.json";
+import generatedGrantsCoverage from "./generated/grants-coverage.json";
 import generatedGrantsSync from "./generated/grants-sync.json";
 
 export type Opportunity = {
@@ -62,8 +63,9 @@ export type GrantsSyncAttempt = {
   completedAt: string | null;
   durationSeconds: number | null;
   scope: { statuses: string; keyword: string | null; maxRecords: number | null; pageSize: number };
-  counts: { fetched: number; created: number; updated: number; unchanged: number; archivedOrClosed: number; failed: number };
+  counts: { fetched: number; created: number; updated: number; unchanged: number; removedFromActive?: number; archivedOrClosed: number; failed: number };
   pagination: { totalAvailable: number; target: number; uniqueResults: number; pagesRequested: number; pagesSucceeded: number; pagesFailed: number };
+  integrity?: { storedRecords: number; duplicateIds: number; duplicateOpportunityNumbers: number };
   errors: { stage: string; record: string | null; message: string }[];
 };
 
@@ -72,6 +74,30 @@ export type GrantsSyncStatus = {
   lastSuccessfulCheckAt: string | null;
   lastAttempt: GrantsSyncAttempt | null;
   recentAttempts: GrantsSyncAttempt[];
+};
+
+export type HistoricalOpportunityNumberReuse = {
+  grantsGovId: string;
+  opportunityNumber: string;
+  title: string;
+  status: string;
+  sourceUrl: string;
+};
+
+export type GrantsCoverage = {
+  generatedAt: string;
+  inventoryCheckedAt: string | null;
+  screeningSnapshotAt: string | null;
+  screeningCriteriaVersion: string | null;
+  currentActiveSourceRecords: number;
+  historicalSourceRecords: number;
+  previouslyScreenedSnapshotRecords: number;
+  currentRecordsCoveredBySnapshot: number;
+  currentRecordsRequiringScreening: number;
+  newRecordsRequiringScreening: number;
+  changedRecordsRequiringScreening: number;
+  publishedMetssMatches: number;
+  historicalOpportunityNumberReuses: HistoricalOpportunityNumberReuse[][];
 };
 
 export type Vehicle = {
@@ -332,6 +358,7 @@ export const grantsAudit: GrantsAudit = generatedSnapshot.audit ?? {
 };
 
 export const grantsSync = generatedGrantsSync as GrantsSyncStatus;
+export const grantsCoverage = generatedGrantsCoverage as GrantsCoverage;
 
 // The displayed opportunity pipeline is source-pure: every record here came
 // from the scheduled Grants.gov API monitor and its evidence-backed AI review.

@@ -11,6 +11,7 @@
     "start": "next start",
     "lint": "eslint . --ignore-pattern .next",
     "sync:grants": "node scripts/inventory-grants.mjs",
+    "coverage:grants": "node scripts/update-grants-coverage.mjs",
     "verify:grants": "node scripts/verify-grants-sync.mjs"
   },
   "dependencies": {

@@ -4,6 +4,7 @@ import { FormEvent, useEffect, useMemo, useState } from "react";
 import {
   capabilityCategories,
   grantsAudit,
+  grantsCoverage,
   grantsSync,
   opportunities,
   Opportunity,
@@ -46,6 +47,9 @@ export default function Home() {
   const [selectedPartnerOpportunity, setSelectedPartnerOpportunity] = useState(opportunities[0]?.id ?? "");
   const [partnerKind, setPartnerKind] = useState("All partner types");
   const [storageReady, setStorageReady] = useState(false);
+  const currentScreeningCoverage = grantsCoverage.currentActiveSourceRecords
+    ? Math.floor((grantsCoverage.currentRecordsCoveredBySnapshot / grantsCoverage.currentActiveSourceRecords) * 100)
+    : 0;
 
   useEffect(() => {
     const timer = window.setTimeout(() => {
@@ -230,7 +234,7 @@ export default function Home() {
           <div className="metrics" aria-label="Opportunity summary">
             <div><span className="metric-icon">↗</span><strong>{opportunities.length}</strong><small>API-connected, AI-screened matches</small></div>
             <div><span className="metric-icon">✓</span><strong>{grantsAudit.completeDocumentReviews}</strong><small>Complete candidate reviews</small></div>
-            <div><span className="metric-icon">●</span><strong>{grantsAudit.currentInventory && grantsAudit.currentInventory === grantsAudit.initiallyScreened ? "100%" : "Live"}</strong><small>Current Grants.gov inventory screened</small></div>
+            <div><span className="metric-icon">●</span><strong>{currentScreeningCoverage}%</strong><small>Current records covered by prior screening</small></div>
           </div>
         </div>
 
@@ -321,9 +325,15 @@ export default function Home() {
                   <p>Pages: {grantsSync.lastAttempt.pagination.pagesSucceeded.toLocaleString()} of {grantsSync.lastAttempt.pagination.pagesRequested.toLocaleString()} · source results {grantsSync.lastAttempt.pagination.totalAvailable.toLocaleString()}</p>
                 </>}
                 <details className="sync-history"><summary>Recent sync history and errors</summary>{grantsSync.recentAttempts.length ? grantsSync.recentAttempts.slice(0, 5).map((attempt) => <div key={attempt.id}><b>{attempt.status}</b> · {formatSyncTime(attempt.completedAt || attempt.startedAt)} · {attempt.counts.fetched} fetched · {attempt.counts.failed} failed{attempt.errors.map((error, index) => <p className="sync-error" key={`${attempt.id}-${index}`}>{error.stage}{error.record ? ` (${error.record})` : ""}: {error.message}</p>)}</div>) : <p>No synchronization attempts recorded yet.</p>}</details>
-                <strong>Displayed screening coverage</strong>
-                <p>Inventory: {grantsAudit.currentInventory.toLocaleString()} current records · screened: {grantsAudit.initiallyScreened.toLocaleString()}</p>
-                <p>Not displayed: rejected, incomplete, static, or non-Grants.gov listings</p>
+                <strong>Source inventory</strong>
+                <p>Current active posted/forecasted: {grantsCoverage.currentActiveSourceRecords.toLocaleString()} · historical source records retained: {grantsCoverage.historicalSourceRecords.toLocaleString()}</p>
+                <p>Historical opportunity-number reuse: {grantsCoverage.historicalOpportunityNumberReuses.length.toLocaleString()} · duplicate official IDs: {grantsSync.lastAttempt?.integrity?.duplicateIds?.toLocaleString() ?? "not reported"}</p>
+                <strong>Screening coverage</strong>
+                <p>Prior snapshot ({formatSyncTime(grantsCoverage.screeningSnapshotAt)}): {grantsCoverage.previouslyScreenedSnapshotRecords.toLocaleString()} records screened</p>
+                <p>Current records still covered by that snapshot: {grantsCoverage.currentRecordsCoveredBySnapshot.toLocaleString()} · requiring new or updated screening: {grantsCoverage.currentRecordsRequiringScreening.toLocaleString()}</p>
+                <p>Backlog detail: {grantsCoverage.newRecordsRequiringScreening.toLocaleString()} new · {grantsCoverage.changedRecordsRequiringScreening.toLocaleString()} changed · published METSS matches: {grantsCoverage.publishedMetssMatches.toLocaleString()}</p>
+                <p>The screening snapshot is historical. No new AI screening was run to update these synchronization counts.</p>
+                <p>Not displayed as matches: rejected, incomplete, static, or non-Grants.gov listings</p>
               </div>
             </aside>
 

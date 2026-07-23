@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-07-23T20:46:49.203Z",
+  "inventoryCheckedAt": "2026-07-23T12:06:29.725Z",
+  "screeningSnapshotAt": "2026-07-21T18:14:40.434Z",
+  "screeningCriteriaVersion": "metss-corporation-v2",
+  "currentActiveSourceRecords": 1745,
+  "historicalSourceRecords": 1779,
+  "previouslyScreenedSnapshotRecords": 1752,
+  "currentRecordsCoveredBySnapshot": 1135,
+  "currentRecordsRequiringScreening": 610,
+  "newRecordsRequiringScreening": 27,
+  "changedRecordsRequiringScreening": 583,
+  "publishedMetssMatches": 5,
+  "historicalOpportunityNumberReuses": [
+    [
+      {
+        "grantsGovId": "363234",
+        "opportunityNumber": "OFOP0002652",
+        "title": "Transatlantic Partnership Program",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363234"
+      },
+      {
+        "grantsGovId": "363273",
+        "opportunityNumber": "OFOP0002652",
+        "title": "Transatlantic Partnership Program",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363273"
+      }
+    ]
+  ]
+}
