@@ -1,17 +1,49 @@
 {
-  "generatedAt": "2026-07-23T20:46:49.203Z",
-  "inventoryCheckedAt": "2026-07-23T12:06:29.725Z",
+  "generatedAt": "2026-07-24T11:59:08.614Z",
+  "inventoryCheckedAt": "2026-07-24T11:59:05.570Z",
   "screeningSnapshotAt": "2026-07-21T18:14:40.434Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1745,
-  "historicalSourceRecords": 1779,
+  "currentActiveSourceRecords": 1733,
+  "historicalSourceRecords": 1788,
   "previouslyScreenedSnapshotRecords": 1752,
-  "currentRecordsCoveredBySnapshot": 1135,
-  "currentRecordsRequiringScreening": 610,
-  "newRecordsRequiringScreening": 27,
-  "changedRecordsRequiringScreening": 583,
+  "currentRecordsCoveredBySnapshot": 1120,
+  "currentRecordsRequiringScreening": 613,
+  "newRecordsRequiringScreening": 36,
+  "changedRecordsRequiringScreening": 577,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
+    [
+      {
+        "grantsGovId": "363013",
+        "opportunityNumber": "DFOP0018712",
+        "title": "NEA/AC Regional Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363013"
+      },
+      {
+        "grantsGovId": "363300",
+        "opportunityNumber": "DFOP0018712",
+        "title": "NEA/AC Regional Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363300"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363197",
+        "opportunityNumber": "DFOP0019391",
+        "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363197"
+      },
+      {
+        "grantsGovId": "363297",
+        "opportunityNumber": "DFOP0019391",
+        "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363297"
+      }
+    ],
     [
       {
         "grantsGovId": "363234",
