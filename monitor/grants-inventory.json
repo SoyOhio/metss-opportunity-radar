@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T11:59:05.570Z",
-  "hitCount": 1733,
+  "updatedAt": "2026-07-25T11:39:33.435Z",
+  "hitCount": 1718,
   "records": [
     {
       "id": "141593",
@@ -6231,15 +6231,6 @@
       "hash": "df1718e5db4cb9c8e6642335fb4c185fb84f632d2c1c7b89e65c79c50540a4d0"
     },
     {
-      "id": "361009",
-      "number": "26-502",
-      "title": "NSF Trailblazer Engineering Impact Award",
-      "status": "posted",
-      "openDate": "12/12/2025",
-      "closeDate": "07/24/2026",
-      "hash": "c218d2e753f75877777936b76c9d05e3cd6e39545adfde88b5b67b94cf4c3f0f"
-    },
-    {
       "id": "342959",
       "number": "22-624",
       "title": "Astronomy and Astrophysics Research Grants",
@@ -7932,15 +7923,6 @@
       "hash": "8bfeef65c3a0eafc7dc5c1a7708b04fbbd11f47f7e0f1cbc35afe2e4c08c64fa"
     },
     {
-      "id": "361628",
-      "number": "DE-FOA-0003548",
-      "title": "Unleashing Tribal Energy Development",
-      "status": "posted",
-      "openDate": "03/25/2026",
-      "closeDate": "07/24/2026",
-      "hash": "719eaeb01a4092ef18dbf43ee92f60d7d1a25868c0e5f89dfd2d5f67dc38ef3e"
-    },
-    {
       "id": "362277",
       "number": "PAR-27-089",
       "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
@@ -8355,15 +8337,6 @@
       "hash": "6a6e57e827732dffa1c9ee6ecd52a23228b9190ad4784f316811448c55b180c9"
     },
     {
-      "id": "361999",
-      "number": "CPD-2600-DC-0025",
-      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
-      "status": "posted",
-      "openDate": "06/01/2026",
-      "closeDate": "08/26/2026",
-      "hash": "e4361b1dd2182601a037c5b194137d60a2f7f0329d8aff74e29412f780e364d5"
-    },
-    {
       "id": "359949",
       "number": "RFA-HD-27-006",
       "title": "Novel Experiential Technologies Assisting Individual Learning (NExT AI) Hubs (P20 Clinical Trial Optional)",
@@ -8479,15 +8452,6 @@
       "openDate": "06/02/2026",
       "closeDate": "",
       "hash": "9679b5b3e5b60e839a38530e240051d0666b607b1d5da5af540454d17bdf946a"
-    },
-    {
-      "id": "362636",
-      "number": "O-OVW-2026-172579",
-      "title": "OVW Fiscal Year 2026 Rural Domestic Violence, Dating Violence, Sexual Assault, and Stalking Grant Program (Rural Grant Program)",
-      "status": "posted",
-      "openDate": "06/01/2026",
-      "closeDate": "07/24/2026",
-      "hash": "06339b044525e46a5d78fbcfc3e2a8e1a812142cdfd1d8fd5ff70167822c125b"
     },
     {
       "id": "357812",
@@ -8994,42 +8958,6 @@
       "hash": "b3a61e092e030749a62580870ea124919113b50c695ece026e4d7496e6cbdc55"
     },
     {
-      "id": "362067",
-      "number": "HHS-2026-ACF-OCS-ET-0031",
-      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
-      "status": "forecasted",
-      "openDate": "04/27/2026",
-      "closeDate": "",
-      "hash": "20168b914d102de62faa7394d3bb68d30909568cbf10d6c43c0f8bd4114a6ae2"
-    },
-    {
-      "id": "362068",
-      "number": "HHS-2026-ACF-OCS-ET-0030",
-      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
-      "status": "forecasted",
-      "openDate": "04/27/2026",
-      "closeDate": "",
-      "hash": "7cb699083fe536f9f3085038af259035902f80434bbddb42500ea8f72d06b43e"
-    },
-    {
-      "id": "362069",
-      "number": "HHS-2026-ACF-OCS-ET-0029",
-      "title": "Community Services Block Grant (CSBG) Communities of Practice (COP)",
-      "status": "forecasted",
-      "openDate": "04/27/2026",
-      "closeDate": "",
-      "hash": "496861e0dfbd680ad2e6b1dec643b903ed86c90772ee7cac62586200c69b97c7"
-    },
-    {
-      "id": "362070",
-      "number": "HHS-2026-ACF-OCS-ET-0028",
-      "title": "Community Services Block Grant (CSBG) Tribal Capacity Building Training and Technical Assistance (TCBTTA)",
-      "status": "forecasted",
-      "openDate": "04/27/2026",
-      "closeDate": "",
-      "hash": "7bf51385a33ae58bb3d94ad3e4239bd14b242d6e44976695ccd3863ff0c981d5"
-    },
-    {
       "id": "362097",
       "number": "RFA-AT-27-002",
       "title": "Establishing a Research Network to Guide Foundational Research on Human Consciousness",
@@ -9154,15 +9082,6 @@
       "openDate": "04/29/2026",
       "closeDate": "10/11/2026",
       "hash": "fab7857887af298d9a92b0f1f3a870f64271fef0974f9fc2f97a63cfcf8327af"
-    },
-    {
-      "id": "362147",
-      "number": "HHS-2026-ACF-OPRE-PV-0114",
-      "title": "Reflective Supervision in Home Visiting Research Awards",
-      "status": "forecasted",
-      "openDate": "04/30/2026",
-      "closeDate": "",
-      "hash": "d0152f44d33d5d8a93db2761c29ba14f191ed135afcd22ad585e332ef6941289"
     },
     {
       "id": "358863",
@@ -9406,15 +9325,6 @@
       "openDate": "06/09/2026",
       "closeDate": "",
       "hash": "200f7ea9cc6409bacc4e0bd887252d5c05beb06261a3be65299b2eec698752ad"
-    },
-    {
-      "id": "362728",
-      "number": "BIA-IBIP-OIED-2026",
-      "title": "BIA-IBIP-OIED-2026",
-      "status": "posted",
-      "openDate": "06/09/2026",
-      "closeDate": "07/24/2026",
-      "hash": "2c1bb3141be230f4024e7bd02ad74601632e8aa6041a306a4bfd04a02d4747d4"
     },
     {
       "id": "360441",
@@ -10371,15 +10281,6 @@
       "hash": "47df1a442d69476dac3f389d48e01a1ce8ef795c9d50a3c414b4d3ea350fee75"
     },
     {
-      "id": "362830",
-      "number": "OFOP0002992",
-      "title": "U.S. Embassy Bridgetown: EducationUSA Eastern Caribbean Regional Advising Program",
-      "status": "posted",
-      "openDate": "06/16/2026",
-      "closeDate": "07/24/2026",
-      "hash": "d50037dcca70565b9de0cf5946cb9a01cd07350a4ba04968b0563e3c3791c224"
-    },
-    {
       "id": "362843",
       "number": "2026-NTIA-TBCP",
       "title": "Tribal Broadband Connectivity Program",
@@ -10423,15 +10324,6 @@
       "openDate": "04/15/2026",
       "closeDate": "",
       "hash": "d596b8df02f80a24b055386b8ea56d5b49b0531b20b492e30e97085134fdfae2"
-    },
-    {
-      "id": "362839",
-      "number": "HHS-2026-ACF-OCS-EAH-0027",
-      "title": "Affordable Housing and Supportive Services Demonstration",
-      "status": "forecasted",
-      "openDate": "06/17/2026",
-      "closeDate": "",
-      "hash": "db17c48bf7026c798f176823da9c29266aedcd2a277e7986340b551db6e974a6"
     },
     {
       "id": "360978",
@@ -10659,15 +10551,6 @@
       "hash": "f351141b0b14b7ca28be71e001014b2e20466b37d2e71be2dbec7d857e8fa311"
     },
     {
-      "id": "362937",
-      "number": "OFOP0003124",
-      "title": "2026 U.S. Speaker Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "42bdefba292daa724544ae0888fe95ac28fc77f136942b789e0de18952a1c07d"
-    },
-    {
       "id": "362852",
       "number": "HT942526KCRPCA",
       "title": "DoW Kidney Cancer, Concept Award",
@@ -10693,24 +10576,6 @@
       "openDate": "04/14/2026",
       "closeDate": "12/15/2026",
       "hash": "60e925f06f203c46d953b8095c336e675fe2a008dd8355777b0a0c03e894ed03"
-    },
-    {
-      "id": "362923",
-      "number": "DHS-26-GPD-057-00-97",
-      "title": "Fiscal Year 2026 Intercity Bus Security Grant Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "a1c39f8a97ba46ddd249dd510bee64576adb76c2053aec33e96983e7fad8fe5f"
-    },
-    {
-      "id": "362931",
-      "number": "DHS-26-GPD-157-00-98",
-      "title": "Fiscal Year 2026 Intercity Passenger Rail Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "aadf9014e8004f7609a3a627660d777cadc8d72432d27645cc44da9f6bade0f8"
     },
     {
       "id": "362957",
@@ -10812,15 +10677,6 @@
       "hash": "fd9fe95ea89533171d95421a42ee50614c866a06d0faa635ffe8b33f136e59c2"
     },
     {
-      "id": "362941",
-      "number": "G26AS00149",
-      "title": "Cooperative Agreement for affiliated Partner with the Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "e16413f018d000bcce31f2a6d0010b62e9d5dbd6148aabffcf6c0cb62d5fdf86"
-    },
-    {
       "id": "362958",
       "number": "RFA-AI-28-010",
       "title": "Translational Transplantation Tolerance Cooperative Study Group",
@@ -10846,15 +10702,6 @@
       "openDate": "06/24/2026",
       "closeDate": "11/18/2026",
       "hash": "6387c926da081a7dda63aa72eb591a5d1211466eb95a3821365ac16583dee951"
-    },
-    {
-      "id": "360711",
-      "number": "CDC-RFA-JG-26-0143",
-      "title": "Enhancing sustainable health information and laboratory systems and networks for quality detection, management, and monitoring to end HIV and TB as public health threats in India",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "19445b5d9a1457700eb79b90b2d9c4a6a179769601a29466ffaa61d9d7b57b54"
     },
     {
       "id": "362857",
@@ -11289,15 +11136,6 @@
       "hash": "6aae10ae5e252d90527d34e5b3794be29cf3b2549a0509c59f9ab323c1897acf"
     },
     {
-      "id": "360991",
-      "number": "HRSA-26-082",
-      "title": "Rural Health Network Advancement Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "07174736068a2c145eae404e101f8a8c200a30ecc30d8f396b71f93d0c0359ea"
-    },
-    {
       "id": "360561",
       "number": "RFA-DA-27-007",
       "title": "Limited Competition: Growing Great Ideas: Research Education Course in Entrepreneurship and Product Development for Researchers Studying Drug Use, Drug Misuse, and Drug Addiction (UE5 Clinical Trial Not Allowed)",
@@ -11305,15 +11143,6 @@
       "openDate": "06/23/2026",
       "closeDate": "10/01/2026",
       "hash": "99c431c17350a488dfa9ddb505e1339fe4504e1a2f1700786abf24b9a073d925"
-    },
-    {
-      "id": "362933",
-      "number": "WH-AST-26-003",
-      "title": "NAVIGATE Reproductive Center of Excellence (Network for Assessment, Validation, Innovation, Guidance, Access, Treatment and Evaluation)",
-      "status": "posted",
-      "openDate": "06/23/2026",
-      "closeDate": "07/24/2026",
-      "hash": "df6727fd102e05b5fd4efe3b763d05eb34a80bb9a3195312f05dc3d1f6225853"
     },
     {
       "id": "362902",
@@ -11406,15 +11235,6 @@
       "hash": "986fc7e295a1e4f610279a22e4eb6d47b60d354adc400a1f51446197298a299e"
     },
     {
-      "id": "362985",
-      "number": "CDFI-2026-BEA",
-      "title": "FY 2026 Bank Enterprise Award Program Application",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "07/24/2026",
-      "hash": "d374b1402fb940568cb5baa5f1cf3bfa481757277a724ca3a36942c09d59a0c6"
-    },
-    {
       "id": "362984",
       "number": "2027FCAHDOM02",
       "title": "NEA Arts and Artifacts Domestic Indemnity Program 2, FY2027 (12/26)",
@@ -11467,15 +11287,6 @@
       "openDate": "06/25/2026",
       "closeDate": "",
       "hash": "7a932a45480a2f555b0830217ee78823f865fee00f050d5fba6032d330a4ab95"
-    },
-    {
-      "id": "362966",
-      "number": "WH-AST-26-004",
-      "title": "Medical Forensic Access Initiative",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "07/27/2026",
-      "hash": "89afadd1799f78fe75f93aba9a804d8c337fddf6851839c74f6660d595c03842"
     },
     {
       "id": "362978",
@@ -12216,15 +12027,6 @@
       "hash": "3541954dbd464944c8babaa94a7f85e53670ab5263168269cd99990a3ab5366b"
     },
     {
-      "id": "363075",
-      "number": "USDA-2026-001",
-      "title": "Solicitation of Input from Stakeholder on Title II Food for Peace Non-Emergency Programming",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "07/24/2026",
-      "hash": "5b2e1d23ca4ddd53d4a661a8fc381f7841d7e617ef45634bde2455c2c29b3bb0"
-    },
-    {
       "id": "362035",
       "number": "DE-FOA-0003623",
       "title": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
@@ -12331,15 +12133,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "741263db2b1b47d3e856cc4ab2b7e648b1897fa9e3504ffb0b22dcfc6352c33f"
-    },
-    {
-      "id": "363164",
-      "number": "O-BJA-2026-172653",
-      "title": "OJP FY 2026 Special Attorneys Program Round 5",
-      "status": "posted",
-      "openDate": "07/13/2026",
-      "closeDate": "07/24/2026",
-      "hash": "1ee125fe4262c89f8e5d49ae7a26164f1a1b490ffe8c44e1a0643882c5d203ae"
     },
     {
       "id": "362731",
@@ -12513,15 +12306,6 @@
       "hash": "7884c65a403d2f7437ab587b64d4116f621178e39ddbbeb8667018cac16a3ab5"
     },
     {
-      "id": "362971",
-      "number": "USDA-FNA-CN-TIG-2026",
-      "title": "FY 2026 CN Technology Innovation Grant for Child and Adult Care Food Program Integrity",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "07/31/2026",
-      "hash": "026b71587d3a557108956280978446445c8981c4764b9a1df3f0abcb7832abcd"
-    },
-    {
       "id": "360874",
       "number": "RFA-AI-27-004",
       "title": "Atopic Dermatitis Research Network (ADRN) (U19 Clinical Trial Optional)",
@@ -12556,15 +12340,6 @@
       "openDate": "05/11/2026",
       "closeDate": "08/06/2026",
       "hash": "3db93db955ac168e02ecdaef4d38f2b4f6fbb734110b107c89276d79f09baea3"
-    },
-    {
-      "id": "362802",
-      "number": "USDA-NIFA-OP-011980",
-      "title": "Research Facilities Act Program",
-      "status": "posted",
-      "openDate": "06/15/2026",
-      "closeDate": "07/24/2026",
-      "hash": "57d332676371086d0786d298b31ddeffbd340fd7298328e94957a0db77cc4f5b"
     },
     {
       "id": "363015",
@@ -12718,15 +12493,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "25622d69b67e0c5937e61e56ba5c339fd972727a3d067bf792760617b810d8c9"
-    },
-    {
-      "id": "363005",
-      "number": "BIA-IHSP-2026-005",
-      "title": "Indian Highway Safety Traffic Records Forum Grant",
-      "status": "posted",
-      "openDate": "06/29/2026",
-      "closeDate": "07/24/2026",
-      "hash": "6062c34d7206ed0a4a27965a966326e30f75ea5867e34fc408175bf0189b5be2"
     },
     {
       "id": "363055",
@@ -13015,15 +12781,6 @@
       "openDate": "07/15/2026",
       "closeDate": "08/14/2026",
       "hash": "f7ae901c0bc9eeef98f7cfaa4af06665a7eaf3a92b24d6f0fed63f342f2cc502"
-    },
-    {
-      "id": "362925",
-      "number": "DHS-26-GPD-008-00-99",
-      "title": "Fiscal Year 2026 Nonprofit Security Grant Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "f43eb598b990ca916bde06b846c4dafe55bb5fa987eae04b9faf1e5dc66c67cc"
     },
     {
       "id": "363210",
@@ -13386,15 +13143,6 @@
       "hash": "db772bdfb3f40c06d3011b2b97a3628c2f75015f680904c52ed477de292209c3"
     },
     {
-      "id": "363264",
-      "number": "USDA-NIFA-OP-012079",
-      "title": "Farm and Ranch Stress Assistance Network",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "08/10/2026",
-      "hash": "204e4fbe93e4a098746ca88a4893208b2096064bd7546aeaff712ee2463199fc"
-    },
-    {
       "id": "363272",
       "number": "HRSA-27-062",
       "title": "Centers of Excellence (COE)",
@@ -13438,15 +13186,6 @@
       "openDate": "07/22/2026",
       "closeDate": "08/21/2026",
       "hash": "4584352bb9e1f0d30aaa90b622650d8b505360c360521a48f10e806ecd0e2ae8"
-    },
-    {
-      "id": "363288",
-      "number": "USDA-NRCS-NHQ-WMBP-NOFO0001458",
-      "title": "Wetland Mitigation Banking Program Fiscal Year (FY) 2026",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/08/2026",
-      "hash": "5f43b1d6703e46db6466434713ef0f37a32664ffe28fcf93d945eb147a04230e"
     },
     {
       "id": "363291",
@@ -14034,15 +13773,6 @@
       "hash": "777804f5ce851369c5d180e486ab4a932ab691e4cfa5f9c48a57b424c0deff83"
     },
     {
-      "id": "362932",
-      "number": "DHS-26-GPD-067-00-98",
-      "title": "Fiscal Year 2026 Homeland Security Grant Program (HSGP)",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "ce662280f67b9d20e5a1c7b24f23725da0411b2884b0a9edc83e9a4017ac7fa0"
-    },
-    {
       "id": "361914",
       "number": "HHS-2026-ACF-ACYF-CF-0004",
       "title": "Kinship Navigator Programs: Evaluations",
@@ -14212,15 +13942,6 @@
       "openDate": "05/08/2026",
       "closeDate": "08/06/2026",
       "hash": "66ed55f00c6f9d933e1898d3d00d33fcd130b75fa05936dfe2c53420fb31e766"
-    },
-    {
-      "id": "361234",
-      "number": "NNH25ZDA001N-HFR",
-      "title": "ROSES25: B.2 Heliophysics Foundational Research",
-      "status": "posted",
-      "openDate": "02/03/2026",
-      "closeDate": "08/31/2026",
-      "hash": "eb32febe68cda3434fb77ca9dd3a52124d80b87e913e836e1b8116894774e060"
     },
     {
       "id": "360003",
@@ -14448,15 +14169,6 @@
       "hash": "a0a351feabea21f1b4afa840054d211bc484e74214e57e385680fc71a7e3f210"
     },
     {
-      "id": "363065",
-      "number": "DE-FOA-0003627",
-      "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/08/2026",
-      "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
-    },
-    {
       "id": "363154",
       "number": "SB-OEDWB-26-002",
       "title": "SBA WBC Modernization Initiative FY26",
@@ -14601,15 +14313,6 @@
       "hash": "f76eb5d98f8c593b4fd31920170668459290f02d488424356db1fd51432ca391"
     },
     {
-      "id": "363026",
-      "number": "USDA-FNA-2026-TNTG",
-      "title": "FY 2026 Team Nutrition Training Grants",
-      "status": "posted",
-      "openDate": "07/01/2026",
-      "closeDate": "07/31/2026",
-      "hash": "e287a05531909b63242fb4e2264d559fed2c9f6ac629293ae141789e25bb186a"
-    },
-    {
       "id": "363060",
       "number": "PDS-CAIRO-003-FY26",
       "title": "Empowering English Educators",
@@ -14682,15 +14385,6 @@
       "hash": "e0b2662baeec676192d1c8180966671cb77a2803697fbbe8056b436707ae85a6"
     },
     {
-      "id": "362824",
-      "number": "DHS-26-GPD-056-00-99",
-      "title": "Fiscal Year 2026 Port Security Grant Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "1de91f26a04fdf6e64abe40c7b314a02fc0ec11351e7b20ea66d93841cf02836"
-    },
-    {
       "id": "362970",
       "number": "IR-ORI-26-003",
       "title": "Ensuring Research Integrity &ndash; Program Development and Evaluation Program (PDE)",
@@ -14700,24 +14394,6 @@
       "hash": "1b0777338bbcc046ab3bcbfaa8f1fef01ba25548377c69bbd62bbc9c7c85b5b4"
     },
     {
-      "id": "363088",
-      "number": "USDA-NIFA-OP-012058",
-      "title": "Rural Cooperative Development Grants",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "07/24/2026",
-      "hash": "0ec0442370c6e01c47707a6d02c2facc556f7f182da2a3141a71a5de0e946c1b"
-    },
-    {
-      "id": "362926",
-      "number": "DHS-26-GPD-075-00-99",
-      "title": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "0d223e30c7ede0be162a0ba97aea2860138c3f9cc0b88f3148be43c87ac0e10a"
-    },
-    {
       "id": "361969",
       "number": "HHS-2026-ACF-ACYF-CO-0041",
       "title": "A Network for Connection, Healing, and Ongoing Resources",
@@ -14725,15 +14401,6 @@
       "openDate": "07/07/2026",
       "closeDate": "08/06/2026",
       "hash": "e754421c050f3b65a5913ff830b6da8b76285eeee04203c9f5d016f2e9ec8197"
-    },
-    {
-      "id": "362927",
-      "number": "DHS-26-GPD-150-00-99",
-      "title": "Fiscal Year 2026 Tribal Homeland Security Grant Program",
-      "status": "posted",
-      "openDate": "06/24/2026",
-      "closeDate": "07/24/2026",
-      "hash": "37471b8834919b0fb7aeea1ebd52867f31c9c0e44c86afc80cf8869dbb100595"
     },
     {
       "id": "362713",
@@ -15492,67 +15159,13 @@
       "hash": "44125332e5de4197c6a86acad51e474c631c0ceb70a6911b1be315f5873b73a3"
     },
     {
-      "id": "362956",
-      "number": "TRIBALSAFETY-OSTR24",
-      "title": "Tribal Transportation Safety Strategy Pilot Program",
+      "id": "363306",
+      "number": "F27AS00008",
+      "title": "F27AS00008-NAWCA 2027-1 US Standard Grants",
       "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "08/28/2026",
-      "hash": "2e25ca08af80599cf9785637d1e5774d21a2bbbcc11f2809848841278041d628"
-    },
-    {
-      "id": "363188",
-      "number": "DHS-26-NPD-107-00-01",
-      "title": "Fiscal Year 2026 National Incident Management System (NIMS)",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "08/20/2026",
-      "hash": "e8664c301c3eade699842383697188f3eb6859e0e8c01604c0e1150ad4860288"
-    },
-    {
-      "id": "362071",
-      "number": "HHS-2026-ACF-ACYF-CY-0016",
-      "title": "&#8203;&#8203;FY 2026 Basic Center Program&#8203;",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "08/17/2026",
-      "hash": "b41ebb5583697077ada30c39d8c2b10386d50187716a7157b1034e125f5b57d1"
-    },
-    {
-      "id": "362088",
-      "number": "HHS-2026-ACF-ACYF-YO-0044",
-      "title": "Street Outreach Program (SOP)",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "08/17/2026",
-      "hash": "4865e09fd1c22846e1cda55ec22a90e9bec4be0259df8c73a039962827fd05a0"
-    },
-    {
-      "id": "363300",
-      "number": "DFOP0018712",
-      "title": "NEA/AC Regional Annual Program Statement",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/30/2026",
-      "hash": "fa70fd347cf63c5d4a476fe66d33c422aa5c01b130a9e01e873d6ce5ef78e11c"
-    },
-    {
-      "id": "362099",
-      "number": "HHS-2026-ACF-ACYF-YY-0119",
-      "title": "The Primary Prevention Youth Homelessness Demonstration Program",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "08/17/2026",
-      "hash": "2784e7f11a6c3881f57eb0bd632ce60707ed8563f54417af73456fec9d1d7f9f"
-    },
-    {
-      "id": "363297",
-      "number": "DFOP0019391",
-      "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/16/2026",
-      "hash": "b06cec6da98cfc1307401e4ddbdcb67dce42c4de1ad6b0c639336b869bdf865e"
+      "openDate": "07/24/2026",
+      "closeDate": "09/25/2026",
+      "hash": "a0b2bc4eef0a486296ab7991d8bd11880b6e7207029b143563ba7c15c1861ff2"
     },
     {
       "id": "363302",
@@ -15564,13 +15177,103 @@
       "hash": "4884aed1a60b127f2d9cb6d98cce752f7b6c75acfbeadd56894507baa169e8fd"
     },
     {
-      "id": "363228",
-      "number": "DFOP0019193",
-      "title": "Pax Silica Artificial Intelligence Assistance Project",
+      "id": "362071",
+      "number": "HHS-2026-ACF-ACYF-CY-0016",
+      "title": "&#8203;&#8203;FY 2026 Basic Center Program&#8203;",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "08/17/2026",
+      "hash": "b41ebb5583697077ada30c39d8c2b10386d50187716a7157b1034e125f5b57d1"
+    },
+    {
+      "id": "362971",
+      "number": "USDA-FNA-CN-TIG-2026",
+      "title": "FY 2026 CN Technology Innovation Grant for Child and Adult Care Food Program Integrity",
+      "status": "posted",
+      "openDate": "06/25/2026",
+      "closeDate": "07/31/2026",
+      "hash": "026b71587d3a557108956280978446445c8981c4764b9a1df3f0abcb7832abcd"
+    },
+    {
+      "id": "362088",
+      "number": "HHS-2026-ACF-ACYF-YO-0044",
+      "title": "Street Outreach Program (SOP)",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "08/17/2026",
+      "hash": "4865e09fd1c22846e1cda55ec22a90e9bec4be0259df8c73a039962827fd05a0"
+    },
+    {
+      "id": "362099",
+      "number": "HHS-2026-ACF-ACYF-YY-0119",
+      "title": "The Primary Prevention Youth Homelessness Demonstration Program",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "08/17/2026",
+      "hash": "2784e7f11a6c3881f57eb0bd632ce60707ed8563f54417af73456fec9d1d7f9f"
+    },
+    {
+      "id": "363026",
+      "number": "USDA-FNA-2026-TNTG",
+      "title": "FY 2026 Team Nutrition Training Grants",
+      "status": "posted",
+      "openDate": "07/01/2026",
+      "closeDate": "07/31/2026",
+      "hash": "e287a05531909b63242fb4e2264d559fed2c9f6ac629293ae141789e25bb186a"
+    },
+    {
+      "id": "362933",
+      "number": "WH-AST-26-003",
+      "title": "NAVIGATE Reproductive Center of Excellence (Network for Assessment, Validation, Innovation, Guidance, Access, Treatment and Evaluation)",
+      "status": "posted",
+      "openDate": "06/23/2026",
+      "closeDate": "08/05/2026",
+      "hash": "5f96bb26ce4aa0faea02718241e681375c68dda2ceef6dd21133ba0da0e97912"
+    },
+    {
+      "id": "363305",
+      "number": "O-COPS-2026-172655",
+      "title": "FY 2026 COPS Office-NHTSA Impaired Driving Curricula Invitational Program",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/31/2026",
+      "hash": "4e9710ad5457fa252cbd70d791fca4e23b656958f1a1e7eae2cc74a6a8059335"
+    },
+    {
+      "id": "363288",
+      "number": "USDA-NRCS-NHQ-WMBP-NOFO0001458",
+      "title": "Wetland Mitigation Banking Program Fiscal Year (FY) 2026",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "09/08/2026",
+      "hash": "5f43b1d6703e46db6466434713ef0f37a32664ffe28fcf93d945eb147a04230e"
+    },
+    {
+      "id": "363297",
+      "number": "DFOP0019391",
+      "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "09/16/2026",
+      "hash": "b06cec6da98cfc1307401e4ddbdcb67dce42c4de1ad6b0c639336b869bdf865e"
+    },
+    {
+      "id": "363188",
+      "number": "DHS-26-NPD-107-00-01",
+      "title": "Fiscal Year 2026 National Incident Management System (NIMS)",
       "status": "posted",
       "openDate": "07/17/2026",
       "closeDate": "08/20/2026",
-      "hash": "bb026a9c21d55904db01d6896924d7d7b97c00d1eef9e4660d6b53879d4d860a"
+      "hash": "e8664c301c3eade699842383697188f3eb6859e0e8c01604c0e1150ad4860288"
+    },
+    {
+      "id": "362956",
+      "number": "TRIBALSAFETY-OSTR24",
+      "title": "Tribal Transportation Safety Strategy Pilot Program",
+      "status": "posted",
+      "openDate": "06/30/2026",
+      "closeDate": "08/28/2026",
+      "hash": "2e25ca08af80599cf9785637d1e5774d21a2bbbcc11f2809848841278041d628"
     },
     {
       "id": "363255",
@@ -15582,6 +15285,15 @@
       "hash": "1fb9a67c92af2a8a8aae79d7349a95e3638e3aab814d01eafa449d52f546baf3"
     },
     {
+      "id": "363300",
+      "number": "DFOP0018712",
+      "title": "NEA/AC Regional Annual Program Statement",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "09/30/2026",
+      "hash": "fa70fd347cf63c5d4a476fe66d33c422aa5c01b130a9e01e873d6ce5ef78e11c"
+    },
+    {
       "id": "363304",
       "number": "RFA-FD-26-014",
       "title": "Federal and University Partnership to Improve the Safety of Seafood from the Gulf of America",
@@ -15591,13 +15303,166 @@
       "hash": "68f2735d64d7b3fe94395c8b713733211731ca90d675b922734945c3ca1b4403"
     },
     {
-      "id": "362683",
-      "number": "O-OVW-2026-172440",
-      "title": "OVW Calendar Year 2025 Special Tribal Criminal Jurisdiction Reimbursement Program",
+      "id": "361234",
+      "number": "NNH25ZDA001N-HFR",
+      "title": "ROSES25: B.2 Heliophysics Foundational Research",
       "status": "posted",
-      "openDate": "06/04/2026",
-      "closeDate": "07/24/2026",
-      "hash": "bf787c2a66490c8ac53880cc0d8fac30758c0aa0e53e558b8ad7111bf7e5d7b5"
+      "openDate": "02/03/2026",
+      "closeDate": "09/25/2026",
+      "hash": "8aa13721484efb95badf08284fa85ec95a3e99f8e30d3ac0d0e5719f701b8a6b"
+    },
+    {
+      "id": "363312",
+      "number": "DFOP0019193",
+      "title": "Pax Silica Artificial Intelligence Assistance Project",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/20/2026",
+      "hash": "a81d549d1493091d9fa02df9633becaefd5bbd78ae28c95affad64ecb725ce29"
+    },
+    {
+      "id": "362966",
+      "number": "WH-AST-26-004",
+      "title": "Medical Forensic Access Initiative",
+      "status": "posted",
+      "openDate": "06/25/2026",
+      "closeDate": "08/05/2026",
+      "hash": "4fd266a9ff98ff6006986f2f124caa929aa8ad67e3edc0c894622d25e08403b1"
+    },
+    {
+      "id": "362646",
+      "number": "SB-OIIFT-26-001",
+      "title": "Federal and State Technology (FAST) Partnership Program",
+      "status": "posted",
+      "openDate": "06/02/2026",
+      "closeDate": "07/29/2026",
+      "hash": "5fb5becc974bfbb8a0604b8a3344b5128c9baf983431f23b69ca836b6dbce9ae"
+    },
+    {
+      "id": "363313",
+      "number": "CDC-RFA-DD-27-0028",
+      "title": "Maternal-Child Surveillance and Partnerships for Action, Results, and Knowledge",
+      "status": "forecasted",
+      "openDate": "07/24/2026",
+      "closeDate": "",
+      "hash": "0d1d75173e9a5a361acac1013df0aa0fbdd94c9ac0793e69ddb8e6b12f4f8ba9"
+    },
+    {
+      "id": "363264",
+      "number": "USDA-NIFA-OP-012079",
+      "title": "Farm and Ranch Stress Assistance Network",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "08/10/2026",
+      "hash": "204e4fbe93e4a098746ca88a4893208b2096064bd7546aeaff712ee2463199fc"
+    },
+    {
+      "id": "363309",
+      "number": "RFA-DP-27-036",
+      "title": "Pilot Testing, Implementation, and Evaluation of the Cervical, Breast and Colorectal Cancer Clinical Decision Support Tools",
+      "status": "forecasted",
+      "openDate": "07/24/2026",
+      "closeDate": "",
+      "hash": "50d1ad864008bdea53bbdb65b7ee4d96f8c4d04eebb2bd41e6e82c7f5c431a6a"
+    },
+    {
+      "id": "363310",
+      "number": "CDC-RFA-PS-27-0239",
+      "title": "Strengthening Services to Prevent the Infectious Disease Consequences of Drug Use",
+      "status": "forecasted",
+      "openDate": "07/24/2026",
+      "closeDate": "",
+      "hash": "c680b7dd065ccd48d221169ee9b33345b1e8fa8a0d3ed8e0aeb011c2c5f5ca62"
+    },
+    {
+      "id": "363308",
+      "number": "O-BJA-2026-172662",
+      "title": "U.S. Department of Justice FY26 Coordinated Tribal Assistance Solicitation Notice of Funding Opportunity",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "10/15/2026",
+      "hash": "3d70176d03af7b1292324ea3428bc738099d1fc3ebb922f0932481c38a9ceb27"
+    },
+    {
+      "id": "363065",
+      "number": "DE-FOA-0003627",
+      "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
+      "status": "posted",
+      "openDate": "07/06/2026",
+      "closeDate": "09/08/2026",
+      "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
+    },
+    {
+      "id": "362839",
+      "number": "HHS-2026-ACF-OCS-EAH-0027",
+      "title": "Affordable Housing and Supportive Services Demonstration",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "4c0233098a3b25c861816411715e77ea072ff7b03b939abdce3fc7c18ca52ab6"
+    },
+    {
+      "id": "361999",
+      "number": "CPD-2600-DC-0025",
+      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
+      "status": "posted",
+      "openDate": "06/01/2026",
+      "closeDate": "08/26/2026",
+      "hash": "e4361b1dd2182601a037c5b194137d60a2f7f0329d8aff74e29412f780e364d5"
+    },
+    {
+      "id": "362067",
+      "number": "HHS-2026-ACF-OCS-ET-0031",
+      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "5d0e079a70cbb16214162460803435d8e337d84930c3cf230b4aae660a3d213e"
+    },
+    {
+      "id": "362070",
+      "number": "HHS-2026-ACF-OCS-ET-0028",
+      "title": "Community Services Block Grant (CSBG) Tribal Capacity Building Training and Technical Assistance (TCBTTA)",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "60fd4616c335c471828f15ca466c2795412f4a85bec3e120ec430b6329793bac"
+    },
+    {
+      "id": "362069",
+      "number": "HHS-2026-ACF-OCS-ET-0029",
+      "title": "Community Services Block Grant (CSBG) Communities of Practice (COP)",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "75c406aa660354671b584b07dc0a784076fc3c20a9d2ca501574df06c1235559"
+    },
+    {
+      "id": "362068",
+      "number": "HHS-2026-ACF-OCS-ET-0030",
+      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "37761302013afe755270a67ea7b00928a98c9486e934824d730d9497906a321c"
+    },
+    {
+      "id": "362147",
+      "number": "HHS-2026-ACF-OPRE-PV-0114",
+      "title": "Reflective Supervision in Home Visiting Research Awards",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "336a37860e7fc7290bf5b9dac33210b46a80843d96f0f3886bbb5f2d826638ea"
+    },
+    {
+      "id": "363311",
+      "number": "SB-OEDNA-26-001",
+      "title": "ONAA 7J-TCU Manufacturing NOFO FY2026",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "b733b4f771594ffbb2fe68f5a2301d13729d2b44f2cdf81fb41a58dcaac457bb"
     }
   ]
 }
