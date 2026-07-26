@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T11:40:13.771Z",
+  "updatedAt": "2026-07-26T12:30:58.294Z",
   "hitCount": 1713,
   "records": [
     {
@@ -15402,15 +15402,6 @@
       "hash": "b733b4f771594ffbb2fe68f5a2301d13729d2b44f2cdf81fb41a58dcaac457bb"
     },
     {
-      "id": "363314",
-      "number": "MUSCAT-PAS-2026-02",
-      "title": "NOFO- U.S.-Oman Youth Council Program",
-      "status": "posted",
-      "openDate": "07/26/2026",
-      "closeDate": "08/26/2026",
-      "hash": "e2b57b1e310238413624f29ce210e7b317624ea5a23732017b3683f3759f64e8"
-    },
-    {
       "id": "363315",
       "number": "DOS-SAU-2602",
       "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
@@ -15418,6 +15409,15 @@
       "openDate": "07/26/2026",
       "closeDate": "09/08/2026",
       "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
+    },
+    {
+      "id": "363314",
+      "number": "MUSCAT-PAS-2026-02",
+      "title": "NOFO- U.S.-Oman Youth Council Program",
+      "status": "posted",
+      "openDate": "07/26/2026",
+      "closeDate": "08/26/2026",
+      "hash": "e2b57b1e310238413624f29ce210e7b317624ea5a23732017b3683f3759f64e8"
     }
   ]
 }
