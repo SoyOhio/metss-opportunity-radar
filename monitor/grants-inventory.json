@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T11:39:33.435Z",
-  "hitCount": 1718,
+  "updatedAt": "2026-07-26T11:40:13.771Z",
+  "hitCount": 1713,
   "records": [
     {
       "id": "141593",
@@ -7237,60 +7237,6 @@
       "openDate": "03/10/2026",
       "closeDate": "",
       "hash": "20c941e89b2891f72219365841acc7d6aeb8cdb1469dae6f7e085d1e8311c461"
-    },
-    {
-      "id": "360336",
-      "number": "CDC-RFA-JG-26-0051",
-      "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "5b39d21e095a86a757b7edf0c5dab275d12ff6d39a9866eccc37d684494039e1"
-    },
-    {
-      "id": "360332",
-      "number": "CDC-RFA-JG-26-0043",
-      "title": "Expanding global health security through local partnerships in Nigeria",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "af03368b15a1aa684a5b3a0584d2f2eaa6db737b36ce77e9ee13796c82a0ebcb"
-    },
-    {
-      "id": "360335",
-      "number": "CDC-RFA-JG-26-0050",
-      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "e3e3d3918456925d0dd2803e9510dee2aa08e30a1f0e86ba33c497a86dd50684"
-    },
-    {
-      "id": "360334",
-      "number": "CDC-RFA-JG-26-0048",
-      "title": "Expanding Global Health Security through local partnerships in Senegal",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "f5224751fde83bca455d9050cca0a441d195ba47c20025dd1eb3b0f595e9e161"
-    },
-    {
-      "id": "360337",
-      "number": "CDC-RFA-JG-26-0052",
-      "title": "Expanding global health security though local partnerships in Tanzania",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "e7e378c27ea25e1aa084c57066f7b6b9bc4cf6c6da154b0185ebfd733b40ce6c"
-    },
-    {
-      "id": "360338",
-      "number": "CDC-RFA-JG-26-0053",
-      "title": "Expanding global health security through local partnerships in Indonesia",
-      "status": "forecasted",
-      "openDate": "08/22/2025",
-      "closeDate": "",
-      "hash": "d0853d86c79fa474db644c2221af6abcfd2ab8263c244980374df366d505a61b"
     },
     {
       "id": "361204",
@@ -14916,15 +14862,6 @@
       "hash": "69e408806de219866003d15fe91f9bcc575970cc14bc97ca200a263cabfd314f"
     },
     {
-      "id": "363237",
-      "number": "FR-RRD-26-002",
-      "title": "FY26 Short Line Safety Institute Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "07/25/2026",
-      "hash": "ccd1961502978fbbc66c971e4d826e8b16d81751d43d78952e657b95d34aac43"
-    },
-    {
       "id": "361570",
       "number": "SM-26-030",
       "title": "Mental Health Awareness Training Grants",
@@ -15463,6 +15400,24 @@
       "openDate": "07/24/2026",
       "closeDate": "08/24/2026",
       "hash": "b733b4f771594ffbb2fe68f5a2301d13729d2b44f2cdf81fb41a58dcaac457bb"
+    },
+    {
+      "id": "363314",
+      "number": "MUSCAT-PAS-2026-02",
+      "title": "NOFO- U.S.-Oman Youth Council Program",
+      "status": "posted",
+      "openDate": "07/26/2026",
+      "closeDate": "08/26/2026",
+      "hash": "e2b57b1e310238413624f29ce210e7b317624ea5a23732017b3683f3759f64e8"
+    },
+    {
+      "id": "363315",
+      "number": "DOS-SAU-2602",
+      "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
+      "status": "posted",
+      "openDate": "07/26/2026",
+      "closeDate": "09/08/2026",
+      "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
     }
   ]
 }
