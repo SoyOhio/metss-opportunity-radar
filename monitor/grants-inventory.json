@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T12:30:58.294Z",
-  "hitCount": 1713,
+  "updatedAt": "2026-07-27T13:24:29.225Z",
+  "hitCount": 1719,
   "records": [
     {
       "id": "141593",
@@ -15321,40 +15321,13 @@
       "hash": "3d70176d03af7b1292324ea3428bc738099d1fc3ebb922f0932481c38a9ceb27"
     },
     {
-      "id": "363065",
-      "number": "DE-FOA-0003627",
-      "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/08/2026",
-      "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
-    },
-    {
-      "id": "362839",
-      "number": "HHS-2026-ACF-OCS-EAH-0027",
-      "title": "Affordable Housing and Supportive Services Demonstration",
+      "id": "362069",
+      "number": "HHS-2026-ACF-OCS-ET-0029",
+      "title": "Community Services Block Grant (CSBG) Communities of Practice (COP)",
       "status": "posted",
       "openDate": "07/24/2026",
       "closeDate": "08/24/2026",
-      "hash": "4c0233098a3b25c861816411715e77ea072ff7b03b939abdce3fc7c18ca52ab6"
-    },
-    {
-      "id": "361999",
-      "number": "CPD-2600-DC-0025",
-      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
-      "status": "posted",
-      "openDate": "06/01/2026",
-      "closeDate": "08/26/2026",
-      "hash": "e4361b1dd2182601a037c5b194137d60a2f7f0329d8aff74e29412f780e364d5"
-    },
-    {
-      "id": "362067",
-      "number": "HHS-2026-ACF-OCS-ET-0031",
-      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
-      "status": "posted",
-      "openDate": "07/24/2026",
-      "closeDate": "08/24/2026",
-      "hash": "5d0e079a70cbb16214162460803435d8e337d84930c3cf230b4aae660a3d213e"
+      "hash": "75c406aa660354671b584b07dc0a784076fc3c20a9d2ca501574df06c1235559"
     },
     {
       "id": "362070",
@@ -15366,13 +15339,13 @@
       "hash": "60fd4616c335c471828f15ca466c2795412f4a85bec3e120ec430b6329793bac"
     },
     {
-      "id": "362069",
-      "number": "HHS-2026-ACF-OCS-ET-0029",
-      "title": "Community Services Block Grant (CSBG) Communities of Practice (COP)",
+      "id": "362067",
+      "number": "HHS-2026-ACF-OCS-ET-0031",
+      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
       "status": "posted",
       "openDate": "07/24/2026",
       "closeDate": "08/24/2026",
-      "hash": "75c406aa660354671b584b07dc0a784076fc3c20a9d2ca501574df06c1235559"
+      "hash": "5d0e079a70cbb16214162460803435d8e337d84930c3cf230b4aae660a3d213e"
     },
     {
       "id": "362068",
@@ -15384,6 +15357,15 @@
       "hash": "37761302013afe755270a67ea7b00928a98c9486e934824d730d9497906a321c"
     },
     {
+      "id": "362839",
+      "number": "HHS-2026-ACF-OCS-EAH-0027",
+      "title": "Affordable Housing and Supportive Services Demonstration",
+      "status": "posted",
+      "openDate": "07/24/2026",
+      "closeDate": "08/24/2026",
+      "hash": "4c0233098a3b25c861816411715e77ea072ff7b03b939abdce3fc7c18ca52ab6"
+    },
+    {
       "id": "362147",
       "number": "HHS-2026-ACF-OPRE-PV-0114",
       "title": "Reflective Supervision in Home Visiting Research Awards",
@@ -15391,6 +15373,24 @@
       "openDate": "07/24/2026",
       "closeDate": "08/24/2026",
       "hash": "336a37860e7fc7290bf5b9dac33210b46a80843d96f0f3886bbb5f2d826638ea"
+    },
+    {
+      "id": "363314",
+      "number": "MUSCAT-PAS-2026-02",
+      "title": "NOFO- U.S.-Oman Youth Council Program",
+      "status": "posted",
+      "openDate": "07/26/2026",
+      "closeDate": "08/26/2026",
+      "hash": "e2b57b1e310238413624f29ce210e7b317624ea5a23732017b3683f3759f64e8"
+    },
+    {
+      "id": "363318",
+      "number": "PAS-JAKARTA-FY26-09",
+      "title": "National Disaster Coverage Training for Indonesian Journalists",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "08/28/2026",
+      "hash": "6ed8234622271b593d82731a6e47ad666e4a739c87f1738445f45d46a42fae01"
     },
     {
       "id": "363311",
@@ -15402,6 +15402,24 @@
       "hash": "b733b4f771594ffbb2fe68f5a2301d13729d2b44f2cdf81fb41a58dcaac457bb"
     },
     {
+      "id": "363065",
+      "number": "DE-FOA-0003627",
+      "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
+      "status": "posted",
+      "openDate": "07/06/2026",
+      "closeDate": "09/08/2026",
+      "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
+    },
+    {
+      "id": "361999",
+      "number": "CPD-2600-DC-0025",
+      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
+      "status": "posted",
+      "openDate": "06/01/2026",
+      "closeDate": "08/26/2026",
+      "hash": "e4361b1dd2182601a037c5b194137d60a2f7f0329d8aff74e29412f780e364d5"
+    },
+    {
       "id": "363315",
       "number": "DOS-SAU-2602",
       "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
@@ -15411,13 +15429,49 @@
       "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
     },
     {
-      "id": "363314",
-      "number": "MUSCAT-PAS-2026-02",
-      "title": "NOFO- U.S.-Oman Youth Council Program",
+      "id": "363316",
+      "number": "PDS-USASEAN-FY26-01",
+      "title": "U.S.-ASEAN Road to 50: Rising Leaders Forum",
       "status": "posted",
-      "openDate": "07/26/2026",
-      "closeDate": "08/26/2026",
-      "hash": "e2b57b1e310238413624f29ce210e7b317624ea5a23732017b3683f3759f64e8"
+      "openDate": "07/27/2026",
+      "closeDate": "08/30/2026",
+      "hash": "0d6ca8e2dfa52c3776450876ac081d7dabd224375a3373345de73dad719e4f98"
+    },
+    {
+      "id": "363319",
+      "number": "PDS-BUE-2026-07",
+      "title": "Subnational Industrial Innovation and Resilient Entrepreneurship Accelerator",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "08/20/2026",
+      "hash": "062b1136761c076f4a90d4c2620f4b72ab89b6ef42c3cc102dab88101725cc43"
+    },
+    {
+      "id": "363320",
+      "number": "PDS-BUE-2026-06",
+      "title": "U.S.-Argentina Alumni Summit",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "08/20/2026",
+      "hash": "e4adcce384ccb83659860b02e738d38c0ea13dd0bce4b4acf28420e927ab3a42"
+    },
+    {
+      "id": "363321",
+      "number": "FTA-2026-010-TPM-BUS",
+      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Buses and Bus Facilities Program",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "09/21/2026",
+      "hash": "622451f8d61d40a6f3278b3b3b72d30a8cdb8ae54d4cd817940360d7f7063cc8"
+    },
+    {
+      "id": "363322",
+      "number": "FTA-2026-011-TPM-LWNO",
+      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Low or No Emission Program",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "09/21/2026",
+      "hash": "d6ca6338711f1f4d23877b9c7d8cec4972a958692f8ec3bc8a99628f8aec444b"
     }
   ]
 }
