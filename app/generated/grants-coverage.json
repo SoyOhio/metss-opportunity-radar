@@ -1,17 +1,65 @@
 {
-  "generatedAt": "2026-07-29T12:25:45.541Z",
-  "inventoryCheckedAt": "2026-07-29T12:25:42.410Z",
+  "generatedAt": "2026-07-30T12:09:17.219Z",
+  "inventoryCheckedAt": "2026-07-30T12:09:14.057Z",
   "screeningSnapshotAt": "2026-07-26T12:30:58.294Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1726,
-  "historicalSourceRecords": 1849,
+  "currentActiveSourceRecords": 1722,
+  "historicalSourceRecords": 1867,
   "previouslyScreenedSnapshotRecords": 1713,
-  "currentRecordsCoveredBySnapshot": 1090,
-  "currentRecordsRequiringScreening": 636,
-  "newRecordsRequiringScreening": 51,
-  "changedRecordsRequiringScreening": 585,
+  "currentRecordsCoveredBySnapshot": 1072,
+  "currentRecordsRequiringScreening": 650,
+  "newRecordsRequiringScreening": 70,
+  "changedRecordsRequiringScreening": 580,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
+    [
+      {
+        "grantsGovId": "362906",
+        "opportunityNumber": "DFOP0018774",
+        "title": "TIP Office International Programs to Combat Human Trafficking Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/362906"
+      },
+      {
+        "grantsGovId": "363384",
+        "opportunityNumber": "DFOP0018774",
+        "title": "TIP Office International Programs to Combat Human Trafficking Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363384"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "362907",
+        "opportunityNumber": "DFOP0018775",
+        "title": "Child Protection Compact Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/362907"
+      },
+      {
+        "grantsGovId": "363383",
+        "opportunityNumber": "DFOP0018775",
+        "title": "Child Protection Compact Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363383"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "362908",
+        "opportunityNumber": "DFOP0018770",
+        "title": "Program to End Modern Slavery Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/362908"
+      },
+      {
+        "grantsGovId": "363381",
+        "opportunityNumber": "DFOP0018770",
+        "title": "Program to End Modern Slavery Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363381"
+      }
+    ],
     [
       {
         "grantsGovId": "363013",
