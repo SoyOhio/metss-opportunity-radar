@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-30T12:09:17.219Z",
-  "inventoryCheckedAt": "2026-07-30T12:09:14.057Z",
+  "generatedAt": "2026-07-31T12:23:20.565Z",
+  "inventoryCheckedAt": "2026-07-31T12:23:17.403Z",
   "screeningSnapshotAt": "2026-07-26T12:30:58.294Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1722,
-  "historicalSourceRecords": 1867,
+  "currentActiveSourceRecords": 1718,
+  "historicalSourceRecords": 1874,
   "previouslyScreenedSnapshotRecords": 1713,
-  "currentRecordsCoveredBySnapshot": 1072,
-  "currentRecordsRequiringScreening": 650,
-  "newRecordsRequiringScreening": 70,
+  "currentRecordsCoveredBySnapshot": 1062,
+  "currentRecordsRequiringScreening": 656,
+  "newRecordsRequiringScreening": 76,
   "changedRecordsRequiringScreening": 580,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
@@ -122,6 +122,22 @@
         "title": "Transatlantic Partnership Program",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363273"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363382",
+        "opportunityNumber": "DFOP0019481",
+        "title": "DRL  Transshipment Supply Chain Tracing",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363382"
+      },
+      {
+        "grantsGovId": "363397",
+        "opportunityNumber": "DFOP0019481",
+        "title": "DRL  Transshipment Supply Chain Tracing",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363397"
       }
     ]
   ]
