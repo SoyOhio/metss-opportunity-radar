@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-31T12:23:20.565Z",
-  "inventoryCheckedAt": "2026-07-31T12:23:17.403Z",
+  "generatedAt": "2026-08-01T11:38:09.128Z",
+  "inventoryCheckedAt": "2026-08-01T11:38:06.094Z",
   "screeningSnapshotAt": "2026-07-26T12:30:58.294Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1718,
-  "historicalSourceRecords": 1874,
+  "currentActiveSourceRecords": 1717,
+  "historicalSourceRecords": 1902,
   "previouslyScreenedSnapshotRecords": 1713,
-  "currentRecordsCoveredBySnapshot": 1062,
-  "currentRecordsRequiringScreening": 656,
-  "newRecordsRequiringScreening": 76,
-  "changedRecordsRequiringScreening": 580,
+  "currentRecordsCoveredBySnapshot": 1038,
+  "currentRecordsRequiringScreening": 679,
+  "newRecordsRequiringScreening": 100,
+  "changedRecordsRequiringScreening": 579,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -104,8 +104,15 @@
         "grantsGovId": "363312",
         "opportunityNumber": "DFOP0019193",
         "title": "Pax Silica Artificial Intelligence Assistance Project",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363312"
+      },
+      {
+        "grantsGovId": "363422",
+        "opportunityNumber": "DFOP0019193",
+        "title": "Pax Silica Artificial Intelligence Assistance Project",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363422"
       }
     ],
     [
@@ -122,6 +129,22 @@
         "title": "Transatlantic Partnership Program",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363273"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363346",
+        "opportunityNumber": "OFOP0003294",
+        "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363346"
+      },
+      {
+        "grantsGovId": "363406",
+        "opportunityNumber": "OFOP0003294",
+        "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363406"
       }
     ],
     [
