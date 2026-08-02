@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T11:38:06.094Z",
-  "hitCount": 1717,
+  "updatedAt": "2026-08-02T11:39:11.626Z",
+  "hitCount": 1716,
   "records": [
     {
       "id": "141593",
@@ -14871,15 +14871,6 @@
       "hash": "b58bfb6c430caee291cae93a5de5fa2ccea59702562ad233875a32bf6022062b"
     },
     {
-      "id": "363405",
-      "number": "OFOP0002423",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/01/2026",
-      "hash": "6bbd59fbbd9623b03eeb43ff439e4e58ca8f5c2a1a1f9dc553a2e43b0d66d20f"
-    },
-    {
       "id": "362270",
       "number": "HHS-2026-ACF-ANA-NAI-0035",
       "title": "AI3 Action Institute - Artificial Intelligence for American Indians",
@@ -15411,13 +15402,22 @@
       "hash": "849ff22bdc7552e50334cd43ae159a3073149c75bcb407420656e21ddf2ed5b6"
     },
     {
-      "id": "363436",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
       "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
+      "openDate": "07/21/2026",
+      "closeDate": "11/04/2026",
+      "hash": "e258361b438aaf2ab9e5bd5eb02b428a6edd6e28d98f993577daf0c78d2f6a4b"
+    },
+    {
+      "id": "363440",
+      "number": "PDS-UKRAINE-FY26-04",
+      "title": "Advancing Investigative Journalism in Ukraine through U.S. AI Innovation",
+      "status": "posted",
+      "openDate": "08/01/2026",
+      "closeDate": "09/01/2026",
+      "hash": "281cdb53c33a4b643f0e5d32eac7774c2698abec182ea0e8805f2bd6a4375d45"
     },
     {
       "id": "363437",
@@ -15438,22 +15438,13 @@
       "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
     },
     {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
+      "id": "363436",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
       "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "e258361b438aaf2ab9e5bd5eb02b428a6edd6e28d98f993577daf0c78d2f6a4b"
-    },
-    {
-      "id": "363440",
-      "number": "PDS-UKRAINE-FY26-04",
-      "title": "Advancing Investigative Journalism in Ukraine through U.S. AI Innovation",
-      "status": "posted",
-      "openDate": "08/01/2026",
-      "closeDate": "09/01/2026",
-      "hash": "281cdb53c33a4b643f0e5d32eac7774c2698abec182ea0e8805f2bd6a4375d45"
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
     }
   ]
 }
