@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-07-26T12:30:58.294Z",
+  "generatedAt": "2026-08-02T12:24:48.440Z",
   "source": "Complete Grants.gov posted/forecasted inventory + official linked requirements + full public documents",
   "triageModel": "gpt-5.6-luna",
   "reviewModel": "gpt-5.6-terra",
   "audit": {
-    "generatedAt": "2026-07-26T12:30:58.294Z",
-    "currentInventory": 1713,
-    "fullyFetched": 1713,
-    "initiallyScreened": 1713,
-    "plausibleCandidates": 38,
-    "completeDocumentReviews": 31,
-    "incompleteDocumentReviews": 7,
+    "generatedAt": "2026-08-02T12:24:48.440Z",
+    "currentInventory": 1716,
+    "fullyFetched": 1716,
+    "initiallyScreened": 1716,
+    "plausibleCandidates": 31,
+    "completeDocumentReviews": 22,
+    "incompleteDocumentReviews": 9,
     "deepReviewBacklog": 0,
     "published": 5,
-    "rejectedAtInitialScreen": 1675,
-    "rejectedAtFinalGate": 33,
+    "rejectedAtInitialScreen": 1685,
+    "rejectedAtFinalGate": 26,
     "fetchErrors": 0,
     "triageErrors": 0,
     "screeningCycleComplete": true,
     "budgetStopped": false,
-    "estimatedOpenAISpendUsd": 2.0673,
+    "estimatedOpenAISpendUsd": 1.4272,
     "maxEstimatedRunSpendUsd": 4.5,
     "openAIUsage": {
-      "inputTokens": 1009466,
-      "outputTokens": 118853,
-      "totalTokens": 1128319,
-      "estimatedSpendUsd": 2.0673095000000004,
+      "inputTokens": 777017,
+      "outputTokens": 84956,
+      "totalTokens": 861973,
+      "estimatedSpendUsd": 1.4271905000000003,
       "byModel": {
         "gpt-5.6-luna": {
-          "inputTokens": 938289,
-          "outputTokens": 92413,
-          "totalTokens": 1030702,
-          "estimatedSpendUsd": 1.492767
+          "inputTokens": 748702,
+          "outputTokens": 74071,
+          "totalTokens": 822773,
+          "estimatedSpendUsd": 1.1931280000000002
         },
         "gpt-5.6-terra": {
-          "inputTokens": 71177,
-          "outputTokens": 26440,
-          "totalTokens": 97617,
-          "estimatedSpendUsd": 0.5745425
+          "inputTokens": 28315,
+          "outputTokens": 10885,
+          "totalTokens": 39200,
+          "estimatedSpendUsd": 0.23406250000000003
         }
       }
     },
