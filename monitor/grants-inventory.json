@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T12:24:48.440Z",
-  "hitCount": 1716,
+  "updatedAt": "2026-08-03T13:23:32.591Z",
+  "hitCount": 1713,
   "records": [
     {
       "id": "141593",
@@ -5448,15 +5448,6 @@
       "hash": "895253288db67cf788e0c21fa2bc7630828faefd12a6eef335b815c89fd873c1"
     },
     {
-      "id": "355317",
-      "number": "RFA-HG-24-026",
-      "title": "Limited Competition: Building Partnerships and Broadening Perspectives to Advance Ethical, Legal, and Social Implications (ELSI) Research (BBAER) Program (UM1), Clinical Trial Optional",
-      "status": "posted",
-      "openDate": "07/10/2024",
-      "closeDate": "08/02/2026",
-      "hash": "d46a5b22c0c19c5a2c5c0ce3d67c7415e4ee179c6d577310a8f7735e3c76af8a"
-    },
-    {
       "id": "357343",
       "number": "PAR-25-226",
       "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
@@ -9237,15 +9228,6 @@
       "hash": "9ba8e3ad8bdcf195c1190d3c2518515b1af785ab6b41e2e428a100c3297e7319"
     },
     {
-      "id": "362408",
-      "number": "AF-HAR-FY26-02",
-      "title": "EducationUSA Opportunity Funds Program",
-      "status": "posted",
-      "openDate": "05/15/2026",
-      "closeDate": "08/02/2026",
-      "hash": "ce2b1aa002f2cbe096d4169f57c887781be2292cd70445bbf0805b472f65a35e"
-    },
-    {
       "id": "359073",
       "number": "PAR-27-049",
       "title": "Ancillary Studies to Ongoing Clinical Projects (RP1 Clinical Trial Not Allowed)",
@@ -9847,15 +9829,6 @@
       "openDate": "06/17/2026",
       "closeDate": "08/26/2026",
       "hash": "ba079f680092e4401b370606f9816c3c848ea46c8bba2729b360c04db1a7fe73"
-    },
-    {
-      "id": "362864",
-      "number": "AF-HAR-FY26-04",
-      "title": "American Spaces Support Funds Program",
-      "status": "posted",
-      "openDate": "06/18/2026",
-      "closeDate": "08/02/2026",
-      "hash": "b9a6cf05116da5b7a954c97da0ec4d93e2e0259204a5d20da11de81afd6d4a68"
     },
     {
       "id": "357826",
@@ -12801,15 +12774,6 @@
       "hash": "bbfb4175108ecb776104bb9c1f68ee00ac6b43d517a8cbdd74ecfc6f0084cafe"
     },
     {
-      "id": "363080",
-      "number": "SVM300-26-PDS-AS",
-      "title": "FY26 American Spaces Vietnam Programming",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "08/02/2026",
-      "hash": "59520752cc6033a43a0fb858d030e8dc43464bc60abe8e80b4f042cda614ee2f"
-    },
-    {
       "id": "362987",
       "number": "ETA-TEGL-15-25",
       "title": "Rapid Reskill Employment Recovery National Dislocated Worker Grants",
@@ -13033,15 +12997,6 @@
       "openDate": "07/06/2026",
       "closeDate": "08/09/2026",
       "hash": "cb70a7836db740aced7a7adc66e6741c3037abb72ea81adb51b81592a06f02fa"
-    },
-    {
-      "id": "363062",
-      "number": "FY26-PDS-HCMC-01",
-      "title": "Vietnam CyberSafe Hacks 2026",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "08/02/2026",
-      "hash": "d8d39ffd83df289ce49022d5918d09976abc0ff5bb9adec5291889b7bde5d9a2"
     },
     {
       "id": "362881",
@@ -13456,15 +13411,6 @@
       "openDate": "07/17/2026",
       "closeDate": "08/28/2026",
       "hash": "67c141b4e38041c8a0e4a9d356a4cacfc49a869e2f5dc97709e17887aecdc093"
-    },
-    {
-      "id": "363227",
-      "number": "DFOP0018586",
-      "title": "Artificial Intelligence for American Competitiveness and Economic Security (AI-ACES) in South Asia",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "08/02/2026",
-      "hash": "59c61740f20de90336f76ffb1c4953a529f46749a54ed9840a5163d276f4c1c1"
     },
     {
       "id": "363226",
@@ -15420,6 +15366,15 @@
       "hash": "281cdb53c33a4b643f0e5d32eac7774c2698abec182ea0e8805f2bd6a4375d45"
     },
     {
+      "id": "363396",
+      "number": "RUS-PART-2026",
+      "title": "Powering Affordable Reliable Technology (PART) Energy Program",
+      "status": "forecasted",
+      "openDate": "08/03/2026",
+      "closeDate": "",
+      "hash": "0ec4fa85e4527b80ff929770759626fb7920722d11764fd60e37cf936cfb3a92"
+    },
+    {
       "id": "363437",
       "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
       "title": "Small Business Transportation Technical Assistance Center (Region 4)",
@@ -15445,6 +15400,24 @@
       "openDate": "07/31/2026",
       "closeDate": "08/30/2026",
       "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
+    },
+    {
+      "id": "363441",
+      "number": "PAS-JAKARTA-FY26-11",
+      "title": "Media Literacy and Capacity Building Workshop Series",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "09/02/2026",
+      "hash": "33516202ec60651f415ae11c380034c481f645661130898e01a4f9c5771bf19b"
+    },
+    {
+      "id": "363443",
+      "number": "HRV2026NOFO0004",
+      "title": "Affiliate American Spaces PD Support Program FY 2026",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "08/14/2026",
+      "hash": "3ddc2a0ffcb56a4d7bf1e93417a1f653f4cab3ca5dc772842d507b774998bf7d"
     }
   ]
 }
