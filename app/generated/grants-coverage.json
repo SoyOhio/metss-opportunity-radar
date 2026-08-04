@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-03T13:23:35.628Z",
-  "inventoryCheckedAt": "2026-08-03T13:23:32.591Z",
+  "generatedAt": "2026-08-04T12:22:45.813Z",
+  "inventoryCheckedAt": "2026-08-04T12:22:42.716Z",
   "screeningSnapshotAt": "2026-08-02T12:24:48.440Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1713,
-  "historicalSourceRecords": 1905,
+  "currentActiveSourceRecords": 1711,
+  "historicalSourceRecords": 1914,
   "previouslyScreenedSnapshotRecords": 1716,
-  "currentRecordsCoveredBySnapshot": 1133,
-  "currentRecordsRequiringScreening": 580,
-  "newRecordsRequiringScreening": 3,
-  "changedRecordsRequiringScreening": 577,
+  "currentRecordsCoveredBySnapshot": 1114,
+  "currentRecordsRequiringScreening": 597,
+  "newRecordsRequiringScreening": 19,
+  "changedRecordsRequiringScreening": 578,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -74,6 +74,22 @@
         "title": "NEA/AC Regional Annual Program Statement",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363300"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363057",
+        "opportunityNumber": "DFOP0017890",
+        "title": "Advancing Global Health",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363057"
+      },
+      {
+        "grantsGovId": "363452",
+        "opportunityNumber": "DFOP0017890",
+        "title": "Advancing Global Health",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363452"
       }
     ],
     [
