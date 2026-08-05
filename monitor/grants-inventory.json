@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T12:22:42.716Z",
-  "hitCount": 1711,
+  "updatedAt": "2026-08-05T12:21:23.876Z",
+  "hitCount": 1712,
   "records": [
     {
       "id": "141593",
@@ -5700,15 +5700,6 @@
       "hash": "f935e6df7fc8b099a459de21a5fa6837f740ec07f5379f72b18d8cdf309e20d5"
     },
     {
-      "id": "328573",
-      "number": "PD-20-1260",
-      "title": "Mathematical Sciences Infrastructure Program",
-      "status": "posted",
-      "openDate": "08/07/2020",
-      "closeDate": "08/04/2026",
-      "hash": "867409e5619f54c625e005e7fede6ec0b8efcc1ae0b12ef36a3a84449acbcad3"
-    },
-    {
       "id": "361334",
       "number": "RFA-NS-26-013",
       "title": "HEAL Initiative: Program to Reveal and Evaluate Cells-to-gene Information that Specify Intricacies, Origins and the Nature of (PRECISION) Human Pain Network",
@@ -8967,15 +8958,6 @@
       "hash": "5129ffb5cd28873c1dcd85702e1fee1e57978c51d6ae5c62ae60010afb4ab25a"
     },
     {
-      "id": "362727",
-      "number": "O-COPS-2026-172554",
-      "title": "FY26 Tribal Resources Grant Program- Technical Assistance Invitational",
-      "status": "posted",
-      "openDate": "06/09/2026",
-      "closeDate": "08/04/2026",
-      "hash": "741667e8c40b640f73d32424b17aeed4391d373a3f2c634fa5e001952df89f27"
-    },
-    {
       "id": "362723",
       "number": "PAR-27-119",
       "title": "Center for Inherited Disease Research (CIDR) High Throughput Sequencing and Genotyping Resource Access (X01 Clinical Trial Not Allowed)",
@@ -9001,15 +8983,6 @@
       "openDate": "06/09/2026",
       "closeDate": "03/16/2029",
       "hash": "b6a428703e29aef9a04d119ebcf06d273764cfbb63d5006c9e6b16d46f1c4b3e"
-    },
-    {
-      "id": "362735",
-      "number": "O-COPS-2026-172557",
-      "title": "FY26 Preparing for Active Shooter Situations (PASS)",
-      "status": "posted",
-      "openDate": "06/09/2026",
-      "closeDate": "08/04/2026",
-      "hash": "0226dd46979ab100ec9fda756433e5b73eb55f3090b6640ac8c3a52d26774c5a"
     },
     {
       "id": "362383",
@@ -9334,15 +9307,6 @@
       "openDate": "06/12/2026",
       "closeDate": "08/14/2026",
       "hash": "4e4995af87dd2898ed71a1235c8a3da8d1797167ad1a61b4f67b56c31dbcca71"
-    },
-    {
-      "id": "362738",
-      "number": "O-COPS-2026-172540",
-      "title": "FY26 COPS School Violence Prevention Program",
-      "status": "posted",
-      "openDate": "06/09/2026",
-      "closeDate": "08/04/2026",
-      "hash": "14ef00018310cae775c2cc71b1bd8a091a0dd47e900db0d80f54177a7a3075e3"
     },
     {
       "id": "362746",
@@ -11919,15 +11883,6 @@
       "hash": "93b30e0e569a6929dbf7235f45c5a6172f6b6b41f53794f3f023929f54ad02f9"
     },
     {
-      "id": "363218",
-      "number": "DFOP0019393",
-      "title": "Southern Cone Cooperation Law Enforcement and Criminal Justice Sector Support",
-      "status": "posted",
-      "openDate": "07/16/2026",
-      "closeDate": "08/17/2026",
-      "hash": "f64381299daab1c4e3ebfe61f548cb3404e0ff8a29b08182be9c4c1dbf306aef"
-    },
-    {
       "id": "363216",
       "number": "USDA-FNA-SNAP-2026-EVS",
       "title": "FY 2026 SNAP Earnings Verification Support Grant",
@@ -11980,24 +11935,6 @@
       "openDate": "07/13/2026",
       "closeDate": "08/12/2026",
       "hash": "8c6240bede8bea8d9d0e63c731be982166011a48f2c4fda3f01288dc5a09a66d"
-    },
-    {
-      "id": "363213",
-      "number": "DFOP0019327",
-      "title": "Global Coalition Against Transnational Repression",
-      "status": "posted",
-      "openDate": "07/16/2026",
-      "closeDate": "08/12/2026",
-      "hash": "590676e19c71b52c14d3dbc9cd75b958da430f92e6f601801c3730141b1be846"
-    },
-    {
-      "id": "363209",
-      "number": "DFOP0019331",
-      "title": "Countering Transnational Repression Through Evidence-based Research",
-      "status": "posted",
-      "openDate": "07/16/2026",
-      "closeDate": "08/10/2026",
-      "hash": "790ed7e1a18b661f42fb21ad5968472ffec922e902d2ee52f8fa3a910522486e"
     },
     {
       "id": "362715",
@@ -12648,15 +12585,6 @@
       "hash": "17c9eeca5f87409b23659021e1d21ef42d96102d55611ed2ebb8e50dfad05379"
     },
     {
-      "id": "362168",
-      "number": "HHS-2026-ACF-OFA-PG-0059",
-      "title": "National Research Center for Promoting Work and Strong Families",
-      "status": "forecasted",
-      "openDate": "05/01/2026",
-      "closeDate": "",
-      "hash": "d5ca197e8951261c42711a2c6b7d8283476f122aed38db5a860cf778bef6465a"
-    },
-    {
       "id": "363126",
       "number": "RFA-OD-28-001",
       "title": "Tobacco Centers of Regulatory Science (TCORS) (Clinical Trial Optional)",
@@ -13188,15 +13116,6 @@
       "hash": "62d2bb6535050fb39043aca4a2321e9689daf11f09270c867a648eadf458eda8"
     },
     {
-      "id": "361987",
-      "number": "HHS-2026-ACF-ACYF-AT-0015",
-      "title": "Tribal Personal Responsibility Education Program (Tribal PREP)",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "08/17/2026",
-      "hash": "ed64de1697e7beb1372bef09a3b088c464b7f73f3d2efdc7592293d1014c39bb"
-    },
-    {
       "id": "362219",
       "number": "HHS-2026-ACF-OHSEPR-RR-0009",
       "title": "Emergency Repatriation Planning, Training, and Exercises",
@@ -13251,15 +13170,6 @@
       "hash": "441dffda2b7c87a49d813d844a9dcdf54426c19a33f9b93bf1d1df2143912f99"
     },
     {
-      "id": "361929",
-      "number": "HHS-2026-ACF-ACYF-AK-0014",
-      "title": "Competitive Personal Responsibility Education Program",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "08/17/2026",
-      "hash": "cfefa15c6e0fc26226a40f9bbccfc6460ef99debeb51af49b4765dc9aeeac6da"
-    },
-    {
       "id": "361961",
       "number": "HHS-2026-ACF-ACYF-CF-0005",
       "title": "Kinship Navigator Programs: Replication and Tribal Adaptation&#8203;&#8203;",
@@ -13276,15 +13186,6 @@
       "openDate": "07/20/2026",
       "closeDate": "08/20/2026",
       "hash": "bce7abe675b7945476465e434b5ef4ba1f586aff8e986e02c6e8a5f49f128ef8"
-    },
-    {
-      "id": "363241",
-      "number": "NNH25ZDA001N-BIOS",
-      "title": "ROSES25: A.15 Biosphere",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "11/06/2026",
-      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
     },
     {
       "id": "362014",
@@ -13971,15 +13872,6 @@
       "hash": "dcfbbd4e5996c9a47993a68bbce6ba0036645374016b69ae59d14429acd0d434"
     },
     {
-      "id": "363224",
-      "number": "NNH25ZDA001N-AES",
-      "title": "ROSES25: A.13 Accelerating Earth Solutions",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "10/15/2026",
-      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
-    },
-    {
       "id": "363048",
       "number": "O-COPS-2026-172559",
       "title": "FY26 Community Policing Development (CPD) Microgrants",
@@ -14212,15 +14104,6 @@
       "openDate": "07/27/2026",
       "closeDate": "08/28/2026",
       "hash": "10ae20eaf112cfa6d3b9d62b7186f961e4a90acc41d47804b1052519fbb00e3a"
-    },
-    {
-      "id": "363070",
-      "number": "DFOP0019227",
-      "title": "Middle East Regional Cooperation (MERC)",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/30/2026",
-      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
     },
     {
       "id": "363315",
@@ -14511,33 +14394,6 @@
       "hash": "7a36bdcc6265db63df17381056d6eebe671f15cab42b1836e8811c0c1708c498"
     },
     {
-      "id": "363428",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION3-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "3b46f2192bb6ee5c045481cab037c5120fab99617e7d6845ba569df904452e10"
-    },
-    {
-      "id": "363430",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION6-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 6)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "f5ad8392d5eeb55f316c4a754bcf99ff476ae5f4d0038a541c340fe754baabce"
-    },
-    {
-      "id": "363425",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION1-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "f2383b87430eb045d50a5f92f08868612a86bf0cbe99507cdb1d44fa63a520e8"
-    },
-    {
       "id": "363260",
       "number": "O-COPS-2026-172549",
       "title": "FY26 Safer Outcomes Program",
@@ -14781,33 +14637,6 @@
       "hash": "eaac38c98f373868164430996244046399c5506b00e91373dff5e930a0ada5ff"
     },
     {
-      "id": "363437",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 4)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "5f39a70e0e576a490ed8827077f1ecded0a36801dff66ee1aa66b04164a53ff0"
-    },
-    {
-      "id": "363436",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
-    },
-    {
-      "id": "363439",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION-5-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 5)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
-    },
-    {
       "id": "362962",
       "number": "HHS-2026-ACF-ORR-RP-0007",
       "title": "Placement and Coordination Program",
@@ -15015,15 +14844,6 @@
       "hash": "562f74428d2eefd6c4826241f2a7f8767ce2a0446bc72756b33a63a061cbac99"
     },
     {
-      "id": "363240",
-      "number": "NNH25ZDA001N-ATMOS",
-      "title": "ROSES25: A.14 Atmosphere",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "10/20/2026",
-      "hash": "5440f7d8085a650e0ee5283a7699e3d9dc0b727633c9ee490e7fad8ab97228c7"
-    },
-    {
       "id": "362843",
       "number": "2026-NTIA-TBCP",
       "title": "Tribal Broadband Connectivity Program",
@@ -15139,87 +14959,6 @@
       "openDate": "07/30/2026",
       "closeDate": "08/28/2026",
       "hash": "85445aefc8f060f622bcdf5b9e9d01b9b2b29ef6fb5c6e39e2972ced02d40d17"
-    },
-    {
-      "id": "360335",
-      "number": "CDC-RFA-JG-26-0050",
-      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "99bdcccc0230d8378940f6fbaa9dc993ebb2956f1f5f8ade32626644666dbf29"
-    },
-    {
-      "id": "360338",
-      "number": "CDC-RFA-JG-26-0053",
-      "title": "Expanding global health security through local partnerships in Indonesia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "47eef00703e950a3105f5228fcdcffcb2d6ca2d5b2e8c611a3e6869df9ad08ff"
-    },
-    {
-      "id": "360199",
-      "number": "RFA-CK-26-035",
-      "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "11/05/2026",
-      "hash": "bfa93cc4cf0c4b4483dc3f5f459ba11e1d4ed2ed7f0c98d87fef375fda5c0b40"
-    },
-    {
-      "id": "360334",
-      "number": "CDC-RFA-JG-26-0048",
-      "title": "Expanding Global Health Security through local partnerships in Senegal",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "d5263d5158c886a6d06e73d3ca5f888cd2c6f11ccf3353a0e7f5206e35ab6a8f"
-    },
-    {
-      "id": "363160",
-      "number": "HRSA-27-063",
-      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards",
-      "status": "forecasted",
-      "openDate": "07/13/2026",
-      "closeDate": "",
-      "hash": "dfc8d0dc6afb431ef17502ec1104643e9ae0e017f562f699f70104a3c2497aad"
-    },
-    {
-      "id": "363275",
-      "number": "HRSA-27-064",
-      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "94291a3b270689e55e15c462bf194d0dcced2679915c5ff5cab4079c91492ce1"
-    },
-    {
-      "id": "363443",
-      "number": "HRV2026NOFO0004",
-      "title": "Affiliate American Spaces PD Support Program FY 2026",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "08/14/2026",
-      "hash": "3ddc2a0ffcb56a4d7bf1e93417a1f653f4cab3ca5dc772842d507b774998bf7d"
-    },
-    {
-      "id": "363451",
-      "number": "DFOP0019505",
-      "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "09/02/2026",
-      "hash": "e2781c9cbf117f9088ca8f8931c91eb0037b6dd95660468eed1aee55647cf2a9"
-    },
-    {
-      "id": "363261",
-      "number": "O-COPS-2026-172562",
-      "title": "FY26 Community Policing Development (CPD) Accreditation Program",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "08/27/2026",
-      "hash": "849ff22bdc7552e50334cd43ae159a3073149c75bcb407420656e21ddf2ed5b6"
     },
     {
       "id": "360510",
@@ -15339,15 +15078,6 @@
       "hash": "b43bf99348c789a3674fad38fe0b40f54b100e33d081ad43043775373b425092"
     },
     {
-      "id": "363453",
-      "number": "HP-DPH-26-001",
-      "title": "Healthy Cooking in Communities",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "08/17/2026",
-      "hash": "88116438ff9543c80d90da9cf67f0490aeedae82ef23892b26bbc2f8ba27346e"
-    },
-    {
       "id": "363196",
       "number": "SB-OCAPR-26-001",
       "title": "PROGRAM FOR INVESTMENT IN MICROENTREPRENEURS (PRIME) FY 2026",
@@ -15355,6 +15085,78 @@
       "openDate": "07/15/2026",
       "closeDate": "08/12/2026",
       "hash": "8353e215a711e8292af26e34d13340594d64f34173edb2d31b123cf1526d95e2"
+    },
+    {
+      "id": "360335",
+      "number": "CDC-RFA-JG-26-0050",
+      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "99bdcccc0230d8378940f6fbaa9dc993ebb2956f1f5f8ade32626644666dbf29"
+    },
+    {
+      "id": "360338",
+      "number": "CDC-RFA-JG-26-0053",
+      "title": "Expanding global health security through local partnerships in Indonesia",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "47eef00703e950a3105f5228fcdcffcb2d6ca2d5b2e8c611a3e6869df9ad08ff"
+    },
+    {
+      "id": "360199",
+      "number": "RFA-CK-26-035",
+      "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "11/05/2026",
+      "hash": "bfa93cc4cf0c4b4483dc3f5f459ba11e1d4ed2ed7f0c98d87fef375fda5c0b40"
+    },
+    {
+      "id": "360334",
+      "number": "CDC-RFA-JG-26-0048",
+      "title": "Expanding Global Health Security through local partnerships in Senegal",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "d5263d5158c886a6d06e73d3ca5f888cd2c6f11ccf3353a0e7f5206e35ab6a8f"
+    },
+    {
+      "id": "363160",
+      "number": "HRSA-27-063",
+      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards",
+      "status": "forecasted",
+      "openDate": "07/13/2026",
+      "closeDate": "",
+      "hash": "dfc8d0dc6afb431ef17502ec1104643e9ae0e017f562f699f70104a3c2497aad"
+    },
+    {
+      "id": "363275",
+      "number": "HRSA-27-064",
+      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
+      "status": "forecasted",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "hash": "94291a3b270689e55e15c462bf194d0dcced2679915c5ff5cab4079c91492ce1"
+    },
+    {
+      "id": "363443",
+      "number": "HRV2026NOFO0004",
+      "title": "Affiliate American Spaces PD Support Program FY 2026",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "08/14/2026",
+      "hash": "3ddc2a0ffcb56a4d7bf1e93417a1f653f4cab3ca5dc772842d507b774998bf7d"
+    },
+    {
+      "id": "363261",
+      "number": "O-COPS-2026-172562",
+      "title": "FY26 Community Policing Development (CPD) Accreditation Program",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "08/27/2026",
+      "hash": "849ff22bdc7552e50334cd43ae159a3073149c75bcb407420656e21ddf2ed5b6"
     },
     {
       "id": "361822",
@@ -15366,6 +15168,15 @@
       "hash": "fd6931262599c8cbffdd87ca9aec9b85d859fb6374bf5ee5f7480c6a98b0fa1e"
     },
     {
+      "id": "360455",
+      "number": "CDC-RFA-JG-26-0047",
+      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "43cd45b5e34cfaf0f925b286d528c1ac57de2cd3dfc2c0e03b528f1d7dd1fc2d"
+    },
+    {
       "id": "360336",
       "number": "CDC-RFA-JG-26-0051",
       "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
@@ -15375,13 +15186,58 @@
       "hash": "44e7d419c394cdc738890c5ac6f89953bc1cc71a5c6164d18ae3ea94178e3991"
     },
     {
-      "id": "360455",
-      "number": "CDC-RFA-JG-26-0047",
-      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
+      "id": "363425",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION1-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
       "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "43cd45b5e34cfaf0f925b286d528c1ac57de2cd3dfc2c0e03b528f1d7dd1fc2d"
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "f2383b87430eb045d50a5f92f08868612a86bf0cbe99507cdb1d44fa63a520e8"
+    },
+    {
+      "id": "363070",
+      "number": "DFOP0019227",
+      "title": "Middle East Regional Cooperation (MERC)",
+      "status": "posted",
+      "openDate": "07/06/2026",
+      "closeDate": "09/30/2026",
+      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
+    },
+    {
+      "id": "363456",
+      "number": "DFOP0019522",
+      "title": "DRL FY 2025 China Programs",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/31/2026",
+      "hash": "dc8a491eb106ff58f13950fa89650325f2aa086d97735ea02e09aa3b4490ded7"
+    },
+    {
+      "id": "363240",
+      "number": "NNH25ZDA001N-ATMOS",
+      "title": "ROSES25: A.14 Atmosphere",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "10/20/2026",
+      "hash": "5440f7d8085a650e0ee5283a7699e3d9dc0b727633c9ee490e7fad8ab97228c7"
+    },
+    {
+      "id": "363224",
+      "number": "NNH25ZDA001N-AES",
+      "title": "ROSES25: A.13 Accelerating Earth Solutions",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "10/15/2026",
+      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
+    },
+    {
+      "id": "363241",
+      "number": "NNH25ZDA001N-BIOS",
+      "title": "ROSES25: A.15 Biosphere",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "11/06/2026",
+      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
     },
     {
       "id": "363105",
@@ -15393,6 +15249,42 @@
       "hash": "53a47c4998f2c03b26dee03224cb4dfa154e9260d3fd804c282a631d65bfa7bb"
     },
     {
+      "id": "363439",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION-5-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 5)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
+    },
+    {
+      "id": "363453",
+      "number": "HP-DPH-26-001",
+      "title": "Healthy Cooking in Communities",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "08/17/2026",
+      "hash": "88116438ff9543c80d90da9cf67f0490aeedae82ef23892b26bbc2f8ba27346e"
+    },
+    {
+      "id": "363436",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
+    },
+    {
+      "id": "363457",
+      "number": "G26AS00155",
+      "title": "Cooperative Agreement for Affiliated Partner with the Great Lakes &ndash; Northern Forest Cooperative Ecosystem Studies Unit (CESU)",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "09/04/2026",
+      "hash": "ec1c428391be5283226e5f65b8c9fe89c30c0ed851ec2d28a7b0cc132b992e6f"
+    },
+    {
       "id": "363390",
       "number": "OFOP0003410",
       "title": "Strengthening Bosnia and Herzegovina&rsquo;s Organized Crime Specialized Departments for Organized Crime Through Expert Advisory Support",
@@ -15400,6 +15292,123 @@
       "openDate": "07/30/2026",
       "closeDate": "09/28/2026",
       "hash": "018c5aea8ac18c303bbb118b2b080727ac5f0e8fda6df10dcd560b044716e79d"
+    },
+    {
+      "id": "363455",
+      "number": "HT942526RTRPIIRA",
+      "title": "DoW Reconstructive Transplant, Investigator-Initiated Research Award",
+      "status": "forecasted",
+      "openDate": "08/04/2026",
+      "closeDate": "",
+      "hash": "f7805a8eb64a63a73f651f81865a3233f9b419c116279a795dab247be252e6d9"
+    },
+    {
+      "id": "362643",
+      "number": "O-COPS-2026-172583",
+      "title": "FY26 COPS Technology and Equipment Program",
+      "status": "posted",
+      "openDate": "06/02/2026",
+      "closeDate": "08/13/2026",
+      "hash": "1e1c47c916c571dacd5e78d484a8c052646bcf70807bdbb71b58a794efc27f79"
+    },
+    {
+      "id": "363454",
+      "number": "RFA-DK-28-115",
+      "title": "Single Source Competition for Continuation of Understanding and Targeting the Pathophysiology of Youth-Onset Type 2 Diabetes Clinical Centers (U01 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "08/04/2026",
+      "closeDate": "",
+      "hash": "0dd8ee9d67dfd291f0079792c5a78b9b17e61b56b6a6001b6a6b236f42c85415"
+    },
+    {
+      "id": "363428",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION3-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "3b46f2192bb6ee5c045481cab037c5120fab99617e7d6845ba569df904452e10"
+    },
+    {
+      "id": "363430",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION6-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 6)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "f5ad8392d5eeb55f316c4a754bcf99ff476ae5f4d0038a541c340fe754baabce"
+    },
+    {
+      "id": "363437",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 4)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "5f39a70e0e576a490ed8827077f1ecded0a36801dff66ee1aa66b04164a53ff0"
+    },
+    {
+      "id": "362168",
+      "number": "HHS-2026-ACF-OFA-PG-0059",
+      "title": "National Research Center for Promoting Work and Strong Families",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/31/2026",
+      "hash": "14065e24711b0d065ee98088d93641b5615f680e14a21c14d68eddce9abdd2af"
+    },
+    {
+      "id": "363458",
+      "number": "DFOP0019505",
+      "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "09/02/2026",
+      "hash": "8d7073a56c5feb0c109cf0700ca266a2b9c4788c4960480423f748208d2e12d6"
+    },
+    {
+      "id": "363445",
+      "number": "DHS-26-MT-152-00-98",
+      "title": "Fiscal Year 2026 National Dam Safety Program - Rehabilitation of High Hazard Potential Dams (HHPD)",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "08/31/2026",
+      "hash": "2c08e51cb378542f2ff880cee164dcb698b775a99795ae7d8debcf40850db417"
+    },
+    {
+      "id": "363218",
+      "number": "DFOP0019393",
+      "title": "Southern Cone Cooperation Law Enforcement and Criminal Justice Sector Support",
+      "status": "posted",
+      "openDate": "07/16/2026",
+      "closeDate": "08/17/2026",
+      "hash": "f64381299daab1c4e3ebfe61f548cb3404e0ff8a29b08182be9c4c1dbf306aef"
+    },
+    {
+      "id": "363464",
+      "number": "DFOP0019327",
+      "title": "Global Coalition Against Transnational Repression",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/12/2026",
+      "hash": "32e68be5702da33a29f526187b4ce7a04921b1ad69025aff8fd77aa5b5590ff1"
+    },
+    {
+      "id": "363465",
+      "number": "DFOP0019331",
+      "title": "Countering Transnational Repression Through Evidence-based Research",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/10/2026",
+      "hash": "5f4ccade6f90db6ced83c8ebdfb115207221b39133a97d49c9ce11c470282fe6"
+    },
+    {
+      "id": "360200",
+      "number": "RFA-CK-26-036",
+      "title": "US Travelers Health Research, Surveillance, Communication, and Outreach Network",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "11/05/2026",
+      "hash": "089b2f1746e0d751a67ff63f8db365c3bc4bad2656157b57a11037369a2cc967"
     }
   ]
 }

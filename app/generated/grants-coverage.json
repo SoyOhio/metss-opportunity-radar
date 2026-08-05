@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-04T12:22:45.813Z",
-  "inventoryCheckedAt": "2026-08-04T12:22:42.716Z",
+  "generatedAt": "2026-08-05T12:21:27.008Z",
+  "inventoryCheckedAt": "2026-08-05T12:21:23.876Z",
   "screeningSnapshotAt": "2026-08-02T12:24:48.440Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1711,
-  "historicalSourceRecords": 1914,
+  "currentActiveSourceRecords": 1712,
+  "historicalSourceRecords": 1923,
   "previouslyScreenedSnapshotRecords": 1716,
-  "currentRecordsCoveredBySnapshot": 1114,
-  "currentRecordsRequiringScreening": 597,
-  "newRecordsRequiringScreening": 19,
-  "changedRecordsRequiringScreening": 578,
+  "currentRecordsCoveredBySnapshot": 1093,
+  "currentRecordsRequiringScreening": 619,
+  "newRecordsRequiringScreening": 28,
+  "changedRecordsRequiringScreening": 591,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -110,6 +110,38 @@
     ],
     [
       {
+        "grantsGovId": "363209",
+        "opportunityNumber": "DFOP0019331",
+        "title": "Countering Transnational Repression Through Evidence-based Research",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363209"
+      },
+      {
+        "grantsGovId": "363465",
+        "opportunityNumber": "DFOP0019331",
+        "title": "Countering Transnational Repression Through Evidence-based Research",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363465"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363213",
+        "opportunityNumber": "DFOP0019327",
+        "title": "Global Coalition Against Transnational Repression",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363213"
+      },
+      {
+        "grantsGovId": "363464",
+        "opportunityNumber": "DFOP0019327",
+        "title": "Global Coalition Against Transnational Repression",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363464"
+      }
+    ],
+    [
+      {
         "grantsGovId": "363228",
         "opportunityNumber": "DFOP0019193",
         "title": "Pax Silica Artificial Intelligence Assistance Project",
@@ -177,6 +209,22 @@
         "title": "DRL  Transshipment Supply Chain Tracing",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363397"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363451",
+        "opportunityNumber": "DFOP0019505",
+        "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363451"
+      },
+      {
+        "grantsGovId": "363458",
+        "opportunityNumber": "DFOP0019505",
+        "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363458"
       }
     ]
   ]
