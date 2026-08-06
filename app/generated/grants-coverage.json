@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-05T12:21:27.008Z",
-  "inventoryCheckedAt": "2026-08-05T12:21:23.876Z",
+  "generatedAt": "2026-08-06T12:23:21.576Z",
+  "inventoryCheckedAt": "2026-08-06T12:23:18.272Z",
   "screeningSnapshotAt": "2026-08-02T12:24:48.440Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1712,
-  "historicalSourceRecords": 1923,
+  "currentActiveSourceRecords": 1717,
+  "historicalSourceRecords": 1936,
   "previouslyScreenedSnapshotRecords": 1716,
-  "currentRecordsCoveredBySnapshot": 1093,
-  "currentRecordsRequiringScreening": 619,
-  "newRecordsRequiringScreening": 28,
-  "changedRecordsRequiringScreening": 591,
+  "currentRecordsCoveredBySnapshot": 1091,
+  "currentRecordsRequiringScreening": 626,
+  "newRecordsRequiringScreening": 43,
+  "changedRecordsRequiringScreening": 583,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -175,8 +175,24 @@
         "grantsGovId": "363273",
         "opportunityNumber": "OFOP0002652",
         "title": "Transatlantic Partnership Program",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363273"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363283",
+        "opportunityNumber": "DFOP0019432",
+        "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363283"
+      },
+      {
+        "grantsGovId": "363477",
+        "opportunityNumber": "DFOP0019432",
+        "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363477"
       }
     ],
     [
