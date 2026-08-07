@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T12:23:18.272Z",
-  "hitCount": 1717,
+  "updatedAt": "2026-08-07T11:12:26.861Z",
+  "hitCount": 1720,
   "records": [
     {
       "id": "141593",
@@ -1801,15 +1801,6 @@
       "openDate": "11/04/2024",
       "closeDate": "10/20/2027",
       "hash": "1fd291dacb7c296c01872cc0e9746c98ee75569feadd1df264c4fca0fa5b8128"
-    },
-    {
-      "id": "357168",
-      "number": "PAR-25-204",
-      "title": "NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "11/12/2027",
-      "hash": "4c03c0fd9809a8aaf52ed426cc307938fc2054fd1df18c96462cf03ce8f02595"
     },
     {
       "id": "355417",
@@ -4006,15 +3997,6 @@
       "openDate": "11/25/2024",
       "closeDate": "11/17/2026",
       "hash": "99fc2dfabcfcc064ae844a77cfd806a42dd7a743e4803e9b332844cc49ba598b"
-    },
-    {
-      "id": "353590",
-      "number": "PAR-24-174",
-      "title": "Global Infectious Disease Research Training Program (D43 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "04/17/2024",
-      "closeDate": "08/06/2026",
-      "hash": "66c43fbbd99ebdf840c92b5c2f6ba320df4883f3bfa93adfec5075adfd61068d"
     },
     {
       "id": "357340",
@@ -6319,15 +6301,6 @@
       "openDate": "12/29/2025",
       "closeDate": "",
       "hash": "a661c0601e7c9413dbd0781b085de88e6320ffd1e32ab255ce677fd4aa19d3f2"
-    },
-    {
-      "id": "361056",
-      "number": "HHS-2026-ACL-AOD-TBSG-0019",
-      "title": "Traumatic Brain Injury State Partnership",
-      "status": "forecasted",
-      "openDate": "12/23/2025",
-      "closeDate": "",
-      "hash": "43e09c97742584c62b3031a745de2f14db6550c8f570d6da92dffd6bc9bfc2d2"
     },
     {
       "id": "302271",
@@ -8670,15 +8643,6 @@
       "hash": "ffc0b7cf8ae5562707e7c2735f9681c59ba48c5d96f8d13d0101a2d67ef18c8d"
     },
     {
-      "id": "358015",
-      "number": "DHS-24-MT-029-000-98",
-      "title": "Fiscal Year 2024 Flood Mitigation Assistance",
-      "status": "posted",
-      "openDate": "01/06/2025",
-      "closeDate": "08/06/2026",
-      "hash": "512c6a46804bb5986bd2ce9513244da62101a0854dedab236621962cede28a56"
-    },
-    {
       "id": "362065",
       "number": "AF-PDPA-FY26-01",
       "title": "Africa Regional Services Paris Annual Program Statement: ARS Speaker Program",
@@ -8884,15 +8848,6 @@
       "openDate": "06/08/2026",
       "closeDate": "08/11/2026",
       "hash": "90d157f94da643bcf393b5bcdb789e15b81a1d9877e1a47e67790cc492ebcfa4"
-    },
-    {
-      "id": "362675",
-      "number": "OFOP0002918",
-      "title": "Strengthening Specialized Departments for Organized Crime and Corruption",
-      "status": "posted",
-      "openDate": "06/04/2026",
-      "closeDate": "08/06/2026",
-      "hash": "749f530905d840eec6f1b99bc13c86eebeaa99ac87fd1cdf50c4c7d7d6371eb7"
     },
     {
       "id": "358991",
@@ -9849,15 +9804,6 @@
       "hash": "2ce327b3f27b212d68159de9e737a7eeda183a6e3ddcba55c043667110c776a8"
     },
     {
-      "id": "362611",
-      "number": "O-OVC-2026-172622",
-      "title": "OVC FY 2026 Tribal Victim Services Set-Aside Formula Program",
-      "status": "posted",
-      "openDate": "05/29/2026",
-      "closeDate": "08/06/2026",
-      "hash": "d398a5c3e1651ae434c692233eb0ba6f06fb7b26021462b8823bd313e701d525"
-    },
-    {
       "id": "361164",
       "number": "PAR-27-071",
       "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
@@ -10164,15 +10110,6 @@
       "hash": "538a2bb4d230a2739cbefbb24b23c6632fd13893a8663d463c9a3d9ed1ae6124"
     },
     {
-      "id": "362253",
-      "number": "HT942526TSCRPIDA",
-      "title": "DoW Tuberous Sclerosis Complex, Idea Development Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "08/06/2026",
-      "hash": "d41366ea9ed4f13f79534f57144af2955fa8f7d595d01a2c5d8a5cf5f81a883d"
-    },
-    {
       "id": "362178",
       "number": "HT942526AZRPTRCA",
       "title": "DoW Alzheimer&rsquo;s Transforming Care Award",
@@ -10353,15 +10290,6 @@
       "hash": "03efcecae6b9b137c9cc98412c0452a736edb3cc5850f9acac620fb4c1b32cf8"
     },
     {
-      "id": "362251",
-      "number": "HT942526TSCRPEHDA",
-      "title": "DoW Tuberous Sclerosis Complex, Exploration-Hypothesis Development Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "08/06/2026",
-      "hash": "4c0ed1ce059813c3500af1e7785e69160e82f4049fcb50063a994043295c67c7"
-    },
-    {
       "id": "362230",
       "number": "HT942526MSRPEIRA",
       "title": "DoW Multiple Sclerosis Early Investigator Research Award",
@@ -10441,15 +10369,6 @@
       "openDate": "05/21/2026",
       "closeDate": "09/02/2026",
       "hash": "e6237e53e033019d3d55e0d5e19579fdfc7feef684185f0355f62bb1c97ada92"
-    },
-    {
-      "id": "362337",
-      "number": "HT942526PRMRPTTDA",
-      "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "08/06/2026",
-      "hash": "c4ab71d1d7d63b450d8469c0d53c3c8540abbb93856b983505e574518e4045f6"
     },
     {
       "id": "362231",
@@ -10731,15 +10650,6 @@
       "hash": "5b66db77f3d90f540ea4acf78178fa8a739b151f3b5b46868be8cdcb7111a251"
     },
     {
-      "id": "362249",
-      "number": "HT942526TSCRPCTRA",
-      "title": "DoW Tuberous Sclerosis Complex, Clinical Translational Research Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "08/06/2026",
-      "hash": "2102ac0ab38ea3a70e88700361a241aaca8c98a6d963710aaf6b868857ef8d7c"
-    },
-    {
       "id": "362321",
       "number": "HT942526PRMRPCTA",
       "title": "DoW Peer Reviewed Medical, Clinical Trial Award",
@@ -10855,15 +10765,6 @@
       "openDate": "05/05/2026",
       "closeDate": "08/24/2026",
       "hash": "0406be2e472d368a39ec3c83e269ef1348c5b7d204f6fe0a665063b1dcdb341e"
-    },
-    {
-      "id": "362326",
-      "number": "HT942526PRMRPIPA",
-      "title": "DoW Peer Reviewed Medical, Impact Award",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "08/06/2026",
-      "hash": "d1908e4b8dbf59e6bff4cb7a04b050a0a74b85aa1bac5d6669e7b206458f7c5f"
     },
     {
       "id": "362180",
@@ -11109,15 +11010,6 @@
       "hash": "e663fdc06ad6a52e816c4f590c67089ecf01ab42b24d052761e4c3c1b473fb41"
     },
     {
-      "id": "362327",
-      "number": "HT942526PRMRPLAHRA",
-      "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "08/06/2026",
-      "hash": "ba3a8677ef71a87db0f51449ef0fbcd27774bd6e0c018da8dfe6b07595c4e4f4"
-    },
-    {
       "id": "362242",
       "number": "HT942526MRPTSA",
       "title": "DoW Melanoma Research Program Team Science Award",
@@ -11197,15 +11089,6 @@
       "openDate": "05/04/2026",
       "closeDate": "09/30/2026",
       "hash": "d5de8568366612929529f9076ef9656a86f7c369a9e09511d4a12db355820cdc"
-    },
-    {
-      "id": "362035",
-      "number": "DE-FOA-0003623",
-      "title": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
-      "status": "posted",
-      "openDate": "04/23/2026",
-      "closeDate": "08/06/2026",
-      "hash": "af48933ceb4d8459faad2461c964e0f4c3ec1db0ebc4c6af5b669e1668f11eb5"
     },
     {
       "id": "363063",
@@ -11406,15 +11289,6 @@
       "hash": "e6ab698fd251c7e63c0ec21e414ae1ad5175f8ea42192b9c54b5b5a8a2768a4d"
     },
     {
-      "id": "362831",
-      "number": "HRSA-26-046",
-      "title": "Small Health Care Provider Quality Improvement Program",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "08/06/2026",
-      "hash": "f429937dc68d60648311b90ad01dbb8706d4c1f83239a2d2044c7cc290355941"
-    },
-    {
       "id": "363151",
       "number": "DHS-26-MT-144-000-99",
       "title": "Fiscal Year 2026 Flood Mitigation Assistance Swift Current",
@@ -11449,15 +11323,6 @@
       "openDate": "06/30/2026",
       "closeDate": "08/25/2026",
       "hash": "d6c1b00f933d99ca402bb14e6df2a4384d60ad11c00a99492561cee5ef336bf5"
-    },
-    {
-      "id": "362347",
-      "number": "ED-GRANT-26-054",
-      "title": "Promise Neighborhoods-84.215N",
-      "status": "posted",
-      "openDate": "05/11/2026",
-      "closeDate": "08/06/2026",
-      "hash": "3db93db955ac168e02ecdaef4d38f2b4f6fbb734110b107c89276d79f09baea3"
     },
     {
       "id": "362995",
@@ -12351,15 +12216,6 @@
       "hash": "2f4e3e1eb03171c819028424fd5ff66075c79b940b172cc9181640df7fadead0"
     },
     {
-      "id": "363040",
-      "number": "OFOP0003184",
-      "title": "Disrupting TCOs through Evidence Reform",
-      "status": "posted",
-      "openDate": "07/01/2026",
-      "closeDate": "08/31/2026",
-      "hash": "9150d15300a478f26774ba3e74077e4a865eaf61a1498de551a30a0bb4bff44a"
-    },
-    {
       "id": "363037",
       "number": "RFA-DK-28-114",
       "title": "NIDDK Multi-Purpose Resource-Related, Multi-Component Research Services Centers Cooperative Agreement (U2C - Clinical Trial Optional)",
@@ -12403,15 +12259,6 @@
       "openDate": "07/09/2026",
       "closeDate": "08/10/2026",
       "hash": "a50a624fc4f6b82c3116ba856bf545048d6b6870acc3d4a1687e56010d3a4e78"
-    },
-    {
-      "id": "363093",
-      "number": "PDS-ECUADOR-FY26-01",
-      "title": "Annual Program Statement (APS) &ndash; Public Diplomacy Grants Program: Advancing America First Priorities",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "08/06/2026",
-      "hash": "739ee7f19a67aa195b7fc14b57814eac888747583c9a645ccf8a44711fb9874b"
     },
     {
       "id": "363123",
@@ -12486,15 +12333,6 @@
       "hash": "d02a6f78911a9aba8acf887034f94ce74d6cab2d20e8c251694aaef7ec3e538a"
     },
     {
-      "id": "362340",
-      "number": "NNH25ZDA001N-SAT",
-      "title": "ROSES25: D.7 Strategic Astrophysics Technology",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "08/06/2026",
-      "hash": "66ed55f00c6f9d933e1898d3d00d33fcd130b75fa05936dfe2c53420fb31e766"
-    },
-    {
       "id": "360003",
       "number": "NNH25ZDA001N-INNOVATE",
       "title": "ROSES 2025: A.10 INNOVATE",
@@ -12511,15 +12349,6 @@
       "openDate": "07/11/2025",
       "closeDate": "12/31/2026",
       "hash": "b4b12d2510e755263d6127e821f4d2ab8ac52fa36d90c533c20572ad87636588"
-    },
-    {
-      "id": "362338",
-      "number": "NNH25ZDA001N-APRA",
-      "title": "ROSES25: D.6 Astrophysics Research and Analysis",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "08/06/2026",
-      "hash": "e8771c748f440181565d918cd06be6b0c0e28785de08d4c6f1d04dca8bb18bc9"
     },
     {
       "id": "363122",
@@ -12594,15 +12423,6 @@
       "hash": "cb70a7836db740aced7a7adc66e6741c3037abb72ea81adb51b81592a06f02fa"
     },
     {
-      "id": "362881",
-      "number": "OFH-2600-DC-021D",
-      "title": "Fair Housing Initiatives Program - Administrative Enforcement Initiative",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "08/06/2026",
-      "hash": "7a3d0bad15e0c39bb5b9e5a60a403c1399d4802f9b87aec06ec205fe3a40a9b5"
-    },
-    {
       "id": "363066",
       "number": "NNH26ZTR001N-26ESI-B2",
       "title": "EARLY STAGE INNOVATIONS (ESI26)",
@@ -12619,15 +12439,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "1eb16e0c6182f14d9a59e68c1b46c401a879db1b5a4b4ec4361d4123c64b0d36"
-    },
-    {
-      "id": "362882",
-      "number": "OFH-2600-DC-021B",
-      "title": "Fair Housing Initiatives Program - Fair Housing Organizations Initiative FY2025 and FY2026",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "08/06/2026",
-      "hash": "df0a73169084b6ed8684ee2b16a9e9ee1c54ea902f4f2ff005ed763474a328c8"
     },
     {
       "id": "362827",
@@ -12754,15 +12565,6 @@
       "openDate": "06/09/2026",
       "closeDate": "08/31/2026",
       "hash": "9bdae12ca85b5eb9c340e90e0725a079dadbc7095a48cf73048c7df939ae9acf"
-    },
-    {
-      "id": "361969",
-      "number": "HHS-2026-ACF-ACYF-CO-0041",
-      "title": "A Network for Connection, Healing, and Ongoing Resources",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "08/06/2026",
-      "hash": "e754421c050f3b65a5913ff830b6da8b76285eeee04203c9f5d016f2e9ec8197"
     },
     {
       "id": "362713",
@@ -14412,15 +14214,6 @@
       "hash": "80961a8de1896cf25cf12dc38b5dc230a91c9864a37d6afcf72ec5efd740a07d"
     },
     {
-      "id": "363046",
-      "number": "EMBJPD26002",
-      "title": "U.S. Embassy Jerusalem Public Diplomacy Annual Program Statement (Palestinian audiences)",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "08/06/2026",
-      "hash": "20546c7f3e06a9c0ef3d93b690c14b2c4b521f8326288bbbeb47c3009d6a071d"
-    },
-    {
       "id": "363422",
       "number": "DFOP0019193",
       "title": "Pax Silica Artificial Intelligence Assistance Project",
@@ -14554,15 +14347,6 @@
       "openDate": "07/27/2026",
       "closeDate": "",
       "hash": "979c6bcf11d75bdae2ccd3dcefff217d6abeff2db036a128d59b5e67d7a8ffbe"
-    },
-    {
-      "id": "363375",
-      "number": "R26AS00052",
-      "title": "Desalination and Water Purification Research Program: Research Projects",
-      "status": "posted",
-      "openDate": "07/29/2026",
-      "closeDate": "09/29/2026",
-      "hash": "130cfc2744e7da4a013df983c4b834b563c8ab7a980110069168b4ff898ad234"
     },
     {
       "id": "363378",
@@ -14743,15 +14527,6 @@
       "openDate": "07/30/2026",
       "closeDate": "08/28/2026",
       "hash": "85445aefc8f060f622bcdf5b9e9d01b9b2b29ef6fb5c6e39e2972ced02d40d17"
-    },
-    {
-      "id": "363439",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION-5-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 5)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
     },
     {
       "id": "363453",
@@ -15177,15 +14952,6 @@
       "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
     },
     {
-      "id": "363456",
-      "number": "DFOP0019522",
-      "title": "DRL FY 2025 China Programs",
-      "status": "posted",
-      "openDate": "08/04/2026",
-      "closeDate": "08/31/2026",
-      "hash": "dc8a491eb106ff58f13950fa89650325f2aa086d97735ea02e09aa3b4490ded7"
-    },
-    {
       "id": "363240",
       "number": "NNH25ZDA001N-ATMOS",
       "title": "ROSES25: A.14 Atmosphere",
@@ -15220,6 +14986,96 @@
       "openDate": "07/08/2026",
       "closeDate": "08/15/2026",
       "hash": "53a47c4998f2c03b26dee03224cb4dfa154e9260d3fd804c282a631d65bfa7bb"
+    },
+    {
+      "id": "363437",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 4)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "5f39a70e0e576a490ed8827077f1ecded0a36801dff66ee1aa66b04164a53ff0"
+    },
+    {
+      "id": "363436",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
+    },
+    {
+      "id": "363466",
+      "number": "ED-GRANTS-080626-001",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/01/2026",
+      "hash": "9819257f4fc87c4e9d25b8795d88657e71daee27fbfdbfef3175e79277ac2a04"
+    },
+    {
+      "id": "363477",
+      "number": "DFOP0019432",
+      "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "08/14/2026",
+      "hash": "0f6686413c6377b6067e997f05ae96ec6a4fca4d440c5a908fd9c842fe4aa46e"
+    },
+    {
+      "id": "363439",
+      "number": "OST-OSDBU-2026-SBTTAC-REGION-5-FY2026-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 5)",
+      "status": "posted",
+      "openDate": "07/31/2026",
+      "closeDate": "08/30/2026",
+      "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
+    },
+    {
+      "id": "363468",
+      "number": "ED-GRANTS-080626-003",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/01/2026",
+      "hash": "38a06632b9ddcc94f9a9ecb862466c06ae58182e54cf5e8b3515a1edd03c895a"
+    },
+    {
+      "id": "363456",
+      "number": "DFOP0019522",
+      "title": "DRL FY 2025 China Programs",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/31/2026",
+      "hash": "dc8a491eb106ff58f13950fa89650325f2aa086d97735ea02e09aa3b4490ded7"
+    },
+    {
+      "id": "363483",
+      "number": "FM-MCG-27-001",
+      "title": "Development of Fiscal Year 2027 Commercial Vehicle Safety Plans to Support National Safety Goals",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/30/2026",
+      "hash": "0ee7c6dc60b0f47ff33ebad7ec17054386c8e971aa7d5a0ea869d845c895080a"
+    },
+    {
+      "id": "363396",
+      "number": "RUS-PART-2026",
+      "title": "Powering Affordable Reliable Technology (PART) Energy Program",
+      "status": "forecasted",
+      "openDate": "08/03/2026",
+      "closeDate": "",
+      "hash": "0ec4fa85e4527b80ff929770759626fb7920722d11764fd60e37cf936cfb3a92"
+    },
+    {
+      "id": "363479",
+      "number": "USDA-NIFA-CGP-011315",
+      "title": "Higher Education Challenge   Grants Program",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "10/15/2026",
+      "hash": "9d5a8e39b16872f853da3c369c0a10c2025e0a26d6fd45862a39f3103d897e2c"
     },
     {
       "id": "363474",
@@ -15267,15 +15123,6 @@
       "hash": "3af52c2e1d5da61cd399024df38a289958c685c752222bfe25afacc6e6b7fde6"
     },
     {
-      "id": "363464",
-      "number": "DFOP0019327",
-      "title": "Global Coalition Against Transnational Repression",
-      "status": "posted",
-      "openDate": "08/04/2026",
-      "closeDate": "08/12/2026",
-      "hash": "32e68be5702da33a29f526187b4ce7a04921b1ad69025aff8fd77aa5b5590ff1"
-    },
-    {
       "id": "350802",
       "number": "24-503",
       "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
@@ -15283,123 +15130,6 @@
       "openDate": "10/31/2023",
       "closeDate": "10/14/2026",
       "hash": "47a8a9da91a3e50f9052935349570795b2dfc178b992d09f5c9c37478b748ebf"
-    },
-    {
-      "id": "363465",
-      "number": "DFOP0019331",
-      "title": "Countering Transnational Repression Through Evidence-based Research",
-      "status": "posted",
-      "openDate": "08/04/2026",
-      "closeDate": "08/10/2026",
-      "hash": "5f4ccade6f90db6ced83c8ebdfb115207221b39133a97d49c9ce11c470282fe6"
-    },
-    {
-      "id": "363477",
-      "number": "DFOP0019432",
-      "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "08/14/2026",
-      "hash": "0f6686413c6377b6067e997f05ae96ec6a4fca4d440c5a908fd9c842fe4aa46e"
-    },
-    {
-      "id": "362544",
-      "number": "PA-FPT-26-001",
-      "title": "National Training Center for Family Planning",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "08/19/2026",
-      "hash": "8f999cba8c3130be9ef0fa808003ca21b8725955eaa4435e3e41cdaef1699c06"
-    },
-    {
-      "id": "363479",
-      "number": "USDA-NIFA-CGP-011315",
-      "title": "Higher Education Challenge   Grants Program",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "10/15/2026",
-      "hash": "9d5a8e39b16872f853da3c369c0a10c2025e0a26d6fd45862a39f3103d897e2c"
-    },
-    {
-      "id": "363437",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 4)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "5f39a70e0e576a490ed8827077f1ecded0a36801dff66ee1aa66b04164a53ff0"
-    },
-    {
-      "id": "363396",
-      "number": "RUS-PART-2026",
-      "title": "Powering Affordable Reliable Technology (PART) Energy Program",
-      "status": "forecasted",
-      "openDate": "08/03/2026",
-      "closeDate": "",
-      "hash": "0ec4fa85e4527b80ff929770759626fb7920722d11764fd60e37cf936cfb3a92"
-    },
-    {
-      "id": "363436",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
-    },
-    {
-      "id": "361929",
-      "number": "HHS-2026-ACF-ACYF-AK-0014",
-      "title": "Competitive Personal Responsibility Education Program",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "08/31/2026",
-      "hash": "c4f4f08d5b5289886ade4b845e5092fd1e45efc069fca3cbde1d0f74d32898f0"
-    },
-    {
-      "id": "363363",
-      "number": "USDA-FS-2028-FLP",
-      "title": "Forest Legacy Program - FY2028 Funding",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "09/11/2026",
-      "hash": "6470c8d8d271e5d7586f1c7588230c7daebf8843298a8deba9736f11e1d8ca23"
-    },
-    {
-      "id": "361987",
-      "number": "HHS-2026-ACF-ACYF-AT-0015",
-      "title": "Tribal Personal Responsibility Education Program (Tribal PREP)",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "08/31/2026",
-      "hash": "13b344f8c51f13e9ca27ea7d8f2b77884989b75ce3a336ce0d2391c5bb697e3c"
-    },
-    {
-      "id": "363480",
-      "number": "26-DC-MG-SOI-TRX-FALL-2026",
-      "title": "SOI - Rural Transportation Match and Gap Funding Assistance Program",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "08/28/2026",
-      "hash": "e82f752bbe3d2a49f9e307bf9a941dc3c1cbeb9785e016f2b752154e34e90a5f"
-    },
-    {
-      "id": "363086",
-      "number": "PAS-DJI-FY26-AIWAP",
-      "title": "American Innovation and Workforce Advancement Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "08/09/2026",
-      "hash": "83f129e9587accda7657337f2f495c13b60149d03f5adc12f49dcc91b4b3e1d1"
-    },
-    {
-      "id": "363087",
-      "number": "PAS-DJI-FY2026-ELT",
-      "title": "English Language Teaching Services Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "08/09/2026",
-      "hash": "7398d15f55882ebe89173c21cbddbefcd223bc785ee8c23e3bb09fade8fe78ef"
     },
     {
       "id": "328573",
@@ -15454,6 +15184,303 @@
       "openDate": "08/06/2026",
       "closeDate": "11/04/2026",
       "hash": "33535897ef677685e1ed16c823c0c4f0522319883ce1d9f49b9445cf187cf197"
+    },
+    {
+      "id": "363086",
+      "number": "PAS-DJI-FY26-AIWAP",
+      "title": "American Innovation and Workforce Advancement Program",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "08/09/2026",
+      "hash": "83f129e9587accda7657337f2f495c13b60149d03f5adc12f49dcc91b4b3e1d1"
+    },
+    {
+      "id": "363087",
+      "number": "PAS-DJI-FY2026-ELT",
+      "title": "English Language Teaching Services Program",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "08/09/2026",
+      "hash": "7398d15f55882ebe89173c21cbddbefcd223bc785ee8c23e3bb09fade8fe78ef"
+    },
+    {
+      "id": "363480",
+      "number": "26-DC-MG-SOI-TRX-FALL-2026",
+      "title": "SOI - Rural Transportation Match and Gap Funding Assistance Program",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "08/28/2026",
+      "hash": "e82f752bbe3d2a49f9e307bf9a941dc3c1cbeb9785e016f2b752154e34e90a5f"
+    },
+    {
+      "id": "362544",
+      "number": "PA-FPT-26-001",
+      "title": "National Training Center for Family Planning",
+      "status": "posted",
+      "openDate": "07/02/2026",
+      "closeDate": "08/19/2026",
+      "hash": "8f999cba8c3130be9ef0fa808003ca21b8725955eaa4435e3e41cdaef1699c06"
+    },
+    {
+      "id": "361929",
+      "number": "HHS-2026-ACF-ACYF-AK-0014",
+      "title": "Competitive Personal Responsibility Education Program",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "08/31/2026",
+      "hash": "c4f4f08d5b5289886ade4b845e5092fd1e45efc069fca3cbde1d0f74d32898f0"
+    },
+    {
+      "id": "363363",
+      "number": "USDA-FS-2028-FLP",
+      "title": "Forest Legacy Program - FY2028 Funding",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "09/11/2026",
+      "hash": "6470c8d8d271e5d7586f1c7588230c7daebf8843298a8deba9736f11e1d8ca23"
+    },
+    {
+      "id": "361987",
+      "number": "HHS-2026-ACF-ACYF-AT-0015",
+      "title": "Tribal Personal Responsibility Education Program (Tribal PREP)",
+      "status": "posted",
+      "openDate": "08/05/2026",
+      "closeDate": "08/31/2026",
+      "hash": "13b344f8c51f13e9ca27ea7d8f2b77884989b75ce3a336ce0d2391c5bb697e3c"
+    },
+    {
+      "id": "363375",
+      "number": "R26AS00052",
+      "title": "Desalination and Water Purification Research Program: Research Projects",
+      "status": "posted",
+      "openDate": "07/29/2026",
+      "closeDate": "09/29/2026",
+      "hash": "130cfc2744e7da4a013df983c4b834b563c8ab7a980110069168b4ff898ad234"
+    },
+    {
+      "id": "363467",
+      "number": "ED-GRANTS-080626-002",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/01/2026",
+      "hash": "181fd2e45901456b8d83351dab25af77a0cf448b6b835c2b4829ebcf0c792ad2"
+    },
+    {
+      "id": "363486",
+      "number": "DFOP0019538",
+      "title": "DRL Ensuring Resilient Seafood Supply Chains: Countering Forced Labor and any associated Illegal, Unreported and Unregulated Fishing",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/03/2026",
+      "hash": "d0b254e6c8072f3f70e05d6617402a8b65dcc72b034c96db6c32c2b4bd5482c4"
+    },
+    {
+      "id": "363040",
+      "number": "OFOP0003184",
+      "title": "Disrupting TCOs through Evidence Reform",
+      "status": "posted",
+      "openDate": "07/01/2026",
+      "closeDate": "08/31/2026",
+      "hash": "9150d15300a478f26774ba3e74077e4a865eaf61a1498de551a30a0bb4bff44a"
+    },
+    {
+      "id": "363471",
+      "number": "ED-GRANTS-080626-005",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Using Longitudinal Data to Support State Education Policymaking in Special Education, Assistance Listing Number (ALN) 84.324S",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/01/2026",
+      "hash": "529a569dfa6486904a6e593163792ab07148b82f5b2e9c90dfe4363b97d8cd89"
+    },
+    {
+      "id": "363465",
+      "number": "DFOP0019331",
+      "title": "Countering Transnational Repression Through Evidence-based Research",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/10/2026",
+      "hash": "5f4ccade6f90db6ced83c8ebdfb115207221b39133a97d49c9ce11c470282fe6"
+    },
+    {
+      "id": "363469",
+      "number": "ED-GRANTS-080626-004",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Using Longitudinal Data to Support State Education Policymaking, Assistance Listing Number (ALN) 84.305S",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/01/2026",
+      "hash": "2d2d7d19bd69f2d63a710eed48fe1d1e2e56305332624b3538266bc3bc4e3ea2"
+    },
+    {
+      "id": "363488",
+      "number": "RFA-RM-28-009",
+      "title": "Partnership with Common Fund Data Ecosystem Resources",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "6a4f3165c08ee14aaf4e2b2750d3ae1ef379f10d229f9104fb0c7813735d8ef4"
+    },
+    {
+      "id": "357168",
+      "number": "PAR-25-204",
+      "title": "NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/18/2024",
+      "closeDate": "08/13/2026",
+      "hash": "556676bf8b3abd7aed8e4c8f4afc7ef25923aa4b4a31bef52ef774a735f1ee03"
+    },
+    {
+      "id": "363484",
+      "number": "CDC-RFA-CD-27-0067",
+      "title": "National Foundation for the Centers for Disease Control and Prevention",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "ae91c07ce1f7ce510e0cd5b8133bb91d0eb505e9c9a1fe24826b928ba574f180"
+    },
+    {
+      "id": "363493",
+      "number": "HHS-2027-IHS-FHC-0001",
+      "title": "Domestic Violence Prevention: Forensic Healthcare Services",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "9a5603c98ee2b4b3c03a104557ea46de758316e2d8a0922e3b2602a3a6b854c5"
+    },
+    {
+      "id": "363494",
+      "number": "HHS-2027-IHS-NUIBH-0001",
+      "title": "National Urban Indian Health Program (Education and Research)",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "cdc2132a9a678c7f4af80302e1472b5b2a63a538d174e697b109ad69691baf8c"
+    },
+    {
+      "id": "363491",
+      "number": "HHS-2027-IHS-DVP-0001",
+      "title": "Domestic Violence Prevention",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "d220e54c288de53fe0c1720d6bbdb4b8daa5741bbc60d3c2a340d1e91c97cb69"
+    },
+    {
+      "id": "363487",
+      "number": "RD-AL-RDAAL-26-001",
+      "title": "Applied Drug Policy Research Experiences",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/06/2026",
+      "hash": "9d04e4481ca976ae7c7527c358efa8f731a58ce78f2e3e61c83f9e850fcee252"
+    },
+    {
+      "id": "363492",
+      "number": "HHS-2027-IHS-EPI-0001",
+      "title": "Tribal Epidemiology Centers",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "27207134dafcc0f0ec7a9a08ea81083edc7209a60e5207961bc14d449d4b0cec"
+    },
+    {
+      "id": "363485",
+      "number": "DFOP0019546",
+      "title": "Documentation of Hateful Rhetoric Targeting Minority Populations in South Africa",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/03/2026",
+      "hash": "bbba5f2654b7fd3b3862635d0c8050fe9421968d7b305b0e12dfbcc040b1dce8"
+    },
+    {
+      "id": "363464",
+      "number": "DFOP0019327",
+      "title": "Global Coalition Against Transnational Repression",
+      "status": "posted",
+      "openDate": "08/04/2026",
+      "closeDate": "08/12/2026",
+      "hash": "32e68be5702da33a29f526187b4ce7a04921b1ad69025aff8fd77aa5b5590ff1"
+    },
+    {
+      "id": "363489",
+      "number": "HR001126S0016",
+      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/25/2026",
+      "hash": "20b20de4149beaa484c103c77edeade1df658fac8c6a641885c04b5dab540647"
+    },
+    {
+      "id": "363495",
+      "number": "HHS-2027-IHS-PHN-0001",
+      "title": "Public Health Nursing",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "482d6f36b2981a4d0183e1b0114152fce9d984d5fa80627574d69848712fc772"
+    },
+    {
+      "id": "363496",
+      "number": "HHS-2027-IHS-SPIP-0001",
+      "title": "Suicide Prevention, Intervention, and Postvention",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "f9981aca1bcc6594f3c5547a116226b4b86a088257002318b0d656c1e408f21c"
+    },
+    {
+      "id": "363498",
+      "number": "HHS-2027-IHS-TMD-0001",
+      "title": "Tribal Management Development",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "7fbde57f0ec7e32fca9344f3eb201abeb96529c3e08a6d3b99416774a8975347"
+    },
+    {
+      "id": "363499",
+      "number": "HHS-2027-IHS-TSGN-0001",
+      "title": "Tribal Self-Governance - Negotiation",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "5917db8a285af3a4a6bd2c23d4d3ce3b01da14bb74a83c03b783ace79cf162aa"
+    },
+    {
+      "id": "363501",
+      "number": "HHS-2027-IHS-UIHP2-0001",
+      "title": "Urban Indian Health 4-in-1 Program",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "9c280cf44c7218353eb23ebdac6d9b3620065068689ac6c62f7b844044b591f6"
+    },
+    {
+      "id": "363502",
+      "number": "HHS-2027-IHS-UIHP3-0001",
+      "title": "Urban Indian Health Program - Education &amp; Research",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "3334777ab60288182038e2c8d8ad81b3da431e295b8fc499f0866b4fefe497bb"
+    },
+    {
+      "id": "363503",
+      "number": "HHS-2027-IHS-YRTC-0001",
+      "title": "Youth Regional Treatment Center Aftercare Program",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "88c5521f0b8e8bd4ee8d026541ebb1fe8aee04666229b7dcdb1db5e3883b6d18"
+    },
+    {
+      "id": "363504",
+      "number": "HHS-2027-IHS-TSGP-0001",
+      "title": "Tribal Self-Governance - Planning",
+      "status": "forecasted",
+      "openDate": "08/06/2026",
+      "closeDate": "",
+      "hash": "ba473ab22816dbf24dcafed83768cc92cfec771ebab961b41559c2624f541339"
     }
   ]
 }
