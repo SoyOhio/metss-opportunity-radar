@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-09T12:01:41.692Z",
-  "hitCount": 1702,
+  "updatedAt": "2026-08-10T11:29:29.066Z",
+  "hitCount": 1697,
   "records": [
     {
       "id": "141593",
@@ -11658,15 +11658,6 @@
       "hash": "8c6240bede8bea8d9d0e63c731be982166011a48f2c4fda3f01288dc5a09a66d"
     },
     {
-      "id": "363078",
-      "number": "MUSCAT-PAS-2026-APS-01",
-      "title": "Muscat - Annual Program Statement (APS)- PD Small Grants Program",
-      "status": "posted",
-      "openDate": "07/08/2026",
-      "closeDate": "08/09/2026",
-      "hash": "69b300fa1ca53cfcdbb22ab2673d8c38c86e12b5f1502fc1bd12260d9da06e96"
-    },
-    {
       "id": "363286",
       "number": "RFA-FD-26-011",
       "title": "Research, Education, and Outreach on Botanical Natural Products",
@@ -12277,24 +12268,6 @@
       "openDate": "05/18/2026",
       "closeDate": "08/15/2026",
       "hash": "a7c2a85d0765f357430c50eae2700f9b2ac331c9cd6b23168a710cb48584ec2d"
-    },
-    {
-      "id": "363064",
-      "number": "PDS-CAIRO-004-FY26",
-      "title": "Mentor Program for English Educators",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "08/09/2026",
-      "hash": "97c2d72cdde2b29c2a5dc245b03a414f4436aafdca2e1df70e3e367ac29ce481"
-    },
-    {
-      "id": "363061",
-      "number": "PAS-JAKARTA-FY26-07",
-      "title": "AI Pathways To The Future",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "08/09/2026",
-      "hash": "cb70a7836db740aced7a7adc66e6741c3037abb72ea81adb51b81592a06f02fa"
     },
     {
       "id": "363066",
@@ -14889,24 +14862,6 @@
       "hash": "33535897ef677685e1ed16c823c0c4f0522319883ce1d9f49b9445cf187cf197"
     },
     {
-      "id": "363086",
-      "number": "PAS-DJI-FY26-AIWAP",
-      "title": "American Innovation and Workforce Advancement Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "08/09/2026",
-      "hash": "83f129e9587accda7657337f2f495c13b60149d03f5adc12f49dcc91b4b3e1d1"
-    },
-    {
-      "id": "363087",
-      "number": "PAS-DJI-FY2026-ELT",
-      "title": "English Language Teaching Services Program",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "08/09/2026",
-      "hash": "7398d15f55882ebe89173c21cbddbefcd223bc785ee8c23e3bb09fade8fe78ef"
-    },
-    {
       "id": "363480",
       "number": "26-DC-MG-SOI-TRX-FALL-2026",
       "title": "SOI - Rural Transportation Match and Gap Funding Assistance Program",
@@ -15294,15 +15249,6 @@
       "hash": "790df0b253c2dbd2f8a589fdc8ef60db01e1b08d896a68364e25eccf49db66d4"
     },
     {
-      "id": "363513",
-      "number": "DFOP0019193",
-      "title": "Pax Silica Artificial Intelligence Assistance Project",
-      "status": "posted",
-      "openDate": "08/07/2026",
-      "closeDate": "08/20/2026",
-      "hash": "0774b22b9bde0adf08ede57699c25d896440e1fbd3fd92c8235598dfd856b52d"
-    },
-    {
       "id": "362962",
       "number": "HHS-2026-ACF-ORR-RP-0007",
       "title": "Placement and Coordination Program",
@@ -15319,6 +15265,15 @@
       "openDate": "08/07/2026",
       "closeDate": "09/18/2026",
       "hash": "1a0ee3fc3fc0b2e56a2ab561d4eff6df2dd1714adc5c0dfe7180a8a587821a63"
+    },
+    {
+      "id": "363513",
+      "number": "DFOP0019193",
+      "title": "Pax Silica Artificial Intelligence Assistance Project",
+      "status": "posted",
+      "openDate": "08/07/2026",
+      "closeDate": "08/20/2026",
+      "hash": "0774b22b9bde0adf08ede57699c25d896440e1fbd3fd92c8235598dfd856b52d"
     }
   ]
 }
