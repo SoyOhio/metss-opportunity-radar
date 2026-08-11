@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-10T11:29:32.239Z",
-  "inventoryCheckedAt": "2026-08-10T11:29:29.066Z",
+  "generatedAt": "2026-08-11T11:09:52.398Z",
+  "inventoryCheckedAt": "2026-08-11T11:09:49.177Z",
   "screeningSnapshotAt": "2026-08-09T12:01:41.692Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1697,
-  "historicalSourceRecords": 1968,
+  "currentActiveSourceRecords": 1690,
+  "historicalSourceRecords": 1980,
   "previouslyScreenedSnapshotRecords": 1702,
-  "currentRecordsCoveredBySnapshot": 1139,
-  "currentRecordsRequiringScreening": 558,
-  "newRecordsRequiringScreening": 0,
-  "changedRecordsRequiringScreening": 558,
+  "currentRecordsCoveredBySnapshot": 1118,
+  "currentRecordsRequiringScreening": 572,
+  "newRecordsRequiringScreening": 12,
+  "changedRecordsRequiringScreening": 560,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -120,7 +120,7 @@
         "grantsGovId": "363465",
         "opportunityNumber": "DFOP0019331",
         "title": "Countering Transnational Repression Through Evidence-based Research",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363465"
       }
     ],
@@ -198,8 +198,15 @@
         "grantsGovId": "363477",
         "opportunityNumber": "DFOP0019432",
         "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363477"
+      },
+      {
+        "grantsGovId": "363524",
+        "opportunityNumber": "DFOP0019432",
+        "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363524"
       }
     ],
     [
