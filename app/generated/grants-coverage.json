@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-12T11:13:34.330Z",
-  "inventoryCheckedAt": "2026-08-12T11:13:31.810Z",
+  "generatedAt": "2026-08-13T11:14:46.140Z",
+  "inventoryCheckedAt": "2026-08-13T11:14:42.927Z",
   "screeningSnapshotAt": "2026-08-09T12:01:41.692Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1691,
-  "historicalSourceRecords": 1991,
+  "currentActiveSourceRecords": 1699,
+  "historicalSourceRecords": 2004,
   "previouslyScreenedSnapshotRecords": 1702,
-  "currentRecordsCoveredBySnapshot": 1102,
-  "currentRecordsRequiringScreening": 589,
-  "newRecordsRequiringScreening": 23,
-  "changedRecordsRequiringScreening": 566,
+  "currentRecordsCoveredBySnapshot": 1082,
+  "currentRecordsRequiringScreening": 617,
+  "newRecordsRequiringScreening": 37,
+  "changedRecordsRequiringScreening": 580,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -136,7 +136,7 @@
         "grantsGovId": "363464",
         "opportunityNumber": "DFOP0019327",
         "title": "Global Coalition Against Transnational Repression",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363464"
       }
     ],
@@ -207,6 +207,22 @@
         "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363524"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363298",
+        "opportunityNumber": "DFOP0019410",
+        "title": "U.S.-Africa Strategic Investment Program",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363298"
+      },
+      {
+        "grantsGovId": "363554",
+        "opportunityNumber": "DFOP0019410",
+        "title": "U.S.-Africa Strategic Investment Program",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363554"
       }
     ],
     [
