@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T11:14:46.140Z",
-  "inventoryCheckedAt": "2026-08-13T11:14:42.927Z",
+  "generatedAt": "2026-08-14T11:12:41.057Z",
+  "inventoryCheckedAt": "2026-08-14T11:12:37.777Z",
   "screeningSnapshotAt": "2026-08-09T12:01:41.692Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1699,
-  "historicalSourceRecords": 2004,
+  "currentActiveSourceRecords": 1690,
+  "historicalSourceRecords": 2028,
   "previouslyScreenedSnapshotRecords": 1702,
-  "currentRecordsCoveredBySnapshot": 1082,
-  "currentRecordsRequiringScreening": 617,
-  "newRecordsRequiringScreening": 37,
-  "changedRecordsRequiringScreening": 580,
+  "currentRecordsCoveredBySnapshot": 1064,
+  "currentRecordsRequiringScreening": 626,
+  "newRecordsRequiringScreening": 59,
+  "changedRecordsRequiringScreening": 567,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -90,6 +90,22 @@
         "title": "Advancing Global Health",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363452"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363190",
+        "opportunityNumber": "DFOP0018862",
+        "title": "Syria Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363190"
+      },
+      {
+        "grantsGovId": "363578",
+        "opportunityNumber": "DFOP0018862",
+        "title": "Syria Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363578"
       }
     ],
     [
