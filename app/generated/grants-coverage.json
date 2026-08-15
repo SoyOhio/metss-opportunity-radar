@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T11:12:41.057Z",
-  "inventoryCheckedAt": "2026-08-14T11:12:37.777Z",
+  "generatedAt": "2026-08-15T10:44:19.309Z",
+  "inventoryCheckedAt": "2026-08-15T10:44:16.124Z",
   "screeningSnapshotAt": "2026-08-09T12:01:41.692Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1690,
-  "historicalSourceRecords": 2028,
+  "currentActiveSourceRecords": 1668,
+  "historicalSourceRecords": 2046,
   "previouslyScreenedSnapshotRecords": 1702,
-  "currentRecordsCoveredBySnapshot": 1064,
-  "currentRecordsRequiringScreening": 626,
-  "newRecordsRequiringScreening": 59,
-  "changedRecordsRequiringScreening": 567,
+  "currentRecordsCoveredBySnapshot": 1039,
+  "currentRecordsRequiringScreening": 629,
+  "newRecordsRequiringScreening": 75,
+  "changedRecordsRequiringScreening": 554,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -88,8 +88,15 @@
         "grantsGovId": "363452",
         "opportunityNumber": "DFOP0017890",
         "title": "Advancing Global Health",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363452"
+      },
+      {
+        "grantsGovId": "363607",
+        "opportunityNumber": "DFOP0017890",
+        "title": "Advancing Global Health",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363607"
       }
     ],
     [
@@ -182,8 +189,15 @@
         "grantsGovId": "363513",
         "opportunityNumber": "DFOP0019193",
         "title": "Pax Silica Artificial Intelligence Assistance Project",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363513"
+      },
+      {
+        "grantsGovId": "363596",
+        "opportunityNumber": "DFOP0019193",
+        "title": "Pax Silica Artificial Intelligence Assistance Project",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363596"
       }
     ],
     [
@@ -221,7 +235,7 @@
         "grantsGovId": "363524",
         "opportunityNumber": "DFOP0019432",
         "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363524"
       }
     ],
@@ -253,7 +267,7 @@
         "grantsGovId": "363406",
         "opportunityNumber": "OFOP0003294",
         "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363406"
       }
     ],
