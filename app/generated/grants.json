@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-08-09T12:01:41.692Z",
+  "generatedAt": "2026-08-16T11:47:23.066Z",
   "source": "Complete Grants.gov posted/forecasted inventory + official linked requirements + full public documents",
   "triageModel": "gpt-5.6-luna",
   "reviewModel": "gpt-5.6-terra",
   "audit": {
-    "generatedAt": "2026-08-09T12:01:41.692Z",
-    "currentInventory": 1702,
-    "fullyFetched": 1702,
-    "initiallyScreened": 1702,
-    "plausibleCandidates": 40,
-    "completeDocumentReviews": 32,
-    "incompleteDocumentReviews": 8,
+    "generatedAt": "2026-08-16T11:47:23.066Z",
+    "currentInventory": 1665,
+    "fullyFetched": 1665,
+    "initiallyScreened": 1665,
+    "plausibleCandidates": 39,
+    "completeDocumentReviews": 27,
+    "incompleteDocumentReviews": 12,
     "deepReviewBacklog": 0,
-    "published": 5,
-    "rejectedAtInitialScreen": 1662,
-    "rejectedAtFinalGate": 35,
+    "published": 6,
+    "rejectedAtInitialScreen": 1626,
+    "rejectedAtFinalGate": 33,
     "fetchErrors": 0,
     "triageErrors": 0,
     "screeningCycleComplete": true,
     "budgetStopped": false,
-    "estimatedOpenAISpendUsd": 2.3669,
+    "estimatedOpenAISpendUsd": 2.0918,
     "maxEstimatedRunSpendUsd": 4.5,
     "openAIUsage": {
-      "inputTokens": 1145928,
-      "outputTokens": 136528,
-      "totalTokens": 1282456,
-      "estimatedSpendUsd": 2.366925,
+      "inputTokens": 1088318,
+      "outputTokens": 119871,
+      "totalTokens": 1208189,
+      "estimatedSpendUsd": 2.0917969999999997,
       "byModel": {
         "gpt-5.6-luna": {
-          "inputTokens": 1060574,
-          "outputTokens": 106106,
-          "totalTokens": 1166680,
-          "estimatedSpendUsd": 1.69721
+          "inputTokens": 1025896,
+          "outputTokens": 98691,
+          "totalTokens": 1124587,
+          "estimatedSpendUsd": 1.6180419999999998
         },
         "gpt-5.6-terra": {
-          "inputTokens": 85354,
-          "outputTokens": 30422,
-          "totalTokens": 115776,
-          "estimatedSpendUsd": 0.669715
+          "inputTokens": 62422,
+          "outputTokens": 21180,
+          "totalTokens": 83602,
+          "estimatedSpendUsd": 0.473755
         }
       }
     },
@@ -282,6 +282,125 @@
           "No assumption has been made regarding METSS registrations, small-business status, personnel, equipment capacity, indirect rates, financial capacity, export controls, clearances, CMMC status, or partner commitments.",
           "CRDO may offer a manufacturing/metrology route, but it carries additional CHIPS research-security and domestic-IP restrictions not evidenced as satisfiable by the approved METSS public profile.",
           "The recommendation does not rely on METSS-affiliated entities, future spinouts, or unlisted facilities or past performance."
+        ]
+      }
+    },
+    {
+      "id": "ai-grants-359650",
+      "title": "Limited Competition: Superfund Hazardous Substance Research and Training Program (P42 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "office": "Exhaustively screened Grants.gov record",
+      "number": "RFA-ES-27-004",
+      "type": "Grant",
+      "status": "Open",
+      "due": "Due 2028-09-25",
+      "dueSort": "2028-09-25",
+      "fit": 60,
+      "value": "$22,000,000",
+      "role": "Research partner",
+      "capabilities": [
+        "CBRN / decon",
+        "Advanced materials",
+        "Functional fluids",
+        "Testing / validation"
+      ],
+      "summary": "This is technically relevant as a university-led research-partner opportunity, not as a METSS prime opportunity. METSS has credible public capabilities for an environmental science and engineering subcontract focused on hazardous-substance reduction or treatment chemistry, decontamination-oriented methods, material/chemical compatibility, analytical characterization, and treatment-performance validation. However, the NOFO requires a large, integrated Superfund Research Program Center with mandatory biomedical and environmental science/engineering projects, required cores, translational engagement, and a domestic accredited higher-education applicant. METSS's public profile does not establish prime eligibility or the broader Center infrastructure. Pursue only if METSS can secure a credible university-led Center team and a defined, mandate-responsive technical package; otherwise do not invest in a standalone application effort.",
+      "why": "The opportunity requires an integrated environmental science and engineering research portfolio and requires at least one project addressing biological, chemical, or physical methods that reduce the amount and toxicity of hazardous substances.: The reviewed announcement requires 3–4 research projects integrating biomedical research and environmental science/engineering and states that at least one environmental science and engineering project must address SRP Mandate 4: methods to reduce hazardous-substance amount and toxicity. (RFA-ES-27-004-Full-Announcement.html) METSS has an evidence-backed potential technical package in hazardous-substance treatment/reduction and supporting evaluation.: METSS publicly lists physical, organic, inorganic, and analytical chemistry; cleaners, degreasers, sterilants, disinfectants, surfactants, corrosion inhibitors, and functional-fluid formulation; chemical and physical decontamination evaluation; sample analysis; reaction characterization; and chemical, physical, environmental, performance, and materials-compatibility testing. (Approved METSS public profile) The opportunity can use centralized analytical or related support services through an optional Research Support Core serving at least two research projects.: The reviewed announcement states that an optional Research Support Core may provide centralized services to at least two projects, including analytical services, biostatistics, bioinformatics, GIS, data visualization, or computational modeling. (RFA-ES-27-004-Full-Announcement.html) METSS has publicly documented analytical and testing capabilities relevant to a possible subcontracted analytical, compatibility, validation, or treatment-performance function.: METSS publicly identifies advanced analytical laboratory and environmental testing capabilities, chemical/physical/mechanical/environmental/performance/materials-compatibility testing, laboratory and pilot-scale product/process development, and chemical and biological field testing. (Approved METSS public profile)",
+      "action": "Before committing proposal resources, identify a domestic accredited higher-education institution preparing an SRP Center application and offer a narrowly defined subcontract concept: chemistry/materials-based hazardous-substance reduction or decontamination method development, paired with analytical characterization and compatibility/performance validation. Require the prospective prime to confirm the target substance, Superfund/SRP mandate fit, project placement within the required ESE/BMR mix, budget role, and whether METSS's services support at least two projects if proposed through the optional Research Support Core. For the next stated cycle, the application deadline is September 25, 2026 at 5:00 PM local time of the applicant organization; verify the live Grants.gov package and linked NIH/SRP requirements before proceeding.",
+      "eligibility": "CONDITIONAL: METSS Corporation is not documented as an accredited institute of higher education and therefore is not eligible to apply as the prime applicant. The NOFO expressly permits an eligible institute of higher education to subcontract with other organizations to conduct portions of the research. METSS could be eligible only as a subcontractor/research partner to a domestic accredited higher-education prime, subject to that prime's selection and all applicable institutional, NIH, and project-specific requirements. Blocking or unverified requirements: Prime applicant must be a domestic accredited institute of higher education; METSS public profile does not establish this status.; A university prime must assemble the mandatory integrated SRP Center structure: Administrative Core, TREC, and 3–4 integrated biomedical research and environmental science/engineering projects.; The proposed METSS work package must demonstrate direct Superfund/SRP-mandate relevance, including hazardous substances within scope; generic materials, chemistry, or testing work would be nonresponsive.; Current METSS SAM, UEI, eRA Commons-related organizational readiness where applicable to a subcontract, personnel availability, budget, and institutional approvals are unknown.; A prospective university prime and defined Center team are not identified in the supplied record or approved METSS public profile.",
+      "sourceUrl": "https://www.grants.gov/search-results-detail/359650",
+      "sourceLabel": "Grants.gov",
+      "verification": "Full-record screening with gpt-5.6-luna; final evaluation with gpt-5.6-terra; confidence high. Reviewed all 1 listed public document(s): RFA-ES-27-004-Full-Announcement.html. Human bid/no-bid validation remains required.",
+      "partnerIds": [],
+      "live": true,
+      "sourceUpdatedAt": "May 19, 2026 12:13:25 PM EDT",
+      "sourceHash": "68f4499092930271f91d7dfe014e3a3fa366f905fca20951315b5e2ddacd62cd",
+      "documentReviewComplete": true,
+      "analysis": {
+        "recommendation": "partner",
+        "eligibility": {
+          "status": "conditional",
+          "rationale": "METSS Corporation is not documented as an accredited institute of higher education and therefore is not eligible to apply as the prime applicant. The NOFO expressly permits an eligible institute of higher education to subcontract with other organizations to conduct portions of the research. METSS could be eligible only as a subcontractor/research partner to a domestic accredited higher-education prime, subject to that prime's selection and all applicable institutional, NIH, and project-specific requirements.",
+          "blocking_requirements": [
+            "Prime applicant must be a domestic accredited institute of higher education; METSS public profile does not establish this status.",
+            "A university prime must assemble the mandatory integrated SRP Center structure: Administrative Core, TREC, and 3–4 integrated biomedical research and environmental science/engineering projects.",
+            "The proposed METSS work package must demonstrate direct Superfund/SRP-mandate relevance, including hazardous substances within scope; generic materials, chemistry, or testing work would be nonresponsive.",
+            "Current METSS SAM, UEI, eRA Commons-related organizational readiness where applicable to a subcontract, personnel availability, budget, and institutional approvals are unknown.",
+            "A prospective university prime and defined Center team are not identified in the supplied record or approved METSS public profile."
+          ]
+        },
+        "recommended_role": "research_partner",
+        "scores": {
+          "technical_relevance": 78,
+          "past_performance_alignment": 58,
+          "execution_readiness": 45,
+          "strategic_relevance": 72,
+          "overall_pursuit_strength": 60
+        },
+        "matching_capabilities": [
+          "CBRN / decon",
+          "Advanced materials",
+          "Functional fluids",
+          "Testing / validation"
+        ],
+        "evidence": [
+          {
+            "claim": "The opportunity requires an integrated environmental science and engineering research portfolio and requires at least one project addressing biological, chemical, or physical methods that reduce the amount and toxicity of hazardous substances.",
+            "source": "RFA-ES-27-004-Full-Announcement.html",
+            "support": "The reviewed announcement requires 3–4 research projects integrating biomedical research and environmental science/engineering and states that at least one environmental science and engineering project must address SRP Mandate 4: methods to reduce hazardous-substance amount and toxicity."
+          },
+          {
+            "claim": "METSS has an evidence-backed potential technical package in hazardous-substance treatment/reduction and supporting evaluation.",
+            "source": "Approved METSS public profile",
+            "support": "METSS publicly lists physical, organic, inorganic, and analytical chemistry; cleaners, degreasers, sterilants, disinfectants, surfactants, corrosion inhibitors, and functional-fluid formulation; chemical and physical decontamination evaluation; sample analysis; reaction characterization; and chemical, physical, environmental, performance, and materials-compatibility testing."
+          },
+          {
+            "claim": "The opportunity can use centralized analytical or related support services through an optional Research Support Core serving at least two research projects.",
+            "source": "RFA-ES-27-004-Full-Announcement.html",
+            "support": "The reviewed announcement states that an optional Research Support Core may provide centralized services to at least two projects, including analytical services, biostatistics, bioinformatics, GIS, data visualization, or computational modeling."
+          },
+          {
+            "claim": "METSS has publicly documented analytical and testing capabilities relevant to a possible subcontracted analytical, compatibility, validation, or treatment-performance function.",
+            "source": "Approved METSS public profile",
+            "support": "METSS publicly identifies advanced analytical laboratory and environmental testing capabilities, chemical/physical/mechanical/environmental/performance/materials-compatibility testing, laboratory and pilot-scale product/process development, and chemical and biological field testing."
+          },
+          {
+            "claim": "METSS cannot serve as the prime based on the published applicant restriction, but subcontracting is expressly permitted.",
+            "source": "Official Grants.gov record",
+            "support": "The record limits eligible applicants to accredited institutes of higher education and states that eligible applicants may subcontract with other organizations as necessary to conduct portions of the research."
+          },
+          {
+            "claim": "METSS's public past work supports credibility in chemical survivability, decontamination, and chemical-materials research, but does not by itself establish Superfund Center experience or eligibility.",
+            "source": "Approved METSS public profile",
+            "support": "Public examples include Non-PFAS Elastomeric Chemical Barrier Materials; Vapor Purge and Chemical Agent Persistence in Aircraft; Aircraft and Sensitive Equipment CBRN Survivability Capability Development and Transition; and DPA Title III Critical Chemicals Production."
+          }
+        ],
+        "gaps": [
+          "No evidence that METSS Corporation is an accredited institute of higher education; it should not pursue as prime.",
+          "No identified university prime, Center Director, biomedical-research project lead, community-engagement team, or integrated Center consortium.",
+          "METSS's profile does not establish prior Superfund-site research, hazardous-waste exposure/health-effects research, SRP Center participation, environmental epidemiology, toxicology, risk assessment, or biomedical research leadership.",
+          "No specific Superfund hazardous substance, exposure pathway, affected community/end user, field site, or mandate-responsive research question has been identified.",
+          "The profile does not prove current SAM registration, UEI, eRA Commons access, NIH subaward readiness, available staff, capacity, pricing, indirect rates, or institutional willingness to participate.",
+          "Current SRP areas of interest, current topic availability, suggested hazardous substances, end-user needs, and current-recipient landscape are unknown because linked SRP materials were not supplied for review.",
+          "The announcement contains an internal inconsistency concerning whether one or multiple applications per institution are allowed; the university prime must obtain NIEHS clarification before relying on submission strategy."
+        ],
+        "partner_needs": [
+          "Domestic accredited institute of higher education to serve as eligible applicant and Center prime.",
+          "Biomedical research leadership with demonstrated expertise relevant to hazardous-substance human-health effects, exposure, toxicology, epidemiology, or other required BMR project scope.",
+          "Environmental science and engineering leadership able to frame a Superfund-responsive ESE project and integrate METSS's chemistry/materials/testing contribution.",
+          "Administrative Core and TREC leadership, including data management, training, translational research, stakeholder/community engagement, dissemination, and end-user engagement.",
+          "Access to a defined Superfund-relevant research problem, hazardous substances in scope, and appropriate stakeholders, communities, and/or field sites.",
+          "If work involves human subjects, animals, clinical trials, select agents, or on-site hazardous-substance activities, partners with the required approvals, oversight, safety systems, and compliance infrastructure."
+        ],
+        "summary": "This is technically relevant as a university-led research-partner opportunity, not as a METSS prime opportunity. METSS has credible public capabilities for an environmental science and engineering subcontract focused on hazardous-substance reduction or treatment chemistry, decontamination-oriented methods, material/chemical compatibility, analytical characterization, and treatment-performance validation. However, the NOFO requires a large, integrated Superfund Research Program Center with mandatory biomedical and environmental science/engineering projects, required cores, translational engagement, and a domestic accredited higher-education applicant. METSS's public profile does not establish prime eligibility or the broader Center infrastructure. Pursue only if METSS can secure a credible university-led Center team and a defined, mandate-responsive technical package; otherwise do not invest in a standalone application effort.",
+        "immediate_action": "Before committing proposal resources, identify a domestic accredited higher-education institution preparing an SRP Center application and offer a narrowly defined subcontract concept: chemistry/materials-based hazardous-substance reduction or decontamination method development, paired with analytical characterization and compatibility/performance validation. Require the prospective prime to confirm the target substance, Superfund/SRP mandate fit, project placement within the required ESE/BMR mix, budget role, and whether METSS's services support at least two projects if proposed through the optional Research Support Core. For the next stated cycle, the application deadline is September 25, 2026 at 5:00 PM local time of the applicant organization; verify the live Grants.gov package and linked NIH/SRP requirements before proceeding.",
+        "confidence": "high",
+        "caveats": [
+          "Technical relevance does not establish legal or program eligibility. METSS is not evidenced as an eligible higher-education prime applicant.",
+          "The recommendation is contingent on a university prime and a substantive, Superfund-responsive work package; no partner commitment is evidenced.",
+          "The NOFO permits subcontracting, but final subrecipient requirements and registrations must be confirmed by the university prime and at award/subaward negotiation.",
+          "The supplied document review did not include linked NIH policy, SRP Suggested Research and Activities, webinar, or current-topic materials; those sources may materially affect responsiveness and should be reviewed by the prime.",
+          "No claim is made that METSS has required human-subjects, animal-research, select-agent, site-access, biosafety beyond publicly stated BSL-2 capability, or NIH-specific administrative approvals."
         ]
       }
     },
