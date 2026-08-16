@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T10:44:16.124Z",
-  "hitCount": 1668,
+  "updatedAt": "2026-08-16T10:44:39.118Z",
+  "hitCount": 1665,
   "records": [
     {
       "id": "355824",
@@ -8589,15 +8589,6 @@
       "hash": "b6a428703e29aef9a04d119ebcf06d273764cfbb63d5006c9e6b16d46f1c4b3e"
     },
     {
-      "id": "362383",
-      "number": "PD-LAPAZ-FY26-01",
-      "title": "PD ANNUAL PROGRAM STATEMENT",
-      "status": "posted",
-      "openDate": "05/13/2026",
-      "closeDate": "08/15/2026",
-      "hash": "e55ce4cf7d73525b8ea3a20526a7a7813d7e5ea4aa085a7b6cddbf753b35cd05"
-    },
-    {
       "id": "360947",
       "number": "PAR-27-068",
       "title": "Limited Competition: NIGMS Mature Synchrotron Resources (MSR) for Structural Biology (P30 - Clinical Trial Not Allowed)",
@@ -11415,15 +11406,6 @@
       "hash": "2dff8da297a7a7901e1a6eb92d170c34dabc11bf5ca429c348058f6b4b6fc73b"
     },
     {
-      "id": "362430",
-      "number": "OFOP0002793",
-      "title": "U.S. Mission Iraq Public Diplomacy Annual Program Statement 2026",
-      "status": "posted",
-      "openDate": "05/18/2026",
-      "closeDate": "08/15/2026",
-      "hash": "a7c2a85d0765f357430c50eae2700f9b2ac331c9cd6b23168a710cb48584ec2d"
-    },
-    {
       "id": "363054",
       "number": "RFA-OH-27-031",
       "title": "World Trade Center Health Program Mentored Research Scientist Career Development Award (K01)",
@@ -12466,15 +12448,6 @@
       "openDate": "07/20/2026",
       "closeDate": "11/06/2026",
       "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
-    },
-    {
-      "id": "363105",
-      "number": "OFOP0003244",
-      "title": "English Language Exchange Programs: AI and Educational Technology Integration",
-      "status": "posted",
-      "openDate": "07/08/2026",
-      "closeDate": "08/15/2026",
-      "hash": "53a47c4998f2c03b26dee03224cb4dfa154e9260d3fd804c282a631d65bfa7bb"
     },
     {
       "id": "363437",
