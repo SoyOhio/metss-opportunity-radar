@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T11:47:23.066Z",
-  "hitCount": 1665,
+  "updatedAt": "2026-08-17T10:52:16.822Z",
+  "hitCount": 1664,
   "records": [
     {
       "id": "355824",
@@ -6670,15 +6670,6 @@
       "openDate": "03/11/2026",
       "closeDate": "",
       "hash": "933ef7d0fb4bf48755d146e77906e6ad2700d0df5427869f83f563d84f9dca11"
-    },
-    {
-      "id": "360759",
-      "number": "CDC-RFA-JG-26-0178",
-      "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a more effective, efficient, and sustainable response to HIV, TB, and other priority health threats",
-      "status": "forecasted",
-      "openDate": "10/16/2025",
-      "closeDate": "",
-      "hash": "a359c6efcfc05816f1cf2d091b9ef626af5c242703ccf09897a3b430e82a4225"
     },
     {
       "id": "361450",
