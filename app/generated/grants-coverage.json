@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-17T10:52:20.187Z",
-  "inventoryCheckedAt": "2026-08-17T10:52:16.822Z",
+  "generatedAt": "2026-08-18T10:52:02.643Z",
+  "inventoryCheckedAt": "2026-08-18T10:51:59.187Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1664,
-  "historicalSourceRecords": 2046,
+  "currentActiveSourceRecords": 1653,
+  "historicalSourceRecords": 2074,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 1103,
-  "currentRecordsRequiringScreening": 561,
-  "newRecordsRequiringScreening": 0,
-  "changedRecordsRequiringScreening": 561,
+  "currentRecordsCoveredBySnapshot": 1060,
+  "currentRecordsRequiringScreening": 593,
+  "newRecordsRequiringScreening": 28,
+  "changedRecordsRequiringScreening": 565,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -218,6 +218,22 @@
     ],
     [
       {
+        "grantsGovId": "363252",
+        "opportunityNumber": "DFOP0018819",
+        "title": "Egypt  Annual Program Statement",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363252"
+      },
+      {
+        "grantsGovId": "363633",
+        "opportunityNumber": "DFOP0018819",
+        "title": "Egypt  Annual Program Statement",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363633"
+      }
+    ],
+    [
+      {
         "grantsGovId": "363283",
         "opportunityNumber": "DFOP0019432",
         "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
@@ -308,6 +324,22 @@
         "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363536"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363551",
+        "opportunityNumber": "26-514",
+        "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363551"
+      },
+      {
+        "grantsGovId": "363613",
+        "opportunityNumber": "26-514",
+        "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363613"
       }
     ]
   ]
