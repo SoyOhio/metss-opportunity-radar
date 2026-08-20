@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T10:51:12.724Z",
-  "inventoryCheckedAt": "2026-08-19T10:51:09.499Z",
+  "generatedAt": "2026-08-20T10:52:25.984Z",
+  "inventoryCheckedAt": "2026-08-20T10:52:23.104Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1656,
-  "historicalSourceRecords": 2088,
+  "currentActiveSourceRecords": 1654,
+  "historicalSourceRecords": 2102,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 1043,
-  "currentRecordsRequiringScreening": 613,
-  "newRecordsRequiringScreening": 40,
-  "changedRecordsRequiringScreening": 573,
+  "currentRecordsCoveredBySnapshot": 1031,
+  "currentRecordsRequiringScreening": 623,
+  "newRecordsRequiringScreening": 55,
+  "changedRecordsRequiringScreening": 568,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -274,8 +274,15 @@
         "grantsGovId": "363554",
         "opportunityNumber": "DFOP0019410",
         "title": "U.S.-Africa Strategic Investment Program",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363554"
+      },
+      {
+        "grantsGovId": "363660",
+        "opportunityNumber": "DFOP0019410",
+        "title": "U.S.-Africa Strategic Investment Program",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363660"
       }
     ],
     [

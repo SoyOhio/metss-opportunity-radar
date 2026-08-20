@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T10:51:09.499Z",
-  "hitCount": 1656,
+  "updatedAt": "2026-08-20T10:52:23.104Z",
+  "hitCount": 1654,
   "records": [
     {
       "id": "355824",
@@ -1900,15 +1900,6 @@
       "openDate": "11/21/2024",
       "closeDate": "01/07/2028",
       "hash": "69915b066a4e8afa5ae3fa8541d1e50bdcac7ee89db0b32b989379eefcb01a56"
-    },
-    {
-      "id": "356127",
-      "number": "NOAA-NESDISPO-STAR-2024-27967",
-      "title": "FY 2024 &ndash; 2026 - Broad Agency Announcement (BAA) Announcement Type: Initial",
-      "status": "posted",
-      "openDate": "08/19/2024",
-      "closeDate": "09/30/2026",
-      "hash": "60fa33632ddd733fa8f6a14dcf62e8b610ae49e2ed371a88ceaba0aab000bdd7"
     },
     {
       "id": "357339",
@@ -4242,15 +4233,6 @@
       "hash": "8a393be32e532ab058f37cc60383affa9bf623e1d4e5a02026ab327e9c994488"
     },
     {
-      "id": "348985",
-      "number": "23-601",
-      "title": "Research Experiences for Undergraduates",
-      "status": "posted",
-      "openDate": "06/29/2023",
-      "closeDate": "08/19/2026",
-      "hash": "fbecfce5b117fee0d77856d2d755015caf9dc003403284ae2c35e26655144115"
-    },
-    {
       "id": "360404",
       "number": "PAR-26-069",
       "title": "NINDS Efficacy and Exploratory Clinical Trials (UG3/UH3 - Clinical Trial Required)",
@@ -6150,15 +6132,6 @@
       "hash": "b021216a66d34e08815fb83fae0f7f7bce4490583d22ac38fe3afbadbddc310e"
     },
     {
-      "id": "360611",
-      "number": "PAR-26-027",
-      "title": "Centers of Biomedical Research Excellence: Development Phase (COBRE-D)",
-      "status": "forecasted",
-      "openDate": "09/17/2025",
-      "closeDate": "",
-      "hash": "4b31e5d046b1a2111f20c3dce48fa9c1195c6012b1750513d85bb5191ddf9ffc"
-    },
-    {
       "id": "359252",
       "number": "RFA-DK-26-315",
       "title": "Advancing Research on the Application of Digital Health Technology to the Management of Type 2 Diabetes (R01- Clinical Trail Required)",
@@ -6427,15 +6400,6 @@
       "openDate": "11/18/2025",
       "closeDate": "",
       "hash": "6c5f1ddb618a50ba04e98f4edd578e6b3930eefcc1fcfc3d717c6036d41f0996"
-    },
-    {
-      "id": "360883",
-      "number": "PAR-26-030",
-      "title": "Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR)",
-      "status": "forecasted",
-      "openDate": "11/19/2025",
-      "closeDate": "",
-      "hash": "bf014d56e49a264708e5d21c5e12774a8a0651ee340f041256728945d32a180d"
     },
     {
       "id": "355646",
@@ -10533,15 +10497,6 @@
       "hash": "ce4bdd6aaa98dbacaacbaa030a25ad518ee727a5f12f97d9929de18df04d7f56"
     },
     {
-      "id": "363216",
-      "number": "USDA-FNA-SNAP-2026-EVS",
-      "title": "FY 2026 SNAP Earnings Verification Support Grant",
-      "status": "posted",
-      "openDate": "07/16/2026",
-      "closeDate": "08/19/2026",
-      "hash": "7b81916e2c47f92de602217db5c2ca0e4aaffa13feb2b72e32187a268d0b205b"
-    },
-    {
       "id": "357807",
       "number": "PA-25-304",
       "title": "NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)",
@@ -10729,15 +10684,6 @@
       "openDate": "06/22/2026",
       "closeDate": "08/28/2026",
       "hash": "26e10aa9765c477ee1a282b2231c8d8cce9b04236d90176f25deda07d9da8c58"
-    },
-    {
-      "id": "362072",
-      "number": "HHS-2026-ACF-ACYF-CY-0160",
-      "title": "National Communication System for Runaway and Homeless Youth Program",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "08/19/2026",
-      "hash": "e903032a672d3036a416cfdcecff215a78ac76864f4b129041e9b5bf68d10851"
     },
     {
       "id": "363229",
@@ -11109,15 +11055,6 @@
       "hash": "13c0e56c63f77f61e0df495178a83964b12555a3438b075a59cddee9b6af7c1b"
     },
     {
-      "id": "363380",
-      "number": "DFOP0019468",
-      "title": "Global Cybercrime and Cryptocurrency Assessment and Intelligence Gathering",
-      "status": "posted",
-      "openDate": "07/29/2026",
-      "closeDate": "08/31/2026",
-      "hash": "601f754c45173fd5706ef65b678da4025b60ac6038e8b14ae7efd2913ebe56d1"
-    },
-    {
       "id": "363385",
       "number": "G26AS00153",
       "title": "Cooperative Agreement for Affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit (CESU)",
@@ -11188,15 +11125,6 @@
       "openDate": "07/29/2026",
       "closeDate": "08/28/2026",
       "hash": "3954da327f6cd67c16ce1b981918e712da8e5e81c1c6902a7c9a739660faf610"
-    },
-    {
-      "id": "360205",
-      "number": "USDA-NIFA-AFRI-011134",
-      "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
-      "status": "posted",
-      "openDate": "08/01/2025",
-      "closeDate": "12/31/2026",
-      "hash": "c5db516e176c64c1595c22843b5ccb87c0f35cd0b3c82d25265c8aa50a80aefd"
     },
     {
       "id": "363015",
@@ -12045,33 +11973,6 @@
       "hash": "7d28dae8eafb77a707795de2b57e798f473bcec58528f3739711f0ed24f81cfe"
     },
     {
-      "id": "306169",
-      "number": "PD-19-073Y",
-      "title": "Engineering for Civil Infrastructure (ECI)",
-      "status": "posted",
-      "openDate": "06/12/2018",
-      "closeDate": "",
-      "hash": "16b26aa8628bcfe758fdb44756414ce12b2706bf78dc6f5c54d0b0caad1bd23d"
-    },
-    {
-      "id": "358397",
-      "number": "PD-25-342Y",
-      "title": "Infrastructure Systems and People (ISP)",
-      "status": "posted",
-      "openDate": "01/25/2025",
-      "closeDate": "",
-      "hash": "2e4e538f36fba28d36c6b99d194d2d6f69f7682f20d9e4f292b2e6e043d1c0e9"
-    },
-    {
-      "id": "345354",
-      "number": "PD-23-229Y",
-      "title": "Manufacturing Systems Integration (MSI)",
-      "status": "posted",
-      "openDate": "01/12/2023",
-      "closeDate": "",
-      "hash": "98c2d8d8ebdf9dd16c9be8ef421f9069faf9d3e7f87b2adc8e845adc3ff48a94"
-    },
-    {
       "id": "363647",
       "number": "O-BJS-2026-172689",
       "title": "BJS FY 2026 National Criminal History Improvement Program (NCHIP) Training and Technical Assistance",
@@ -12079,60 +11980,6 @@
       "openDate": "08/18/2026",
       "closeDate": "09/28/2026",
       "hash": "d657fb94dca39d0282489318cb5ed1e91fb3e653873a389e1955289ea18d7afa"
-    },
-    {
-      "id": "306172",
-      "number": "PD-19-1630",
-      "title": "Mechanics of Materials and Structures (MOMS)",
-      "status": "posted",
-      "openDate": "06/12/2018",
-      "closeDate": "",
-      "hash": "e828ec3990f6f3f511f6f8e59a670bdc05e1c372d1ac67670249e76c3b2edf3a"
-    },
-    {
-      "id": "306171",
-      "number": "PD-19-7479",
-      "title": "Biomechanics and Mechanobiology (BMMB)",
-      "status": "posted",
-      "openDate": "06/12/2018",
-      "closeDate": "",
-      "hash": "bf933d6e79da8200b347f369648fcc8f484bdfd87e0be29feca977a1732afac2"
-    },
-    {
-      "id": "339008",
-      "number": "PD-22-7569",
-      "title": "Dynamics, Control and Systems Diagnostics (DCSD)",
-      "status": "posted",
-      "openDate": "03/30/2022",
-      "closeDate": "",
-      "hash": "12425505e9a7db3b108760ed6a359e84a3f3f3fef14f2ec0bbfb90c7cb8ff92a"
-    },
-    {
-      "id": "306170",
-      "number": "PD-19-072Y",
-      "title": "Engineering Design and Systems Engineering (EDSE)",
-      "status": "posted",
-      "openDate": "06/12/2018",
-      "closeDate": "",
-      "hash": "bafd9e7059310f608139ae8dbae3dedd707acf4237dfe102e7f4e031e198c144"
-    },
-    {
-      "id": "358682",
-      "number": "PD-25-058Y",
-      "title": "Mind, Machine and Motor Nexus (M3X)",
-      "status": "posted",
-      "openDate": "04/16/2025",
-      "closeDate": "",
-      "hash": "ca02e66e9387f8640c99d91d1640d384578698cf6f8405245e91d7f1678de093"
-    },
-    {
-      "id": "306167",
-      "number": "PD-19-006Y",
-      "title": "Operations Engineering (OE)",
-      "status": "posted",
-      "openDate": "06/12/2018",
-      "closeDate": "",
-      "hash": "a7540d6f142a392d34d5adafba750afc4bff4ee5ba061a8af3f1ca9afd87a7f5"
     },
     {
       "id": "363650",
@@ -12900,42 +12747,6 @@
       "hash": "3e3fcdddef905cbb08e38c3c29b7c3fcf95a7124a73a2a8bf77e1d383c28c61c"
     },
     {
-      "id": "360324",
-      "number": "CDC-RFA-JG-26-0042",
-      "title": "Improving global health security in C&ocirc;te d'Ivoire to stop the spread of infectious disease",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "e690d9232b145e5a7f8574242bf1e86bcffdcccd4fd36e5f4a19241e222e6631"
-    },
-    {
-      "id": "360333",
-      "number": "CDC-RFA-JG-26-0046",
-      "title": "Expanding global health security through local partnerships in Ethiopia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "e21f276d16f44c9b09e37bded25c551d5172d88d14d41fa1d1c64992d3c09ca1"
-    },
-    {
-      "id": "360332",
-      "number": "CDC-RFA-JG-26-0043",
-      "title": "Expanding global health security through local partnerships in Nigeria",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "ec6942d3bf3abd1150cc9d07a2063ec8bdb744b8fea242b60ff1062c1dfe2d0b"
-    },
-    {
-      "id": "360337",
-      "number": "CDC-RFA-JG-26-0052",
-      "title": "Expanding global health security though local partnerships in Tanzania",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "dd81cd948c151195b6f189e0e1a4f2a12ec7851193585f7a6b63d2592bff304a"
-    },
-    {
       "id": "362671",
       "number": "DHS-26-GPD-159-00-99",
       "title": "State Border Security Reinforcement Fund",
@@ -12945,24 +12756,6 @@
       "hash": "b43bf99348c789a3674fad38fe0b40f54b100e33d081ad43043775373b425092"
     },
     {
-      "id": "360335",
-      "number": "CDC-RFA-JG-26-0050",
-      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "99bdcccc0230d8378940f6fbaa9dc993ebb2956f1f5f8ade32626644666dbf29"
-    },
-    {
-      "id": "360338",
-      "number": "CDC-RFA-JG-26-0053",
-      "title": "Expanding global health security through local partnerships in Indonesia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "47eef00703e950a3105f5228fcdcffcb2d6ca2d5b2e8c611a3e6869df9ad08ff"
-    },
-    {
       "id": "360199",
       "number": "RFA-CK-26-035",
       "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
@@ -12970,15 +12763,6 @@
       "openDate": "08/03/2026",
       "closeDate": "11/05/2026",
       "hash": "bfa93cc4cf0c4b4483dc3f5f459ba11e1d4ed2ed7f0c98d87fef375fda5c0b40"
-    },
-    {
-      "id": "360334",
-      "number": "CDC-RFA-JG-26-0048",
-      "title": "Expanding Global Health Security through local partnerships in Senegal",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "d5263d5158c886a6d06e73d3ca5f888cd2c6f11ccf3353a0e7f5206e35ab6a8f"
     },
     {
       "id": "363160",
@@ -13015,24 +12799,6 @@
       "openDate": "06/05/2026",
       "closeDate": "10/01/2027",
       "hash": "fd6931262599c8cbffdd87ca9aec9b85d859fb6374bf5ee5f7480c6a98b0fa1e"
-    },
-    {
-      "id": "360455",
-      "number": "CDC-RFA-JG-26-0047",
-      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "43cd45b5e34cfaf0f925b286d528c1ac57de2cd3dfc2c0e03b528f1d7dd1fc2d"
-    },
-    {
-      "id": "360336",
-      "number": "CDC-RFA-JG-26-0051",
-      "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "44e7d419c394cdc738890c5ac6f89953bc1cc71a5c6164d18ae3ea94178e3991"
     },
     {
       "id": "363425",
@@ -13249,15 +13015,6 @@
       "openDate": "08/05/2026",
       "closeDate": "08/28/2026",
       "hash": "e82f752bbe3d2a49f9e307bf9a941dc3c1cbeb9785e016f2b752154e34e90a5f"
-    },
-    {
-      "id": "362544",
-      "number": "PA-FPT-26-001",
-      "title": "National Training Center for Family Planning",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "08/19/2026",
-      "hash": "8f999cba8c3130be9ef0fa808003ca21b8725955eaa4435e3e41cdaef1699c06"
     },
     {
       "id": "361929",
@@ -13548,15 +13305,6 @@
       "hash": "4ea66e6ec558c99e095fe36dc3cbacdd73178a6f62511c985239c25079a1d8b1"
     },
     {
-      "id": "363489",
-      "number": "HR001126S0016",
-      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "09/25/2026",
-      "hash": "20b20de4149beaa484c103c77edeade1df658fac8c6a641885c04b5dab540647"
-    },
-    {
       "id": "363521",
       "number": "FHWA-BOLL-26-001",
       "title": "FY26 - Stopping Threats On Pedestrian Competitive Grant Program (Bollards)",
@@ -13564,15 +13312,6 @@
       "openDate": "08/10/2026",
       "closeDate": "09/09/2026",
       "hash": "596f47ae62d2beef353d23ed0d97c0b11c4cc43d35203ad02140d83075362132"
-    },
-    {
-      "id": "363514",
-      "number": "030ADV26R0050",
-      "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
-      "status": "posted",
-      "openDate": "08/07/2026",
-      "closeDate": "09/18/2026",
-      "hash": "1a0ee3fc3fc0b2e56a2ab561d4eff6df2dd1714adc5c0dfe7180a8a587821a63"
     },
     {
       "id": "363519",
@@ -13944,15 +13683,6 @@
       "hash": "6470c8d8d271e5d7586f1c7588230c7daebf8843298a8deba9736f11e1d8ca23"
     },
     {
-      "id": "363554",
-      "number": "DFOP0019410",
-      "title": "U.S.-Africa Strategic Investment Program",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "05/27/2027",
-      "hash": "376949a20d52c226f15054cbce7bf3db099f7e763d64f854bac32482ab17f99a"
-    },
-    {
       "id": "363557",
       "number": "RFA-AG-28-009",
       "title": "Alzheimer's Drug-Development Program (U01 Clinical Trial Optional)",
@@ -14241,15 +13971,6 @@
       "hash": "c7d0905a09b0a4a39a4489ddf9741f3f105a53375fa0d4e578a6ba73e45f1dd4"
     },
     {
-      "id": "363616",
-      "number": "26-518",
-      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/17/2076",
-      "hash": "0988f02a3b3a132d651c08f32e38836304af4171dc6fd30d56c6abb893e820b5"
-    },
-    {
       "id": "363612",
       "number": "26-520",
       "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
@@ -14257,15 +13978,6 @@
       "openDate": "08/17/2026",
       "closeDate": "08/17/2076",
       "hash": "2c20dade1a79e399561bc4afd7469ff479c69284b6bafead95a16787c83a2563"
-    },
-    {
-      "id": "363613",
-      "number": "26-514",
-      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/17/2076",
-      "hash": "20c3ea45dfd116862ad8679b4a9cb20a8d25a86ba64270e6614209d1c3aa5896"
     },
     {
       "id": "360710",
@@ -14781,15 +14493,6 @@
       "hash": "0ec4fa85e4527b80ff929770759626fb7920722d11764fd60e37cf936cfb3a92"
     },
     {
-      "id": "363633",
-      "number": "DFOP0018819",
-      "title": "Egypt  Annual Program Statement",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/31/2026",
-      "hash": "6983e3947738a7c11bab5789a16e71108d52e90b2a59fb166b5c40e255ca62d6"
-    },
-    {
       "id": "363646",
       "number": "DFOP0019705",
       "title": "Global Rapid Response Fund for Advancing Fundamental Freedoms",
@@ -14826,6 +14529,42 @@
       "hash": "4e677335066a0cc4dc382e79f9b96fd9afe57e7c25f10cd99781806010ffde86"
     },
     {
+      "id": "363380",
+      "number": "DFOP0019468",
+      "title": "Global Cybercrime and Cryptocurrency Assessment and Intelligence Gathering",
+      "status": "posted",
+      "openDate": "07/29/2026",
+      "closeDate": "08/31/2026",
+      "hash": "601f754c45173fd5706ef65b678da4025b60ac6038e8b14ae7efd2913ebe56d1"
+    },
+    {
+      "id": "363660",
+      "number": "DFOP0019410",
+      "title": "U.S.-Africa Strategic Investment Program",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "05/31/2027",
+      "hash": "3dd92c08cf495c0afbe1b45d4c0d62ff77e1b173ac679a25788a238cc518740e"
+    },
+    {
+      "id": "363654",
+      "number": "O-OVC-2026-172692",
+      "title": "OVC FY 2026 Housing Assistance for Victims of Human Trafficking",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "09/28/2026",
+      "hash": "f824e1a7664514be4caf2f0eb94bc43a706303c1ac83654c726d0e3fbfd638ca"
+    },
+    {
+      "id": "363624",
+      "number": "25-509",
+      "title": "Emerging Mathematics in Biology (eMB)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "",
+      "hash": "bbc0dd7158021808dc6d248e55ebf61fd52ccc98d3d81d005a375d94296d6166"
+    },
+    {
       "id": "363618",
       "number": "26-521",
       "title": "MPS Materials Research Programs (MPS Materials)",
@@ -14835,13 +14574,22 @@
       "hash": "b19323141da72bbbd8c71cea50563cd609e66cab404b05e6aed2440a3d11597b"
     },
     {
-      "id": "363641",
-      "number": "NM-PMO1726",
-      "title": "NM-TEST1726",
+      "id": "363656",
+      "number": "O-OVC-2026-172693",
+      "title": "OVC FY 2026 Integrated Services for Minor Victims of Human Trafficking",
       "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/29/2026",
-      "hash": "e1618e11ccdd1991adb7050ded422841e38e4da16a0619a29334a018f7932124"
+      "openDate": "08/19/2026",
+      "closeDate": "09/28/2026",
+      "hash": "e0a34a25e208db90d539987172fda68fe0979cfd780815f91e3a31805c334f87"
+    },
+    {
+      "id": "363659",
+      "number": "25-538",
+      "title": "Incorporating Human Behavior in Epidemiological Models (IHBEM)",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "",
+      "hash": "c2fd6ffb1143056dadf2354758721ae37bf5bd423cbd5114b62447d825c8a756"
     },
     {
       "id": "363642",
@@ -14862,13 +14610,22 @@
       "hash": "52bc6f7b775723135cda83bb87bfb7e2d3d0fe02d2526db590dd3367b86cf5d0"
     },
     {
-      "id": "306824",
-      "number": "PD-19-088Y",
-      "title": "Advanced Manufacturing (AM)",
+      "id": "363641",
+      "number": "NM-PMO1726",
+      "title": "NM-TEST1726",
       "status": "posted",
-      "openDate": "07/06/2018",
-      "closeDate": "",
-      "hash": "3bdee12c4896797d44f712344629fbd3ce14a79a4e89a4276321af55c06a30c5"
+      "openDate": "08/18/2026",
+      "closeDate": "09/29/2026",
+      "hash": "e1618e11ccdd1991adb7050ded422841e38e4da16a0619a29334a018f7932124"
+    },
+    {
+      "id": "363657",
+      "number": "EPA-OW-OWM-26-03",
+      "title": "Innovative Water Infrastructure Workforce Development Grant",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "10/05/2026",
+      "hash": "aaf7ed99ee3e1d015354f28930c940f3bf0265aefcbc49dee41e4e5674624cd9"
     },
     {
       "id": "363648",
@@ -14880,22 +14637,94 @@
       "hash": "7014859fef534261c520e889d55631d95649c457b213a9eab0b01cd9078bf3d2"
     },
     {
-      "id": "360396",
-      "number": "PAR-27-066",
-      "title": "Collaborative Opportunities for Multiple-disciplinary, Bold, and Integrated Endeavors (COMBINE) (RM1 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "08/28/2025",
-      "closeDate": "",
-      "hash": "5486790dd9b919b5eb10ebd7453c903e4ead9cde26367e4cc95f9613cc6deb62"
+      "id": "363613",
+      "number": "26-514",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "08/19/2076",
+      "hash": "5a0a4706db3ba5bf289935bd98d19017bc65f73585bf0b0c002c6cb6e157f73e"
     },
     {
-      "id": "361427",
-      "number": "PAR-26-128",
-      "title": "Limited Competition: High Impact Specialized Innovation Programs in Clinical and Translational Science (RC2 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "03/09/2026",
-      "closeDate": "",
-      "hash": "cb262e9d8ea9501a1f820feb90b86949ce868c7538a7210a184883862aa2ff12"
+      "id": "363661",
+      "number": "O-OVW-2026-172703",
+      "title": "OVW Fiscal Year 2026 Violence Against Women Act Measuring Effectiveness Initiative - Request for Required Documents",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "08/20/2026",
+      "hash": "8db2c56cafe785fd8a6ad6fe0ff6a984b25c93e96a596c3bd59226fed7f245dc"
+    },
+    {
+      "id": "363655",
+      "number": "O-OVC-2026-172699",
+      "title": "OVC FY 2026 Enhanced Collaborative Model (ECM) Task Force to Combat Human Trafficking",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "10/14/2026",
+      "hash": "0d9d35ce1ccc35a8f0801ce4d7bd1b3813d5702f44a6e52bf2a639555096db36"
+    },
+    {
+      "id": "360205",
+      "number": "USDA-NIFA-AFRI-011134",
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
+      "status": "posted",
+      "openDate": "08/01/2025",
+      "closeDate": "12/31/2026",
+      "hash": "c5db516e176c64c1595c22843b5ccb87c0f35cd0b3c82d25265c8aa50a80aefd"
+    },
+    {
+      "id": "360455",
+      "number": "CDC-RFA-JG-26-0047",
+      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "43cd45b5e34cfaf0f925b286d528c1ac57de2cd3dfc2c0e03b528f1d7dd1fc2d"
+    },
+    {
+      "id": "360336",
+      "number": "CDC-RFA-JG-26-0051",
+      "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "44e7d419c394cdc738890c5ac6f89953bc1cc71a5c6164d18ae3ea94178e3991"
+    },
+    {
+      "id": "360334",
+      "number": "CDC-RFA-JG-26-0048",
+      "title": "Expanding Global Health Security through local partnerships in Senegal",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "d5263d5158c886a6d06e73d3ca5f888cd2c6f11ccf3353a0e7f5206e35ab6a8f"
+    },
+    {
+      "id": "360335",
+      "number": "CDC-RFA-JG-26-0050",
+      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "99bdcccc0230d8378940f6fbaa9dc993ebb2956f1f5f8ade32626644666dbf29"
+    },
+    {
+      "id": "363633",
+      "number": "DFOP0018819",
+      "title": "Egypt  Annual Program Statement",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "08/31/2026",
+      "hash": "6983e3947738a7c11bab5789a16e71108d52e90b2a59fb166b5c40e255ca62d6"
+    },
+    {
+      "id": "360333",
+      "number": "CDC-RFA-JG-26-0046",
+      "title": "Expanding global health security through local partnerships in Ethiopia",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "e21f276d16f44c9b09e37bded25c551d5172d88d14d41fa1d1c64992d3c09ca1"
     },
     {
       "id": "351404",
@@ -14905,6 +14734,159 @@
       "openDate": "12/15/2023",
       "closeDate": "12/14/2026",
       "hash": "b2f7639a49585d00df7592f905d13e89404e35f4bc516eed695d3237dabe1043"
+    },
+    {
+      "id": "360324",
+      "number": "CDC-RFA-JG-26-0042",
+      "title": "Improving global health security in C&ocirc;te d'Ivoire to stop the spread of infectious disease",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "e690d9232b145e5a7f8574242bf1e86bcffdcccd4fd36e5f4a19241e222e6631"
+    },
+    {
+      "id": "360337",
+      "number": "CDC-RFA-JG-26-0052",
+      "title": "Expanding global health security though local partnerships in Tanzania",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "dd81cd948c151195b6f189e0e1a4f2a12ec7851193585f7a6b63d2592bff304a"
+    },
+    {
+      "id": "360611",
+      "number": "PAR-27-054",
+      "title": "Limited Competition: Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "05/26/2029",
+      "hash": "ab89183bc9ac5fad06652b58edd38a7449d640071683d5a6a524c48218836c09"
+    },
+    {
+      "id": "363665",
+      "number": "OFOP0003636",
+      "title": "Mi Tierra, Mi Triunfo: Colombians Thriving After Their Return",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "08/31/2026",
+      "hash": "05c9f0e6784605583a4a6f082c8f445815f65d2ffa54d0af60d02824bb158ecb"
+    },
+    {
+      "id": "363666",
+      "number": "OFOP0003648",
+      "title": "Sin Rutas, Sin Recursos: Hitting Criminal Networks Where It Hurts",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "08/31/2026",
+      "hash": "056dc522dc30e9904c7cd49b6beaa3701c1ba04128e6a02f651146d47400ff83"
+    },
+    {
+      "id": "363662",
+      "number": "EP-U3R-26-002",
+      "title": "Trauma Care Readiness and Coordination Cooperative Agreement",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "09/18/2026",
+      "hash": "f90cdf7aa334fa7e39381c103ecb6a85b06b81567bc3acf9d0400d0a76f70251"
+    },
+    {
+      "id": "363663",
+      "number": "USDA-NIFA-ES-011939",
+      "title": "Food and Agriculture Defense Initiative Extension Disaster Education Network",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "09/21/2026",
+      "hash": "b7680817997a6f31b38e98947cde38ec8f01d444a722e6f877be1d3a2dc64464"
+    },
+    {
+      "id": "363616",
+      "number": "26-518",
+      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "08/19/2076",
+      "hash": "e8ba9bc6a4003320721dba6b71f278d5fcaf442f95502fdf94dd8166bac5bda5"
+    },
+    {
+      "id": "363664",
+      "number": "O-OVW-2026-172651",
+      "title": "OVW Fiscal Year 2026 Electronic Service Protection Order Court Pilot Program",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "10/06/2026",
+      "hash": "e63f4bc745458df674d49bb392760d30449715ea4510708b57468e859aca6997"
+    },
+    {
+      "id": "360332",
+      "number": "CDC-RFA-JG-26-0043",
+      "title": "Expanding global health security through local partnerships in Nigeria",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "ec6942d3bf3abd1150cc9d07a2063ec8bdb744b8fea242b60ff1062c1dfe2d0b"
+    },
+    {
+      "id": "360338",
+      "number": "CDC-RFA-JG-26-0053",
+      "title": "Expanding global health security through local partnerships in Indonesia",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "10/02/2026",
+      "hash": "47eef00703e950a3105f5228fcdcffcb2d6ca2d5b2e8c611a3e6869df9ad08ff"
+    },
+    {
+      "id": "363489",
+      "number": "HR001126S0016",
+      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "09/25/2026",
+      "hash": "20b20de4149beaa484c103c77edeade1df658fac8c6a641885c04b5dab540647"
+    },
+    {
+      "id": "360883",
+      "number": "PAR-27-056",
+      "title": "Limited Competition: Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR) (P30 - CT Optional)",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "05/30/2029",
+      "hash": "426644c3f425917e243756f7a741cff4e666388a7e50c2f5cd1acfa23bd2e19c"
+    },
+    {
+      "id": "363514",
+      "number": "030ADV26R0050",
+      "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
+      "status": "posted",
+      "openDate": "08/07/2026",
+      "closeDate": "09/18/2026",
+      "hash": "1a0ee3fc3fc0b2e56a2ab561d4eff6df2dd1714adc5c0dfe7180a8a587821a63"
+    },
+    {
+      "id": "348985",
+      "number": "23-601",
+      "title": "Research Experiences for Undergraduates (REU)",
+      "status": "posted",
+      "openDate": "06/29/2023",
+      "closeDate": "08/18/2027",
+      "hash": "a0fa5d37a834db26ac4eda860ab9c04dba5f20da918be3c5aa0859d23e25ecc5"
+    },
+    {
+      "id": "363667",
+      "number": "O-OVC-2026-172695",
+      "title": "OVC FY 2026 Improving Outcomes for Minor Victims of Human Trafficking",
+      "status": "posted",
+      "openDate": "08/20/2026",
+      "closeDate": "10/14/2026",
+      "hash": "b821c06651867bb9c2e6107b7fb66e6cc80f83b26b761a32c1504632101a029d"
+    },
+    {
+      "id": "363668",
+      "number": "O-OVC-2026-172694",
+      "title": "OVC FY 2026 Preventing Trafficking of Girls",
+      "status": "posted",
+      "openDate": "08/20/2026",
+      "closeDate": "09/29/2026",
+      "hash": "927f0322d7f57ecb27afe394eba993b50a001a088300a43e75cdf1616b3e6d86"
     }
   ]
 }
