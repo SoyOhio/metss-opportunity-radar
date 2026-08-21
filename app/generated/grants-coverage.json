@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T10:52:25.984Z",
-  "inventoryCheckedAt": "2026-08-20T10:52:23.104Z",
+  "generatedAt": "2026-08-21T10:53:27.234Z",
+  "inventoryCheckedAt": "2026-08-21T10:53:23.931Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
   "currentActiveSourceRecords": 1654,
-  "historicalSourceRecords": 2102,
+  "historicalSourceRecords": 2117,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 1031,
-  "currentRecordsRequiringScreening": 623,
-  "newRecordsRequiringScreening": 55,
-  "changedRecordsRequiringScreening": 568,
+  "currentRecordsCoveredBySnapshot": 1013,
+  "currentRecordsRequiringScreening": 641,
+  "newRecordsRequiringScreening": 67,
+  "changedRecordsRequiringScreening": 574,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -203,7 +203,7 @@
         "grantsGovId": "363596",
         "opportunityNumber": "DFOP0019193",
         "title": "Pax Silica Artificial Intelligence Assistance Project",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363596"
       }
     ],
