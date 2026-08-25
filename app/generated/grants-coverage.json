@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T10:57:52.215Z",
-  "inventoryCheckedAt": "2026-08-24T10:57:48.852Z",
+  "generatedAt": "2026-08-25T10:54:59.516Z",
+  "inventoryCheckedAt": "2026-08-25T10:54:56.252Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
   "currentActiveSourceRecords": 1643,
-  "historicalSourceRecords": 2123,
+  "historicalSourceRecords": 2141,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 991,
-  "currentRecordsRequiringScreening": 652,
-  "newRecordsRequiringScreening": 72,
-  "changedRecordsRequiringScreening": 580,
+  "currentRecordsCoveredBySnapshot": 989,
+  "currentRecordsRequiringScreening": 654,
+  "newRecordsRequiringScreening": 90,
+  "changedRecordsRequiringScreening": 564,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -290,6 +290,22 @@
         "title": "U.S.-Africa Strategic Investment Program",
         "status": "posted",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363660"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363301",
+        "opportunityNumber": "DFOP0019436",
+        "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363301"
+      },
+      {
+        "grantsGovId": "363704",
+        "opportunityNumber": "DFOP0019436",
+        "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363704"
       }
     ],
     [
