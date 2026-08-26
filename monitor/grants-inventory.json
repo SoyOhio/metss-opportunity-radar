@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-25T10:54:56.252Z",
-  "hitCount": 1643,
+  "updatedAt": "2026-08-26T10:55:24.817Z",
+  "hitCount": 1645,
   "records": [
     {
       "id": "355824",
@@ -4287,15 +4287,6 @@
       "hash": "91435ed83aea7a61c2cce8ebd448211b4dc65afe82db368fe82fbbe80e6dc187"
     },
     {
-      "id": "348012",
-      "number": "23-586",
-      "title": "Robert Noyce Teacher Scholarship Program",
-      "status": "posted",
-      "openDate": "05/09/2023",
-      "closeDate": "08/25/2026",
-      "hash": "7a8d0f73551b799186eaca54d058474b4fd1611556f3a5dde2644ff51d09def1"
-    },
-    {
       "id": "360458",
       "number": "RFA-DK-27-139",
       "title": "Single Source for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Scientific and Data Research Center (U01 Clinical Trial Required)",
@@ -7725,15 +7716,6 @@
       "hash": "6f30da1bdec53b747f565ce69ef6b1931961a62ea6659af3325ec56715c10904"
     },
     {
-      "id": "362568",
-      "number": "FTA-2026-002-TPM-TRTR",
-      "title": "FY 2026 Competitive Funding Opportunity: Public Transportation on Indian Reservations (Tribal Transit) Program",
-      "status": "posted",
-      "openDate": "05/27/2026",
-      "closeDate": "08/25/2026",
-      "hash": "1923e6e66e105fc08fde8bbffd929e744d2bbf1aa66088eec9686215f180c789"
-    },
-    {
       "id": "362666",
       "number": "PAR-28-028",
       "title": "Research on the Ethical, Legal and Social Implications (ELSI) of Genomics",
@@ -10506,15 +10488,6 @@
       "hash": "9581e45edfb672ee98f1638264ba848e7e45528b87578d3440b68476b2c22fbc"
     },
     {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
-      "status": "posted",
-      "openDate": "04/05/2024",
-      "closeDate": "09/08/2026",
-      "hash": "afb5e1bd6f3cc5b18dfd3c39d73b09239cc02dea1f3f80f5d6243105166ef0fd"
-    },
-    {
       "id": "362911",
       "number": "O-NIJ-2026-172645",
       "title": "NIJ FY 2026 State and Local Collection and Reporting of Crime Data",
@@ -11181,15 +11154,6 @@
       "hash": "cf66224c9e67251dfcf8c4c5ae8d8ddbe47a48056fe8e73efbf170082927d1d1"
     },
     {
-      "id": "362743",
-      "number": "HR001126S0010",
-      "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-      "status": "posted",
-      "openDate": "06/10/2026",
-      "closeDate": "08/25/2026",
-      "hash": "aebb66867537d0a37a0e1af2dbd4c7b872e91021248e450624b3b268de704f64"
-    },
-    {
       "id": "363167",
       "number": "HRSA-27-079",
       "title": "Ryan White HIV/AIDS Program (RWHAP) Integrated HIV/AIDS Planning Resource Allocation Cooperative Agreement",
@@ -11305,15 +11269,6 @@
       "openDate": "06/30/2026",
       "closeDate": "10/20/2026",
       "hash": "846e53d213b513fb985d1ed785afc627099a7674d22842439620430b18a26173"
-    },
-    {
-      "id": "360511",
-      "number": "HHS-2026-ACL-AOA-LAEP-0055",
-      "title": "Legal Assistance Enhancement Program Grants",
-      "status": "posted",
-      "openDate": "06/29/2026",
-      "closeDate": "08/25/2026",
-      "hash": "fae123852684f2f36b09a62d0da1788804bd4965d9f7841f099379e4d38c4c3a"
     },
     {
       "id": "363025",
@@ -12153,15 +12108,6 @@
       "hash": "b06cec6da98cfc1307401e4ddbdcb67dce42c4de1ad6b0c639336b869bdf865e"
     },
     {
-      "id": "362956",
-      "number": "TRIBALSAFETY-OSTR24",
-      "title": "Tribal Transportation Safety Strategy Pilot Program",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "08/28/2026",
-      "hash": "2e25ca08af80599cf9785637d1e5774d21a2bbbcc11f2809848841278041d628"
-    },
-    {
       "id": "361234",
       "number": "NNH25ZDA001N-HFR",
       "title": "ROSES25: B.2 Heliophysics Foundational Research",
@@ -12187,24 +12133,6 @@
       "openDate": "07/27/2026",
       "closeDate": "10/26/2026",
       "hash": "9aaf2a235da10a89b1911e27df0a196caf5673af0fb0fca97bc50bcc05260353"
-    },
-    {
-      "id": "363322",
-      "number": "FTA-2026-011-TPM-LWNO",
-      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Low or No Emission Program",
-      "status": "posted",
-      "openDate": "07/27/2026",
-      "closeDate": "09/21/2026",
-      "hash": "d6ca6338711f1f4d23877b9c7d8cec4972a958692f8ec3bc8a99628f8aec444b"
-    },
-    {
-      "id": "363321",
-      "number": "FTA-2026-010-TPM-BUS",
-      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Buses and Bus Facilities Program",
-      "status": "posted",
-      "openDate": "07/27/2026",
-      "closeDate": "09/21/2026",
-      "hash": "622451f8d61d40a6f3278b3b3b72d30a8cdb8ae54d4cd817940360d7f7063cc8"
     },
     {
       "id": "363316",
@@ -12585,15 +12513,6 @@
       "hash": "bbba5f2654b7fd3b3862635d0c8050fe9421968d7b305b0e12dfbcc040b1dce8"
     },
     {
-      "id": "363009",
-      "number": "OFOP0003144",
-      "title": "Enhancing Prison Population Management Through Expanded Probation in Tunisia",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "08/25/2026",
-      "hash": "d6c1b00f933d99ca402bb14e6df2a4384d60ad11c00a99492561cee5ef336bf5"
-    },
-    {
       "id": "363508",
       "number": "HRSA-27-046",
       "title": "Rural Residency Planning and Development Program",
@@ -12837,15 +12756,6 @@
       "hash": "da3fd5e8ec1c3695658f302fd29d32aa2d6f9790996763703d892d829d3f7235"
     },
     {
-      "id": "363522",
-      "number": "DFOP0019570",
-      "title": "Early Warning and Response in Nigeria",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "08/25/2026",
-      "hash": "e2bde76ce8cfb41e8a44d3fb084f95e5da7d0d0cd100db86e4ffdfc4c8612e01"
-    },
-    {
       "id": "357724",
       "number": "25-522",
       "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
@@ -12853,15 +12763,6 @@
       "openDate": "12/14/2024",
       "closeDate": "08/10/2027",
       "hash": "643030f2b0cb579d814e52dfa6f045a56f46227866c74fb8fdc8071a99d0db63"
-    },
-    {
-      "id": "362960",
-      "number": "LAWPOLICY-OSTR24",
-      "title": "Interdisciplinary Transportation Law and Policy Technology Training Development",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "08/28/2026",
-      "hash": "c5654a447f950415a84dd7beb8ba1376774dea7f752555ef1fe53eb841ca9506"
     },
     {
       "id": "360003",
@@ -13420,15 +13321,6 @@
       "openDate": "08/17/2026",
       "closeDate": "10/01/2026",
       "hash": "db7fbe273c75e50132df29d01ebcb1ecb2b26391b0d3016728368a33c50c7892"
-    },
-    {
-      "id": "363550",
-      "number": "O-BJA-2026-172684",
-      "title": "OJP FY 2026 Special Attorneys Program Round 7",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "08/25/2026",
-      "hash": "45b39043da34af1ee8f218596c95500fc038976caac99fcf29e27edb8bf3ac49"
     },
     {
       "id": "363634",
@@ -14718,40 +14610,13 @@
       "hash": "af23468618af8ae5116eca37691fd50e36de4d1702751a0df1eab15747c8bcbc"
     },
     {
-      "id": "362754",
-      "number": "P26AS00060",
-      "title": "Southwest Border Resource Protection Program",
+      "id": "363708",
+      "number": "PDS-AUSTRALIA-2026-01",
+      "title": "U.S. Mission to Australia 2026 Annual Program Statement",
       "status": "posted",
-      "openDate": "06/10/2026",
-      "closeDate": "09/08/2026",
-      "hash": "2c17c3c0b9c76af4b0852651dad958848c22ae7c1dc22386de94c0afee7744dd"
-    },
-    {
-      "id": "363070",
-      "number": "DFOP0019227",
-      "title": "Middle East Regional Cooperation (MERC)",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/30/2026",
-      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
-    },
-    {
-      "id": "363704",
-      "number": "DFOP0019436",
-      "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
-      "status": "posted",
-      "openDate": "08/24/2026",
-      "closeDate": "08/25/2026",
-      "hash": "1b4720cb919cb2b0fe86ef5c63d1b8445472f0c5d0b3d3a67bee038e34cc3dc1"
-    },
-    {
-      "id": "363705",
-      "number": "O-OVC-2026-172713",
-      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Grand Blanc, Michigan (Crisis)",
-      "status": "posted",
-      "openDate": "08/24/2026",
-      "closeDate": "08/27/2026",
-      "hash": "0084d4d2567e3712851e1a1b7ede4f76c90c9b8aa785da915c9fcb8f97075b65"
+      "openDate": "08/25/2026",
+      "closeDate": "09/20/2026",
+      "hash": "436e83a5f555b4aba4271a3fb847c5e15fcecc4cb6905ef137a5394f04e54c21"
     },
     {
       "id": "363706",
@@ -14763,22 +14628,58 @@
       "hash": "80d3cd8aaa50b224a2133e7511268414ba972cbd06a03dfac83707af2caabc3e"
     },
     {
+      "id": "363070",
+      "number": "DFOP0019227",
+      "title": "Middle East Regional Cooperation (MERC)",
+      "status": "posted",
+      "openDate": "07/06/2026",
+      "closeDate": "09/30/2026",
+      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
+    },
+    {
+      "id": "362754",
+      "number": "P26AS00060",
+      "title": "Southwest Border Resource Protection Program",
+      "status": "posted",
+      "openDate": "06/10/2026",
+      "closeDate": "09/08/2026",
+      "hash": "2c17c3c0b9c76af4b0852651dad958848c22ae7c1dc22386de94c0afee7744dd"
+    },
+    {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "status": "posted",
+      "openDate": "04/05/2024",
+      "closeDate": "09/08/2026",
+      "hash": "3349a0c084e8dfb0845cbf5c5630a1b6d61a106caf907b436c25b9bfef5f592a"
+    },
+    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
       "status": "posted",
       "openDate": "08/17/2026",
       "closeDate": "02/11/2027",
-      "hash": "a5900c33dfe7453029301ad76711a7d92b72734e1c25d6bbdea6e8fd763cd0d3"
+      "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
     },
     {
-      "id": "363708",
-      "number": "PDS-AUSTRALIA-2026-01",
-      "title": "U.S. Mission to Australia 2026 Annual Program Statement",
+      "id": "363705",
+      "number": "O-OVC-2026-172713",
+      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Grand Blanc, Michigan (Crisis)",
+      "status": "posted",
+      "openDate": "08/24/2026",
+      "closeDate": "08/27/2026",
+      "hash": "0084d4d2567e3712851e1a1b7ede4f76c90c9b8aa785da915c9fcb8f97075b65"
+    },
+    {
+      "id": "363710",
+      "number": "O-BJA-2026-172706",
+      "title": "BJA FY 2026 Crisis Response Training Program",
       "status": "posted",
       "openDate": "08/25/2026",
-      "closeDate": "09/20/2026",
-      "hash": "436e83a5f555b4aba4271a3fb847c5e15fcecc4cb6905ef137a5394f04e54c21"
+      "closeDate": "10/05/2026",
+      "hash": "5d8e05249f1d7d9aa74c262cc06896d54869a241c1ab5ec876697c37be9aaa74"
     },
     {
       "id": "363709",
@@ -14788,6 +14689,123 @@
       "openDate": "08/25/2026",
       "closeDate": "09/20/2026",
       "hash": "f414e0d6276ca0887b7de0a25be0b62c0021fba1bd787231ea872f094a075ba1"
+    },
+    {
+      "id": "363715",
+      "number": "ETA-TEGL-02-26",
+      "title": "Training and Employment Guidance Letter (02-26) for FY 2026 Community Project Funding/Congressionally Directed Spending",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "01/31/2027",
+      "hash": "2b0fed21753508fe9673e4848e441084efd723b915bc6764df65c91e9e63bd24"
+    },
+    {
+      "id": "362956",
+      "number": "TRIBALSAFETY-OSTR24",
+      "title": "Tribal Transportation Safety Strategy Pilot Program",
+      "status": "posted",
+      "openDate": "06/30/2026",
+      "closeDate": "08/28/2026",
+      "hash": "2e25ca08af80599cf9785637d1e5774d21a2bbbcc11f2809848841278041d628"
+    },
+    {
+      "id": "362960",
+      "number": "LAWPOLICY-OSTR24",
+      "title": "Interdisciplinary Transportation Law and Policy Technology Training Development",
+      "status": "posted",
+      "openDate": "06/30/2026",
+      "closeDate": "08/28/2026",
+      "hash": "c5654a447f950415a84dd7beb8ba1376774dea7f752555ef1fe53eb841ca9506"
+    },
+    {
+      "id": "363321",
+      "number": "FTA-2026-010-TPM-BUS",
+      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Buses and Bus Facilities Program",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "09/21/2026",
+      "hash": "622451f8d61d40a6f3278b3b3b72d30a8cdb8ae54d4cd817940360d7f7063cc8"
+    },
+    {
+      "id": "363322",
+      "number": "FTA-2026-011-TPM-LWNO",
+      "title": "Fiscal Year 2026 Competitive Funding Opportunity: Low or No Emission Program",
+      "status": "posted",
+      "openDate": "07/27/2026",
+      "closeDate": "09/21/2026",
+      "hash": "d6ca6338711f1f4d23877b9c7d8cec4972a958692f8ec3bc8a99628f8aec444b"
+    },
+    {
+      "id": "363713",
+      "number": "RFA-MD-27-004",
+      "title": "Innovative Research to Improve Native Hawaiian and Pacific Islander (NHPI) Health Outcomes (R34 - Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "08/25/2026",
+      "closeDate": "",
+      "hash": "4f1cc496e3b63aab8760942af68ddcf9dcc326d047e14b66f2400c83735c8f7d"
+    },
+    {
+      "id": "363717",
+      "number": "22-537",
+      "title": "Geospace Environment Modeling (GEM)",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "",
+      "hash": "927046124cdf4eb97074f5d9438384d74ce4d903f43ffe6d7e353eb6753c7aec"
+    },
+    {
+      "id": "363718",
+      "number": "22-570",
+      "title": "Solar, Heliospheric, and INterplanetary Environment (SHINE)",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "",
+      "hash": "ac2e1340adf454450f333d6a8d851f4b7a56778e10a79dbad7b1929fc82820d8"
+    },
+    {
+      "id": "363712",
+      "number": "O-BJA-2026-172705",
+      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;Local Formula",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "10/09/2026",
+      "hash": "a9682b27c846fc9f41e30e74743a582148f0a7c8985bf1d110b6f7c02f832754"
+    },
+    {
+      "id": "363165",
+      "number": "O-BJA-2026-172654",
+      "title": "BJA FY 2025/2026 Project Safe Neighborhoods Formula Grant Program",
+      "status": "posted",
+      "openDate": "07/13/2026",
+      "closeDate": "08/27/2026",
+      "hash": "0d7c783fb8cfb4f36c6aa1fc099d38478834212a67ac12a370c2acca4ae44259"
+    },
+    {
+      "id": "363711",
+      "number": "O-BJA-2026-172704",
+      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;State Formula",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "09/18/2026",
+      "hash": "2310d5483c22c743b4fe694f8f3a63ce84986b04af1642927d7e4811aa883d0a"
+    },
+    {
+      "id": "363716",
+      "number": "DFOP0019436",
+      "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "08/26/2026",
+      "hash": "f44849ce73f3d18b6c5f49fadde1d852586212f9b2f6d665e83655454701ba9f"
+    },
+    {
+      "id": "363714",
+      "number": "F26AS00107",
+      "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "10/24/2026",
+      "hash": "db935ec53603778dac56d992c88cf34dac81dd6487c401220c499a2c92b064ae"
     }
   ]
 }
