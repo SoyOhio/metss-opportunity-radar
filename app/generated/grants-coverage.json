@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T10:55:28.337Z",
-  "inventoryCheckedAt": "2026-08-26T10:55:24.817Z",
+  "generatedAt": "2026-08-27T20:36:19.830Z",
+  "inventoryCheckedAt": "2026-08-27T20:36:17.061Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1645,
-  "historicalSourceRecords": 2150,
+  "currentActiveSourceRecords": 1644,
+  "historicalSourceRecords": 2161,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 982,
-  "currentRecordsRequiringScreening": 663,
-  "newRecordsRequiringScreening": 98,
-  "changedRecordsRequiringScreening": 565,
+  "currentRecordsCoveredBySnapshot": 964,
+  "currentRecordsRequiringScreening": 680,
+  "newRecordsRequiringScreening": 106,
+  "changedRecordsRequiringScreening": 574,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -311,7 +311,7 @@
         "grantsGovId": "363716",
         "opportunityNumber": "DFOP0019436",
         "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363716"
       }
     ],
@@ -366,8 +366,31 @@
         "grantsGovId": "363536",
         "opportunityNumber": "DFOP0019505",
         "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363536"
+      },
+      {
+        "grantsGovId": "363722",
+        "opportunityNumber": "DFOP0019505",
+        "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363722"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363522",
+        "opportunityNumber": "DFOP0019570",
+        "title": "Early Warning and Response in Nigeria",
+        "status": "closed",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363522"
+      },
+      {
+        "grantsGovId": "363719",
+        "opportunityNumber": "DFOP0019570",
+        "title": "Early Warning and Response in Nigeria",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363719"
       }
     ],
     [
