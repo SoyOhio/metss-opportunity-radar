@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-28T21:13:07.942Z",
-  "inventoryCheckedAt": "2026-08-28T21:13:04.538Z",
+  "generatedAt": "2026-08-29T15:07:53.200Z",
+  "inventoryCheckedAt": "2026-08-29T15:07:49.803Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1636,
+  "currentActiveSourceRecords": 1618,
   "historicalSourceRecords": 2170,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 961,
-  "currentRecordsRequiringScreening": 675,
-  "newRecordsRequiringScreening": 110,
-  "changedRecordsRequiringScreening": 565,
+  "currentRecordsCoveredBySnapshot": 944,
+  "currentRecordsRequiringScreening": 674,
+  "newRecordsRequiringScreening": 108,
+  "changedRecordsRequiringScreening": 566,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -396,7 +396,7 @@
         "grantsGovId": "363719",
         "opportunityNumber": "DFOP0019570",
         "title": "Early Warning and Response in Nigeria",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363719"
       }
     ],
