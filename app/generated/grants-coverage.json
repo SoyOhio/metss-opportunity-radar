@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T15:07:53.200Z",
-  "inventoryCheckedAt": "2026-08-29T15:07:49.803Z",
+  "generatedAt": "2026-08-30T14:55:20.070Z",
+  "inventoryCheckedAt": "2026-08-30T14:55:16.752Z",
   "screeningSnapshotAt": "2026-08-16T11:47:23.066Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1618,
-  "historicalSourceRecords": 2170,
+  "currentActiveSourceRecords": 1616,
+  "historicalSourceRecords": 2171,
   "previouslyScreenedSnapshotRecords": 1665,
-  "currentRecordsCoveredBySnapshot": 944,
-  "currentRecordsRequiringScreening": 674,
-  "newRecordsRequiringScreening": 108,
-  "changedRecordsRequiringScreening": 566,
+  "currentRecordsCoveredBySnapshot": 946,
+  "currentRecordsRequiringScreening": 670,
+  "newRecordsRequiringScreening": 109,
+  "changedRecordsRequiringScreening": 561,
   "publishedMetssMatches": 6,
   "historicalOpportunityNumberReuses": [
     [
@@ -336,6 +336,22 @@
         "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
         "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363406"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363371",
+        "opportunityNumber": "OFOP0003436",
+        "title": "English Access Microscholarship Program for Central and Southern Iraq",
+        "status": "closed",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363371"
+      },
+      {
+        "grantsGovId": "363743",
+        "opportunityNumber": "OFOP0003436",
+        "title": "English Access Microscholarship Program for Central and Southern Iraq",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363743"
       }
     ],
     [

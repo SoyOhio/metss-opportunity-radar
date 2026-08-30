@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T15:07:49.803Z",
-  "hitCount": 1618,
+  "updatedAt": "2026-08-30T14:55:16.752Z",
+  "hitCount": 1616,
   "records": [
     {
       "id": "355824",
@@ -10668,15 +10668,6 @@
       "hash": "13c0e56c63f77f61e0df495178a83964b12555a3438b075a59cddee9b6af7c1b"
     },
     {
-      "id": "363385",
-      "number": "G26AS00153",
-      "title": "Cooperative Agreement for Affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "07/29/2026",
-      "closeDate": "08/29/2026",
-      "hash": "6737e61a50a18217a580b5c6dd10f6da362c6dd47ce83f84e48bcc767feb983e"
-    },
-    {
       "id": "357725",
       "number": "25-523",
       "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
@@ -14412,24 +14403,6 @@
       "hash": "d1cdc70f9cab27fd72f3dee1a0bd6ca2b04cc5e65a5a0fdfc297362fa70928c6"
     },
     {
-      "id": "359104",
-      "number": "24-563",
-      "title": "LOUIS STOKES ALLIANCES FOR MINORITY PARTICIPATION (LSAMP)",
-      "status": "posted",
-      "openDate": "05/23/2025",
-      "closeDate": "",
-      "hash": "51b50e91ef6f64dad4f3ff8f822afdc9642bb9395510c88650782387d7afcc24"
-    },
-    {
-      "id": "359103",
-      "number": "22-622",
-      "title": "NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative",
-      "status": "posted",
-      "openDate": "05/23/2025",
-      "closeDate": "",
-      "hash": "cd07a1d1238a5d43bc0df79334bf2bde6c85692aae10e04973c27409df0085ad"
-    },
-    {
       "id": "363325",
       "number": "NNH25ZDA001N-HWOPSI",
       "title": "ROSES25: D.8 Habitable Worlds Observatory Precursor Science Investigation",
@@ -14563,6 +14536,15 @@
       "openDate": "08/25/2026",
       "closeDate": "10/24/2026",
       "hash": "db935ec53603778dac56d992c88cf34dac81dd6487c401220c499a2c92b064ae"
+    },
+    {
+      "id": "363743",
+      "number": "OFOP0003436",
+      "title": "English Access Microscholarship Program for Central and Southern Iraq",
+      "status": "posted",
+      "openDate": "08/30/2026",
+      "closeDate": "09/03/2026",
+      "hash": "9fc2fadf3e5033bb83ce515e2e5359964c9d534dc98aba10db0028385320fc4d"
     }
   ]
 }
