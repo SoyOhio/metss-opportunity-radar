@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T15:40:14.822Z",
-  "hitCount": 1616,
+  "updatedAt": "2026-08-31T17:39:58.997Z",
+  "hitCount": 1614,
   "records": [
     {
       "id": "355824",
@@ -1144,15 +1144,6 @@
       "openDate": "02/12/2020",
       "closeDate": "",
       "hash": "7f19797e3af03f8279274b9b6864ebfed6f96865475f09b79eea7ac696cc40ae"
-    },
-    {
-      "id": "359740",
-      "number": "FOR-RFA-AG-26-012",
-      "title": "Data Coordinating Center for the Aging and Alzheimer&rsquo;s Disease Mouse Brain Atlas (AD-MBA)",
-      "status": "forecasted",
-      "openDate": "06/20/2025",
-      "closeDate": "",
-      "hash": "db458e37e81455cb367137fa362053c52845abbf94452b865491115d600e2403"
     },
     {
       "id": "358967",
@@ -4152,15 +4143,6 @@
       "hash": "4516299b0dc9f22d875dbc4a07c0a6a572583b23cba189f183697cb095a3d4c6"
     },
     {
-      "id": "360909",
-      "number": "PAR-26-104",
-      "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging",
-      "status": "forecasted",
-      "openDate": "11/24/2025",
-      "closeDate": "",
-      "hash": "8004b8d0f27115231d346202339cfbaf3fd33a08ef19791efd73e584191cfcaa"
-    },
-    {
       "id": "360911",
       "number": "PAR-26-081",
       "title": "Complex Integrated Multi-Component Projects in Aging Research (U19 Clinical Trial Optional)",
@@ -4233,15 +4215,6 @@
       "hash": "8a393be32e532ab058f37cc60383affa9bf623e1d4e5a02026ab327e9c994488"
     },
     {
-      "id": "360404",
-      "number": "PAR-26-069",
-      "title": "NINDS Efficacy and Exploratory Clinical Trials (UG3/UH3 - Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "08/28/2025",
-      "closeDate": "",
-      "hash": "171d9595e03c751a5709a9600f7a6d547150ccd236070d446451336a38380383"
-    },
-    {
       "id": "359655",
       "number": "RFA-AG-26-011",
       "title": "NIA Expanding Research in AD/ADRD (ERA) Summer Research Education Program (R25 Independent Clinical Trial Not Allowed)",
@@ -4285,15 +4258,6 @@
       "openDate": "09/03/2025",
       "closeDate": "",
       "hash": "91435ed83aea7a61c2cce8ebd448211b4dc65afe82db368fe82fbbe80e6dc187"
-    },
-    {
-      "id": "360458",
-      "number": "RFA-DK-27-139",
-      "title": "Single Source for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Scientific and Data Research Center (U01 Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "09/03/2025",
-      "closeDate": "",
-      "hash": "d1801eabf87139244b4c08013465e8244b4e430a994a932277fc4a465c54ef0a"
     },
     {
       "id": "357809",
@@ -4368,15 +4332,6 @@
       "hash": "d5c24be165766d220b4d84f8afb8b3f4bdd97db6db14259d936b96dcffce0752"
     },
     {
-      "id": "360554",
-      "number": "PAR-26-051",
-      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access",
-      "status": "forecasted",
-      "openDate": "09/10/2025",
-      "closeDate": "",
-      "hash": "f5e1828d565af46a1ac1dc44aa50cf0e49d94e951a8d9672e4304253504f3f10"
-    },
-    {
       "id": "360551",
       "number": "RFA-DK-27-128",
       "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
@@ -4393,15 +4348,6 @@
       "openDate": "09/29/2025",
       "closeDate": "",
       "hash": "1835577748162bb06cebf0402d2b7d7bbbd313fe388d43a2971f3848899503a5"
-    },
-    {
-      "id": "360674",
-      "number": "RFA-DK-27-127",
-      "title": "Cooperative Centers of Excellence in Hematology (CCEHs)",
-      "status": "forecasted",
-      "openDate": "09/29/2025",
-      "closeDate": "",
-      "hash": "855534279db52c489204cb7fdf3f799e1a0f9a668774d348f58d6d97d84aefdb"
     },
     {
       "id": "360673",
@@ -4438,15 +4384,6 @@
       "openDate": "09/26/2024",
       "closeDate": "10/31/2026",
       "hash": "e4a310897dc5345bdb3bbd46ff53ef30187e11ba2a8a3841b9d2cf70db7eb5ec"
-    },
-    {
-      "id": "360679",
-      "number": "RFA-DK-27-125",
-      "title": "Limited Competition for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Clinical Centers (U01 Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "09/30/2025",
-      "closeDate": "",
-      "hash": "125944a3bf911f59fcab9067a2f80ce4823e3c6e562761c4112b0dff4fd5f1e2"
     },
     {
       "id": "360680",
@@ -5511,15 +5448,6 @@
       "hash": "c4e1e29e155ef69463ab1c387345f3ec987d4957c5e2c97f2d24964a786b13e7"
     },
     {
-      "id": "360393",
-      "number": "PAR-25-454",
-      "title": "Comprehensive Partnerships to Advance Cancer Health (CPACH) (U54 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "08/28/2025",
-      "closeDate": "",
-      "hash": "51b9678348952e2ffd3cb9829a09b9cb8861df7d336fc8a519504b8af1e9932b"
-    },
-    {
       "id": "360402",
       "number": "RFA-NS-26-007",
       "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (U01 Basic Experimental Studies with Humans Required)",
@@ -5527,24 +5455,6 @@
       "openDate": "08/28/2025",
       "closeDate": "",
       "hash": "df9f25ae63d1f9384903d0a16d0f00ac6fed79d3e90aeca60371fca07edcf16d"
-    },
-    {
-      "id": "360398",
-      "number": "RFA-NS-26-011",
-      "title": "BRAIN Initiative: Integrative Team-Research BRAIN Circuits Program - iTeamBCP (RM1 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "08/28/2025",
-      "closeDate": "",
-      "hash": "6cd0bf01a2ee570bd8f494dfcdf6786ccbb14aced44cfded5c127230a5ea976d"
-    },
-    {
-      "id": "360574",
-      "number": "PAR-26-043",
-      "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research",
-      "status": "forecasted",
-      "openDate": "09/12/2025",
-      "closeDate": "",
-      "hash": "b66cc1ba6874b6d9160faa39b2151b2f58d89ac907b804403bbc649000d77a47"
     },
     {
       "id": "360576",
@@ -5617,15 +5527,6 @@
       "openDate": "09/17/2025",
       "closeDate": "05/07/2028",
       "hash": "93fb2c8723860dfb1020705a82c06f77b529915c21103af3b0ee4d11d4f38f5d"
-    },
-    {
-      "id": "360606",
-      "number": "RFA-CA-25-033",
-      "title": "Glioblastoma Therapeutics Network (GTN; U19 Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "09/17/2025",
-      "closeDate": "",
-      "hash": "de13f0ba43e3b64c8714b18306aa9ea9973e312f4f84ecdce63109073d72dd6d"
     },
     {
       "id": "361394",
@@ -5842,15 +5743,6 @@
       "openDate": "08/04/2025",
       "closeDate": "",
       "hash": "0205c70ab56318539f02223fdaa84570ef0f117edd66dcbb8d0e56fe5fe02aef"
-    },
-    {
-      "id": "361065",
-      "number": "RFA-AI-27-005",
-      "title": "Clinical Research Network on Antimicrobial Resistance",
-      "status": "forecasted",
-      "openDate": "12/29/2025",
-      "closeDate": "",
-      "hash": "a661c0601e7c9413dbd0781b085de88e6320ffd1e32ab255ce677fd4aa19d3f2"
     },
     {
       "id": "302271",
@@ -6348,15 +6240,6 @@
       "hash": "da03ce94fc4619c52fbec3ef1768ef13e64f9c396ae0c87d482aa79380263cb4"
     },
     {
-      "id": "360875",
-      "number": "RFA-AI-27-002",
-      "title": "Infectious Diseases Clinical Trials Network (IDCTN)",
-      "status": "forecasted",
-      "openDate": "11/18/2025",
-      "closeDate": "",
-      "hash": "6636b7fe79cb3e64e4be334b856fa8af7a31f610a580f5624b355a7fd87b65b8"
-    },
-    {
       "id": "360876",
       "number": "RFA-AG-26-026",
       "title": "Renewal of NIA Research Centers Collaborative Network (RCCN)",
@@ -6681,15 +6564,6 @@
       "hash": "ed28b1ddb813251387eb3d05374f3e88479f2ef98876821d7ec3b8014c8b5a70"
     },
     {
-      "id": "361187",
-      "number": "PAR-26-114",
-      "title": "Lasker Clinical Research Scholar's Program (Si2/R00 Clinical Trial  Optional)",
-      "status": "forecasted",
-      "openDate": "01/22/2026",
-      "closeDate": "",
-      "hash": "a7fb098fb20c804f72041ab2105b676a30141e1b8a66297fa4273a3a075f9f1f"
-    },
-    {
       "id": "361168",
       "number": "PAR-26-094",
       "title": "Research Project Cooperative Agreements in Aging and/or Alzheimer's disease (AD) and Alzheimer's disease-related dementias (ADRD) Research",
@@ -6805,15 +6679,6 @@
       "openDate": "12/01/2022",
       "closeDate": "01/11/2027",
       "hash": "1f975ab4ad5e9d341d70b03a9fdd71ffd2a7311034788f5e8e347d091948e3cf"
-    },
-    {
-      "id": "361213",
-      "number": "RFA-DK-27-112",
-      "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "01/29/2026",
-      "closeDate": "",
-      "hash": "cbc1dbc9974171f94c670016fa253ffa6d40b495402763d91ea15d3b7ed8adf3"
     },
     {
       "id": "359725",
@@ -7129,15 +6994,6 @@
       "openDate": "03/16/2026",
       "closeDate": "",
       "hash": "00767c53fba9632365ebda58e3faf4e5076177f9a9e283cf6f36202a6b89df4c"
-    },
-    {
-      "id": "361518",
-      "number": "PAR-26-093",
-      "title": "Exploratory Clinical Neuroscience Research on Substance Use Disorders",
-      "status": "forecasted",
-      "openDate": "03/16/2026",
-      "closeDate": "",
-      "hash": "69b3804c735882626b07b706ba16aa8c368d6eed0a3ad6a687c74933550cf860"
     },
     {
       "id": "358938",
@@ -7752,15 +7608,6 @@
       "hash": "9eac6da596e47c9cd6a61016f1ea70475761a19b54125e2ffe5bd1e58a5062c6"
     },
     {
-      "id": "361833",
-      "number": "RFA-AI-27-014",
-      "title": "Development of Candidate Medical Countermeasures (MCMs) and Technologies Against Chemical or Radiation/Nuclear (CRN) Threats",
-      "status": "forecasted",
-      "openDate": "04/09/2026",
-      "closeDate": "",
-      "hash": "cb198f05b3efc0fcae05679ae3a01875cdc79c0a0d3461b2ae1803af98811776"
-    },
-    {
       "id": "361831",
       "number": "RFA-AI-27-017",
       "title": "Cooperative Program for Modeling Clinical Transplantation",
@@ -8254,15 +8101,6 @@
       "openDate": "06/09/2026",
       "closeDate": "03/16/2029",
       "hash": "b6a428703e29aef9a04d119ebcf06d273764cfbb63d5006c9e6b16d46f1c4b3e"
-    },
-    {
-      "id": "360947",
-      "number": "PAR-27-068",
-      "title": "Limited Competition: NIGMS Mature Synchrotron Resources (MSR) for Structural Biology (P30 - Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "12/08/2025",
-      "closeDate": "",
-      "hash": "59f1aa1f6beadda8193064563ef634ad3c0d33050c7bae960bc51d1f22593e36"
     },
     {
       "id": "346815",
@@ -10875,15 +10713,6 @@
       "hash": "71dbbd4516cce7d334a5678401dcfd7aa2790a7e8e9288e2c38331eeee013073"
     },
     {
-      "id": "363120",
-      "number": "PDS-CB-600-26-0003",
-      "title": "Annual Program Statement for Public Diplomacy Section Fiscal Year 2026",
-      "status": "posted",
-      "openDate": "07/09/2026",
-      "closeDate": "08/30/2026",
-      "hash": "88067fd8bc3b8e24fabf29a03664c6cce73838c5645ade1d44a6f44ec2fd3a17"
-    },
-    {
       "id": "363126",
       "number": "RFA-OD-28-001",
       "title": "Tobacco Centers of Regulatory Science (TCORS) (Clinical Trial Optional)",
@@ -11062,15 +10891,6 @@
       "openDate": "07/01/2026",
       "closeDate": "",
       "hash": "03458d1953fac49f1f37973c81d26516ae5864573966174fd2c48b54279f5e9f"
-    },
-    {
-      "id": "363293",
-      "number": "PAS-JAKARTA-FY26-08",
-      "title": "American Innovation Hub: AI &amp; Digital Skills for the Creative &amp; Tech Economy",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "08/30/2026",
-      "hash": "0d9192837be951f9aa8e797ad84b4bdcc6afd80bac0e2db109a020ea219a692a"
     },
     {
       "id": "362871",
@@ -11775,15 +11595,6 @@
       "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
     },
     {
-      "id": "363316",
-      "number": "PDS-USASEAN-FY26-01",
-      "title": "U.S.-ASEAN Road to 50: Rising Leaders Forum",
-      "status": "posted",
-      "openDate": "07/27/2026",
-      "closeDate": "08/30/2026",
-      "hash": "0d6ca8e2dfa52c3776450876ac081d7dabd224375a3373345de73dad719e4f98"
-    },
-    {
       "id": "363324",
       "number": "HRSA-27-084",
       "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
@@ -11818,15 +11629,6 @@
       "openDate": "06/26/2026",
       "closeDate": "09/01/2026",
       "hash": "5d30b690e0283b78b7a89942ea325ecf441e6ff30fe0faeb1a5489154c4abd0e"
-    },
-    {
-      "id": "363287",
-      "number": "USDA-FS-IPT-INVASIVE-SPECIES-2026",
-      "title": "International Programs &amp; Trade, Invasive Species Program Funding Opportunity",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "09/30/2026",
-      "hash": "77b83cb646f0888c6913cb1e4066e8dad1f466243139f52f862be34c15a7d893"
     },
     {
       "id": "363449",
@@ -13215,15 +13017,6 @@
       "hash": "4b3361b8adbdd5bc88b0ecfbc61b1d2411520db80f7edeea9fbc4b22c581e26a"
     },
     {
-      "id": "363645",
-      "number": "DOS-SAU-2603-PD",
-      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/17/2026",
-      "hash": "f0ce9d008a7d03f316711d1c1977f4b2c00895d21ac8dc8ed1ef6e5064ab2b7f"
-    },
-    {
       "id": "363600",
       "number": "HRSA-27-041",
       "title": "Rural Communities Opioid Response Program - Evaluation",
@@ -13323,33 +13116,6 @@
       "hash": "f37028c35b2c120a08a781c890c3a85abd5a6f75be663405e1b103de41691160"
     },
     {
-      "id": "363430",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION6-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 6)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "f5ad8392d5eeb55f316c4a754bcf99ff476ae5f4d0038a541c340fe754baabce"
-    },
-    {
-      "id": "363428",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION3-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "3b46f2192bb6ee5c045481cab037c5120fab99617e7d6845ba569df904452e10"
-    },
-    {
-      "id": "363425",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION1-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "f2383b87430eb045d50a5f92f08868612a86bf0cbe99507cdb1d44fa63a520e8"
-    },
-    {
       "id": "363687",
       "number": "HRSA-27-043",
       "title": "Rural Communities Opioid Response Program - Child and Adolescent Behavioral Health",
@@ -13429,15 +13195,6 @@
       "openDate": "08/20/2026",
       "closeDate": "08/19/2031",
       "hash": "08bcdece2a536836f5a3d186134624705190ecb64193224e90441337826717bc"
-    },
-    {
-      "id": "363673",
-      "number": "W9126G262RFP1101",
-      "title": "Naval Base Kitsap-Bremerton Natural Resources Support- Juvenile Salmonid Surveys in Sinclair Inlet, WA",
-      "status": "posted",
-      "openDate": "08/20/2026",
-      "closeDate": "09/08/2026",
-      "hash": "296edc2fb78db70727f0e87f8f5cb9f4af972d285c43b8f07e0e49d3bdd7982c"
     },
     {
       "id": "362063",
@@ -13528,15 +13285,6 @@
       "openDate": "12/15/2023",
       "closeDate": "12/14/2026",
       "hash": "b2f7639a49585d00df7592f905d13e89404e35f4bc516eed695d3237dabe1043"
-    },
-    {
-      "id": "363437",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION4-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 4)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "5f39a70e0e576a490ed8827077f1ecded0a36801dff66ee1aa66b04164a53ff0"
     },
     {
       "id": "360205",
@@ -14052,15 +13800,6 @@
       "hash": "3dd92c08cf495c0afbe1b45d4c0d62ff77e1b173ac679a25788a238cc518740e"
     },
     {
-      "id": "363436",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION2-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "c7fc59dea704f8508f77c959696c56a0b2b09d2aa109096a89036f61fb393b6f"
-    },
-    {
       "id": "363689",
       "number": "DFOP0018712",
       "title": "NEA/AC Regional Annual Program Statement",
@@ -14068,15 +13807,6 @@
       "openDate": "08/21/2026",
       "closeDate": "09/30/2026",
       "hash": "c66ed1ca30c02bd716f8759ee440e8a22bd6344de190dd55f1398cb5d0df40f6"
-    },
-    {
-      "id": "363439",
-      "number": "OST-OSDBU-2026-SBTTAC-REGION-5-FY2026-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 5)",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "08/30/2026",
-      "hash": "1774fa6ba82fab8091658a1156fd10239c16520a205a30dea90e1d6dc32cec9d"
     },
     {
       "id": "363692",
@@ -14484,40 +14214,31 @@
       "hash": "fdbbc02135e7f2f2f6c58fa2af002cc904252d11e93b35bb0e63d4c4dfd5d725"
     },
     {
-      "id": "363696",
-      "number": "AC-08-28-26",
-      "title": "Fiscal Year (FY) 2027 AmeriCorps State and National Competitive Grants",
+      "id": "363714",
+      "number": "F26AS00107",
+      "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
       "status": "posted",
-      "openDate": "08/28/2026",
-      "closeDate": "01/13/2027",
-      "hash": "ebb6a79a1db1dfec4db7b74d2d43d7972356bed13bbd208e17e579e56ba823ee"
+      "openDate": "08/25/2026",
+      "closeDate": "10/24/2026",
+      "hash": "db935ec53603778dac56d992c88cf34dac81dd6487c401220c499a2c92b064ae"
     },
     {
-      "id": "363732",
-      "number": "FHWA-PROT-26-001",
-      "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
+      "id": "360679",
+      "number": "RFA-DK-27-125",
+      "title": "Limited Competition for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Clinical Centers (U01 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "10/09/2026",
-      "hash": "9940eb57e021ac40c6a76322d46b275b2072adc29466bb379ce63eef8decd402"
+      "openDate": "08/31/2026",
+      "closeDate": "11/06/2026",
+      "hash": "6a0421c872f3f88901d5778890fb16674cccbc299661394b509414e699b41191"
     },
     {
-      "id": "363738",
-      "number": "HR001126S0015",
-      "title": "Defense Sciences Office (DSO) Office-wide BAA",
+      "id": "361213",
+      "number": "RFA-DK-27-112",
+      "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
       "status": "posted",
-      "openDate": "08/28/2026",
-      "closeDate": "08/27/2027",
-      "hash": "6a2e17e06220aecda458b32659f97146a98ac97628d3295bc8ac27c7cc1a7f83"
-    },
-    {
-      "id": "363742",
-      "number": "OFOP0003762",
-      "title": "Implementation of Four GCTF Classic Workshops in 2027",
-      "status": "posted",
-      "openDate": "08/28/2026",
-      "closeDate": "10/06/2026",
-      "hash": "90177ab150c97bc05bac1cae03c8b2204dc0d2b1e5725abe50c2180e4b535dbb"
+      "openDate": "08/31/2026",
+      "closeDate": "11/09/2026",
+      "hash": "fe0ecd80619a910f376aa8871cb23781a437f0bbe08494f87fcad6a757a62526"
     },
     {
       "id": "362715",
@@ -14529,13 +14250,103 @@
       "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
     },
     {
-      "id": "363714",
-      "number": "F26AS00107",
-      "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
+      "id": "361833",
+      "number": "RFA-AI-27-014",
+      "title": "Development of Candidate Medical Countermeasures (MCMs) and Technologies Against Radiological/Nuclear or Chemical Threats (U01 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "04/09/2026",
+      "closeDate": "",
+      "hash": "8f2f50cb679e52cf7ccaace68731ed85ce5bcc446333a426c754b943ddf6a442"
+    },
+    {
+      "id": "360875",
+      "number": "RFA-AI-27-002",
+      "title": "Infectious Diseases Clinical Trials Network (IDCTN) (UM1 Clinical Trial Required)",
+      "status": "forecasted",
+      "openDate": "11/18/2025",
+      "closeDate": "",
+      "hash": "c0e4a6e97d76ab16364ae40b5a845d5b1596abe4baccf2fd032ec9e98c2bf9c5"
+    },
+    {
+      "id": "359740",
+      "number": "RFA-AG-27-010",
+      "title": "Data Coordinating Center for the Aging and Alzheimer&rsquo;s Disease Mouse Brain Atlas (AD-MBA) (U24 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "06/20/2025",
+      "closeDate": "",
+      "hash": "37f115ce94297cdc1883f7b2575d4e5a7925482bde2f0ddad3b7abaf4f282f8a"
+    },
+    {
+      "id": "363732",
+      "number": "FHWA-PROT-26-001",
+      "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
       "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "10/24/2026",
-      "hash": "db935ec53603778dac56d992c88cf34dac81dd6487c401220c499a2c92b064ae"
+      "openDate": "08/27/2026",
+      "closeDate": "10/09/2026",
+      "hash": "9940eb57e021ac40c6a76322d46b275b2072adc29466bb379ce63eef8decd402"
+    },
+    {
+      "id": "363746",
+      "number": "DOS-SAU-2606-PD",
+      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "2c980f5e57745a4742f808b826f85935504f0cab04d2d4b38f5b876d313b696b"
+    },
+    {
+      "id": "363696",
+      "number": "AC-08-28-26",
+      "title": "Fiscal Year (FY) 2027 AmeriCorps State and National Competitive Grants",
+      "status": "posted",
+      "openDate": "08/28/2026",
+      "closeDate": "01/13/2027",
+      "hash": "ebb6a79a1db1dfec4db7b74d2d43d7972356bed13bbd208e17e579e56ba823ee"
+    },
+    {
+      "id": "363645",
+      "number": "DOS-SAU-2603-PD",
+      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
+      "status": "posted",
+      "openDate": "08/18/2026",
+      "closeDate": "09/17/2026",
+      "hash": "f0ce9d008a7d03f316711d1c1977f4b2c00895d21ac8dc8ed1ef6e5064ab2b7f"
+    },
+    {
+      "id": "363742",
+      "number": "OFOP0003762",
+      "title": "Implementation of Four GCTF Classic Workshops in 2027",
+      "status": "posted",
+      "openDate": "08/28/2026",
+      "closeDate": "10/06/2026",
+      "hash": "90177ab150c97bc05bac1cae03c8b2204dc0d2b1e5725abe50c2180e4b535dbb"
+    },
+    {
+      "id": "363744",
+      "number": "DOS-SAU-2605-PD",
+      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "a97ad2681f3834870c08a29918ac9397b5b4d7f16564166949ee9493003a1e07"
+    },
+    {
+      "id": "360909",
+      "number": "PAR-27-112",
+      "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging (K76 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "11/24/2025",
+      "closeDate": "",
+      "hash": "06a810cad76945f70e606c9d2e983de7f6e6e42c1a7e21498fbe9276324a604e"
+    },
+    {
+      "id": "360554",
+      "number": "PAR-27-051",
+      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access",
+      "status": "forecasted",
+      "openDate": "09/10/2025",
+      "closeDate": "",
+      "hash": "923b620fd3428e962797465959ec6325da71224784d93b66671b02d7e7f62850"
     },
     {
       "id": "363743",
@@ -14545,6 +14356,177 @@
       "openDate": "08/30/2026",
       "closeDate": "09/03/2026",
       "hash": "9fc2fadf3e5033bb83ce515e2e5359964c9d534dc98aba10db0028385320fc4d"
+    },
+    {
+      "id": "363738",
+      "number": "HR001126S0015",
+      "title": "Defense Sciences Office (DSO) Office-wide BAA",
+      "status": "posted",
+      "openDate": "08/28/2026",
+      "closeDate": "08/27/2027",
+      "hash": "6a2e17e06220aecda458b32659f97146a98ac97628d3295bc8ac27c7cc1a7f83"
+    },
+    {
+      "id": "360393",
+      "number": "PAR-28-062",
+      "title": "Cancer Advancement through Partnerships in Research and Infrastructure (CAPRI) (U54 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "01/25/2027",
+      "hash": "6f90b9450fcc36a27c205c545351a265c4b0ec61c7c1f96e982deb7699165b40"
+    },
+    {
+      "id": "363673",
+      "number": "W9126G262RFP1011",
+      "title": "Naval Base Kitsap-Bremerton Natural Resources Support- Juvenile Salmonid Surveys in Sinclair Inlet, WA",
+      "status": "posted",
+      "openDate": "08/20/2026",
+      "closeDate": "09/14/2026",
+      "hash": "6002218bbbf34898a99be7c845856f71416fb0016dcfa2c21beab27eddba1333"
+    },
+    {
+      "id": "360947",
+      "number": "PAR-27-068",
+      "title": "Limited Competition: NIGMS Mature Synchrotron Resources (MSR) for Structural Biology (P30 - Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "10/02/2028",
+      "hash": "f5307d4fddbdcedf8bb5e900151f9bbbc4db51e44c2554f6f45aa04bbdd44505"
+    },
+    {
+      "id": "361187",
+      "number": "PAR-27-076",
+      "title": "Lasker Clinical Research Scholar's Program (Si2/R00 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "07/07/2028",
+      "hash": "e908e5e201b86b1981dde1ef24208079c053c9a47de05f20abfc77fa2ba83445"
+    },
+    {
+      "id": "360458",
+      "number": "RFA-DK-27-139",
+      "title": "Single Source for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Scientific and Data Research Center (U01 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "11/09/2026",
+      "hash": "f7db39d7550f5c0a35d53c19d68e57e084f04cf295eb73b8f004f22f0c1dea64"
+    },
+    {
+      "id": "361518",
+      "number": "PAR-27-053",
+      "title": "Exploratory Clinical Neuroscience Research on Substance Use Disorders (R61/R33 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "06/16/2028",
+      "hash": "c27a55a1214a5d200a9b5e0202065336f3d211481b3a4e03dfa5cdf6e3640fa3"
+    },
+    {
+      "id": "363745",
+      "number": "FA955026S0002",
+      "title": "Air Force Basic Research Sciences Conference and Workshop Support",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "08/31/2029",
+      "hash": "ae66d5c91c9447b975adf96a7b51f4140c504372255dccdd3571b63c0475603d"
+    },
+    {
+      "id": "363287",
+      "number": "USDA-FS-IPT-INVASIVE-SPECIES-2026",
+      "title": "International Programs &amp; Trade, Invasive Species Program Funding Opportunity",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "09/30/2026",
+      "hash": "77b83cb646f0888c6913cb1e4066e8dad1f466243139f52f862be34c15a7d893"
+    },
+    {
+      "id": "363747",
+      "number": "NNH25ZDA001N-TCAN",
+      "title": "ROSES 2025: D.4 Theoretical and Computational Astrophysics Networks",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "12/03/2026",
+      "hash": "c756699990393455bca73d8f41f9f3477f6f424bc98b30de0b23a10a741cf8b7"
+    },
+    {
+      "id": "360574",
+      "number": "PAR-27-127",
+      "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research (P50 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "09/12/2025",
+      "closeDate": "",
+      "hash": "0b9a382d78f930bb541dac8f7aa2dc01b2c3a518680d59dcfaa09d08621a1e84"
+    },
+    {
+      "id": "361065",
+      "number": "RFA-AI-27-005",
+      "title": "Clinical Research Network on Antimicrobial Resistance (UM1 Clinical Trial Required)",
+      "status": "forecasted",
+      "openDate": "12/29/2025",
+      "closeDate": "",
+      "hash": "bc0738764760e2dd283f201d53121d31fb555d4e9dca29aac3dfda26280b5e59"
+    },
+    {
+      "id": "360606",
+      "number": "RFA-CA-27-005",
+      "title": "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "10/01/2026",
+      "hash": "39b12e5f6321a9bfcf0d1f388b55fcf78f5ea670980254cab6d4b704f0d720a5"
+    },
+    {
+      "id": "360404",
+      "number": "PAR-27-065",
+      "title": "NINDS Efficacy and Exploratory Clinical Trials (UG3/UH3 - Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "03/09/2029",
+      "hash": "7e3f3ca37e7f6858457be52f69ab2eda0001c4b6cfdeb858f8d02866fe0b1226"
+    },
+    {
+      "id": "360674",
+      "number": "RFA-DK-27-127",
+      "title": "Cooperative Centers for Experimental Hematology (CCEHs) (U54- Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/30/2026",
+      "hash": "aa2cdb4290fe6c7e95175f739b8b2443e2093522fdc9dfa16adaa07c40f6365b"
+    },
+    {
+      "id": "360398",
+      "number": "RFA-NS-27-002",
+      "title": "BRAIN Initiative: Integrative Team-Research BRAIN Circuits Program - iBCP (RM1 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "06/23/2028",
+      "hash": "35d927f48be1ba7d5f1d80094c70309bf5487980fbb1b3182d89c58b3e65826d"
+    },
+    {
+      "id": "362802",
+      "number": "USDA-NIFA-OP-011980",
+      "title": "Research Facilities Act Program",
+      "status": "posted",
+      "openDate": "06/15/2026",
+      "closeDate": "09/01/2026",
+      "hash": "6727be2e470480aa125331ea755ca332fdfe276d96de7a98cfaaa2739e01b435"
+    },
+    {
+      "id": "363748",
+      "number": "CDC-RFA-JG-27-0077",
+      "title": "Informing global polio eradication efforts through innovative modeling approaches",
+      "status": "forecasted",
+      "openDate": "08/31/2026",
+      "closeDate": "",
+      "hash": "a4df8e14ba4509ab8c54417613c1629626053f7d24d51f2b3571fa765185348e"
+    },
+    {
+      "id": "363749",
+      "number": "CDC-RFA-JG-27-0070",
+      "title": "Capacity Building for National Immunization Programs in the Eastern Mediterranean Region",
+      "status": "forecasted",
+      "openDate": "08/31/2026",
+      "closeDate": "",
+      "hash": "15033238d6838eb5220ab3a7258f3dec0b3f45382bff9182eb411848c377a3d8"
     }
   ]
 }
