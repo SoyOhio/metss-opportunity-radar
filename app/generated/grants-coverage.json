@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T17:40:01.767Z",
-  "inventoryCheckedAt": "2026-08-31T17:39:58.997Z",
+  "generatedAt": "2026-09-01T14:58:51.213Z",
+  "inventoryCheckedAt": "2026-09-01T14:58:47.681Z",
   "screeningSnapshotAt": "2026-08-30T15:40:14.822Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1614,
-  "historicalSourceRecords": 2177,
+  "currentActiveSourceRecords": 1575,
+  "historicalSourceRecords": 2184,
   "previouslyScreenedSnapshotRecords": 1616,
-  "currentRecordsCoveredBySnapshot": 1045,
-  "currentRecordsRequiringScreening": 569,
-  "newRecordsRequiringScreening": 7,
-  "changedRecordsRequiringScreening": 562,
+  "currentRecordsCoveredBySnapshot": 1017,
+  "currentRecordsRequiringScreening": 558,
+  "newRecordsRequiringScreening": 14,
+  "changedRecordsRequiringScreening": 544,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -125,7 +125,7 @@
         "grantsGovId": "363578",
         "opportunityNumber": "DFOP0018862",
         "title": "Syria Annual Program Statement",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363578"
       }
     ],
