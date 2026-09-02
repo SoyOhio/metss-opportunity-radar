@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-02T14:33:13.500Z-081740d3",
+      "status": "success",
+      "startedAt": "2026-09-02T14:33:13.500Z",
+      "completedAt": "2026-09-02T14:34:08.014Z",
+      "durationSeconds": 55,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1601,
+        "created": 26,
+        "updated": 30,
+        "unchanged": 1545,
+        "removedFromActive": 14,
+        "archivedOrClosed": 14,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1587,
+        "target": 1587,
+        "uniqueResults": 1587,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2210,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-01T14:57:50.216Z-04b174e5",
       "status": "success",
       "startedAt": "2026-09-01T14:57:50.216Z",
