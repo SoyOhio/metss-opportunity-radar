@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T14:34:08.014Z",
-  "hitCount": 1587,
+  "updatedAt": "2026-09-03T14:38:43.926Z",
+  "hitCount": 1583,
   "records": [
     {
       "id": "355824",
@@ -1153,15 +1153,6 @@
       "openDate": "06/18/2025",
       "closeDate": "03/01/2028",
       "hash": "d6aee4d8e93551c3d12c7dd85abff3c770afa8d67e0faa6e5bd9d86b710be018"
-    },
-    {
-      "id": "359860",
-      "number": "FOR-AI-27-017",
-      "title": "Multidisciplinary Research to Accelerate Hepatitis B Cure in Persons Living with HIV and HBV (MRA-HBV)",
-      "status": "forecasted",
-      "openDate": "06/27/2025",
-      "closeDate": "",
-      "hash": "08599de1100489b61008cda4d9e4963757e868beb6b65e7427530ea5b2626ef2"
     },
     {
       "id": "359857",
@@ -6420,15 +6411,6 @@
       "hash": "ed760cd9ba025a8dc9ec7bade99a1e18cf40103d7b68ca82717c7a12b5f62f57"
     },
     {
-      "id": "45793",
-      "number": "PD-98-1680",
-      "title": "Ocean Technology and Interdisciplinary Coordination",
-      "status": "posted",
-      "openDate": "03/05/2009",
-      "closeDate": "02/15/2027",
-      "hash": "98c50f4c9e3681ca1ad59517e6c13fa877f1db6d6bc9dfb6a922398d01bb3fd1"
-    },
-    {
       "id": "58617",
       "number": "VA-GRANTS-112508-002",
       "title": "State Veterans Home Construction Grant Program",
@@ -8661,15 +8643,6 @@
       "hash": "cb8a6249dc8bbc76937bb7b691b9d1e287d5d7f93624789699d6330e48671acb"
     },
     {
-      "id": "362905",
-      "number": "HR001126S0011",
-      "title": "Information Processing Techniques Office Office-Wide",
-      "status": "posted",
-      "openDate": "06/22/2026",
-      "closeDate": "06/22/2027",
-      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
-    },
-    {
       "id": "362853",
       "number": "HT942526KCRPAKCIECSA",
       "title": "DoW Kidney Cancer, Academy of Kidney Cancer Investigators &ndash; Early-Career Scholar Award",
@@ -8904,15 +8877,6 @@
       "hash": "3981b9d2713a00258f5b4fd9ccd4aaba4aafbcb63fc1261e9bc53f0cac88355f"
     },
     {
-      "id": "362261",
-      "number": "HT942526PCRPIDA",
-      "title": "DoW Prostate Cancer, Idea Development Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/02/2026",
-      "hash": "fe08d818d1dd13cce49934fcab85ccc77083ccaf55bdbc77c693e0293a46efda"
-    },
-    {
       "id": "362524",
       "number": "HT942526ORPCRA",
       "title": "DoW Orthopaedic, Clinical Research Award",
@@ -9048,15 +9012,6 @@
       "hash": "03efcecae6b9b137c9cc98412c0452a736edb3cc5850f9acac620fb4c1b32cf8"
     },
     {
-      "id": "362243",
-      "number": "HT942526LCRPIDA",
-      "title": "DoW Lung Cancer Idea Development Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "09/02/2026",
-      "hash": "0f8e4cc45c8a07a19d8184317e980d8cba8210ff0f7fbb373c89a6b05c8d9660"
-    },
-    {
       "id": "362174",
       "number": "HT942526TBDRPTDRA",
       "title": "DoW Tick-Borne Disease Therapeutic/Diagnostic Research Award",
@@ -9075,15 +9030,6 @@
       "hash": "e500ca065a928f18ecf1e919fc1e8e963e207627d19300444fed82b271cc3b6d"
     },
     {
-      "id": "362262",
-      "number": "HT942526PCRPPRA",
-      "title": "DoW Prostate Cancer, Physician Research Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/02/2026",
-      "hash": "1743a64a2c4be461dd46282b25aad76ca465aee87338ab8877523d029207d615"
-    },
-    {
       "id": "362254",
       "number": "HT942526MBRPDA",
       "title": "DoW Military Burn, Discovery Award",
@@ -9091,15 +9037,6 @@
       "openDate": "05/21/2026",
       "closeDate": "10/21/2026",
       "hash": "6a6db9b6a44640845ac37603529c9199332956654b555b25df26a9e91a81ffe2"
-    },
-    {
-      "id": "362260",
-      "number": "HT942526PCRPEIRA",
-      "title": "DoW Prostate Cancer, Early Investigator Research Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/02/2026",
-      "hash": "e6237e53e033019d3d55e0d5e19579fdfc7feef684185f0355f62bb1c97ada92"
     },
     {
       "id": "327763",
@@ -9307,15 +9244,6 @@
       "openDate": "09/19/2022",
       "closeDate": "09/18/2027",
       "hash": "b4becae8e366fdc271bbfd88568452a636e4eec7ac4db98ffcf4e2b73ffaf579"
-    },
-    {
-      "id": "362250",
-      "number": "HT942526LCRPTRA",
-      "title": "DoW Lung Cancer Translational Research Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "09/02/2026",
-      "hash": "5b66db77f3d90f540ea4acf78178fa8a739b151f3b5b46868be8cdcb7111a251"
     },
     {
       "id": "362321",
@@ -9597,15 +9525,6 @@
       "hash": "9e0546b01f4981f38dba1816f16da297aa1f1efe33f401a21a5f9a185f028b1c"
     },
     {
-      "id": "362247",
-      "number": "HT942526LCRPPCOSA",
-      "title": "DoW Lung Cancer Patient-Centered Outcomes and Survivorship Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "09/02/2026",
-      "hash": "08f4862fc03b70602f4662021099c0a9c8fe88c2f9c914f32abf53dffdf57df6"
-    },
-    {
       "id": "362530",
       "number": "HT942526ARPCTA",
       "title": "DoW Autism Clinical Trial Award",
@@ -9667,15 +9586,6 @@
       "openDate": "05/05/2026",
       "closeDate": "09/10/2026",
       "hash": "bbdc3326dce87ea0ea620bcf3bac57ac8c9f949db8759171ea9c74a27e83fa01"
-    },
-    {
-      "id": "362259",
-      "number": "HT942526PCRPDSA",
-      "title": "DoW Prostate Cancer, Data Science Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/02/2026",
-      "hash": "c1d3f0482fb7c31b42c7e019a40081428b9142701cdc24729fe30c55581d187b"
     },
     {
       "id": "362196",
@@ -10029,15 +9939,6 @@
       "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
     },
     {
-      "id": "363280",
-      "number": "O-BJA-2026-172658",
-      "title": "BJA FY 2026 Enhancing Security Measures for Houses of Worship",
-      "status": "posted",
-      "openDate": "07/22/2026",
-      "closeDate": "09/02/2026",
-      "hash": "c57430fab2de4f8955440df129ebb80691ce6967e7cee6e851109476fdf748d8"
-    },
-    {
       "id": "363274",
       "number": "HRSA-27-055",
       "title": "Chronic Care Telehealth Centers of Excellence Program",
@@ -10216,15 +10117,6 @@
       "openDate": "07/06/2026",
       "closeDate": "",
       "hash": "47151aece91f59164e1ba4f7f1483c0508b4e6dec4c6aa0d1b15357b0c925af5"
-    },
-    {
-      "id": "363441",
-      "number": "PAS-JAKARTA-FY26-11",
-      "title": "Media Literacy and Capacity Building Workshop Series",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "09/02/2026",
-      "hash": "33516202ec60651f415ae11c380034c481f645661130898e01a4f9c5771bf19b"
     },
     {
       "id": "363258",
@@ -10902,15 +10794,6 @@
       "hash": "259ef3167c2bd6e0ee1ed16bde8ef5af8a216250c4a4fa8d04cbc375cb1534b2"
     },
     {
-      "id": "363603",
-      "number": "DHS-26-MT-041-00-99",
-      "title": "FY26 National Dam Safety Program State Assistance Program",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/02/2026",
-      "hash": "7d28dae8eafb77a707795de2b57e798f473bcec58528f3739711f0ed24f81cfe"
-    },
-    {
       "id": "363647",
       "number": "O-BJS-2026-172689",
       "title": "BJS FY 2026 National Criminal History Improvement Program (NCHIP) Training and Technical Assistance",
@@ -11035,15 +10918,6 @@
       "openDate": "07/08/2026",
       "closeDate": "",
       "hash": "5df4130833b72e3dadb7cd9aa8e765e3e7286a7d12dee0f2f075c0f9411fb6fb"
-    },
-    {
-      "id": "363113",
-      "number": "HRSA-27-016",
-      "title": "Children&rsquo;s Hospitals Graduate Medical Education (CHGME) Payment Program",
-      "status": "forecasted",
-      "openDate": "07/08/2026",
-      "closeDate": "",
-      "hash": "9abd93c59731ff2abeadb3f0f8513df1baa2e008645a94a4baefddfcade12492"
     },
     {
       "id": "363226",
@@ -11314,15 +11188,6 @@
       "openDate": "07/27/2026",
       "closeDate": "",
       "hash": "34767f0507a298621d958dc039de8cc6b5f39e605a185a9aaf6b69be37d17770"
-    },
-    {
-      "id": "363449",
-      "number": "USDA-FAS-10960-0700-109-26-0005",
-      "title": "Increasing Market Opportunities in Vietnam for U.S. Innovative Biofertilizer Exporters",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "09/02/2026",
-      "hash": "ed1095d57eff4e7d8cb23584f48913d48e8b38dfac21420b25fa7c08a38d866f"
     },
     {
       "id": "363268",
@@ -12432,33 +12297,6 @@
       "hash": "2e3775cc973bed8beddbbe072731a10d73c45fd25978740122c22b73c7ffedea"
     },
     {
-      "id": "361184",
-      "number": "PD-98-1610",
-      "title": "Physical Oceanography",
-      "status": "posted",
-      "openDate": "01/21/2026",
-      "closeDate": "02/17/2027",
-      "hash": "ac2a64a4632f088e1363ff709ebf888e0327eb03c7cbca67649a1daf92df029f"
-    },
-    {
-      "id": "275150",
-      "number": "PD-98-1670",
-      "title": "Chemical Oceanography",
-      "status": "posted",
-      "openDate": "03/13/2015",
-      "closeDate": "08/16/2027",
-      "hash": "f13a96ec3daf3cf1826f17b71e5bd3164e8202b32901a78d2e385e4c83e31643"
-    },
-    {
-      "id": "344858",
-      "number": "PD-23-1650",
-      "title": "Biological Oceanography (BioOce)",
-      "status": "posted",
-      "openDate": "12/13/2022",
-      "closeDate": "02/16/2027",
-      "hash": "000bd43f5aeb8459d59f537d396c71ee1bae4864c7a700496dc0f91fc07ad97d"
-    },
-    {
       "id": "363637",
       "number": "O-BJA-2026-172698",
       "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
@@ -12682,24 +12520,6 @@
       "openDate": "06/29/2023",
       "closeDate": "08/18/2027",
       "hash": "a0fa5d37a834db26ac4eda860ab9c04dba5f20da918be3c5aa0859d23e25ecc5"
-    },
-    {
-      "id": "363670",
-      "number": "HT942526BCRPBTA122",
-      "title": "DoW Breast Cancer, Breakthrough Award Levels 1 and 2",
-      "status": "forecasted",
-      "openDate": "08/20/2026",
-      "closeDate": "",
-      "hash": "bbb3a84b59c860d31e88b584ba8ca1c6a841ffcc7241bcd108fd83dff006b5fd"
-    },
-    {
-      "id": "363671",
-      "number": "HT942526BCRPCREA2",
-      "title": "DoW Breast Cancer, Clinical Research Extension Award",
-      "status": "forecasted",
-      "openDate": "08/20/2026",
-      "closeDate": "",
-      "hash": "5fe8d8af0620cae7985580fa59bfd613ee48ac7a126520a032b458681655b9f1"
     },
     {
       "id": "363668",
@@ -13458,15 +13278,6 @@
       "hash": "ddf3d8c81d49526530b6adb5b6adae6b1db96a215313b196db2924fb3e96024c"
     },
     {
-      "id": "363722",
-      "number": "DFOP0019505",
-      "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
-      "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "09/02/2026",
-      "hash": "638519d2c69d50170888372ccc373668273e3a417eb7538eeafcd47f66670e40"
-    },
-    {
       "id": "363212",
       "number": "FOA-ILAB-26-28",
       "title": "Supporting Implementation of the Labor Provisions of Trade Arrangements for American Worker Competitiveness",
@@ -13674,15 +13485,6 @@
       "hash": "9940eb57e021ac40c6a76322d46b275b2072adc29466bb379ce63eef8decd402"
     },
     {
-      "id": "363746",
-      "number": "DOS-SAU-2606-PD",
-      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/14/2026",
-      "hash": "2c980f5e57745a4742f808b826f85935504f0cab04d2d4b38f5b876d313b696b"
-    },
-    {
       "id": "363696",
       "number": "AC-08-28-26",
       "title": "Fiscal Year (FY) 2027 AmeriCorps State and National Competitive Grants",
@@ -13854,15 +13656,6 @@
       "hash": "ae66d5c91c9447b975adf96a7b51f4140c504372255dccdd3571b63c0475603d"
     },
     {
-      "id": "363287",
-      "number": "USDA-FS-IPT-INVASIVE-SPECIES-2026",
-      "title": "International Programs &amp; Trade, Invasive Species Program Funding Opportunity",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "09/30/2026",
-      "hash": "77b83cb646f0888c6913cb1e4066e8dad1f466243139f52f862be34c15a7d893"
-    },
-    {
       "id": "363747",
       "number": "NNH25ZDA001N-TCAN",
       "title": "ROSES 2025: D.4 Theoretical and Computational Astrophysics Networks",
@@ -13942,15 +13735,6 @@
       "openDate": "04/16/2025",
       "closeDate": "09/01/2076",
       "hash": "9cbee34ecd49fef2c5fce91f99f9b72a790a8cc399e1162ddc78da9aea8ae704"
-    },
-    {
-      "id": "363761",
-      "number": "O-OVC-2026-172723",
-      "title": "OVC FY 2026 Victim Reunification Travel Program",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "09/02/2026",
-      "hash": "758d5225308a1a788a5535935537bf424dfc9ecb8977f7e354747e9af9e980e0"
     },
     {
       "id": "363760",
@@ -14133,15 +13917,6 @@
       "hash": "a4c220e0ef0f79c859e80f06af2285ba055be35c287d3587154115f211110280"
     },
     {
-      "id": "360909",
-      "number": "PAR-27-112",
-      "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging (K76 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "06/12/2028",
-      "hash": "a09c6d37b24c7b82572a7efec9350189d527f99ebdadebd83ec95b616d34957e"
-    },
-    {
       "id": "360651",
       "number": "2025-NIST-CHIPS-CRDO-01",
       "title": "CHIPS Research and Development Office (CRDO) Broad Agency Announcement (BAA)",
@@ -14187,15 +13962,6 @@
       "hash": "37da1f4b12da7df31fd073045dbada55dcb5330f3a6c61946675d7d77706beb2"
     },
     {
-      "id": "363777",
-      "number": "HRSA-27-009",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "09/01/2026",
-      "closeDate": "",
-      "hash": "158f8727e0dbd2ed4b10138b406cc4b015b288a61ed8e28513e1efd7f7ccda56"
-    },
-    {
       "id": "359940",
       "number": "PAR-27-096",
       "title": "Grants for Early Medical/Surgical Specialists' Transition to Aging Research (GEMSSTAR) (R03 Clinical Trial Optional)",
@@ -14205,13 +13971,13 @@
       "hash": "9c5ca1e5494ea733a95ad3eb129586618abe09539537bc8f3c6de1ea52be60e4"
     },
     {
-      "id": "363773",
-      "number": "NLG-M-FY27",
-      "title": "National Leadership Grants for Museums (2027)",
+      "id": "360909",
+      "number": "PAR-27-112",
+      "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging (K76 Clinical Trial Not Allowed)",
       "status": "posted",
       "openDate": "09/01/2026",
-      "closeDate": "11/13/2026",
-      "hash": "282c7b41e9658fb7e006838ad369e2c675821951093b3a716152b005c03172ab"
+      "closeDate": "06/12/2028",
+      "hash": "a09c6d37b24c7b82572a7efec9350189d527f99ebdadebd83ec95b616d34957e"
     },
     {
       "id": "363780",
@@ -14223,31 +13989,22 @@
       "hash": "2488be722c2d27cb321791c1ad0734f06002eda60fd8c1563e0885ebaab3be6d"
     },
     {
-      "id": "363782",
-      "number": "CDC-RFA-CE-27-0062",
-      "title": "Supporting Community Application of Life-Saving Evidence to Prevent Injury and Violence (SCALE)",
-      "status": "forecasted",
+      "id": "363773",
+      "number": "NLG-M-FY27",
+      "title": "National Leadership Grants for Museums (2027)",
+      "status": "posted",
       "openDate": "09/01/2026",
-      "closeDate": "",
-      "hash": "ef090c2e795314da76cbbec4a364ef283724e287f51bd3328c144ba0d625533d"
+      "closeDate": "11/13/2026",
+      "hash": "282c7b41e9658fb7e006838ad369e2c675821951093b3a716152b005c03172ab"
     },
     {
-      "id": "363783",
-      "number": "RFA-OH-27-078",
-      "title": "NIOSH Mentored Research Scientist Development Award (K01)",
-      "status": "forecasted",
-      "openDate": "09/01/2026",
-      "closeDate": "",
-      "hash": "dcd5efef58648a60e9ca8f33638e572c3e1f21c683a29367cf79b831424d2f31"
-    },
-    {
-      "id": "362349",
-      "number": "CDC-RFA-PS-27-0008",
-      "title": "Controlling and Preventing STIs in US Health Departments (CAP-STIs)",
-      "status": "forecasted",
-      "openDate": "05/11/2026",
-      "closeDate": "",
-      "hash": "62d2bb6535050fb39043aca4a2321e9689daf11f09270c867a648eadf458eda8"
+      "id": "351547",
+      "number": "EPA-OLEM-R10-NC-24-01",
+      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
+      "status": "posted",
+      "openDate": "12/28/2023",
+      "closeDate": "12/31/2029",
+      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
     },
     {
       "id": "363784",
@@ -14268,6 +14025,114 @@
       "hash": "d40b5fc407afd1c9283d695363eb9b3a7139e79bd46fefbb2beeded607af4022"
     },
     {
+      "id": "363782",
+      "number": "CDC-RFA-CE-27-0062",
+      "title": "Supporting Community Application of Life-Saving Evidence to Prevent Injury and Violence (SCALE)",
+      "status": "forecasted",
+      "openDate": "09/01/2026",
+      "closeDate": "",
+      "hash": "ef090c2e795314da76cbbec4a364ef283724e287f51bd3328c144ba0d625533d"
+    },
+    {
+      "id": "363783",
+      "number": "RFA-OH-27-078",
+      "title": "NIOSH Mentored Research Scientist Development Award (K01)",
+      "status": "forecasted",
+      "openDate": "09/01/2026",
+      "closeDate": "",
+      "hash": "dcd5efef58648a60e9ca8f33638e572c3e1f21c683a29367cf79b831424d2f31"
+    },
+    {
+      "id": "360510",
+      "number": "HHS-2026-ACL-AOA-DASG-0012",
+      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
+      "status": "posted",
+      "openDate": "06/26/2026",
+      "closeDate": "09/04/2026",
+      "hash": "5ef50485a44c7d48e1cbf9f7a9d50c1443166939a99d814b4788f20f8ddfbed5"
+    },
+    {
+      "id": "363287",
+      "number": "USDA-FS-IPT-INVASIVE-SPECIES-2026",
+      "title": "International Programs &amp; Trade, Invasive Species Program Funding Opportunity",
+      "status": "posted",
+      "openDate": "08/03/2026",
+      "closeDate": "09/30/2026",
+      "hash": "77b83cb646f0888c6913cb1e4066e8dad1f466243139f52f862be34c15a7d893"
+    },
+    {
+      "id": "362905",
+      "number": "HR001126S0011",
+      "title": "Information Processing Techniques Office Office-Wide",
+      "status": "posted",
+      "openDate": "06/22/2026",
+      "closeDate": "06/22/2027",
+      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
+    },
+    {
+      "id": "363789",
+      "number": "NNH25ZDA001N-HYDRO",
+      "title": "ROSES 2025: A.17 Hydrosphere",
+      "status": "posted",
+      "openDate": "09/02/2026",
+      "closeDate": "01/28/2027",
+      "hash": "079f72c0ae2f4e571e132fdf8e3745225609351139f04442c0217d1a0e0f9b4e"
+    },
+    {
+      "id": "363791",
+      "number": "HHS-2027-ACF-OHS-CH-0112",
+      "title": "Head Start/Early Head Grants in Multiple States",
+      "status": "forecasted",
+      "openDate": "09/02/2026",
+      "closeDate": "",
+      "hash": "b6cd2413f117a44f6816b6f65bb9fb3b25b90dbbdefaab7161a616cc15589b38"
+    },
+    {
+      "id": "363792",
+      "number": "HHS-2027-ACF-OHS-CH-0125",
+      "title": "Early Head Start Expansion and Early Head Start - Child Care Partnership Grants in Multiple States",
+      "status": "forecasted",
+      "openDate": "09/02/2026",
+      "closeDate": "",
+      "hash": "5317e76a19efe518e68edacf34915862f3ada5e8b0627706636437a9af340144"
+    },
+    {
+      "id": "363790",
+      "number": "HHS-2026-ACF-ORR-ZU-0045",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "status": "forecasted",
+      "openDate": "09/02/2026",
+      "closeDate": "",
+      "hash": "89c7da6f77ebde8bc5abc641c69fa2a491a556d8dc906c513c25a81b6d87a8f0"
+    },
+    {
+      "id": "359860",
+      "number": "FOR-AI-27-017",
+      "title": "Multidisciplinary Research to Accelerate Hepatitis B Cure in Persons Living with HIV and HBV (MRA-HBV)",
+      "status": "forecasted",
+      "openDate": "06/27/2025",
+      "closeDate": "",
+      "hash": "08599de1100489b61008cda4d9e4963757e868beb6b65e7427530ea5b2626ef2"
+    },
+    {
+      "id": "362349",
+      "number": "CDC-RFA-PS-27-0008",
+      "title": "Controlling and Preventing STIs in US Health Departments (CAP-STIs)",
+      "status": "forecasted",
+      "openDate": "05/11/2026",
+      "closeDate": "",
+      "hash": "62d2bb6535050fb39043aca4a2321e9689daf11f09270c867a648eadf458eda8"
+    },
+    {
+      "id": "363777",
+      "number": "HRSA-27-009",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "09/01/2026",
+      "closeDate": "",
+      "hash": "158f8727e0dbd2ed4b10138b406cc4b015b288a61ed8e28513e1efd7f7ccda56"
+    },
+    {
       "id": "363786",
       "number": "DFOP0018819",
       "title": "Egypt  Annual Program Statement",
@@ -14277,13 +14142,112 @@
       "hash": "a3c7b3d8da729ed768636cdc98844b7c29a97a3e0b0e687f5cf26ccf3648108a"
     },
     {
-      "id": "351547",
-      "number": "EPA-OLEM-R10-NC-24-01",
-      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
+      "id": "363793",
+      "number": "DFOP0019505",
+      "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
       "status": "posted",
-      "openDate": "12/28/2023",
-      "closeDate": "12/31/2029",
-      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
+      "openDate": "09/02/2026",
+      "closeDate": "09/03/2026",
+      "hash": "65252d50d2396579b873e77e2a74c9f545ae2380ce3aa69e6f95de01a61c4fcd"
+    },
+    {
+      "id": "363670",
+      "number": "HT942526BCRPBTA122",
+      "title": "DoW Breast Cancer, Breakthrough Award Levels 1 and 2",
+      "status": "posted",
+      "openDate": "09/03/2026",
+      "closeDate": "11/18/2026",
+      "hash": "e694a647bfabd3c22ef8738aa04b868eadb68f9f51b835a9f75ddafd47aa924a"
+    },
+    {
+      "id": "363671",
+      "number": "HT942526BCRPCREA2",
+      "title": "DoW Breast Cancer, Clinical Research Extension Award",
+      "status": "posted",
+      "openDate": "09/03/2026",
+      "closeDate": "11/18/2026",
+      "hash": "61f344634e0128d8fa2fea41b719cda612ca303a24eb315c3a196c468d469ba8"
+    },
+    {
+      "id": "363796",
+      "number": "USDA-NIFA-CBGP-011698",
+      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
+      "status": "posted",
+      "openDate": "09/03/2026",
+      "closeDate": "11/04/2026",
+      "hash": "ea78224a0d8e49197c266ac6a9ff3e997a18d564532b92c409f66bf6737ea206"
+    },
+    {
+      "id": "363746",
+      "number": "DOS-SAU-2606-PD",
+      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "2c980f5e57745a4742f808b826f85935504f0cab04d2d4b38f5b876d313b696b"
+    },
+    {
+      "id": "363797",
+      "number": "DE-FOA-0003671",
+      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+      "status": "posted",
+      "openDate": "09/03/2026",
+      "closeDate": "10/05/2026",
+      "hash": "85d4353ac9e2e6305d41f13f38d5d5176ba1fbd5d27b9f7b390f675c23ced7d3"
+    },
+    {
+      "id": "361184",
+      "number": "PD-98-1610",
+      "title": "Physical Oceanography",
+      "status": "posted",
+      "openDate": "01/21/2026",
+      "closeDate": "",
+      "hash": "367adae7ace5a17875b6012056fa806dbca803b0b270c17713d3547dd7a9a576"
+    },
+    {
+      "id": "344858",
+      "number": "PD-23-1650",
+      "title": "Biological Oceanography (BioOce)",
+      "status": "posted",
+      "openDate": "12/13/2022",
+      "closeDate": "",
+      "hash": "4c8fd869d40fa104bb65aff8cfcaaae34e5b77119f3a24118552b25f5112663b"
+    },
+    {
+      "id": "363788",
+      "number": "RD-ET-RDA-26-002",
+      "title": "Improving the Capacity of Tribal Communities to Identify Emerging Drug Threats",
+      "status": "posted",
+      "openDate": "09/02/2026",
+      "closeDate": "09/13/2026",
+      "hash": "c28dc26353d531ebd5d751d6351d82719bfe6ee866839fa5aadc8c5b86868e22"
+    },
+    {
+      "id": "363113",
+      "number": "HRSA-27-016",
+      "title": "Children&rsquo;s Hospitals Graduate Medical Education (CHGME) Payment Program",
+      "status": "forecasted",
+      "openDate": "07/08/2026",
+      "closeDate": "",
+      "hash": "9abd93c59731ff2abeadb3f0f8513df1baa2e008645a94a4baefddfcade12492"
+    },
+    {
+      "id": "275150",
+      "number": "PD-98-1670",
+      "title": "Chemical Oceanography",
+      "status": "posted",
+      "openDate": "03/13/2015",
+      "closeDate": "",
+      "hash": "78fbe554bf51735fa310cbc37b1b418ca8ff0e53e8a843a13511d37e57d10b8e"
+    },
+    {
+      "id": "45793",
+      "number": "PD-98-1680",
+      "title": "Ocean Technology and Interdisciplinary Coordination",
+      "status": "posted",
+      "openDate": "03/05/2009",
+      "closeDate": "",
+      "hash": "64524c3c7fc683bb26ac474751a3600e6891292ffa59be29c3f02d769832d3e8"
     }
   ]
 }

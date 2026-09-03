@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-03T14:37:49.061Z-cb3779b5",
+      "status": "success",
+      "startedAt": "2026-09-03T14:37:49.061Z",
+      "completedAt": "2026-09-03T14:38:43.926Z",
+      "durationSeconds": 55,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1596,
+        "created": 8,
+        "updated": 27,
+        "unchanged": 1561,
+        "removedFromActive": 13,
+        "archivedOrClosed": 13,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1583,
+        "target": 1583,
+        "uniqueResults": 1583,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2218,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-02T14:33:13.500Z-081740d3",
       "status": "success",
       "startedAt": "2026-09-02T14:33:13.500Z",
@@ -1758,36 +1794,6 @@
           "message": "The prior process ended before recording completion."
         }
       ]
-    },
-    {
-      "id": "grants-2026-07-21T18:35:58.591Z-1aa21ca4",
-      "status": "success",
-      "startedAt": "2026-07-21T18:35:58.591Z",
-      "completedAt": "2026-07-21T18:36:52.779Z",
-      "durationSeconds": 54,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": null,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 1752,
-        "created": 1752,
-        "updated": 0,
-        "unchanged": 0,
-        "archivedOrClosed": 0,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1752,
-        "target": 1752,
-        "uniqueResults": 1752,
-        "pagesRequested": 18,
-        "pagesSucceeded": 18,
-        "pagesFailed": 0
-      },
-      "errors": []
     }
   ]
 }
