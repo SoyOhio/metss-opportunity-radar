@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-04T14:24:31.477Z-38be35cc",
+      "status": "success",
+      "startedAt": "2026-09-04T14:24:31.477Z",
+      "completedAt": "2026-09-04T14:25:20.215Z",
+      "durationSeconds": 49,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1598,
+        "created": 15,
+        "updated": 13,
+        "unchanged": 1570,
+        "removedFromActive": 6,
+        "archivedOrClosed": 6,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1592,
+        "target": 1592,
+        "uniqueResults": 1592,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2233,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-03T14:37:49.061Z-cb3779b5",
       "status": "success",
       "startedAt": "2026-09-03T14:37:49.061Z",
@@ -1758,42 +1794,6 @@
         "pagesFailed": 0
       },
       "errors": []
-    },
-    {
-      "id": "grants-2026-07-21T18:36:57.507Z-18157b54",
-      "status": "failed",
-      "startedAt": "2026-07-21T18:36:57.507Z",
-      "completedAt": "2026-07-21T18:45:02.896Z",
-      "durationSeconds": 485,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": null,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 0,
-        "created": 0,
-        "updated": 0,
-        "unchanged": 0,
-        "archivedOrClosed": 0,
-        "failed": 1
-      },
-      "pagination": {
-        "totalAvailable": 0,
-        "target": 0,
-        "uniqueResults": 0,
-        "pagesRequested": 0,
-        "pagesSucceeded": 0,
-        "pagesFailed": 0
-      },
-      "errors": [
-        {
-          "stage": "interrupted-run",
-          "record": null,
-          "message": "The prior process ended before recording completion."
-        }
-      ]
     }
   ]
 }
