@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-05T13:28:33.652Z-99a764f6",
+      "status": "success",
+      "startedAt": "2026-09-05T13:28:33.652Z",
+      "completedAt": "2026-09-05T13:29:36.883Z",
+      "durationSeconds": 63,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1601,
+        "created": 9,
+        "updated": 22,
+        "unchanged": 1570,
+        "removedFromActive": 12,
+        "archivedOrClosed": 12,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1589,
+        "target": 1589,
+        "uniqueResults": 1589,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2242,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-04T14:24:31.477Z-38be35cc",
       "status": "success",
       "startedAt": "2026-09-04T14:24:31.477Z",
@@ -1757,36 +1793,6 @@
       },
       "pagination": {
         "totalAvailable": 1752,
-        "target": 12,
-        "uniqueResults": 12,
-        "pagesRequested": 3,
-        "pagesSucceeded": 3,
-        "pagesFailed": 0
-      },
-      "errors": []
-    },
-    {
-      "id": "grants-2026-07-21T19:10:11.070Z-500a87fd",
-      "status": "success",
-      "startedAt": "2026-07-21T19:10:11.070Z",
-      "completedAt": "2026-07-21T19:10:12.959Z",
-      "durationSeconds": 2,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": 12,
-        "pageSize": 5
-      },
-      "counts": {
-        "fetched": 12,
-        "created": 0,
-        "updated": 0,
-        "unchanged": 12,
-        "archivedOrClosed": 0,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1753,
         "target": 12,
         "uniqueResults": 12,
         "pagesRequested": 3,
