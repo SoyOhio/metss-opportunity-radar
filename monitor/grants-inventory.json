@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T13:29:36.883Z",
-  "hitCount": 1589,
+  "updatedAt": "2026-09-06T13:44:12.130Z",
+  "hitCount": 1586,
   "records": [
     {
       "id": "355824",
@@ -13647,15 +13647,6 @@
       "hash": "c9a996fe7753960823e44607eeb1d28a7d7ea6e5022020a8e3339b2a6594d280"
     },
     {
-      "id": "349976",
-      "number": "PAR-24-027",
-      "title": "Population Assessment of Tobacco and Health (PATH) Study Biospecimen Access (X01)",
-      "status": "posted",
-      "openDate": "08/24/2023",
-      "closeDate": "09/05/2026",
-      "hash": "dcb3df892bc794fba14f74d01da78774282c178267fb218a832a837d1aed73b1"
-    },
-    {
       "id": "363812",
       "number": "SM-27-003",
       "title": "Children's Mental Health Initiative",
@@ -14232,15 +14223,6 @@
       "hash": "4813c07c460f38d188580c40e81d563d3c8b4acb81eac7d1c3217ace8873ca06"
     },
     {
-      "id": "360295",
-      "number": "HHS-2026-IHS-ETHIC-0001",
-      "title": "Ending the HIV/HCV Epidemics in Indian Country",
-      "status": "forecasted",
-      "openDate": "08/14/2025",
-      "closeDate": "",
-      "hash": "c1dd5dc1c17a9501baba2f78bc0ca3d16654c751e82de43ebdfa0273b54e71c5"
-    },
-    {
       "id": "363788",
       "number": "RD-ET-RDA-26-002",
       "title": "Improving the Capacity of Tribal Communities to Identify Emerging Drug Threats",
@@ -14248,15 +14230,6 @@
       "openDate": "09/02/2026",
       "closeDate": "09/13/2026",
       "hash": "c28dc26353d531ebd5d751d6351d82719bfe6ee866839fa5aadc8c5b86868e22"
-    },
-    {
-      "id": "355940",
-      "number": "HHS-2025-IHS-ALZ-0001",
-      "title": "Dementia CAReS Grants for American Indian and Alaska Native Communities",
-      "status": "forecasted",
-      "openDate": "08/07/2024",
-      "closeDate": "",
-      "hash": "2be491b98ffd9c0d8543a950089fa5ce57b4c6e4e209f42959f24457cb40f82c"
     },
     {
       "id": "363816",

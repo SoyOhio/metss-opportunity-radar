@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-06T13:43:24.274Z-71a1b80e",
+      "status": "success",
+      "startedAt": "2026-09-06T13:43:24.274Z",
+      "completedAt": "2026-09-06T13:44:12.130Z",
+      "durationSeconds": 48,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1589,
+        "created": 0,
+        "updated": 5,
+        "unchanged": 1584,
+        "removedFromActive": 3,
+        "archivedOrClosed": 3,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1586,
+        "target": 1586,
+        "uniqueResults": 1586,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2242,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-05T13:28:33.652Z-99a764f6",
       "status": "success",
       "startedAt": "2026-09-05T13:28:33.652Z",
@@ -1768,36 +1804,6 @@
         "storedRecords": 1752,
         "duplicateIds": 0,
         "duplicateOpportunityNumbers": 0
-      },
-      "errors": []
-    },
-    {
-      "id": "grants-2026-07-21T19:18:10.980Z-e84861bf",
-      "status": "success",
-      "startedAt": "2026-07-21T19:18:10.980Z",
-      "completedAt": "2026-07-21T19:18:12.407Z",
-      "durationSeconds": 1,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": 12,
-        "pageSize": 5
-      },
-      "counts": {
-        "fetched": 12,
-        "created": 0,
-        "updated": 0,
-        "unchanged": 12,
-        "archivedOrClosed": 0,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1752,
-        "target": 12,
-        "uniqueResults": 12,
-        "pagesRequested": 3,
-        "pagesSucceeded": 3,
-        "pagesFailed": 0
       },
       "errors": []
     }
