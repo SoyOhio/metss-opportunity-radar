@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-09-07T15:54:41.490Z-f46f819f",
+      "status": "success",
+      "startedAt": "2026-09-07T15:54:41.490Z",
+      "completedAt": "2026-09-07T15:55:29.875Z",
+      "durationSeconds": 48,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1587,
+        "created": 1,
+        "updated": 3,
+        "unchanged": 1583,
+        "removedFromActive": 2,
+        "archivedOrClosed": 2,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1585,
+        "target": 1585,
+        "uniqueResults": 1585,
+        "pagesRequested": 16,
+        "pagesSucceeded": 16,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2243,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 22
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-09-06T13:43:24.274Z-71a1b80e",
       "status": "success",
       "startedAt": "2026-09-06T13:43:24.274Z",
@@ -1770,42 +1806,6 @@
           "message": "The detail response did not contain an opportunity record."
         }
       ]
-    },
-    {
-      "id": "grants-2026-07-21T20:23:01.786Z-83f8a9ed",
-      "status": "success",
-      "startedAt": "2026-07-21T20:23:01.786Z",
-      "completedAt": "2026-07-21T20:23:03.299Z",
-      "durationSeconds": 2,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": 12,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 12,
-        "created": 0,
-        "updated": 0,
-        "unchanged": 12,
-        "removedFromActive": 0,
-        "archivedOrClosed": 0,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1752,
-        "target": 12,
-        "uniqueResults": 12,
-        "pagesRequested": 1,
-        "pagesSucceeded": 1,
-        "pagesFailed": 0
-      },
-      "integrity": {
-        "storedRecords": 1752,
-        "duplicateIds": 0,
-        "duplicateOpportunityNumbers": 0
-      },
-      "errors": []
     }
   ]
 }

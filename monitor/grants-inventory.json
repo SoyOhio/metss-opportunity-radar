@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T14:31:26.709Z",
-  "hitCount": 1586,
+  "updatedAt": "2026-09-07T15:55:29.875Z",
+  "hitCount": 1585,
   "records": [
     {
       "id": "355824",
@@ -10623,15 +10623,6 @@
       "hash": "d526b7d1ddd6d03847b1aa4aa569e77b45e65daa800e1f0bed28073bd511781d"
     },
     {
-      "id": "363339",
-      "number": "OFOP0003424",
-      "title": "Building Lasting U.S.-Chad Partnerships to Promote American Excellence",
-      "status": "posted",
-      "openDate": "07/28/2026",
-      "closeDate": "09/06/2026",
-      "hash": "3cf44664c8ecdd3f4ae52cede2b30ba87b494a1265464f664a8025e8a5f3f682"
-    },
-    {
       "id": "362370",
       "number": "LHC-2600-DC-0032",
       "title": "Lead-Safe and Healthy Homes Financing Demonstration",
@@ -11413,15 +11404,6 @@
       "openDate": "08/06/2026",
       "closeDate": "",
       "hash": "d220e54c288de53fe0c1720d6bbdb4b8daa5741bbc60d3c2a340d1e91c97cb69"
-    },
-    {
-      "id": "363487",
-      "number": "RD-AL-RDAAL-26-001",
-      "title": "Applied Drug Policy Research Experiences",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "09/06/2026",
-      "hash": "9d04e4481ca976ae7c7527c358efa8f731a58ce78f2e3e61c83f9e850fcee252"
     },
     {
       "id": "363492",
@@ -13809,15 +13791,6 @@
       "hash": "ebb6a79a1db1dfec4db7b74d2d43d7972356bed13bbd208e17e579e56ba823ee"
     },
     {
-      "id": "363645",
-      "number": "DOS-SAU-2603-PD",
-      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/17/2026",
-      "hash": "f0ce9d008a7d03f316711d1c1977f4b2c00895d21ac8dc8ed1ef6e5064ab2b7f"
-    },
-    {
       "id": "363742",
       "number": "OFOP0003762",
       "title": "Implementation of Four GCTF Classic Workshops in 2027",
@@ -14275,6 +14248,24 @@
       "openDate": "09/04/2026",
       "closeDate": "10/05/2026",
       "hash": "a56c8ecaf9c6e23ef1b05e7daadd47a2377af5321dec0f84980bc668b3111410"
+    },
+    {
+      "id": "363824",
+      "number": "PDS-SAU-FY26-07",
+      "title": "AEIF 2026 Alumni Summit: Freedom 250",
+      "status": "posted",
+      "openDate": "09/07/2026",
+      "closeDate": "09/14/2026",
+      "hash": "1d3025ee763e3442bbe001ec054ac3aa14f0f5117dbc69470c8adfb5ad32156c"
+    },
+    {
+      "id": "363645",
+      "number": "DOS-SAU-2603-PD",
+      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
+      "status": "posted",
+      "openDate": "08/18/2026",
+      "closeDate": "09/14/2026",
+      "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
     }
   ]
 }
