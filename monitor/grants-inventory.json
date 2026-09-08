@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-07T15:55:29.875Z",
-  "hitCount": 1585,
+  "updatedAt": "2026-09-08T14:39:10.794Z",
+  "hitCount": 1571,
   "records": [
     {
       "id": "355824",
@@ -127,15 +127,6 @@
       "openDate": "12/30/2024",
       "closeDate": "08/11/2027",
       "hash": "2843e90187c1473d32a1ad021f3ae7c51b45da122cf236c025d03a0a2f6d83ab"
-    },
-    {
-      "id": "357974",
-      "number": "PAR-25-347",
-      "title": "Substance Use/Substance Use Disorder Dissertation Research Award (R36 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "01/02/2025",
-      "closeDate": "09/07/2026",
-      "hash": "b70beaf5b2e495caaf8ba299c30f02a2ef963da84510bf9a167209cef66083a2"
     },
     {
       "id": "357710",
@@ -1398,15 +1389,6 @@
       "hash": "4e1619bd7ccfb729150aa6e37da504b858f60f63730c04a71b0267972084b8ac"
     },
     {
-      "id": "349618",
-      "number": "PAR-23-235",
-      "title": "National Centers for Biomedical Imaging and Bioengineering (NCBIB) (P41 Clinical Trials Optional)",
-      "status": "posted",
-      "openDate": "07/28/2023",
-      "closeDate": "09/07/2026",
-      "hash": "44fee6a36128c5ccc2182979d9276db21a7b2603046dbef6344fee36ec82dc8f"
-    },
-    {
       "id": "347990",
       "number": "PAR-23-202",
       "title": "Vet-LIRN Capacity-Building Project and Equipment Grants (U18)",
@@ -1470,15 +1452,6 @@
       "hash": "fda86924566e422f2449fd9277a708079bfb89e28f459c36fda20fa5f3eee1d3"
     },
     {
-      "id": "357182",
-      "number": "PAR-25-038",
-      "title": "Cellular and Molecular Biology of Complex Brain Disorders (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "d8e1591d07f3b4b71ab8e2ae5bfdcb3d5ca94a3b5046779ebbc301b05051de76"
-    },
-    {
       "id": "356903",
       "number": "PAR-25-053",
       "title": "Translational Neural Devices (R61/R33 - Clinical Trial Optional)",
@@ -1486,15 +1459,6 @@
       "openDate": "10/29/2024",
       "closeDate": "01/28/2027",
       "hash": "40fc4308e0bb047b56358bb5ea5162bf12d4468254b7976aa10b224b8723f658"
-    },
-    {
-      "id": "357198",
-      "number": "PAR-25-066",
-      "title": "Social disconnection and Suicide Risk in Late Life (R21 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "3a7fd969c059023f0cb501ef4a48b7540e4f868230495e0c81fd845796457e9d"
     },
     {
       "id": "355354",
@@ -1704,15 +1668,6 @@
       "hash": "9595ffd785a540ed81bd4c0c1e56b959a5f50cd2f02f34274686144fad729bdf"
     },
     {
-      "id": "357005",
-      "number": "PAR-24-306",
-      "title": "Research Projects to Enhance Applicability of Mammalian Models for Translational Research (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/06/2024",
-      "closeDate": "09/07/2026",
-      "hash": "7f3c335940122aa18b3628c51c637875dc47f83596b589826ec1d0f9802bb05d"
-    },
-    {
       "id": "357430",
       "number": "PAR-25-183",
       "title": "Early Stage Testing of Pharmacologic or Neuromodulatory Device-based Interventions for the Treatment of Mental Disorders (R33- Clinical Trial Required)",
@@ -1774,15 +1729,6 @@
       "openDate": "12/02/2024",
       "closeDate": "11/16/2027",
       "hash": "8f4a85e52d15a5d894691632e045ee590b733d1e1ec9938b51b26c962c590ed2"
-    },
-    {
-      "id": "357014",
-      "number": "PAR-25-153",
-      "title": "Assay development and screening for discovery of chemical probes, drugs or immunomodulators (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/06/2024",
-      "closeDate": "09/07/2026",
-      "hash": "fe8e8e19fbff039a04f36a3b2cbc4dc41071b2eef1ad99dafdc76fa25f2ca33f"
     },
     {
       "id": "357259",
@@ -2010,24 +1956,6 @@
       "hash": "5a58dc3d4c60fa13f9dac1f2a2d16e0cd13d66ed5e27ef42490ec6f7a2ad7d7f"
     },
     {
-      "id": "357440",
-      "number": "PA-25-245",
-      "title": "Alcohol Health Services Research (R01 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/27/2024",
-      "closeDate": "09/07/2026",
-      "hash": "45c4220278c89e547569f231a9baed65e4cc3edbde39c05f7ba316b1210e723e"
-    },
-    {
-      "id": "357442",
-      "number": "PA-25-163",
-      "title": "Alcohol Treatment, Pharmacotherapy, and Recovery Research (R01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "11/27/2024",
-      "closeDate": "09/07/2026",
-      "hash": "2334c9f1869a9bbead84104ba65e8cca9c763adb43cb017098edbc9de96a01de"
-    },
-    {
       "id": "355439",
       "number": "RFA-OD-24-011",
       "title": "NIH Research Software Engineer (RSE) Award (R50 Clinical Trials Not Allowed)",
@@ -2098,15 +2026,6 @@
       "openDate": "09/03/2024",
       "closeDate": "01/25/2027",
       "hash": "91ffc9ff75e97a167c79a8792c3e8db48e0e9d56a643e32adb708ce7b1e16862"
-    },
-    {
-      "id": "357438",
-      "number": "PAR-25-192",
-      "title": "Alcohol Health Services Research (R34 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/27/2024",
-      "closeDate": "09/07/2026",
-      "hash": "3b1c7286c389cd1963a82666b36f964af2dcc4d9b9f0f88d4a0ef6eaa926635d"
     },
     {
       "id": "357030",
@@ -2406,15 +2325,6 @@
       "hash": "3f74bccd5c577486939bf6fbcc96d2bcf003e7cf4d437367bb3d603bfe240f5d"
     },
     {
-      "id": "357183",
-      "number": "PAR-25-040",
-      "title": "Schizophrenia and related disorders during mid- to late-life (R21 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "b3cfa7d9a17aca2f90b2761eef553da43026399b8b22f72ee8b657f1c595fc8b"
-    },
-    {
       "id": "357427",
       "number": "PAR-25-182",
       "title": "Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
@@ -2440,15 +2350,6 @@
       "openDate": "12/02/2024",
       "closeDate": "11/16/2027",
       "hash": "cf535f719ebd3d28b704e1982f23b11e1c0746f3dd115dfb146030612291f960"
-    },
-    {
-      "id": "357199",
-      "number": "PAR-25-065",
-      "title": "Novel Mechanism Research on Neuropsychiatric Symptoms (NPS) in Alzheimer's Dementia (R01 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "e587b017cfca10d70d6d4f5e6e9b86f77a5ab89746a217ccb4d38c3d734fc177"
     },
     {
       "id": "357203",
@@ -4845,15 +4746,6 @@
       "hash": "c9e5b11eea6ea54e42b771d63f00e11062fe6364ada1e88bde5c2e5aa72a5480"
     },
     {
-      "id": "357200",
-      "number": "PAR-25-064",
-      "title": "Novel Mechanism Research on Neuropsychiatric Symptoms (NPS) in Alzheimer's Dementia (R21 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "f32cfda99ce645240d0d8b6113119e4cee5d61ce9628eef219de69a43892501a"
-    },
-    {
       "id": "356236",
       "number": "PAR-24-273",
       "title": "Advancing Healthcare for Older Adults from Populations that Experience Health Disparities (R01 - Clinical Trial Optional)",
@@ -4962,15 +4854,6 @@
       "hash": "9ccd770c8837b77f78194d34e8f2d49e70d7b399ea8b64e47d24b24f8ab79d2c"
     },
     {
-      "id": "357444",
-      "number": "PAR-25-193",
-      "title": "Alcohol Treatment, Pharmacotherapy, and Recovery Research (R34 Clinical Trial required)",
-      "status": "posted",
-      "openDate": "11/27/2024",
-      "closeDate": "09/07/2026",
-      "hash": "9963b1f321906e909680435e4ce49bc33f60c0d6744ce8c1a295c34739c4424a"
-    },
-    {
       "id": "356680",
       "number": "PAR-24-304",
       "title": "Revision Applications for Validation of Biomarker Assays Developed Through NIH-Supported Research Grants (R01 Clinical Trial Not Allowed)",
@@ -4980,15 +4863,6 @@
       "hash": "03a6bbe84d491882bef7af23ded691fcbce66ca744773a505ff04c4e143baa63"
     },
     {
-      "id": "357181",
-      "number": "PAR-25-039",
-      "title": "Schizophrenia and related disorders during mid- to late-life (R01 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "f1f6d6d6f59be936c7b406a996dcfb5445766381987fe0d79d84e18dbf77c9b3"
-    },
-    {
       "id": "356530",
       "number": "RFA-MH-26-120",
       "title": "BRAIN Initiative: Reagent Resources for Brain Cell Type-Specific Access to Broaden Distribution of Enabling Technologies for Neuroscience (U24 Clinical Trial Not Allowed)",
@@ -4996,15 +4870,6 @@
       "openDate": "09/25/2024",
       "closeDate": "06/15/2027",
       "hash": "6d6aaa50c4a63a1af6812a66fd7f126f169051c2bf69a7f03ae4718f7f206614"
-    },
-    {
-      "id": "357197",
-      "number": "PAR-25-067",
-      "title": "Social disconnection and Suicide Risk in Late Life (R01 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "aa4e284bfe6fd88088d9418cc3d169693b598390f989434d7fec73ce37da7a42"
     },
     {
       "id": "357492",
@@ -5023,15 +4888,6 @@
       "openDate": "10/22/2024",
       "closeDate": "10/20/2027",
       "hash": "0eeb87f7c129679064b4cfdd9ce40dfd0fca7e150ae788596d810dcde1c50f28"
-    },
-    {
-      "id": "357180",
-      "number": "PAR-25-037",
-      "title": "Cellular and Molecular Biology of Complex Brain Disorders (R21 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "09/07/2026",
-      "hash": "b70db4439b243263f1fed55991361b3ffead7f9945a2b746e8618b724dda475c"
     },
     {
       "id": "357544",
@@ -12324,15 +12180,6 @@
       "hash": "a7d7c92bf5e8c724f0742b51bb906fdb0a679b05908e01978239d7131e3992a6"
     },
     {
-      "id": "363315",
-      "number": "DOS-SAU-2602",
-      "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
-      "status": "posted",
-      "openDate": "07/26/2026",
-      "closeDate": "09/08/2026",
-      "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
-    },
-    {
       "id": "363617",
       "number": "26-519",
       "title": "MPS Chemistry Research Programs (MPS Chem)",
@@ -12534,10 +12381,10 @@
       "id": "363396",
       "number": "RUS-PART-2026",
       "title": "Powering Affordable Reliable Technology (PART) Energy Program",
-      "status": "forecasted",
-      "openDate": "08/03/2026",
-      "closeDate": "",
-      "hash": "0ec4fa85e4527b80ff929770759626fb7920722d11764fd60e37cf936cfb3a92"
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "10/09/2026",
+      "hash": "795ca70f7b73cccce8b3d38b21cf58e2c084028f141598597ba9a3ffe26fb7aa"
     },
     {
       "id": "363489",
@@ -13053,15 +12900,6 @@
       "hash": "2c17c3c0b9c76af4b0852651dad958848c22ae7c1dc22386de94c0afee7744dd"
     },
     {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "status": "posted",
-      "openDate": "04/05/2024",
-      "closeDate": "09/08/2026",
-      "hash": "3349a0c084e8dfb0845cbf5c5630a1b6d61a106caf907b436c25b9bfef5f592a"
-    },
-    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
@@ -13359,15 +13197,6 @@
       "hash": "dcd5efef58648a60e9ca8f33638e572c3e1f21c683a29367cf79b831424d2f31"
     },
     {
-      "id": "362905",
-      "number": "HR001126S0011",
-      "title": "Information Processing Techniques Office Office-Wide",
-      "status": "posted",
-      "openDate": "06/22/2026",
-      "closeDate": "06/22/2027",
-      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
-    },
-    {
       "id": "363789",
       "number": "NNH25ZDA001N-HYDRO",
       "title": "ROSES 2025: A.17 Hydrosphere",
@@ -13663,6 +13492,15 @@
       "openDate": "05/12/2026",
       "closeDate": "11/07/2028",
       "hash": "14fa56ab2a79c43bcad69996c91ca8120ba9f3b237b5eef4321402b9fb08bf6a"
+    },
+    {
+      "id": "363804",
+      "number": "RD-RBS-26-03-MPPEP",
+      "title": "MPPEP Phase 3 Invasive Wild-Caught Catfish",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "12/07/2026",
+      "hash": "72794611dd6f735245600d57c94bd20535798415ac8f32a04df3e96e09db16c9"
     },
     {
       "id": "363817",
@@ -14214,15 +14052,6 @@
       "hash": "d81042109b32c6aaae593551c9a5b50e1474b5a3d98ee4d768cb6adc9d1aa873"
     },
     {
-      "id": "363818",
-      "number": "USDA-NIFA-WAMS-011117",
-      "title": "Science, Technology, Engineering, and Mathematics Fields",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "09/14/2026",
-      "hash": "ae174546cc8e434e92c7c1f4e313dd36aef95afacf894ba3b373b238f816c5d9"
-    },
-    {
       "id": "363820",
       "number": "W9126G262SOI9486",
       "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
@@ -14259,6 +14088,15 @@
       "hash": "1d3025ee763e3442bbe001ec054ac3aa14f0f5117dbc69470c8adfb5ad32156c"
     },
     {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "status": "posted",
+      "openDate": "04/05/2024",
+      "closeDate": "04/13/2027",
+      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
+    },
+    {
       "id": "363645",
       "number": "DOS-SAU-2603-PD",
       "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
@@ -14266,6 +14104,42 @@
       "openDate": "08/18/2026",
       "closeDate": "09/14/2026",
       "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
+    },
+    {
+      "id": "363315",
+      "number": "DOS-SAU-2602",
+      "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
+      "status": "posted",
+      "openDate": "07/26/2026",
+      "closeDate": "09/08/2026",
+      "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
+    },
+    {
+      "id": "363818",
+      "number": "USDA-NIFA-WAMS-011117",
+      "title": "Science, Technology, Engineering, and Mathematics Fields",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "09/14/2026",
+      "hash": "ae174546cc8e434e92c7c1f4e313dd36aef95afacf894ba3b373b238f816c5d9"
+    },
+    {
+      "id": "362905",
+      "number": "HR001126S0011",
+      "title": "Information Processing Techniques Office Office-Wide",
+      "status": "posted",
+      "openDate": "06/22/2026",
+      "closeDate": "06/22/2027",
+      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
+    },
+    {
+      "id": "363825",
+      "number": "DOL-OESE-34832",
+      "title": "Impact Aid Discretionary Construction Grant Program - 84.041C",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "11/10/2026",
+      "hash": "22774f9661b7c7c75dc1a8f578939ae5b447b0a2ff0af68dd70a38fd60035c71"
     }
   ]
 }
