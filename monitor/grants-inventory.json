@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T14:39:10.794Z",
-  "hitCount": 1571,
+  "updatedAt": "2026-09-09T14:40:37.871Z",
+  "hitCount": 1564,
   "records": [
     {
       "id": "355824",
@@ -5295,15 +5295,6 @@
       "hash": "1aab274ce8f38a012681d98c3f5073358137eccb7a256afa3310ae7ffd03192e"
     },
     {
-      "id": "356119",
-      "number": "24-597",
-      "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
-      "status": "posted",
-      "openDate": "08/17/2024",
-      "closeDate": "09/08/2026",
-      "hash": "f58293a38699d6bea3a5a8b204c95847428e1aaed342f3121425d923decf0b40"
-    },
-    {
       "id": "358816",
       "number": "PAR-25-439",
       "title": "Community-Partnered Nursing Research Centers (P20 Clinical Trial Optional)",
@@ -8652,15 +8643,6 @@
       "hash": "fb404fd60e1d362033d687e819352b527765bfeaa018dd4581b100f4cd2d2750"
     },
     {
-      "id": "362178",
-      "number": "HT942526AZRPTRCA",
-      "title": "DoW Alzheimer&rsquo;s Transforming Care Award",
-      "status": "posted",
-      "openDate": "05/01/2026",
-      "closeDate": "09/24/2026",
-      "hash": "11872d0cd9c169e1ceb6b1609790b8f69e61990fdf40a8ec79b44af77c5098c1"
-    },
-    {
       "id": "362302",
       "number": "HT942526TERPCTA",
       "title": "DoW Toxic Exposures Clinical Trial Award",
@@ -9597,15 +9579,6 @@
       "hash": "f1bf44df03754642046103305c981ec1966f02768d8e5cbe185a03d956fe806c"
     },
     {
-      "id": "363199",
-      "number": "O-OVW-2026-172652",
-      "title": "OVW Fiscal Year 2026 Consolidated Grant Program to Assist Children and Youth Affected by and to Engage Men and Youth in Preventing Domestic Violence, Dating Violence, Sexual Assault, and Stalking",
-      "status": "posted",
-      "openDate": "07/15/2026",
-      "closeDate": "09/08/2026",
-      "hash": "d724fbb251bcfd2cf04a90a27b7da6db8a7b7d830829db272f3081b28938fd64"
-    },
-    {
       "id": "363103",
       "number": "FA-NOFO0027-002",
       "title": "U.S. Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP) Primary Announcement",
@@ -10038,15 +10011,6 @@
       "hash": "cdd291ec5db9accbdfef0b248477593868f2f51b827db8bedf1c76880a5973c4"
     },
     {
-      "id": "363392",
-      "number": "HRSA-27-019",
-      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
-      "status": "forecasted",
-      "openDate": "07/30/2026",
-      "closeDate": "",
-      "hash": "6d604acb6dfbaaa097baa42a3c0f43e9411f53f06211a43301e766ada85a06d0"
-    },
-    {
       "id": "363015",
       "number": "HHS-2026-ACF-OCS-EDA-0024",
       "title": "Diaper Distribution Demonstration Research Pilot (DDDRP)",
@@ -10117,15 +10081,6 @@
       "openDate": "07/29/2026",
       "closeDate": "01/01/2099",
       "hash": "0b0651fdf8746d4bc59db26368f703604300e90b8b7cd48b4147be85e744c9fe"
-    },
-    {
-      "id": "363400",
-      "number": "USDA-RD-HCFP-HPG-2026",
-      "title": "Rural Housing Preservation Grant",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "09/08/2026",
-      "hash": "bc1e069aa5b72e02933c9fe728724b5ec20be6a1762a2363b0f501439ad62588"
     },
     {
       "id": "363381",
@@ -10911,15 +10866,6 @@
       "hash": "8aa13721484efb95badf08284fa85ec95a3e99f8e30d3ac0d0e5719f701b8a6b"
     },
     {
-      "id": "363065",
-      "number": "DE-FOA-0003627",
-      "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/08/2026",
-      "hash": "5ce03262927742b50ac57db9db3a28e8723b16126aab0c84b9f1b043c65ccb18"
-    },
-    {
       "id": "363324",
       "number": "HRSA-27-084",
       "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
@@ -11397,24 +11343,6 @@
       "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
     },
     {
-      "id": "362237",
-      "number": "HHS-2026-ACF-OCS-EE-0026",
-      "title": "Community Economic Development Projects",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "09/08/2026",
-      "hash": "3370bd9e9acbc85ef257ad7a6acab761deb891913c41b6edd7835d45d107f94f"
-    },
-    {
-      "id": "362412",
-      "number": "HHS-2026-ACF-ECD-YJ-0058",
-      "title": "Evaluations of Practices for Program Integrity and Fraud Prevention",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "09/08/2026",
-      "hash": "da3fd5e8ec1c3695658f302fd29d32aa2d6f9790996763703d892d829d3f7235"
-    },
-    {
       "id": "357724",
       "number": "25-522",
       "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
@@ -11494,24 +11422,6 @@
       "openDate": "11/21/2022",
       "closeDate": "11/20/2027",
       "hash": "e7983aa4337c592ac0c1419825a30a10d80d0ffb88ffc3ce3a8e1f2a822a910c"
-    },
-    {
-      "id": "362404",
-      "number": "HHS-2026-ACF-OFVPS-EV-0052",
-      "title": "Specialized Services for Abused Parents and Their Children (Demonstration Projects)",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/08/2026",
-      "hash": "e4912019e2351f48f66d8b208576ff3f6c396f57f9e44c85259399d70eac4eb5"
-    },
-    {
-      "id": "362378",
-      "number": "HHS-2026-ACF-OFVPS-EV-0036",
-      "title": "Culturally Specific Domestic Violence and Sexual Assault Services",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/08/2026",
-      "hash": "71acad879ae001cc028b4154510b7ea6e2ba54610ff3ac5ced53152cced8685b"
     },
     {
       "id": "363538",
@@ -11710,15 +11620,6 @@
       "openDate": "08/13/2026",
       "closeDate": "",
       "hash": "cf997ad6c9ded6834b62240156ae05b4cdd604a7f1b97cfc60486d62a19da178"
-    },
-    {
-      "id": "362377",
-      "number": "HHS-2026-ACF-OFVPS-EV-0010",
-      "title": "National Resource Centers",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "09/08/2026",
-      "hash": "e109d6872a9cace18b1d0dc865a2a3ca2b37ddcaff38d537f12ee0f14f768552"
     },
     {
       "id": "363582",
@@ -12693,15 +12594,6 @@
       "hash": "4a3701de210571703dcdf17606f031304a9a22955fe8096cb54a8611a97c35c5"
     },
     {
-      "id": "363215",
-      "number": "FOA-ILAB-26-30",
-      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
-      "status": "posted",
-      "openDate": "08/21/2026",
-      "closeDate": "09/21/2026",
-      "hash": "bb0a8ac66ff54a82cbcffa9dcb1ff2fd1bb7124ab7e950fcafe681250eb06def"
-    },
-    {
       "id": "359150",
       "number": "RFA-OD-27-008",
       "title": "Maximizing the Scientific Value of Data Generated by the Environmental Influences on Child Health Outcomes (ECHO) Program: Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (F32)",
@@ -12891,15 +12783,6 @@
       "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
     },
     {
-      "id": "362754",
-      "number": "P26AS00060",
-      "title": "Southwest Border Resource Protection Program",
-      "status": "posted",
-      "openDate": "06/10/2026",
-      "closeDate": "09/08/2026",
-      "hash": "2c17c3c0b9c76af4b0852651dad958848c22ae7c1dc22386de94c0afee7744dd"
-    },
-    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
@@ -13035,15 +12918,6 @@
       "hash": "94ddb7af8727c166d68c8fb7cd2a8b43e480d625ea2e372ae360ec965b443f50"
     },
     {
-      "id": "363288",
-      "number": "USDA-NRCS-NHQ-WMBP-NOFO0001458",
-      "title": "Wetland Mitigation Banking Program Fiscal Year (FY) 2026",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/08/2026",
-      "hash": "5f43b1d6703e46db6466434713ef0f37a32664ffe28fcf93d945eb147a04230e"
-    },
-    {
       "id": "363763",
       "number": "NAG-HAWAIIAN-FY27",
       "title": "Native Hawaiian Library Services Grants (2027)",
@@ -13098,15 +12972,6 @@
       "hash": "5b5d6fc59a99c1af354b802f03c031c981d129f901f11090b674964b8d1fd61c"
     },
     {
-      "id": "363778",
-      "number": "O-OVC-2026-172725",
-      "title": "OVC FY26 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Wisconsin Compensation",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "09/08/2026",
-      "hash": "4ae649ca02b68a468542254a57f5df394743a3ac6ef01a620a0e3588ffb0fe67"
-    },
-    {
       "id": "363781",
       "number": "HRSA-27-013",
       "title": "Native Hawaiian Health Care Improvement Act Program",
@@ -13134,15 +12999,6 @@
       "hash": "a09c6d37b24c7b82572a7efec9350189d527f99ebdadebd83ec95b616d34957e"
     },
     {
-      "id": "363780",
-      "number": "DFOP0019749",
-      "title": "Emergency Assistance for Fundamental Freedom Defenders",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "09/08/2026",
-      "hash": "2488be722c2d27cb321791c1ad0734f06002eda60fd8c1563e0885ebaab3be6d"
-    },
-    {
       "id": "363773",
       "number": "NLG-M-FY27",
       "title": "National Leadership Grants for Museums (2027)",
@@ -13150,15 +13006,6 @@
       "openDate": "09/01/2026",
       "closeDate": "11/13/2026",
       "hash": "282c7b41e9658fb7e006838ad369e2c675821951093b3a716152b005c03172ab"
-    },
-    {
-      "id": "351547",
-      "number": "EPA-OLEM-R10-NC-24-01",
-      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
-      "status": "posted",
-      "openDate": "12/28/2023",
-      "closeDate": "12/31/2029",
-      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
     },
     {
       "id": "363784",
@@ -13629,15 +13476,6 @@
       "hash": "ebb6a79a1db1dfec4db7b74d2d43d7972356bed13bbd208e17e579e56ba823ee"
     },
     {
-      "id": "363742",
-      "number": "OFOP0003762",
-      "title": "Implementation of Four GCTF Classic Workshops in 2027",
-      "status": "posted",
-      "openDate": "08/28/2026",
-      "closeDate": "10/06/2026",
-      "hash": "90177ab150c97bc05bac1cae03c8b2204dc0d2b1e5725abe50c2180e4b535dbb"
-    },
-    {
       "id": "363744",
       "number": "DOS-SAU-2605-PD",
       "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
@@ -14043,60 +13881,6 @@
       "hash": "c28dc26353d531ebd5d751d6351d82719bfe6ee866839fa5aadc8c5b86868e22"
     },
     {
-      "id": "363816",
-      "number": "USDA-NIFA-ICGP-012261",
-      "title": "Outreach and Assistance for Veteran Farmers and Ranchers Program",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "09/10/2026",
-      "hash": "d81042109b32c6aaae593551c9a5b50e1474b5a3d98ee4d768cb6adc9d1aa873"
-    },
-    {
-      "id": "363820",
-      "number": "W9126G262SOI9486",
-      "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "2c01087c60bcfb9a340fbdfde736a6b2afd79815a1410c8ae818808c86d11f2d"
-    },
-    {
-      "id": "363821",
-      "number": "W9126G262SOI9557",
-      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "0eae537fbcc21d7c636c2b3f700075c367aca63e77cb3a1a9622e0cc3fa279f4"
-    },
-    {
-      "id": "363823",
-      "number": "W9126G262SOI9597",
-      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "a56c8ecaf9c6e23ef1b05e7daadd47a2377af5321dec0f84980bc668b3111410"
-    },
-    {
-      "id": "363824",
-      "number": "PDS-SAU-FY26-07",
-      "title": "AEIF 2026 Alumni Summit: Freedom 250",
-      "status": "posted",
-      "openDate": "09/07/2026",
-      "closeDate": "09/14/2026",
-      "hash": "1d3025ee763e3442bbe001ec054ac3aa14f0f5117dbc69470c8adfb5ad32156c"
-    },
-    {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "status": "posted",
-      "openDate": "04/05/2024",
-      "closeDate": "04/13/2027",
-      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
-    },
-    {
       "id": "363645",
       "number": "DOS-SAU-2603-PD",
       "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
@@ -14104,24 +13888,6 @@
       "openDate": "08/18/2026",
       "closeDate": "09/14/2026",
       "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
-    },
-    {
-      "id": "363315",
-      "number": "DOS-SAU-2602",
-      "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
-      "status": "posted",
-      "openDate": "07/26/2026",
-      "closeDate": "09/08/2026",
-      "hash": "079be311099d65b440d7db32f875fce0cbb2ff232a2df5d6a7c43df977b25ad4"
-    },
-    {
-      "id": "363818",
-      "number": "USDA-NIFA-WAMS-011117",
-      "title": "Science, Technology, Engineering, and Mathematics Fields",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "09/14/2026",
-      "hash": "ae174546cc8e434e92c7c1f4e313dd36aef95afacf894ba3b373b238f816c5d9"
     },
     {
       "id": "362905",
@@ -14140,6 +13906,177 @@
       "openDate": "09/08/2026",
       "closeDate": "11/10/2026",
       "hash": "22774f9661b7c7c75dc1a8f578939ae5b447b0a2ff0af68dd70a38fd60035c71"
+    },
+    {
+      "id": "363816",
+      "number": "USDA-NIFA-ICGP-012261",
+      "title": "Outreach and Assistance for Veteran Farmers and Ranchers Program",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "09/10/2026",
+      "hash": "d81042109b32c6aaae593551c9a5b50e1474b5a3d98ee4d768cb6adc9d1aa873"
+    },
+    {
+      "id": "363818",
+      "number": "USDA-NIFA-WAMS-011117",
+      "title": "Science, Technology, Engineering, and Mathematics Fields",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "09/14/2026",
+      "hash": "ae174546cc8e434e92c7c1f4e313dd36aef95afacf894ba3b373b238f816c5d9"
+    },
+    {
+      "id": "363824",
+      "number": "PDS-SAU-FY26-07",
+      "title": "AEIF 2026 Alumni Summit: Freedom 250",
+      "status": "posted",
+      "openDate": "09/07/2026",
+      "closeDate": "09/14/2026",
+      "hash": "1d3025ee763e3442bbe001ec054ac3aa14f0f5117dbc69470c8adfb5ad32156c"
+    },
+    {
+      "id": "351547",
+      "number": "EPA-OLEM-R10-NC-24-01",
+      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
+      "status": "posted",
+      "openDate": "12/28/2023",
+      "closeDate": "12/31/2029",
+      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
+    },
+    {
+      "id": "363821",
+      "number": "W9126G262SOI9557",
+      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "10/05/2026",
+      "hash": "0eae537fbcc21d7c636c2b3f700075c367aca63e77cb3a1a9622e0cc3fa279f4"
+    },
+    {
+      "id": "362178",
+      "number": "HT942526AZRPTRCA",
+      "title": "DoW Alzheimer&rsquo;s Transforming Care Award",
+      "status": "posted",
+      "openDate": "05/01/2026",
+      "closeDate": "09/24/2026",
+      "hash": "11872d0cd9c169e1ceb6b1609790b8f69e61990fdf40a8ec79b44af77c5098c1"
+    },
+    {
+      "id": "363820",
+      "number": "W9126G262SOI9486",
+      "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "10/05/2026",
+      "hash": "2c01087c60bcfb9a340fbdfde736a6b2afd79815a1410c8ae818808c86d11f2d"
+    },
+    {
+      "id": "363823",
+      "number": "W9126G262SOI9597",
+      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "10/05/2026",
+      "hash": "a56c8ecaf9c6e23ef1b05e7daadd47a2377af5321dec0f84980bc668b3111410"
+    },
+    {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "status": "posted",
+      "openDate": "04/05/2024",
+      "closeDate": "04/13/2027",
+      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
+    },
+    {
+      "id": "363392",
+      "number": "HRSA-27-019",
+      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "status": "forecasted",
+      "openDate": "07/30/2026",
+      "closeDate": "",
+      "hash": "6d604acb6dfbaaa097baa42a3c0f43e9411f53f06211a43301e766ada85a06d0"
+    },
+    {
+      "id": "363826",
+      "number": "RFA-MD-28-001",
+      "title": "Limited Competition: John Lewis NIMHD Research Endowment Program (S21 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/08/2026",
+      "closeDate": "",
+      "hash": "b692da28a46a010c8ce82c5c23f22ee48723a0de5d4d40c2e18748a665ae2553"
+    },
+    {
+      "id": "363165",
+      "number": "O-BJA-2026-172654",
+      "title": "BJA FY 2025/2026 Project Safe Neighborhoods Formula Grant Program",
+      "status": "posted",
+      "openDate": "07/13/2026",
+      "closeDate": "09/10/2026",
+      "hash": "2eb298ed52c44f6fcafa2b441668136c471aefb832c4abf1309802f615a5d114"
+    },
+    {
+      "id": "363827",
+      "number": "O-OVW-2026-172729",
+      "title": "OVW Fiscal Year 2026 STCJ Technical Assistance - Request for Required Documents",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "09/09/2026",
+      "hash": "8f4a5c482ccff91863e5c1d2f05014a9d071fc9bf1bcf5f84a38f412393abe64"
+    },
+    {
+      "id": "363215",
+      "number": "FOA-ILAB-26-30",
+      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
+      "status": "posted",
+      "openDate": "08/21/2026",
+      "closeDate": "09/21/2026",
+      "hash": "bb0a8ac66ff54a82cbcffa9dcb1ff2fd1bb7124ab7e950fcafe681250eb06def"
+    },
+    {
+      "id": "360510",
+      "number": "HHS-2026-ACL-AOA-DASG-0012",
+      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
+      "status": "posted",
+      "openDate": "06/26/2026",
+      "closeDate": "09/11/2026",
+      "hash": "57babfdc148b25f31a433869ca7a68c92f0b3f4caf4955b336add54378ce5659"
+    },
+    {
+      "id": "363829",
+      "number": "FA955026S0003",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "12/04/2026",
+      "hash": "0df6f96aed4ff2f38866e260eb49c191403fb4a4ff656f5078d1b2c4be574fc1"
+    },
+    {
+      "id": "363830",
+      "number": "OFOP0003790",
+      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
+      "status": "posted",
+      "openDate": "09/09/2026",
+      "closeDate": "11/09/2026",
+      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
+    },
+    {
+      "id": "362846",
+      "number": "O-BJA-2026-172640",
+      "title": "BJA FY 2026 Invited to Apply -Byrne Discretionary Community Project Grants/Byrne Discretionary Grants Program",
+      "status": "posted",
+      "openDate": "06/17/2026",
+      "closeDate": "10/06/2026",
+      "hash": "f2cb08a0b4823d6ab8fed7288faf9bfa89d22a289cf24b00376feae52ded4d66"
+    },
+    {
+      "id": "362837",
+      "number": "O-OJJDP-2026-172638",
+      "title": "OJJDP FY 2026 Invited to Apply - Byrne Discretionary Community Project Grants/Byrne Discretionary Grants Program",
+      "status": "posted",
+      "openDate": "06/17/2026",
+      "closeDate": "10/06/2026",
+      "hash": "6fe076b2e8a7b51f3add7fb2c7aa505606747bc9d6a1e508c81fd0a218bbedcd"
     }
   ]
 }

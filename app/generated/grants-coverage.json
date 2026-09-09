@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T14:39:14.397Z",
-  "inventoryCheckedAt": "2026-09-08T14:39:10.794Z",
+  "generatedAt": "2026-09-09T14:40:41.380Z",
+  "inventoryCheckedAt": "2026-09-09T14:40:37.871Z",
   "screeningSnapshotAt": "2026-09-06T14:31:26.709Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1571,
-  "historicalSourceRecords": 2245,
+  "currentActiveSourceRecords": 1564,
+  "historicalSourceRecords": 2249,
   "previouslyScreenedSnapshotRecords": 1586,
-  "currentRecordsCoveredBySnapshot": 1051,
-  "currentRecordsRequiringScreening": 520,
-  "newRecordsRequiringScreening": 3,
-  "changedRecordsRequiringScreening": 517,
+  "currentRecordsCoveredBySnapshot": 1037,
+  "currentRecordsRequiringScreening": 527,
+  "newRecordsRequiringScreening": 11,
+  "changedRecordsRequiringScreening": 516,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -458,7 +458,7 @@
         "grantsGovId": "363780",
         "opportunityNumber": "DFOP0019749",
         "title": "Emergency Assistance for Fundamental Freedom Defenders",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363780"
       }
     ]
