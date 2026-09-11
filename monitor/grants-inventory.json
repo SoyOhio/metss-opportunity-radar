@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T14:31:31.609Z",
-  "hitCount": 1566,
+  "updatedAt": "2026-09-11T14:30:40.147Z",
+  "hitCount": 1564,
   "records": [
     {
       "id": "355824",
@@ -8643,15 +8643,6 @@
       "hash": "8ce6c0b7d3204c252acb9deecd64a54f49b79c1738a935cb9f6a6d91a086c3ed"
     },
     {
-      "id": "362218",
-      "number": "HT942526HRRPFRA",
-      "title": "DoW Hearing Restoration Focused Research Award",
-      "status": "posted",
-      "openDate": "05/04/2026",
-      "closeDate": "09/10/2026",
-      "hash": "ea9deecd96c826e0e29e07c1f9265fcba5fb37ba0c196ef18452c4fa3934c556"
-    },
-    {
       "id": "362187",
       "number": "HT942526TBIPHRPCTA",
       "title": "DoW Traumatic Brain Injury and Psychological Health, Clinical Trial Award",
@@ -8904,15 +8895,6 @@
       "hash": "0815d23d8296a745557525ec9a40c4ca463cc915d345b027c61704fde9d76a30"
     },
     {
-      "id": "360988",
-      "number": "RFA-RM-27-004",
-      "title": "NIH Director&rsquo;s Early Independence Award (DP5 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "06/26/2026",
-      "closeDate": "09/10/2026",
-      "hash": "82efbc17b44d75d847abe701d87ae2d570ff6f526d34376ead140654a7bf217e"
-    },
-    {
       "id": "360882",
       "number": "PAR-27-021",
       "title": "Seed Instrumentation Support (SIS) Program (S10 Clinical Trial Not Allowed)",
@@ -8929,15 +8911,6 @@
       "openDate": "06/25/2026",
       "closeDate": "07/01/2028",
       "hash": "d491841af4254f5f0a5635c5c06066cd4900590cd1dd410627e4aead79360707"
-    },
-    {
-      "id": "362974",
-      "number": "HT942526NFRPNFRASA",
-      "title": "DoW Neurofibromatosis Research Academy &ndash; Scholar Award",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "09/22/2026",
-      "hash": "43fc25eae24b03cd507cdfb128dca056f6f7efa803da65baf3e34c16cde3e1a3"
     },
     {
       "id": "362975",
@@ -9316,15 +9289,6 @@
       "openDate": "05/21/2026",
       "closeDate": "10/14/2026",
       "hash": "4a1d96b3e6d1415e01072283296649ee8a5e9546ca2209b787f7098ddadee61e"
-    },
-    {
-      "id": "362185",
-      "number": "HT942526VRPMCRA",
-      "title": "DoW Vision, Mentored Clinical Research Award",
-      "status": "posted",
-      "openDate": "05/05/2026",
-      "closeDate": "09/10/2026",
-      "hash": "bbdc3326dce87ea0ea620bcf3bac57ac8c9f949db8759171ea9c74a27e83fa01"
     },
     {
       "id": "362196",
@@ -9802,15 +9766,6 @@
       "openDate": "07/30/2026",
       "closeDate": "",
       "hash": "53bd618b8ca0b15ffb4024094644eeab263c77d2d72927e363237c4aaba8799c"
-    },
-    {
-      "id": "339594",
-      "number": "22-586",
-      "title": "Faculty Early Career Development Program",
-      "status": "posted",
-      "openDate": "04/19/2022",
-      "closeDate": "07/28/2027",
-      "hash": "7b82db56b63a35e7dee459f58d52453c2ec1da3d20b01dbda278354d7b492dc5"
     },
     {
       "id": "363069",
@@ -11289,15 +11244,6 @@
       "hash": "790df0b253c2dbd2f8a589fdc8ef60db01e1b08d896a68364e25eccf49db66d4"
     },
     {
-      "id": "363525",
-      "number": "USDA-NIFA-1890SS-011978",
-      "title": "Scholarships for Students at 1890 Institutions (1890 Scholarships)",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "09/10/2026",
-      "hash": "94534b24b3b8c2242b558cb07d392b7d8d729b175151df4badc147cd34413923"
-    },
-    {
       "id": "363535",
       "number": "L26AS00045",
       "title": "FY26 Bureau of Land Management Wildlife Resource Management Program - Bureau wide",
@@ -11359,15 +11305,6 @@
       "openDate": "08/12/2026",
       "closeDate": "09/12/2026",
       "hash": "ab87cd2334e12f73e31c1d8c2223c34d253146966e93e16c99b5976d4fd166f7"
-    },
-    {
-      "id": "363540",
-      "number": "W9126G262SOI9667",
-      "title": "Cook Inlet Beluga Whale (CIBW) Prey, Salmon Productivity Monitoring at Joint Base Elmendorf-Richardson (JBER).",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/10/2026",
-      "hash": "90b304e9713436abc2ef29058eb76afecb449122382e3b97b28a403515a2ffa7"
     },
     {
       "id": "363549",
@@ -11584,15 +11521,6 @@
       "openDate": "08/17/2026",
       "closeDate": "08/17/2076",
       "hash": "d60b0ee389343e523c54b79dd88e83e2469c389199aaf065830b7b0f55516a3b"
-    },
-    {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/17/2076",
-      "hash": "2c20dade1a79e399561bc4afd7469ff479c69284b6bafead95a16787c83a2563"
     },
     {
       "id": "360710",
@@ -11829,15 +11757,6 @@
       "hash": "2e3775cc973bed8beddbbe072731a10d73c45fd25978740122c22b73c7ffedea"
     },
     {
-      "id": "363637",
-      "number": "O-BJA-2026-172698",
-      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/24/2026",
-      "hash": "b51978afb83be4d9903f5021064c580f3d8d8443b181f4d3c281898b7fc1a34b"
-    },
-    {
       "id": "363638",
       "number": "O-BJA-2026-172700",
       "title": "BJA FY 2026 Second Chance Act Family-Based Substance Use Disorder Treatment Program",
@@ -12045,15 +11964,6 @@
       "hash": "63ae29565c2ab46797881a1e6f5c04e54543ba8edf669422982a00c274c77e23"
     },
     {
-      "id": "363426",
-      "number": "FOA-ILAB-26-43",
-      "title": "Fostering the Future Together: Empowering Youth for a Safe Digital World",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/10/2026",
-      "hash": "361c5ae1502c74285872824ad5a8d5be96cd307a6121a558c6194a711ae82e25"
-    },
-    {
       "id": "363678",
       "number": "RFA-DK-28-116",
       "title": "Multimodal AI to Accelerate Precision Medicine for Type 1 Diabetes (U01- Clinical Trials Not Allowed)",
@@ -12187,15 +12097,6 @@
       "openDate": "09/08/2026",
       "closeDate": "10/09/2026",
       "hash": "795ca70f7b73cccce8b3d38b21cf58e2c084028f141598597ba9a3ffe26fb7aa"
-    },
-    {
-      "id": "363489",
-      "number": "HR001126S0016",
-      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "09/25/2026",
-      "hash": "20b20de4149beaa484c103c77edeade1df658fac8c6a641885c04b5dab540647"
     },
     {
       "id": "360883",
@@ -12522,15 +12423,6 @@
       "hash": "8c3033f4170da965418896d3fed0db3ff860636fc58d67d620945ed951e064a9"
     },
     {
-      "id": "363208",
-      "number": "OFOP0003355",
-      "title": "Kenya:  Crowd Control and Less-Than-Lethal Riot Response Training",
-      "status": "posted",
-      "openDate": "07/16/2026",
-      "closeDate": "09/10/2026",
-      "hash": "5efac61388760e359287d5aca385e75bf897fbf5b278737097467c24ccfa7595"
-    },
-    {
       "id": "363691",
       "number": "F26AS00071",
       "title": "F26AS00071 Cooperative Endangered Species Conservation Fund: Habitat Conservation Plan Land Acquisition Grants",
@@ -12628,15 +12520,6 @@
       "openDate": "08/24/2026",
       "closeDate": "",
       "hash": "e93adf8b28a36abded176d66f2783205ddd72bdcdfed03e034dfe8499d314249"
-    },
-    {
-      "id": "363618",
-      "number": "26-521",
-      "title": "MPS Materials Research Programs (MPS Materials)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/24/2076",
-      "hash": "b54f89c249eee8b3784608e8ddd1ec23c791798b6538c933d2a44ef71b5bcc11"
     },
     {
       "id": "363667",
@@ -13017,15 +12900,6 @@
       "hash": "ea78224a0d8e49197c266ac6a9ff3e997a18d564532b92c409f66bf6737ea206"
     },
     {
-      "id": "363746",
-      "number": "DOS-SAU-2606-PD",
-      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/14/2026",
-      "hash": "2c980f5e57745a4742f808b826f85935504f0cab04d2d4b38f5b876d313b696b"
-    },
-    {
       "id": "363797",
       "number": "DE-FOA-0003671",
       "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
@@ -13332,15 +13206,6 @@
       "hash": "ebb6a79a1db1dfec4db7b74d2d43d7972356bed13bbd208e17e579e56ba823ee"
     },
     {
-      "id": "363744",
-      "number": "DOS-SAU-2605-PD",
-      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/14/2026",
-      "hash": "a97ad2681f3834870c08a29918ac9397b5b4d7f16564166949ee9493003a1e07"
-    },
-    {
       "id": "363738",
       "number": "HR001126S0015",
       "title": "Defense Sciences Office (DSO) Office-wide BAA",
@@ -13575,15 +13440,6 @@
       "hash": "43833e065f20a4e9bd86ace8ae290f8f01a53407e43b352c8f741406dd25902b"
     },
     {
-      "id": "363541",
-      "number": "ASSF-FY26-ARM-2",
-      "title": "Enhancing and Supporting the Network of American Spaces in Armenia",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "09/10/2026",
-      "hash": "476b497c821166354779432ec70e9d6f836b14a6ceb0cad0b64df0f7c6eb3856"
-    },
-    {
       "id": "361333",
       "number": "26-506",
       "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
@@ -13719,15 +13575,6 @@
       "hash": "c28dc26353d531ebd5d751d6351d82719bfe6ee866839fa5aadc8c5b86868e22"
     },
     {
-      "id": "363645",
-      "number": "DOS-SAU-2603-PD",
-      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/14/2026",
-      "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
-    },
-    {
       "id": "362905",
       "number": "HR001126S0011",
       "title": "Information Processing Techniques Office Office-Wide",
@@ -13735,15 +13582,6 @@
       "openDate": "06/22/2026",
       "closeDate": "06/22/2027",
       "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
-    },
-    {
-      "id": "363816",
-      "number": "USDA-NIFA-ICGP-012261",
-      "title": "Outreach and Assistance for Veteran Farmers and Ranchers Program",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "09/10/2026",
-      "hash": "d81042109b32c6aaae593551c9a5b50e1474b5a3d98ee4d768cb6adc9d1aa873"
     },
     {
       "id": "363818",
@@ -13807,15 +13645,6 @@
       "openDate": "09/08/2026",
       "closeDate": "",
       "hash": "b692da28a46a010c8ce82c5c23f22ee48723a0de5d4d40c2e18748a665ae2553"
-    },
-    {
-      "id": "363165",
-      "number": "O-BJA-2026-172654",
-      "title": "BJA FY 2025/2026 Project Safe Neighborhoods Formula Grant Program",
-      "status": "posted",
-      "openDate": "07/13/2026",
-      "closeDate": "09/10/2026",
-      "hash": "2eb298ed52c44f6fcafa2b441668136c471aefb832c4abf1309802f615a5d114"
     },
     {
       "id": "363215",
@@ -13944,15 +13773,6 @@
       "hash": "e16930f4ced578b9a13fa29be79cbed33f50de5c0a0ad8999a6153cba0901e91"
     },
     {
-      "id": "360149",
-      "number": "25-543",
-      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
-      "status": "posted",
-      "openDate": "07/25/2025",
-      "closeDate": "02/04/2027",
-      "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
-    },
-    {
       "id": "363834",
       "number": "PAR-27-137",
       "title": "Undiagnosed Diseases Network (UDN) Clinical Networks of Diagnostic Excellence",
@@ -14061,6 +13881,15 @@
       "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
     },
     {
+      "id": "363846",
+      "number": "USDA-NIFA-HSI-011903",
+      "title": "Hispanic-Serving Institutions Education Grants Program",
+      "status": "posted",
+      "openDate": "09/10/2026",
+      "closeDate": "12/03/2026",
+      "hash": "dc66023fe59735adb2fa94bddb57b49ff9d8f9e3c956d815249f69b38820da3b"
+    },
+    {
       "id": "363840",
       "number": "RFA-NS-28-006",
       "title": "BRAIN Initiative: Clinical Studies to Advance Next-Generation Devices for Recording and Modulation in the Human Central Nervous System",
@@ -14088,6 +13917,15 @@
       "hash": "c2eb8ed675f8989ef2f437a6c990944c58294cd2b0c77decfcad8ff25f972553"
     },
     {
+      "id": "363845",
+      "number": "FOA-VETS-27-01",
+      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
+      "status": "forecasted",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "hash": "a183010e8bf3a6c84084a24fa597e3c46871487b3ab836ebd02968b1dc04f5ec"
+    },
+    {
       "id": "363814",
       "number": "CDC-RFA-DP-27-0023",
       "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
@@ -14095,6 +13933,150 @@
       "openDate": "09/03/2026",
       "closeDate": "02/05/2027",
       "hash": "c9a996fe7753960823e44607eeb1d28a7d7ea6e5022020a8e3339b2a6594d280"
+    },
+    {
+      "id": "363848",
+      "number": "RFA-NS-28-005",
+      "title": "Limited Competition: BRAIN Initiative: Promoting Health for All Through BRAIN Technology Partnerships",
+      "status": "forecasted",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "hash": "c68c94a1af4d13b577660495751f14ac6b454c1f6185446b11c4bdddd7c9f854"
+    },
+    {
+      "id": "339594",
+      "number": "22-586",
+      "title": "Faculty Early Career Development Program (CAREER)",
+      "status": "posted",
+      "openDate": "04/19/2022",
+      "closeDate": "07/28/2027",
+      "hash": "3eddd50383b9b986b9386d034a869322b1d7e8424a0a7eeae972d75de3737d4c"
+    },
+    {
+      "id": "360149",
+      "number": "25-543",
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
+      "status": "posted",
+      "openDate": "07/25/2025",
+      "closeDate": "02/04/2027",
+      "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
+    },
+    {
+      "id": "363645",
+      "number": "DOS-SAU-2603-PD",
+      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
+      "status": "posted",
+      "openDate": "08/18/2026",
+      "closeDate": "09/14/2026",
+      "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
+    },
+    {
+      "id": "363744",
+      "number": "DOS-SAU-2605-PD",
+      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "a97ad2681f3834870c08a29918ac9397b5b4d7f16564166949ee9493003a1e07"
+    },
+    {
+      "id": "363746",
+      "number": "DOS-SAU-2606-PD",
+      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "2c980f5e57745a4742f808b826f85935504f0cab04d2d4b38f5b876d313b696b"
+    },
+    {
+      "id": "363849",
+      "number": "RFA-RM-28-011",
+      "title": "R3PEATS Grassroots Rigor Projects: Individual Metascience and Individual Laboratory Capacity-Building (RP1)",
+      "status": "forecasted",
+      "openDate": "09/11/2026",
+      "closeDate": "",
+      "hash": "3992d556473ab257a40091994250c445a5ba41856616649585f3fe524f3b908a"
+    },
+    {
+      "id": "363850",
+      "number": "RFA-RM-28-012",
+      "title": "R3PEATS Multi-Team Triangulation: Collaborative Cross-Method Approaches to Scientific Discovery (RM1)",
+      "status": "forecasted",
+      "openDate": "09/11/2026",
+      "closeDate": "",
+      "hash": "5145120b5c005f80d85b898a1f2950aa476b112f5109b33a438f381a55ae439e"
+    },
+    {
+      "id": "363851",
+      "number": "RFA-RM-28-013",
+      "title": "R3PEATS Rigor Scholar Cohort Awards (K12)",
+      "status": "forecasted",
+      "openDate": "09/11/2026",
+      "closeDate": "",
+      "hash": "2313ec3eb7c67a37260800379827f08858bd25048a790c2cb6597b11c30934de"
+    },
+    {
+      "id": "363637",
+      "number": "O-BJA-2026-172698",
+      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "09/24/2026",
+      "hash": "b51978afb83be4d9903f5021064c580f3d8d8443b181f4d3c281898b7fc1a34b"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "09/10/2076",
+      "hash": "f81da246e21804844ccee8b2a22b29ce6380439e70238f3d4ab5d61598862c88"
+    },
+    {
+      "id": "363618",
+      "number": "26-521",
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "09/10/2076",
+      "hash": "aa9a024817d774a6c93f9d58f628600867e711a64415c2037d10594152e267b6"
+    },
+    {
+      "id": "363844",
+      "number": "HHS-2027-IHS-NPHR-0001",
+      "title": "Native Public Health Resilience",
+      "status": "forecasted",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "hash": "7223cd23555ba4a9dcf63d62a05031f20f04473f63cc1a83adc9902690786dae"
+    },
+    {
+      "id": "363847",
+      "number": "DHS-USCG-STATE-2027",
+      "title": "State Recreational Boating Safety (RBS) Grant Program",
+      "status": "posted",
+      "openDate": "09/10/2026",
+      "closeDate": "10/30/2026",
+      "hash": "3b20980dd8e820eceff6b9855e1faedad31d22dd6bb9313734811ea4a09a22d4"
+    },
+    {
+      "id": "363489",
+      "number": "HR001126S0016",
+      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "10/02/2026",
+      "hash": "6f410d762a1eb399d927641a0d6a79201d35ae272c44faa2e98c7d0930803547"
+    },
+    {
+      "id": "362974",
+      "number": "HT942526NFRPNFRASA",
+      "title": "DoW Neurofibromatosis Research Academy &ndash; Scholar Award",
+      "status": "posted",
+      "openDate": "06/25/2026",
+      "closeDate": "09/22/2026",
+      "hash": "43fc25eae24b03cd507cdfb128dca056f6f7efa803da65baf3e34c16cde3e1a3"
     }
   ]
 }
