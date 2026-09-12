@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T14:30:40.147Z",
-  "hitCount": 1564,
+  "updatedAt": "2026-09-12T13:39:13.917Z",
+  "hitCount": 1559,
   "records": [
     {
       "id": "355824",
@@ -1837,15 +1837,6 @@
       "openDate": "11/25/2024",
       "closeDate": "05/07/2027",
       "hash": "312f9d25273c17af912bfd99ca6b18d87a9637099cf7ab152abdf62f92960f3d"
-    },
-    {
-      "id": "356231",
-      "number": "NOAA-NMFS-HCPO-2024-28122",
-      "title": "NOAA Great Lakes Fish Habitat Restoration Partnership Grants",
-      "status": "posted",
-      "openDate": "08/27/2024",
-      "closeDate": "",
-      "hash": "d423491cf75e130b0c6d4d787757494a101b02ac0a809c04379dd9e4502df498"
     },
     {
       "id": "356902",
@@ -11244,33 +11235,6 @@
       "hash": "790df0b253c2dbd2f8a589fdc8ef60db01e1b08d896a68364e25eccf49db66d4"
     },
     {
-      "id": "363535",
-      "number": "L26AS00045",
-      "title": "FY26 Bureau of Land Management Wildlife Resource Management Program - Bureau wide",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/11/2026",
-      "hash": "178e8a8a844e52204c40c9231a70a866bdf0bacb247b0087d0721325fd9242a9"
-    },
-    {
-      "id": "363534",
-      "number": "L26AS00043",
-      "title": "FY26 Bureau of Land Management Threatened and Endangered Species - Bureau wide",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/11/2026",
-      "hash": "780dd83b38c9a0f95b9656190ff8a2d39c2c5ebbf0102291f7aae9376782b393"
-    },
-    {
-      "id": "363537",
-      "number": "G26AS00156",
-      "title": "Cooperative Agreement for Affiliated Partner with the Alaska Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/11/2026",
-      "hash": "26e895905aedfddfb4911c61ff977799de84c3dff9dfd575f3a9ae89d0e6f5a5"
-    },
-    {
       "id": "344592",
       "number": "W911NF-23-S-0001",
       "title": "DEVCOM ARMY RESEARCH LABORATORY BROAD AGENCY ANNOUNCEMENT FOR FOUNDATIONAL RESEARCH",
@@ -11278,15 +11242,6 @@
       "openDate": "11/21/2022",
       "closeDate": "11/20/2027",
       "hash": "e7983aa4337c592ac0c1419825a30a10d80d0ffb88ffc3ce3a8e1f2a822a910c"
-    },
-    {
-      "id": "363538",
-      "number": "G26AS00158",
-      "title": "Cooperative Agreement for Affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "08/11/2026",
-      "closeDate": "09/11/2026",
-      "hash": "8ec9a319ad94493f74032f72d5684d719eb8c1e7adc6c5c819d02663de4a116c"
     },
     {
       "id": "363544",
@@ -11332,15 +11287,6 @@
       "openDate": "08/12/2026",
       "closeDate": "",
       "hash": "89cabc420bae779310d5a18f75acfb1a8cf0e042d97065f0a004150bc5407b77"
-    },
-    {
-      "id": "363547",
-      "number": "OFOP0003594",
-      "title": "U.S. Mission Iraq EducationUSA Roadshow",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "09/11/2026",
-      "hash": "c9f7f62fb74ca8bf2e5e55d59531dc5b6eb0a2adddf1b5134fb2bb0e9b07c62d"
     },
     {
       "id": "363557",
@@ -12459,15 +12405,6 @@
       "hash": "8053bd56c81c174ea5d72cfd0ab82f1c695b3a040a15d27424de1b78e5f47a89"
     },
     {
-      "id": "363363",
-      "number": "USDA-FS-2028-FLP",
-      "title": "Forest Legacy Program - FY2028 Funding",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "09/11/2026",
-      "hash": "6470c8d8d271e5d7586f1c7588230c7daebf8843298a8deba9736f11e1d8ca23"
-    },
-    {
       "id": "363720",
       "number": "USDA-NIFA-NLGCA-011938",
       "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
@@ -12954,15 +12891,6 @@
       "hash": "7ffeeb988bb08ba595eda2691cffbf603ba7ab044e6e1571785209c55bdc74aa"
     },
     {
-      "id": "363113",
-      "number": "HRSA-27-016",
-      "title": "Children&rsquo;s Hospitals Graduate Medical Education (CHGME) Payment Program",
-      "status": "forecasted",
-      "openDate": "07/08/2026",
-      "closeDate": "",
-      "hash": "9abd93c59731ff2abeadb3f0f8513df1baa2e008645a94a4baefddfcade12492"
-    },
-    {
       "id": "363721",
       "number": "W9126G262RFP9554",
       "title": "Conservation and Forestry Program Support (2026-2031) for Environmental Natural Resources Management Division, Directorate of Public Works, Joint Readiness Training Center and Fort Polk, Louisiana",
@@ -13024,15 +12952,6 @@
       "openDate": "09/03/2026",
       "closeDate": "",
       "hash": "47a52bd7b9e36c1af62529e8f7c31b7ad06a6788672e1d9f7104bdd61a898944"
-    },
-    {
-      "id": "363815",
-      "number": "DE-FOA-0003647",
-      "title": "Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT)",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "12/01/2026",
-      "hash": "b5ceac45e5c92adc126d483e58d00e7a7c5b96305005f2806f5db87f3853e1f0"
     },
     {
       "id": "363812",
@@ -13674,15 +13593,6 @@
       "hash": "84bad01a08e7144f25a42cb3d402a1e258f865bc75786b69ec5fd301ec83979d"
     },
     {
-      "id": "360510",
-      "number": "HHS-2026-ACL-AOA-DASG-0012",
-      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
-      "status": "posted",
-      "openDate": "06/26/2026",
-      "closeDate": "09/11/2026",
-      "hash": "57babfdc148b25f31a433869ca7a68c92f0b3f4caf4955b336add54378ce5659"
-    },
-    {
       "id": "363830",
       "number": "OFOP0003790",
       "title": "Balanced Prosecution of Transnational Organized Crime Cases",
@@ -13908,15 +13818,6 @@
       "hash": "0f0a403296d85e92fa5ae2b994fbb308c3bc790af0d69b81e73473fc7b4a3383"
     },
     {
-      "id": "363798",
-      "number": "FR-RLD-26-001",
-      "title": "FY26 Atlantic Gateway, Arlington to Alexandria Fourth Track - CMAQ Funds",
-      "status": "posted",
-      "openDate": "09/03/2026",
-      "closeDate": "09/11/2026",
-      "hash": "c2eb8ed675f8989ef2f437a6c990944c58294cd2b0c77decfcad8ff25f972553"
-    },
-    {
       "id": "363845",
       "number": "FOA-VETS-27-01",
       "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
@@ -13969,15 +13870,6 @@
       "openDate": "08/18/2026",
       "closeDate": "09/14/2026",
       "hash": "2c1468e74d530b86e47e8fe574bc929ac66b9bfd6bb185438f0a54952e04b7ba"
-    },
-    {
-      "id": "363744",
-      "number": "DOS-SAU-2605-PD",
-      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/14/2026",
-      "hash": "a97ad2681f3834870c08a29918ac9397b5b4d7f16564166949ee9493003a1e07"
     },
     {
       "id": "363746",
@@ -14052,15 +13944,6 @@
       "hash": "7223cd23555ba4a9dcf63d62a05031f20f04473f63cc1a83adc9902690786dae"
     },
     {
-      "id": "363847",
-      "number": "DHS-USCG-STATE-2027",
-      "title": "State Recreational Boating Safety (RBS) Grant Program",
-      "status": "posted",
-      "openDate": "09/10/2026",
-      "closeDate": "10/30/2026",
-      "hash": "3b20980dd8e820eceff6b9855e1faedad31d22dd6bb9313734811ea4a09a22d4"
-    },
-    {
       "id": "363489",
       "number": "HR001126S0016",
       "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
@@ -14077,6 +13960,78 @@
       "openDate": "06/25/2026",
       "closeDate": "09/22/2026",
       "hash": "43fc25eae24b03cd507cdfb128dca056f6f7efa803da65baf3e34c16cde3e1a3"
+    },
+    {
+      "id": "363744",
+      "number": "DOS-SAU-2605-PD",
+      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/14/2026",
+      "hash": "a97ad2681f3834870c08a29918ac9397b5b4d7f16564166949ee9493003a1e07"
+    },
+    {
+      "id": "363852",
+      "number": "NOAA-OAR-CPO-2026-33326",
+      "title": "Climate Program Office (CPO) FY2026 Earth System Science and Services Partnership",
+      "status": "posted",
+      "openDate": "09/11/2026",
+      "closeDate": "10/26/2026",
+      "hash": "3d1ee0bd5980862e0a6da3028c6ea2e7939e3b628f9eb31e083cbdac3d3678f3"
+    },
+    {
+      "id": "360510",
+      "number": "HHS-2026-ACL-AOA-DASG-0012",
+      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
+      "status": "posted",
+      "openDate": "06/26/2026",
+      "closeDate": "09/18/2026",
+      "hash": "849b6f4cc1d2ed49b0af95bbe98bbfe15aeb1becfc920b26d886f011e33feee9"
+    },
+    {
+      "id": "363847",
+      "number": "DHS-USCG-STATE-2027",
+      "title": "State Recreational Boating Safety (RBS) Grant Program",
+      "status": "posted",
+      "openDate": "09/10/2026",
+      "closeDate": "10/30/2026",
+      "hash": "3b20980dd8e820eceff6b9855e1faedad31d22dd6bb9313734811ea4a09a22d4"
+    },
+    {
+      "id": "356231",
+      "number": "NOAA-NMFS-HCPO-2024-28122",
+      "title": "NOAA Great Lakes Fish Habitat Restoration Partnership Grants",
+      "status": "posted",
+      "openDate": "08/27/2024",
+      "closeDate": "09/16/2026",
+      "hash": "e9e559cf85d09d6e5623f58269cc84c83ab06bdbe4fb4039936d6d1571f7f07d"
+    },
+    {
+      "id": "363113",
+      "number": "HRSA-27-016",
+      "title": "Children&rsquo;s Hospitals Graduate Medical Education (CHGME) Payment Program",
+      "status": "forecasted",
+      "openDate": "07/08/2026",
+      "closeDate": "",
+      "hash": "9abd93c59731ff2abeadb3f0f8513df1baa2e008645a94a4baefddfcade12492"
+    },
+    {
+      "id": "363815",
+      "number": "DE-FOA-0003647",
+      "title": "Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT)",
+      "status": "posted",
+      "openDate": "09/04/2026",
+      "closeDate": "12/01/2026",
+      "hash": "b5ceac45e5c92adc126d483e58d00e7a7c5b96305005f2806f5db87f3853e1f0"
+    },
+    {
+      "id": "363854",
+      "number": "W9126G262SOI9598",
+      "title": "Aquatic Fauna Response to Ecosystem Restoration in Southwest Florida",
+      "status": "posted",
+      "openDate": "09/11/2026",
+      "closeDate": "09/12/2027",
+      "hash": "7a3e5701be8db43b615d8b28abf44107e3b849460265a4e82284e8c6c218ecc3"
     }
   ]
 }
