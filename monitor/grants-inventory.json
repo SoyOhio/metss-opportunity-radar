@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T13:39:13.917Z",
-  "hitCount": 1559,
+  "updatedAt": "2026-09-13T14:28:40.845Z",
+  "hitCount": 1557,
   "records": [
     {
       "id": "355824",
@@ -11242,24 +11242,6 @@
       "openDate": "11/21/2022",
       "closeDate": "11/20/2027",
       "hash": "e7983aa4337c592ac0c1419825a30a10d80d0ffb88ffc3ce3a8e1f2a822a910c"
-    },
-    {
-      "id": "363544",
-      "number": "G26AS00157",
-      "title": "Cooperative Agreement for Affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "09/12/2026",
-      "hash": "6e78a1d73b175ea0ccc496691abbdc1be084783c2994b6acb14525dc5d2ab2a0"
-    },
-    {
-      "id": "363545",
-      "number": "G26AS00159",
-      "title": "Cooperative Agreement for Affiliated Partner with the Californian Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "09/12/2026",
-      "hash": "ab87cd2334e12f73e31c1d8c2223c34d253146966e93e16c99b5976d4fd166f7"
     },
     {
       "id": "363549",
