@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-13T14:28:43.593Z",
-  "inventoryCheckedAt": "2026-09-13T14:28:40.845Z",
+  "generatedAt": "2026-09-14T16:25:12.080Z",
+  "inventoryCheckedAt": "2026-09-14T16:25:08.852Z",
   "screeningSnapshotAt": "2026-09-06T14:31:26.709Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1557,
-  "historicalSourceRecords": 2270,
+  "currentActiveSourceRecords": 1554,
+  "historicalSourceRecords": 2273,
   "previouslyScreenedSnapshotRecords": 1586,
-  "currentRecordsCoveredBySnapshot": 999,
-  "currentRecordsRequiringScreening": 558,
-  "newRecordsRequiringScreening": 31,
-  "changedRecordsRequiringScreening": 527,
+  "currentRecordsCoveredBySnapshot": 994,
+  "currentRecordsRequiringScreening": 560,
+  "newRecordsRequiringScreening": 34,
+  "changedRecordsRequiringScreening": 526,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -460,6 +460,22 @@
         "title": "Emergency Assistance for Fundamental Freedom Defenders",
         "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363780"
+      }
+    ],
+    [
+      {
+        "grantsGovId": "363814",
+        "opportunityNumber": "CDC-RFA-DP-27-0023",
+        "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
+        "status": "unavailable",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363814"
+      },
+      {
+        "grantsGovId": "363855",
+        "opportunityNumber": "CDC-RFA-DP-27-0023",
+        "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
+        "status": "forecasted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363855"
       }
     ]
   ]
