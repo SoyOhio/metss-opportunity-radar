@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T15:05:36.871Z",
-  "hitCount": 1551,
+  "updatedAt": "2026-09-16T15:02:17.187Z",
+  "hitCount": 1546,
   "records": [
     {
       "id": "355824",
@@ -3810,15 +3810,6 @@
       "hash": "e6798c7dd6074eb0ea0ecd9d438b7c7c77c9f5842b8944c7123b4f7987e3e3f0"
     },
     {
-      "id": "353353",
-      "number": "PD-18-1263",
-      "title": "Probability",
-      "status": "posted",
-      "openDate": "04/03/2024",
-      "closeDate": "09/15/2026",
-      "hash": "0fd9f85ecdef3c70250c026ea2b7cb4aecbdbc9473ddca0b33d47a17784b0c45"
-    },
-    {
       "id": "355100",
       "number": "24-584",
       "title": "Advanced Technological Education",
@@ -6465,15 +6456,6 @@
       "hash": "a89c26962b0c2a8ae173863d0a2748952572acd6b563856555b5f1868ba2841a"
     },
     {
-      "id": "342475",
-      "number": "22-615",
-      "title": "NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages",
-      "status": "posted",
-      "openDate": "07/17/2022",
-      "closeDate": "09/15/2026",
-      "hash": "0be1a4c615cef83e167666301d969cb647c91907da1ac38ba5956754a712231b"
-    },
-    {
       "id": "351847",
       "number": "RFA-DA-25-060",
       "title": "High Priority HIV and Substance Use Research (RM1 Clinical Trial Optional)",
@@ -8346,15 +8328,6 @@
       "hash": "65f84d0335d65185ed0e7e47e0bb5cb2167c174a354e3f2cb4d41ac5f725d5d6"
     },
     {
-      "id": "358955",
-      "number": "2025-NIST-MSE-01",
-      "title": "Measurement Science and Engineering (MSE) Research Grant Programs",
-      "status": "posted",
-      "openDate": "05/14/2025",
-      "closeDate": "09/15/2026",
-      "hash": "2ce327b3f27b212d68159de9e737a7eeda183a6e3ddcba55c043667110c776a8"
-    },
-    {
       "id": "361164",
       "number": "PAR-27-071",
       "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
@@ -9876,15 +9849,6 @@
       "hash": "cdd291ec5db9accbdfef0b248477593868f2f51b827db8bedf1c76880a5973c4"
     },
     {
-      "id": "363015",
-      "number": "HHS-2026-ACF-OCS-EDA-0024",
-      "title": "Diaper Distribution Demonstration Research Pilot (DDDRP)",
-      "status": "posted",
-      "openDate": "07/30/2026",
-      "closeDate": "09/15/2026",
-      "hash": "370beb4d182c02c12a4cc399d465e899426ff724e5337cc820d8102deb997811"
-    },
-    {
       "id": "362842",
       "number": "2026-NTIA-NEGP",
       "title": "Native Entities Grant Program",
@@ -10740,24 +10704,6 @@
       "hash": "bfa93cc4cf0c4b4483dc3f5f459ba11e1d4ed2ed7f0c98d87fef375fda5c0b40"
     },
     {
-      "id": "363160",
-      "number": "HRSA-27-063",
-      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards",
-      "status": "forecasted",
-      "openDate": "07/13/2026",
-      "closeDate": "",
-      "hash": "dfc8d0dc6afb431ef17502ec1104643e9ae0e017f562f699f70104a3c2497aad"
-    },
-    {
-      "id": "363275",
-      "number": "HRSA-27-064",
-      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "94291a3b270689e55e15c462bf194d0dcced2679915c5ff5cab4079c91492ce1"
-    },
-    {
       "id": "361822",
       "number": "HHS-2026-ACF-ORR-ZU-0019",
       "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
@@ -11377,15 +11323,6 @@
       "openDate": "08/17/2026",
       "closeDate": "10/16/2026",
       "hash": "fee9a19fbecd1852070a0ff8534ff09e20bbe64520c23ad29ed554f891d43885"
-    },
-    {
-      "id": "363628",
-      "number": "FHWA-ADCM-26-001",
-      "title": "FY25 and FY26 Advanced Digital Construction Management Systems (ADCMS)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/16/2026",
-      "hash": "f5b10eb303905fea3c800955a15d1ae3994bbc51f3c4ba73dfe1c06d299ac890"
     },
     {
       "id": "363625",
@@ -12333,15 +12270,6 @@
       "hash": "436e83a5f555b4aba4271a3fb847c5e15fcecc4cb6905ef137a5394f04e54c21"
     },
     {
-      "id": "363070",
-      "number": "DFOP0019227",
-      "title": "Middle East Regional Cooperation (MERC)",
-      "status": "posted",
-      "openDate": "07/06/2026",
-      "closeDate": "09/30/2026",
-      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
-    },
-    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
@@ -12513,15 +12441,6 @@
       "hash": "a4c220e0ef0f79c859e80f06af2285ba055be35c287d3587154115f211110280"
     },
     {
-      "id": "360651",
-      "number": "2025-NIST-CHIPS-CRDO-01",
-      "title": "CHIPS Research and Development Office (CRDO) Broad Agency Announcement (BAA)",
-      "status": "posted",
-      "openDate": "09/24/2025",
-      "closeDate": "09/15/2026",
-      "hash": "52639b824951bb2564c3abbc311038a7375a8eb7541a728e0af0f8d252def9d0"
-    },
-    {
       "id": "363354",
       "number": "CDC-RFA-CE22-22050601CONT27",
       "title": "Drug-Free Communities (DFC) Support Program &ndash; Competing Continuation (Year 6)",
@@ -12610,24 +12529,6 @@
       "openDate": "09/02/2026",
       "closeDate": "01/28/2027",
       "hash": "079f72c0ae2f4e571e132fdf8e3745225609351139f04442c0217d1a0e0f9b4e"
-    },
-    {
-      "id": "363791",
-      "number": "HHS-2027-ACF-OHS-CH-0112",
-      "title": "Head Start/Early Head Grants in Multiple States",
-      "status": "forecasted",
-      "openDate": "09/02/2026",
-      "closeDate": "",
-      "hash": "b6cd2413f117a44f6816b6f65bb9fb3b25b90dbbdefaab7161a616cc15589b38"
-    },
-    {
-      "id": "363792",
-      "number": "HHS-2027-ACF-OHS-CH-0125",
-      "title": "Early Head Start Expansion and Early Head Start - Child Care Partnership Grants in Multiple States",
-      "status": "forecasted",
-      "openDate": "09/02/2026",
-      "closeDate": "",
-      "hash": "5317e76a19efe518e68edacf34915862f3ada5e8b0627706636437a9af340144"
     },
     {
       "id": "363790",
@@ -13143,15 +13044,6 @@
       "hash": "9cbee34ecd49fef2c5fce91f99f9b72a790a8cc399e1162ddc78da9aea8ae704"
     },
     {
-      "id": "363760",
-      "number": "O-OVW-2026-172660",
-      "title": "OVW Fiscal Year 2026 Violence Against Women Tribal Special Assistant U.S. Attorney (SAUSA) Initiative - Invitation to Apply",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "09/15/2026",
-      "hash": "c3d493f6435531245eef38415fbb987c273d8656e6f65a1fb7db25103ba580c9"
-    },
-    {
       "id": "363526",
       "number": "NOFOAFRLAFOSR20260004",
       "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
@@ -13602,15 +13494,6 @@
       "hash": "f2cb08a0b4823d6ab8fed7288faf9bfa89d22a289cf24b00376feae52ded4d66"
     },
     {
-      "id": "363233",
-      "number": "24-590",
-      "title": "Engineering Research Initiation (ERI)",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "10/09/2026",
-      "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
-    },
-    {
       "id": "362844",
       "number": "O-OVC-2026-172642",
       "title": "OVC FY 2026 Invited to Apply - Byrne Discretionary Community Project Grants/Byrne Discretionary Grants Program",
@@ -13683,15 +13566,6 @@
       "hash": "3eddd50383b9b986b9386d034a869322b1d7e8424a0a7eeae972d75de3737d4c"
     },
     {
-      "id": "360149",
-      "number": "25-543",
-      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
-      "status": "posted",
-      "openDate": "07/25/2025",
-      "closeDate": "02/04/2027",
-      "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
-    },
-    {
       "id": "363489",
       "number": "HR001126S0016",
       "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
@@ -13744,6 +13618,96 @@
       "openDate": "06/25/2026",
       "closeDate": "09/22/2026",
       "hash": "43fc25eae24b03cd507cdfb128dca056f6f7efa803da65baf3e34c16cde3e1a3"
+    },
+    {
+      "id": "362715",
+      "number": "P26AS00125",
+      "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
+      "status": "posted",
+      "openDate": "06/08/2026",
+      "closeDate": "11/01/2030",
+      "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
+    },
+    {
+      "id": "363482",
+      "number": "AC-08-20-2026",
+      "title": "Fiscal Year (FY) 2027 AmeriCorps Seniors RSVP Competition",
+      "status": "posted",
+      "openDate": "08/20/2026",
+      "closeDate": "10/20/2026",
+      "hash": "8a3a8aa6b223a121977965549fe6e2257a00a353d4f23e5d8f566419532f1c41"
+    },
+    {
+      "id": "363866",
+      "number": "24-560",
+      "title": "Data Science Corps (DSC)",
+      "status": "posted",
+      "openDate": "09/15/2026",
+      "closeDate": "",
+      "hash": "85418bb2ee9b518a094b1285454f191bac57a5d43d653021c1d57c8425db7c57"
+    },
+    {
+      "id": "363867",
+      "number": "24-602",
+      "title": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)",
+      "status": "posted",
+      "openDate": "09/15/2026",
+      "closeDate": "",
+      "hash": "3019f291051a1274860a6dd8fd836857fc69d9054331a2050e9828669a4a434e"
+    },
+    {
+      "id": "363224",
+      "number": "NNH25ZDA001N-AES",
+      "title": "ROSES25: A.13 Accelerating Earth Solutions",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "10/15/2026",
+      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
+    },
+    {
+      "id": "363864",
+      "number": "ETA-UI-2026-01",
+      "title": "UI Integrity Center of Excellence Operations",
+      "status": "posted",
+      "openDate": "09/15/2026",
+      "closeDate": "09/25/2026",
+      "hash": "3c128a81dbc08ead8aa97034b7cec4c53d9f07c42c50b5007a196652cefad731"
+    },
+    {
+      "id": "363860",
+      "number": "RFA-RM-28-017",
+      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Experimental and Computational Technology Development (RM1 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/14/2026",
+      "closeDate": "",
+      "hash": "2a6b85eb4aa8a86a962ad7db88d29f09c4b0a520c53760c7112518a27350527e"
+    },
+    {
+      "id": "363861",
+      "number": "RFA-ES-27-009",
+      "title": "Mechanistic Toxicology of METALS: Metal Exposure, Transport, Action, Localization, and Susceptibility (RP1 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/14/2026",
+      "closeDate": "",
+      "hash": "0776b775775a3cc769caabe50202fa1171f83e8d36f3ff4bce5546c9edc81677"
+    },
+    {
+      "id": "363863",
+      "number": "PAR-28-050",
+      "title": "Limited Competition: Tribal Undergraduate and Graduate Research Training and Leadership Experiences (TURTLE) Program",
+      "status": "forecasted",
+      "openDate": "09/14/2026",
+      "closeDate": "",
+      "hash": "9b163e5a45ddf0af1a856ff4acf1aa16d1e0dbdbdec41debc2b60ddc57c0c39e"
+    },
+    {
+      "id": "363862",
+      "number": "PAR-28-038",
+      "title": "Limited Competition: Tribal Institutional Review Board Establishment and Enhancement (TIRBEE)",
+      "status": "forecasted",
+      "openDate": "09/14/2026",
+      "closeDate": "",
+      "hash": "f4bcd6ec263a99d3e658ed58fc84437449145187bd49c8cc58582c5a1f032f25"
     },
     {
       "id": "363611",
@@ -13845,15 +13809,6 @@
       "hash": "9abd93c59731ff2abeadb3f0f8513df1baa2e008645a94a4baefddfcade12492"
     },
     {
-      "id": "359701",
-      "number": "PAR-26-106",
-      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "03/06/2026",
-      "closeDate": "01/25/2028",
-      "hash": "6659b158408b561005dad608925f2d1d16a285d2098ee1ab1a4e080ba6e8e6d2"
-    },
-    {
       "id": "362871",
       "number": "N0001426SF001",
       "title": "Fiscal Year (FY) 2027 Department of the Navy (DoN) Historically Black Colleges and Universities/Minority Institutions (HBCU/MI) Program",
@@ -13863,13 +13818,22 @@
       "hash": "6314e6a8e4a3eeaea9932c087c243ffd978af73e7da0700b249bb97219637953"
     },
     {
-      "id": "362715",
-      "number": "P26AS00125",
-      "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
+      "id": "359701",
+      "number": "PAR-26-106",
+      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
       "status": "posted",
-      "openDate": "06/08/2026",
-      "closeDate": "11/01/2030",
-      "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
+      "openDate": "03/06/2026",
+      "closeDate": "01/25/2028",
+      "hash": "6659b158408b561005dad608925f2d1d16a285d2098ee1ab1a4e080ba6e8e6d2"
+    },
+    {
+      "id": "363070",
+      "number": "DFOP0019227",
+      "title": "Middle East Regional Cooperation (MERC)",
+      "status": "posted",
+      "openDate": "07/06/2026",
+      "closeDate": "09/30/2026",
+      "hash": "2083146fa70275fc1f4921a36077d80285ad6b0a44721cf3b55fd889e226aaec"
     },
     {
       "id": "363843",
@@ -13881,85 +13845,76 @@
       "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
     },
     {
-      "id": "363482",
-      "number": "AC-08-20-2026",
-      "title": "Fiscal Year (FY) 2027 AmeriCorps Seniors RSVP Competition",
+      "id": "363628",
+      "number": "FHWA-ADCM-26-001",
+      "title": "FY25 and FY26 Advanced Digital Construction Management Systems (ADCMS)",
       "status": "posted",
-      "openDate": "08/20/2026",
-      "closeDate": "10/20/2026",
-      "hash": "8a3a8aa6b223a121977965549fe6e2257a00a353d4f23e5d8f566419532f1c41"
+      "openDate": "08/17/2026",
+      "closeDate": "09/16/2026",
+      "hash": "f5b10eb303905fea3c800955a15d1ae3994bbc51f3c4ba73dfe1c06d299ac890"
     },
     {
-      "id": "363866",
-      "number": "24-560",
-      "title": "Data Science Corps (DSC)",
-      "status": "posted",
-      "openDate": "09/15/2026",
+      "id": "363791",
+      "number": "HHS-2027-ACF-OHS-CH-0112",
+      "title": "Head Start/Early Head Grants in Multiple States",
+      "status": "forecasted",
+      "openDate": "09/02/2026",
       "closeDate": "",
-      "hash": "85418bb2ee9b518a094b1285454f191bac57a5d43d653021c1d57c8425db7c57"
+      "hash": "b6cd2413f117a44f6816b6f65bb9fb3b25b90dbbdefaab7161a616cc15589b38"
     },
     {
-      "id": "363867",
-      "number": "24-602",
-      "title": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)",
-      "status": "posted",
-      "openDate": "09/15/2026",
+      "id": "363792",
+      "number": "HHS-2027-ACF-OHS-CH-0125",
+      "title": "Early Head Start Expansion and Early Head Start - Child Care Partnership Grants in Multiple States",
+      "status": "forecasted",
+      "openDate": "09/02/2026",
       "closeDate": "",
-      "hash": "3019f291051a1274860a6dd8fd836857fc69d9054331a2050e9828669a4a434e"
+      "hash": "5317e76a19efe518e68edacf34915862f3ada5e8b0627706636437a9af340144"
     },
     {
-      "id": "363224",
-      "number": "NNH25ZDA001N-AES",
-      "title": "ROSES25: A.13 Accelerating Earth Solutions",
+      "id": "360149",
+      "number": "25-543",
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
+      "status": "posted",
+      "openDate": "07/25/2025",
+      "closeDate": "02/04/2027",
+      "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
+    },
+    {
+      "id": "363868",
+      "number": "O-NIJ-2026-172757",
+      "title": "NIJ FY 2026 Invited to Apply - Adolescent Brain Cognitive Development: Social Development Sub-study (ABCD-SD)",
+      "status": "posted",
+      "openDate": "09/16/2026",
+      "closeDate": "09/18/2026",
+      "hash": "4cb90f524f07015ffbce061578c0c6020076756bb5c140976db078be9ea3bb0d"
+    },
+    {
+      "id": "363233",
+      "number": "24-590",
+      "title": "Engineering Research Initiation (ERI)",
       "status": "posted",
       "openDate": "07/17/2026",
-      "closeDate": "10/15/2026",
-      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
+      "closeDate": "10/09/2026",
+      "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
     },
     {
-      "id": "363864",
-      "number": "ETA-UI-2026-01",
-      "title": "UI Integrity Center of Excellence Operations",
-      "status": "posted",
-      "openDate": "09/15/2026",
-      "closeDate": "09/25/2026",
-      "hash": "3c128a81dbc08ead8aa97034b7cec4c53d9f07c42c50b5007a196652cefad731"
-    },
-    {
-      "id": "363860",
-      "number": "RFA-RM-28-017",
-      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Experimental and Computational Technology Development (RM1 Clinical Trial Not Allowed)",
+      "id": "363160",
+      "number": "HRSA-27-063",
+      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards",
       "status": "forecasted",
-      "openDate": "09/14/2026",
+      "openDate": "07/13/2026",
       "closeDate": "",
-      "hash": "2a6b85eb4aa8a86a962ad7db88d29f09c4b0a520c53760c7112518a27350527e"
+      "hash": "dfc8d0dc6afb431ef17502ec1104643e9ae0e017f562f699f70104a3c2497aad"
     },
     {
-      "id": "363861",
-      "number": "RFA-ES-27-009",
-      "title": "Mechanistic Toxicology of METALS: Metal Exposure, Transport, Action, Localization, and Susceptibility (RP1 Clinical Trial Not Allowed)",
+      "id": "363275",
+      "number": "HRSA-27-064",
+      "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
       "status": "forecasted",
-      "openDate": "09/14/2026",
+      "openDate": "07/22/2026",
       "closeDate": "",
-      "hash": "0776b775775a3cc769caabe50202fa1171f83e8d36f3ff4bce5546c9edc81677"
-    },
-    {
-      "id": "363863",
-      "number": "PAR-28-050",
-      "title": "Limited Competition: Tribal Undergraduate and Graduate Research Training and Leadership Experiences (TURTLE) Program",
-      "status": "forecasted",
-      "openDate": "09/14/2026",
-      "closeDate": "",
-      "hash": "9b163e5a45ddf0af1a856ff4acf1aa16d1e0dbdbdec41debc2b60ddc57c0c39e"
-    },
-    {
-      "id": "363862",
-      "number": "PAR-28-038",
-      "title": "Limited Competition: Tribal Institutional Review Board Establishment and Enhancement (TIRBEE)",
-      "status": "forecasted",
-      "openDate": "09/14/2026",
-      "closeDate": "",
-      "hash": "f4bcd6ec263a99d3e658ed58fc84437449145187bd49c8cc58582c5a1f032f25"
+      "hash": "94291a3b270689e55e15c462bf194d0dcced2679915c5ff5cab4079c91492ce1"
     }
   ]
 }
