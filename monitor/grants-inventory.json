@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T15:02:17.187Z",
-  "hitCount": 1546,
+  "updatedAt": "2026-09-17T15:05:51.156Z",
+  "hitCount": 1550,
   "records": [
     {
       "id": "355824",
@@ -3891,15 +3891,6 @@
       "hash": "ec6067ea80f8ad2a945da399c6c75f6a28b20736738ecbadf9f9d2743f0596bf"
     },
     {
-      "id": "347749",
-      "number": "22-605",
-      "title": "Division of Chemistry: Disciplinary Research Programs",
-      "status": "posted",
-      "openDate": "04/26/2023",
-      "closeDate": "09/30/2026",
-      "hash": "a3cf3a128c7e4621e474c15332b37dd31b7b0691866ef6c7a5e212e94e9a5b9f"
-    },
-    {
       "id": "352238",
       "number": "N0016424SNB35",
       "title": "Long Range Broad Agency Announcement (BAA) for NSWC Crane",
@@ -4231,15 +4222,6 @@
       "openDate": "03/15/2021",
       "closeDate": "",
       "hash": "fb71d0b2338c8fef1052db3ff576715007d0247d3a16e07df91493f2cd32463a"
-    },
-    {
-      "id": "341244",
-      "number": "22-606",
-      "title": "Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot",
-      "status": "posted",
-      "openDate": "06/18/2022",
-      "closeDate": "",
-      "hash": "423e6ae23c49239d282f7f4f400e4853a2157c602a725f0d1246b259b9065b42"
     },
     {
       "id": "337460",
@@ -5385,15 +5367,6 @@
       "hash": "25c65446a7c769f8e7490725325fec906ef83de04ce5a9ace20faabffff4828e"
     },
     {
-      "id": "343166",
-      "number": "22-627",
-      "title": "Advanced Technologies and Instrumentation for the Astronomical Sciences",
-      "status": "posted",
-      "openDate": "08/18/2022",
-      "closeDate": "11/16/2026",
-      "hash": "ea8ec7a408c4d4f94e237e90a67d529041e4c1b8a0779bdf0230ec0421066f3a"
-    },
-    {
       "id": "340544",
       "number": "PD-22-1267",
       "title": "Topology",
@@ -5914,15 +5887,6 @@
       "openDate": "09/26/2025",
       "closeDate": "06/07/2028",
       "hash": "09f7b20bd23345b5a15178c9d6a5deee6ac87df9882532b885239f72d8381585"
-    },
-    {
-      "id": "360659",
-      "number": "RFA-DK-27-102",
-      "title": "Collaborative Awards to Support Microphysiological System Pilot Studies in Type 2 Diabetes Research",
-      "status": "forecasted",
-      "openDate": "09/26/2025",
-      "closeDate": "",
-      "hash": "a1e3eb30838fcd4e4d19a257e36e337a93085d827acb50655f3aa91fa08e3827"
     },
     {
       "id": "360664",
@@ -9363,15 +9327,6 @@
       "hash": "b54d0c74504eb05a2544ade1fceda781139d5f7068466ccf02f9c43464176953"
     },
     {
-      "id": "363014",
-      "number": "20260916-RQ",
-      "title": "Scholarly Editions and Translations",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "09/16/2026",
-      "hash": "e23680c43ae3b01767a9c103f9577afacdc479dbb18b73f11a9f8ee0a03fae96"
-    },
-    {
       "id": "363049",
       "number": "PAR-28-039",
       "title": "Digital Health Technology and Reciprocal Innovation to Improve Clinical and Public Health Outcomes",
@@ -10362,15 +10317,6 @@
       "hash": "3a26498e64d882dcbd4836105e325226f272d9fd96fd17408c8cb126d5d13ab5"
     },
     {
-      "id": "363084",
-      "number": "20260916-RZ",
-      "title": "Collaborative Research",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "09/16/2026",
-      "hash": "0dcfe2881f867405af7394cd8aba5ea5de3992693fadd4c0fdccec72200278b6"
-    },
-    {
       "id": "363115",
       "number": "RFA-TS-27-018",
       "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
@@ -10612,15 +10558,6 @@
       "openDate": "07/24/2026",
       "closeDate": "10/15/2026",
       "hash": "3d70176d03af7b1292324ea3428bc738099d1fc3ebb922f0932481c38a9ceb27"
-    },
-    {
-      "id": "363297",
-      "number": "DFOP0019391",
-      "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/16/2026",
-      "hash": "b06cec6da98cfc1307401e4ddbdcb67dce42c4de1ad6b0c639336b869bdf865e"
     },
     {
       "id": "361234",
@@ -11055,15 +10992,6 @@
       "hash": "ebe65dfac1a4d5adb53d367accdfd5b886c6c1d0fa3c00533791cb92f6fab930"
     },
     {
-      "id": "363516",
-      "number": "HRSA-27-022",
-      "title": "Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV)",
-      "status": "forecasted",
-      "openDate": "08/10/2026",
-      "closeDate": "",
-      "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
-    },
-    {
       "id": "357724",
       "number": "25-522",
       "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
@@ -11305,15 +11233,6 @@
       "openDate": "08/17/2026",
       "closeDate": "08/17/2076",
       "hash": "d60b0ee389343e523c54b79dd88e83e2469c389199aaf065830b7b0f55516a3b"
-    },
-    {
-      "id": "360710",
-      "number": "CDC-RFA-JG-26-0142",
-      "title": "Ending HIV and TB as public health threats through an accelerated and sustained comprehensive response in India",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/16/2026",
-      "hash": "f8a99e61a60c6aaf53ee7136c17d106cc50d31e39e0b687f87a06bfdf4284b01"
     },
     {
       "id": "360759",
@@ -11881,15 +11800,6 @@
       "openDate": "08/19/2026",
       "closeDate": "05/26/2029",
       "hash": "ab89183bc9ac5fad06652b58edd38a7449d640071683d5a6a524c48218836c09"
-    },
-    {
-      "id": "363514",
-      "number": "030ADV26R0050",
-      "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
-      "status": "posted",
-      "openDate": "08/07/2026",
-      "closeDate": "09/18/2026",
-      "hash": "1a0ee3fc3fc0b2e56a2ab561d4eff6df2dd1714adc5c0dfe7180a8a587821a63"
     },
     {
       "id": "363654",
@@ -12765,15 +12675,6 @@
       "hash": "aa59ab5246b306e20984d1eb9b45acf975281dffcd56697645611aa6577259a9"
     },
     {
-      "id": "363419",
-      "number": "HRSA-27-006",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "e7bacb4ac8ee5f662b379e03cefee7a6024387789c15088e5bec8cd1dcde32b9"
-    },
-    {
       "id": "363325",
       "number": "NNH25ZDA001N-HWOPSI",
       "title": "ROSES25: D.8 Habitable Worlds Observatory Precursor Science Investigation",
@@ -12972,24 +12873,6 @@
       "hash": "c756699990393455bca73d8f41f9f3477f6f424bc98b30de0b23a10a741cf8b7"
     },
     {
-      "id": "363754",
-      "number": "DE-FOA-0003618",
-      "title": "Staff Support to Tribal Radioactive Materials Transportation Committee for Engagement with the United States (U.S.) Department of Energy on Radioactive Materials Transportation Planning",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/30/2026",
-      "hash": "56494708682fba6ba53e799d8e7575ecde1c662cbcc133929e66726d05318ba6"
-    },
-    {
-      "id": "363757",
-      "number": "DE-FOA-0003617",
-      "title": "Staff Support for Regional Engagement with the U.S. Department of Energy, Office of Nuclear Energy, Office of Storage &amp; Transportation on Radioactive Materials Transportation Planning",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "09/30/2026",
-      "hash": "7f277289fab56fd4ac8a688f4c456ed25015b7606a41c026119887927c0c715b"
-    },
-    {
       "id": "361065",
       "number": "RFA-AI-27-005",
       "title": "Clinical Research Network on Antimicrobial Resistance (UM1 Clinical Trial Required)",
@@ -13042,15 +12925,6 @@
       "openDate": "04/16/2025",
       "closeDate": "09/01/2076",
       "hash": "9cbee34ecd49fef2c5fce91f99f9b72a790a8cc399e1162ddc78da9aea8ae704"
-    },
-    {
-      "id": "363526",
-      "number": "NOFOAFRLAFOSR20260004",
-      "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "04/05/2027",
-      "hash": "f2b76fd22881435f37f8aedf7aa5efe8d4d659838fbf108814614c2d31494013"
     },
     {
       "id": "360574",
@@ -13116,15 +12990,6 @@
       "hash": "59f6501ef67274eadd56446b73da8094756518c92ce7e5c990da9ef2f540f561"
     },
     {
-      "id": "363530",
-      "number": "NOFOAFRLAFOSR20260003",
-      "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
-      "status": "posted",
-      "openDate": "08/10/2026",
-      "closeDate": "04/05/2027",
-      "hash": "49936e61085d5593abe9815543b4b9bb318ed0e65624123dabad810314b8a6bd"
-    },
-    {
       "id": "359740",
       "number": "RFA-AG-27-010",
       "title": "Data Coordinating Center for the Aging and Alzheimer&rsquo;s Disease Mouse Brain Atlas (AD-MBA) (U24 Clinical Trial Not Allowed)",
@@ -13150,33 +13015,6 @@
       "openDate": "09/01/2026",
       "closeDate": "11/13/2026",
       "hash": "0b20c24e406b567e2c951ed4d7112c3a6363756d651a0e3cb8118a77a46c1f85"
-    },
-    {
-      "id": "363423",
-      "number": "HRSA-27-005",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "eaac38c98f373868164430996244046399c5506b00e91373dff5e930a0ada5ff"
-    },
-    {
-      "id": "363421",
-      "number": "HRSA-27-008",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "678d6c12111532e98891e5989ad7814573979f48702dbf4bd4cf355111541cbe"
-    },
-    {
-      "id": "363420",
-      "number": "HRSA-27-007",
-      "title": "Fiscal Year (FY) Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "4813c07c460f38d188580c40e81d563d3c8b4acb81eac7d1c3217ace8873ca06"
     },
     {
       "id": "362905",
@@ -13285,15 +13123,6 @@
       "openDate": "08/19/2026",
       "closeDate": "10/15/2026",
       "hash": "2d891c049d29be40d93a50ec16d2a5fa3d29c05f2d341b30880b227b5a7f662a"
-    },
-    {
-      "id": "360296",
-      "number": "HHS-2026-IHS-NIHOE-0001",
-      "title": "National Indian Health Outreach and Education",
-      "status": "posted",
-      "openDate": "09/09/2026",
-      "closeDate": "11/02/2026",
-      "hash": "37ce193d2ca12b6e5e77a1ff901aeeae36e266eb2402907a69e490fe2fcbf253"
     },
     {
       "id": "363821",
@@ -13575,15 +13404,6 @@
       "hash": "6f410d762a1eb399d927641a0d6a79201d35ae272c44faa2e98c7d0930803547"
     },
     {
-      "id": "356231",
-      "number": "NOAA-NMFS-HCPO-2024-28122",
-      "title": "NOAA Great Lakes Fish Habitat Restoration Partnership Grants",
-      "status": "posted",
-      "openDate": "08/27/2024",
-      "closeDate": "09/16/2026",
-      "hash": "e9e559cf85d09d6e5623f58269cc84c83ab06bdbe4fb4039936d6d1571f7f07d"
-    },
-    {
       "id": "363847",
       "number": "DHS-USCG-STATE-2027",
       "title": "State Recreational Boating Safety (RBS) Grant Program",
@@ -13636,24 +13456,6 @@
       "openDate": "08/20/2026",
       "closeDate": "10/20/2026",
       "hash": "8a3a8aa6b223a121977965549fe6e2257a00a353d4f23e5d8f566419532f1c41"
-    },
-    {
-      "id": "363866",
-      "number": "24-560",
-      "title": "Data Science Corps (DSC)",
-      "status": "posted",
-      "openDate": "09/15/2026",
-      "closeDate": "",
-      "hash": "85418bb2ee9b518a094b1285454f191bac57a5d43d653021c1d57c8425db7c57"
-    },
-    {
-      "id": "363867",
-      "number": "24-602",
-      "title": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)",
-      "status": "posted",
-      "openDate": "09/15/2026",
-      "closeDate": "",
-      "hash": "3019f291051a1274860a6dd8fd836857fc69d9054331a2050e9828669a4a434e"
     },
     {
       "id": "363224",
@@ -13818,15 +13620,6 @@
       "hash": "6314e6a8e4a3eeaea9932c087c243ffd978af73e7da0700b249bb97219637953"
     },
     {
-      "id": "359701",
-      "number": "PAR-26-106",
-      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "03/06/2026",
-      "closeDate": "01/25/2028",
-      "hash": "6659b158408b561005dad608925f2d1d16a285d2098ee1ab1a4e080ba6e8e6d2"
-    },
-    {
       "id": "363070",
       "number": "DFOP0019227",
       "title": "Middle East Regional Cooperation (MERC)",
@@ -13843,15 +13636,6 @@
       "openDate": "09/10/2026",
       "closeDate": "10/16/2026",
       "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
-    },
-    {
-      "id": "363628",
-      "number": "FHWA-ADCM-26-001",
-      "title": "FY25 and FY26 Advanced Digital Construction Management Systems (ADCMS)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/16/2026",
-      "hash": "f5b10eb303905fea3c800955a15d1ae3994bbc51f3c4ba73dfe1c06d299ac890"
     },
     {
       "id": "363791",
@@ -13890,6 +13674,105 @@
       "hash": "4cb90f524f07015ffbce061578c0c6020076756bb5c140976db078be9ea3bb0d"
     },
     {
+      "id": "363514",
+      "number": "030ADV26R0050",
+      "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
+      "status": "posted",
+      "openDate": "08/07/2026",
+      "closeDate": "09/28/2026",
+      "hash": "a7983c6c97df83ef29454b4d94224a651a6a027fec47ffedfd7fe5c85dcd0bae"
+    },
+    {
+      "id": "362859",
+      "number": "HR001126S0013",
+      "title": "Multi Modal Materials Analysis (MMoMA)",
+      "status": "posted",
+      "openDate": "06/17/2026",
+      "closeDate": "09/21/2026",
+      "hash": "6d7ea991000d88bb32801ee2da94f8d5a7a2bc57af81cf833bfb32d34f138d9d"
+    },
+    {
+      "id": "347749",
+      "number": "22-605",
+      "title": "Division of  Chemistry:  Disciplinary Research Programs (CHE-DRP)",
+      "status": "posted",
+      "openDate": "04/26/2023",
+      "closeDate": "",
+      "hash": "e7c90a3429ecc2c70007fc55533e31442a0c9a3488e959a4fb1e3eae648c4205"
+    },
+    {
+      "id": "341244",
+      "number": "22-606",
+      "title": "Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP)",
+      "status": "posted",
+      "openDate": "06/18/2022",
+      "closeDate": "",
+      "hash": "48550991459625204350d39c6a5c10b9adfa9113f1dae8baed2c960c446ba90f"
+    },
+    {
+      "id": "360659",
+      "number": "RFA-DK-27-102",
+      "title": "Collaborative Awards to Support Microphysiological System Pilot Studies in Type 2 Diabetes Research (R21, Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/26/2025",
+      "closeDate": "",
+      "hash": "2212f9817d94972725c3750a67fa10da65fe4bb412d6d9da34cbb65a4dc23e93"
+    },
+    {
+      "id": "363423",
+      "number": "HRSA-27-005",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "eaac38c98f373868164430996244046399c5506b00e91373dff5e930a0ada5ff"
+    },
+    {
+      "id": "363419",
+      "number": "HRSA-27-006",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "e7bacb4ac8ee5f662b379e03cefee7a6024387789c15088e5bec8cd1dcde32b9"
+    },
+    {
+      "id": "363420",
+      "number": "HRSA-27-007",
+      "title": "Fiscal Year (FY) Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "4813c07c460f38d188580c40e81d563d3c8b4acb81eac7d1c3217ace8873ca06"
+    },
+    {
+      "id": "363421",
+      "number": "HRSA-27-008",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "678d6c12111532e98891e5989ad7814573979f48702dbf4bd4cf355111541cbe"
+    },
+    {
+      "id": "343166",
+      "number": "22-627",
+      "title": "Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI)",
+      "status": "posted",
+      "openDate": "08/18/2022",
+      "closeDate": "",
+      "hash": "3556dc03de2294227beaf46121a8867af2e3549ef617eb83e670c8d72c8a549c"
+    },
+    {
+      "id": "363872",
+      "number": "PAR-28-070",
+      "title": "Emerging Global Leader Award (K43)",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "f4262536abae3408ebce307b8d5960033ee7e83c74bce21bc3dc0e9b26864850"
+    },
+    {
       "id": "363233",
       "number": "24-590",
       "title": "Engineering Research Initiation (ERI)",
@@ -13915,6 +13798,159 @@
       "openDate": "07/22/2026",
       "closeDate": "",
       "hash": "94291a3b270689e55e15c462bf194d0dcced2679915c5ff5cab4079c91492ce1"
+    },
+    {
+      "id": "363875",
+      "number": "RFA-MH-27-150",
+      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs)",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "991a12773edaa1cd150fc3469363af1fbb83f215f60fcd7ea6d13b4121950b7f"
+    },
+    {
+      "id": "360296",
+      "number": "HHS-2026-IHS-NIHOE-0001",
+      "title": "National Indian Health Outreach and Education",
+      "status": "posted",
+      "openDate": "09/09/2026",
+      "closeDate": "11/02/2026",
+      "hash": "37ce193d2ca12b6e5e77a1ff901aeeae36e266eb2402907a69e490fe2fcbf253"
+    },
+    {
+      "id": "359701",
+      "number": "PAR-26-106",
+      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "03/06/2026",
+      "closeDate": "01/25/2028",
+      "hash": "6755326b0aef4b1ddc540edb66ae6d18518df45daba9ce74ba67622031214a26"
+    },
+    {
+      "id": "363877",
+      "number": "PAR-29-002",
+      "title": "Development of Models, New Approach Methodologies, and Biological Materials for Studying Human Health and Diseases (R21 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "e54be9dcba88e340ba940edb1e0a0699f14c5aef2b89b9c2cf16c1a3f023b200"
+    },
+    {
+      "id": "363260",
+      "number": "O-COPS-2026-172549",
+      "title": "FY26 Safer Outcomes Program",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "09/18/2026",
+      "hash": "8d52e82a3727b174871f40d3fbbc3a7a53bfd84a8d095b6cd735ef31975f8a25"
+    },
+    {
+      "id": "363876",
+      "number": "PAR-29-005",
+      "title": "Technology Development Program",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "0eab60d985a7040dcf95dca119f510c0a40dfc8bd075b10e0aa62fb278b1373d"
+    },
+    {
+      "id": "363878",
+      "number": "PDR-2600-DC-0006",
+      "title": "FY2026/2027 Community Compass Technical Assistance and Capacity Building Program Notice of Funding Opportunity",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "7c986bd84320305a01d3fbbad2c81d895e5376b45f97f0fe6659feb80f824ace"
+    },
+    {
+      "id": "363873",
+      "number": "RFA-TW-28-001",
+      "title": "Hubs of Interdisciplinary Research and Training in Global Environmental and Occupational Health (GEOHealth)",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "79252969e6ae1d45380ec2bfcecdf1a22e4aad407bc8a39976b243c330e7d122"
+    },
+    {
+      "id": "363874",
+      "number": "RFA-MH-28-115",
+      "title": "Single Source: Scalable and Systematic Neurobiology of Psychiatric and Neurodevelopmental Disorder Risk Genes: Data Resource and Administrative Coordination Center (U24 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "09/16/2026",
+      "closeDate": "",
+      "hash": "d1d92f34d55178dbdce91527fe1151903bca85a2333e685faf5dd0753dc1d3b6"
+    },
+    {
+      "id": "363869",
+      "number": "DE-FOA-0003657",
+      "title": "The DOE Quantum Genesis Q Competition",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "10/19/2026",
+      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
+    },
+    {
+      "id": "363526",
+      "number": "NOFOAFRLAFOSR20260004",
+      "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
+      "status": "posted",
+      "openDate": "08/10/2026",
+      "closeDate": "04/05/2027",
+      "hash": "f2b76fd22881435f37f8aedf7aa5efe8d4d659838fbf108814614c2d31494013"
+    },
+    {
+      "id": "363530",
+      "number": "NOFOAFRLAFOSR20260003",
+      "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
+      "status": "posted",
+      "openDate": "08/10/2026",
+      "closeDate": "04/05/2027",
+      "hash": "49936e61085d5593abe9815543b4b9bb318ed0e65624123dabad810314b8a6bd"
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "status": "posted",
+      "openDate": "10/20/2022",
+      "closeDate": "01/20/2027",
+      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
+    },
+    {
+      "id": "363880",
+      "number": "20261209-EDK-EDU",
+      "title": "Landmarks of History and Culture and Summer Institutes",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "12/09/2026",
+      "hash": "353e8bcd577f7201f2b79ddeb80a11bd067bc0991a2cca95d4a2d14e7debe2be"
+    },
+    {
+      "id": "363757",
+      "number": "DE-FOA-0003617",
+      "title": "Staff Support for Regional Engagement with the U.S. Department of Energy, Office of Nuclear Energy, Office of Storage &amp; Transportation on Radioactive Materials Transportation Planning",
+      "status": "posted",
+      "openDate": "09/01/2026",
+      "closeDate": "09/30/2026",
+      "hash": "7f277289fab56fd4ac8a688f4c456ed25015b7606a41c026119887927c0c715b"
+    },
+    {
+      "id": "363516",
+      "number": "HRSA-27-022",
+      "title": "Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV)",
+      "status": "forecasted",
+      "openDate": "08/10/2026",
+      "closeDate": "",
+      "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
+    },
+    {
+      "id": "363754",
+      "number": "DE-FOA-0003618",
+      "title": "Staff Support to Tribal Radioactive Materials Transportation Committee for Engagement with the United States (U.S.) Department of Energy on Radioactive Materials Transportation Planning",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/30/2026",
+      "hash": "56494708682fba6ba53e799d8e7575ecde1c662cbcc133929e66726d05318ba6"
     }
   ]
 }

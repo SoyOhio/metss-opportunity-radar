@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T15:02:20.249Z",
-  "inventoryCheckedAt": "2026-09-16T15:02:17.187Z",
+  "generatedAt": "2026-09-17T15:05:54.611Z",
+  "inventoryCheckedAt": "2026-09-17T15:05:51.156Z",
   "screeningSnapshotAt": "2026-09-06T14:31:26.709Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1546,
-  "historicalSourceRecords": 2284,
+  "currentActiveSourceRecords": 1550,
+  "historicalSourceRecords": 2294,
   "previouslyScreenedSnapshotRecords": 1586,
-  "currentRecordsCoveredBySnapshot": 972,
-  "currentRecordsRequiringScreening": 574,
-  "newRecordsRequiringScreening": 44,
-  "changedRecordsRequiringScreening": 530,
+  "currentRecordsCoveredBySnapshot": 957,
+  "currentRecordsRequiringScreening": 593,
+  "newRecordsRequiringScreening": 54,
+  "changedRecordsRequiringScreening": 539,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
@@ -141,7 +141,7 @@
         "grantsGovId": "363297",
         "opportunityNumber": "DFOP0019391",
         "title": "Effects of International Parental Child Abduction on Abducted Children and Left-Behind Parents",
-        "status": "posted",
+        "status": "closed",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363297"
       }
     ],
