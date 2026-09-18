@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T15:05:51.156Z",
-  "hitCount": 1550,
+  "updatedAt": "2026-09-18T14:34:18.648Z",
+  "hitCount": 1541,
   "records": [
     {
       "id": "355824",
@@ -7176,15 +7176,6 @@
       "hash": "55f3e1afeefe8fd08d13fb15eccc2dc8d0ffe462b0dd435d04122c38009611c9"
     },
     {
-      "id": "344610",
-      "number": "23-519",
-      "title": "Major Research Instrumentation Program",
-      "status": "posted",
-      "openDate": "11/22/2022",
-      "closeDate": "11/16/2026",
-      "hash": "e3ca8b9520a03a47c3295ef51571463682c7922663b100be27d56e1bd7bfbfb7"
-    },
-    {
       "id": "361821",
       "number": "RFA-AI-28-004",
       "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units",
@@ -9390,33 +9381,6 @@
       "hash": "f1bf44df03754642046103305c981ec1966f02768d8e5cbe185a03d956fe806c"
     },
     {
-      "id": "363103",
-      "number": "FA-NOFO0027-002",
-      "title": "U.S. Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP) Primary Announcement",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "09/17/2026",
-      "hash": "4c4be5efaf157f6063da3d2db3fb3e0fd2b82ce770c116bd8f94415747859eaa"
-    },
-    {
-      "id": "363101",
-      "number": "FA-NOFO0027-001",
-      "title": "Department of Interior Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP)Fire Leaders And Managers, Emerging Scientists (FLAMES)",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "09/17/2026",
-      "hash": "12d77e7f89e904680e95195b862f436ec0faf36f2526b1932c533cf2cc432dff"
-    },
-    {
-      "id": "363102",
-      "number": "FA-NOFO0027-003",
-      "title": "U.S Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP) Regional Fire Science Exchange Announcement",
-      "status": "posted",
-      "openDate": "07/07/2026",
-      "closeDate": "09/17/2026",
-      "hash": "bbb1b9062f904efe341808fdbf706dcad63374c6a12b53def01f4567bb3d7cf9"
-    },
-    {
       "id": "363210",
       "number": "RFA-HD-28-003",
       "title": "Elucidation and Validation of the role of Transporters in the Placenta, Lactating Mammary Gland, Developing Gut, and Blood Brain Barrier",
@@ -10623,15 +10587,6 @@
       "hash": "3e3fcdddef905cbb08e38c3c29b7c3fcf95a7124a73a2a8bf77e1d383c28c61c"
     },
     {
-      "id": "362671",
-      "number": "DHS-26-GPD-159-00-99",
-      "title": "State Border Security Reinforcement Fund",
-      "status": "posted",
-      "openDate": "06/03/2026",
-      "closeDate": "09/17/2026",
-      "hash": "b43bf99348c789a3674fad38fe0b40f54b100e33d081ad43043775373b425092"
-    },
-    {
       "id": "360199",
       "number": "RFA-CK-26-035",
       "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
@@ -10954,15 +10909,6 @@
       "openDate": "08/06/2026",
       "closeDate": "",
       "hash": "3334777ab60288182038e2c8d8ad81b3da431e295b8fc499f0866b4fefe497bb"
-    },
-    {
-      "id": "362962",
-      "number": "HHS-2026-ACF-ORR-RP-0007",
-      "title": "Placement and Coordination Program",
-      "status": "posted",
-      "openDate": "07/31/2026",
-      "closeDate": "09/17/2026",
-      "hash": "4ea66e6ec558c99e095fe36dc3cbacdd73178a6f62511c985239c25079a1d8b1"
     },
     {
       "id": "363519",
@@ -11719,15 +11665,6 @@
       "openDate": "08/03/2026",
       "closeDate": "10/02/2026",
       "hash": "dd81cd948c151195b6f189e0e1a4f2a12ec7851193585f7a6b63d2592bff304a"
-    },
-    {
-      "id": "363662",
-      "number": "EP-U3R-26-002",
-      "title": "Trauma Care Readiness and Coordination Cooperative Agreement",
-      "status": "posted",
-      "openDate": "08/19/2026",
-      "closeDate": "09/18/2026",
-      "hash": "f90cdf7aa334fa7e39381c103ecb6a85b06b81567bc3acf9d0400d0a76f70251"
     },
     {
       "id": "363663",
@@ -13692,33 +13629,6 @@
       "hash": "6d7ea991000d88bb32801ee2da94f8d5a7a2bc57af81cf833bfb32d34f138d9d"
     },
     {
-      "id": "347749",
-      "number": "22-605",
-      "title": "Division of  Chemistry:  Disciplinary Research Programs (CHE-DRP)",
-      "status": "posted",
-      "openDate": "04/26/2023",
-      "closeDate": "",
-      "hash": "e7c90a3429ecc2c70007fc55533e31442a0c9a3488e959a4fb1e3eae648c4205"
-    },
-    {
-      "id": "341244",
-      "number": "22-606",
-      "title": "Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP)",
-      "status": "posted",
-      "openDate": "06/18/2022",
-      "closeDate": "",
-      "hash": "48550991459625204350d39c6a5c10b9adfa9113f1dae8baed2c960c446ba90f"
-    },
-    {
-      "id": "360659",
-      "number": "RFA-DK-27-102",
-      "title": "Collaborative Awards to Support Microphysiological System Pilot Studies in Type 2 Diabetes Research (R21, Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "09/26/2025",
-      "closeDate": "",
-      "hash": "2212f9817d94972725c3750a67fa10da65fe4bb412d6d9da34cbb65a4dc23e93"
-    },
-    {
       "id": "363423",
       "number": "HRSA-27-005",
       "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
@@ -13753,15 +13663,6 @@
       "openDate": "07/31/2026",
       "closeDate": "",
       "hash": "678d6c12111532e98891e5989ad7814573979f48702dbf4bd4cf355111541cbe"
-    },
-    {
-      "id": "343166",
-      "number": "22-627",
-      "title": "Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI)",
-      "status": "posted",
-      "openDate": "08/18/2022",
-      "closeDate": "",
-      "hash": "3556dc03de2294227beaf46121a8867af2e3549ef617eb83e670c8d72c8a549c"
     },
     {
       "id": "363872",
@@ -13881,15 +13782,6 @@
       "hash": "d1d92f34d55178dbdce91527fe1151903bca85a2333e685faf5dd0753dc1d3b6"
     },
     {
-      "id": "363869",
-      "number": "DE-FOA-0003657",
-      "title": "The DOE Quantum Genesis Q Competition",
-      "status": "posted",
-      "openDate": "09/17/2026",
-      "closeDate": "10/19/2026",
-      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
-    },
-    {
       "id": "363526",
       "number": "NOFOAFRLAFOSR20260004",
       "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
@@ -13951,6 +13843,33 @@
       "openDate": "08/31/2026",
       "closeDate": "09/30/2026",
       "hash": "56494708682fba6ba53e799d8e7575ecde1c662cbcc133929e66726d05318ba6"
+    },
+    {
+      "id": "344610",
+      "number": "23-519",
+      "title": "Major Research Instrumentation Program: (MRI)",
+      "status": "posted",
+      "openDate": "11/22/2022",
+      "closeDate": "",
+      "hash": "da6370e3f2a0345e8e375c9a1e1ce0ffffce484926369025651ade0186a5f6ae"
+    },
+    {
+      "id": "363869",
+      "number": "DE-FOA-0003657",
+      "title": "The DOE Quantum Genesis Q Competition",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "10/19/2026",
+      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
+    },
+    {
+      "id": "363662",
+      "number": "EP-U3R-26-002",
+      "title": "Trauma Care Readiness and Coordination Cooperative Agreement",
+      "status": "posted",
+      "openDate": "08/19/2026",
+      "closeDate": "09/18/2026",
+      "hash": "f90cdf7aa334fa7e39381c103ecb6a85b06b81567bc3acf9d0400d0a76f70251"
     }
   ]
 }
