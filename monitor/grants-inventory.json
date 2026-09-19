@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-18T14:34:18.648Z",
-  "hitCount": 1541,
+  "updatedAt": "2026-09-19T13:57:25.290Z",
+  "hitCount": 1528,
   "records": [
     {
       "id": "355824",
@@ -4449,15 +4449,6 @@
       "hash": "c3ebd280cdb3c2db4ae26b643a45e4c63df4bb20f7d5446a38033bc3cd38e8ce"
     },
     {
-      "id": "348258",
-      "number": "PD-18-7607",
-      "title": "Energy, Power, Control, and Networks",
-      "status": "posted",
-      "openDate": "05/19/2023",
-      "closeDate": "",
-      "hash": "ea3bff8f553280faa79d67751f8f680ce3e4cafe9a6787174409d9155a91ce65"
-    },
-    {
       "id": "345738",
       "number": "RFA-OH-24-001",
       "title": "National Center for Construction Safety and Health Research and Translation (U54)",
@@ -4602,15 +4593,6 @@
       "hash": "2aeccc7a7e2f598c3f47589889f8433050747b534807a05436682b2d1a4e5d31"
     },
     {
-      "id": "346204",
-      "number": "PD-18-7564",
-      "title": "Communications, Circuits, and Sensing-Systems",
-      "status": "posted",
-      "openDate": "02/17/2023",
-      "closeDate": "",
-      "hash": "ab476cba2b45354dbe94206037d55b6ae5e8046c5e14afb4be59ab54e441112d"
-    },
-    {
       "id": "334971",
       "number": "RFA-OH-22-005",
       "title": "Commercial Fishing Occupational Safety Research Cooperative Agreement (U01)",
@@ -4654,15 +4636,6 @@
       "openDate": "04/22/2022",
       "closeDate": "",
       "hash": "ae9630eff938ff077f8f2c3972d397e49388bb3704372a55f990bab874e09de5"
-    },
-    {
-      "id": "345872",
-      "number": "PD-18-1517",
-      "title": "Electronics, Photonics and Magnetic Devices",
-      "status": "posted",
-      "openDate": "02/08/2023",
-      "closeDate": "",
-      "hash": "9d0857005faeecf82c408574258ce3df642195a56dd53ad7a7bd4f5ef2567138"
     },
     {
       "id": "344437",
@@ -5896,15 +5869,6 @@
       "openDate": "09/26/2025",
       "closeDate": "",
       "hash": "cfadcfdf45e529bc3b53589072a55f508fb39115d78d1ea1bb28be2ae5095f0b"
-    },
-    {
-      "id": "340828",
-      "number": "22-600",
-      "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
-      "status": "posted",
-      "openDate": "06/01/2022",
-      "closeDate": "09/18/2026",
-      "hash": "b5194f290230f246f5945b3ef927b1a87a86f93eda76410368b4b85efb74ef03"
     },
     {
       "id": "360666",
@@ -8157,33 +8121,6 @@
       "hash": "42e8544fa9855becd24fac5527445ee080455eb263b8b1e1a9082ad11c6b97fb"
     },
     {
-      "id": "358963",
-      "number": "RFA-CA-27-006",
-      "title": "NCI Community Oncology Research Program (NCORP) Research Bases (UG1 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/18/2026",
-      "hash": "50997c25e4e0f4460f312c51a5ae85b8e2e31077b62318cfe40ad44cf335d08b"
-    },
-    {
-      "id": "359132",
-      "number": "RFA-CA-27-008",
-      "title": "NCI Community Oncology Research Program (NCORP) Academic Community Sites (UG1 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/18/2026",
-      "hash": "62d9c70ddc861d326c662681dbb3e9aff0957bf79e37e56b931d996ba9165701"
-    },
-    {
-      "id": "358964",
-      "number": "RFA-CA-27-007",
-      "title": "NCI Community Oncology Research Program (NCORP) Community Sites (UG1 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "09/18/2026",
-      "hash": "8d7be53756871b902722f0b6bc40757ae760ed774755f5d5133aa8218aa84702"
-    },
-    {
       "id": "357826",
       "number": "25-526",
       "title": "Antarctic Research Not Requiring U.S. Antarctic Program (USAP) Field Support",
@@ -8434,15 +8371,6 @@
       "openDate": "06/24/2026",
       "closeDate": "",
       "hash": "060443972b8d383f8d6227e93d7b1b9baaa1d0cd0c2567132f21b2e4a233d793"
-    },
-    {
-      "id": "362851",
-      "number": "HT942526DMDRPCTRA",
-      "title": "DoW Duchenne Muscular Dystrophy, Clinical/Translational Research Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "09/18/2026",
-      "hash": "fd9fe95ea89533171d95421a42ee50614c866a06d0faa635ffe8b33f136e59c2"
     },
     {
       "id": "362958",
@@ -8976,15 +8904,6 @@
       "hash": "b3e333049b85c96644fa648a41528149f42cd654913ea641c9299717478b30d4"
     },
     {
-      "id": "362848",
-      "number": "HT942526DMDRPIDA",
-      "title": "DoW Duchenne Muscular Dystrophy, Idea Development Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "09/18/2026",
-      "hash": "585159cfa5edc154f439e53db88294c1efb82130e3a8af73ef8592de69de91aa"
-    },
-    {
       "id": "362520",
       "number": "HT942526ORPARA",
       "title": "DoW Orthopaedic, Applied Research Award",
@@ -9291,15 +9210,6 @@
       "hash": "ff907f1c7352959d563a64d585fc84b06f0dc7d813853bc9d8c9cdddb8518666"
     },
     {
-      "id": "363180",
-      "number": "F26AS00051",
-      "title": "F26AS00051_FY 2026 Competitive State Wildlife Grant (C-SWG) Program_Funding Opportunity Announcement",
-      "status": "posted",
-      "openDate": "07/14/2026",
-      "closeDate": "09/18/2026",
-      "hash": "a9ce94fcc5024e9faf7e1e429f7ff020684045a2a0d7476d1760df17d64271cb"
-    },
-    {
       "id": "363151",
       "number": "DHS-26-MT-144-000-99",
       "title": "Fiscal Year 2026 Flood Mitigation Assistance Swift Current",
@@ -9496,15 +9406,6 @@
       "openDate": "07/22/2026",
       "closeDate": "",
       "hash": "9581e45edfb672ee98f1638264ba848e7e45528b87578d3440b68476b2c22fbc"
-    },
-    {
-      "id": "363229",
-      "number": "NOAA-NOS-OCM-2026-33239",
-      "title": "National Estuarine Research Reserve System (NERRS) Land Acquisition and Construction Program for Fiscal Year 2026",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "09/18/2026",
-      "hash": "49959407e7f3fc9658baf1be31950a4e4fe13b04f22f01ee28f5e50c999edf01"
     },
     {
       "id": "360004",
@@ -11919,15 +11820,6 @@
       "hash": "51c95df2d9d6f0e8e832a8bf9df1eea28ad242a5d3e952e46f09f861e9434d32"
     },
     {
-      "id": "363728",
-      "number": "P27AS00032",
-      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
-      "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "11/04/2026",
-      "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
-    },
-    {
       "id": "363729",
       "number": "NOAA-NMFS-SE-2027-33642",
       "title": "SEFSC Bluefin Tuna Research Program",
@@ -12628,15 +12520,6 @@
       "openDate": "08/25/2026",
       "closeDate": "10/09/2026",
       "hash": "a9682b27c846fc9f41e30e74743a582148f0a7c8985bf1d110b6f7c02f832754"
-    },
-    {
-      "id": "363711",
-      "number": "O-BJA-2026-172704",
-      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;State Formula",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "09/18/2026",
-      "hash": "2310d5483c22c743b4fe694f8f3a63ce84986b04af1642927d7e4811aa883d0a"
     },
     {
       "id": "363714",
@@ -13359,15 +13242,6 @@
       "hash": "b5ceac45e5c92adc126d483e58d00e7a7c5b96305005f2806f5db87f3853e1f0"
     },
     {
-      "id": "360510",
-      "number": "HHS-2026-ACL-AOA-DASG-0012",
-      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
-      "status": "posted",
-      "openDate": "06/26/2026",
-      "closeDate": "09/18/2026",
-      "hash": "849b6f4cc1d2ed49b0af95bbe98bbfe15aeb1becfc920b26d886f011e33feee9"
-    },
-    {
       "id": "362974",
       "number": "HT942526NFRPNFRASA",
       "title": "DoW Neurofibromatosis Research Academy &ndash; Scholar Award",
@@ -13602,15 +13476,6 @@
       "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
     },
     {
-      "id": "363868",
-      "number": "O-NIJ-2026-172757",
-      "title": "NIJ FY 2026 Invited to Apply - Adolescent Brain Cognitive Development: Social Development Sub-study (ABCD-SD)",
-      "status": "posted",
-      "openDate": "09/16/2026",
-      "closeDate": "09/18/2026",
-      "hash": "4cb90f524f07015ffbce061578c0c6020076756bb5c140976db078be9ea3bb0d"
-    },
-    {
       "id": "363514",
       "number": "030ADV26R0050",
       "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
@@ -13627,15 +13492,6 @@
       "openDate": "06/17/2026",
       "closeDate": "09/21/2026",
       "hash": "6d7ea991000d88bb32801ee2da94f8d5a7a2bc57af81cf833bfb32d34f138d9d"
-    },
-    {
-      "id": "363423",
-      "number": "HRSA-27-005",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "eaac38c98f373868164430996244046399c5506b00e91373dff5e930a0ada5ff"
     },
     {
       "id": "363419",
@@ -13737,15 +13593,6 @@
       "hash": "e54be9dcba88e340ba940edb1e0a0699f14c5aef2b89b9c2cf16c1a3f023b200"
     },
     {
-      "id": "363260",
-      "number": "O-COPS-2026-172549",
-      "title": "FY26 Safer Outcomes Program",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "09/18/2026",
-      "hash": "8d52e82a3727b174871f40d3fbbc3a7a53bfd84a8d095b6cd735ef31975f8a25"
-    },
-    {
       "id": "363876",
       "number": "PAR-29-005",
       "title": "Technology Development Program",
@@ -13791,6 +13638,15 @@
       "hash": "f2b76fd22881435f37f8aedf7aa5efe8d4d659838fbf108814614c2d31494013"
     },
     {
+      "id": "363754",
+      "number": "DE-FOA-0003618",
+      "title": "Staff Support to Tribal Radioactive Materials Transportation Committee for Engagement with the United States (U.S.) Department of Energy on Radioactive Materials Transportation Planning",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "09/30/2026",
+      "hash": "56494708682fba6ba53e799d8e7575ecde1c662cbcc133929e66726d05318ba6"
+    },
+    {
       "id": "363530",
       "number": "NOFOAFRLAFOSR20260003",
       "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
@@ -13798,24 +13654,6 @@
       "openDate": "08/10/2026",
       "closeDate": "04/05/2027",
       "hash": "49936e61085d5593abe9815543b4b9bb318ed0e65624123dabad810314b8a6bd"
-    },
-    {
-      "id": "344124",
-      "number": "23-510",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
-      "status": "posted",
-      "openDate": "10/20/2022",
-      "closeDate": "01/20/2027",
-      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
-    },
-    {
-      "id": "363880",
-      "number": "20261209-EDK-EDU",
-      "title": "Landmarks of History and Culture and Summer Institutes",
-      "status": "posted",
-      "openDate": "09/17/2026",
-      "closeDate": "12/09/2026",
-      "hash": "353e8bcd577f7201f2b79ddeb80a11bd067bc0991a2cca95d4a2d14e7debe2be"
     },
     {
       "id": "363757",
@@ -13827,33 +13665,6 @@
       "hash": "7f277289fab56fd4ac8a688f4c456ed25015b7606a41c026119887927c0c715b"
     },
     {
-      "id": "363516",
-      "number": "HRSA-27-022",
-      "title": "Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV)",
-      "status": "forecasted",
-      "openDate": "08/10/2026",
-      "closeDate": "",
-      "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
-    },
-    {
-      "id": "363754",
-      "number": "DE-FOA-0003618",
-      "title": "Staff Support to Tribal Radioactive Materials Transportation Committee for Engagement with the United States (U.S.) Department of Energy on Radioactive Materials Transportation Planning",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "09/30/2026",
-      "hash": "56494708682fba6ba53e799d8e7575ecde1c662cbcc133929e66726d05318ba6"
-    },
-    {
-      "id": "344610",
-      "number": "23-519",
-      "title": "Major Research Instrumentation Program: (MRI)",
-      "status": "posted",
-      "openDate": "11/22/2022",
-      "closeDate": "",
-      "hash": "da6370e3f2a0345e8e375c9a1e1ce0ffffce484926369025651ade0186a5f6ae"
-    },
-    {
       "id": "363869",
       "number": "DE-FOA-0003657",
       "title": "The DOE Quantum Genesis Q Competition",
@@ -13863,13 +13674,85 @@
       "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
     },
     {
-      "id": "363662",
-      "number": "EP-U3R-26-002",
-      "title": "Trauma Care Readiness and Coordination Cooperative Agreement",
+      "id": "363880",
+      "number": "20261209-EDK-EDU",
+      "title": "Landmarks of History and Culture and Summer Institutes",
       "status": "posted",
-      "openDate": "08/19/2026",
-      "closeDate": "09/18/2026",
-      "hash": "f90cdf7aa334fa7e39381c103ecb6a85b06b81567bc3acf9d0400d0a76f70251"
+      "openDate": "09/17/2026",
+      "closeDate": "12/09/2026",
+      "hash": "353e8bcd577f7201f2b79ddeb80a11bd067bc0991a2cca95d4a2d14e7debe2be"
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "status": "posted",
+      "openDate": "10/20/2022",
+      "closeDate": "01/20/2027",
+      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
+    },
+    {
+      "id": "363516",
+      "number": "HRSA-27-022",
+      "title": "Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV)",
+      "status": "forecasted",
+      "openDate": "08/10/2026",
+      "closeDate": "",
+      "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
+    },
+    {
+      "id": "363423",
+      "number": "HRSA-27-005",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "posted",
+      "openDate": "09/18/2026",
+      "closeDate": "10/19/2026",
+      "hash": "e11554addd3f5db61aab4ac8555a09d8897f67b0fd7acb866f3a3871fd9509f9"
+    },
+    {
+      "id": "363728",
+      "number": "P27AS00032",
+      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+      "status": "posted",
+      "openDate": "08/27/2026",
+      "closeDate": "11/04/2026",
+      "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
+    },
+    {
+      "id": "348258",
+      "number": "PD-18-7607",
+      "title": "Energy, Power, Control, and Networks (EPCN)",
+      "status": "posted",
+      "openDate": "05/19/2023",
+      "closeDate": "",
+      "hash": "6461df91d03ef0fd4de150ffb75ce7ed82d1e1da3051ac54c0c50ab284301715"
+    },
+    {
+      "id": "346204",
+      "number": "PD-18-7564",
+      "title": "Communications, Circuits, and Sensing-Systems (CCSS)",
+      "status": "posted",
+      "openDate": "02/17/2023",
+      "closeDate": "",
+      "hash": "c1cc372e9d10e27e9a4498bd27f84d54b0d54b383216a4110b7f4d5a802e617f"
+    },
+    {
+      "id": "345872",
+      "number": "PD-18-1517",
+      "title": "Electronics, Photonics and Magnetic Devices (EPMD)",
+      "status": "posted",
+      "openDate": "02/08/2023",
+      "closeDate": "",
+      "hash": "e946341c3986aaca6e9a0cf3ffae98ae976beb29e69ad15e3151edc05570119f"
+    },
+    {
+      "id": "361999",
+      "number": "CPD-2600-DC-0025",
+      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
+      "status": "posted",
+      "openDate": "06/01/2026",
+      "closeDate": "09/30/2026",
+      "hash": "af87d51f363e5b2b800da23b1c29487a3c58a4decaa0aa5441b035fb62e08151"
     }
   ]
 }
