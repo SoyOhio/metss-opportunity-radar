@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T13:57:25.290Z",
-  "hitCount": 1528,
+  "updatedAt": "2026-09-20T14:17:19.177Z",
+  "hitCount": 1525,
   "records": [
     {
       "id": "355824",
@@ -13717,33 +13717,6 @@
       "openDate": "08/27/2026",
       "closeDate": "11/04/2026",
       "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
-    },
-    {
-      "id": "348258",
-      "number": "PD-18-7607",
-      "title": "Energy, Power, Control, and Networks (EPCN)",
-      "status": "posted",
-      "openDate": "05/19/2023",
-      "closeDate": "",
-      "hash": "6461df91d03ef0fd4de150ffb75ce7ed82d1e1da3051ac54c0c50ab284301715"
-    },
-    {
-      "id": "346204",
-      "number": "PD-18-7564",
-      "title": "Communications, Circuits, and Sensing-Systems (CCSS)",
-      "status": "posted",
-      "openDate": "02/17/2023",
-      "closeDate": "",
-      "hash": "c1cc372e9d10e27e9a4498bd27f84d54b0d54b383216a4110b7f4d5a802e617f"
-    },
-    {
-      "id": "345872",
-      "number": "PD-18-1517",
-      "title": "Electronics, Photonics and Magnetic Devices (EPMD)",
-      "status": "posted",
-      "openDate": "02/08/2023",
-      "closeDate": "",
-      "hash": "e946341c3986aaca6e9a0cf3ffae98ae976beb29e69ad15e3151edc05570119f"
     },
     {
       "id": "361999",
