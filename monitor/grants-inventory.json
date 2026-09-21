@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T14:17:19.177Z",
-  "hitCount": 1525,
+  "updatedAt": "2026-09-21T16:31:24.921Z",
+  "hitCount": 1532,
   "records": [
     {
       "id": "355824",
@@ -10506,15 +10506,6 @@
       "hash": "fd6931262599c8cbffdd87ca9aec9b85d859fb6374bf5ee5f7480c6a98b0fa1e"
     },
     {
-      "id": "363240",
-      "number": "NNH25ZDA001N-ATMOS",
-      "title": "ROSES25: A.14 Atmosphere",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "10/20/2026",
-      "hash": "5440f7d8085a650e0ee5283a7699e3d9dc0b727633c9ee490e7fad8ab97228c7"
-    },
-    {
       "id": "363241",
       "number": "NNH25ZDA001N-BIOS",
       "title": "ROSES25: A.15 Biosphere",
@@ -11415,15 +11406,6 @@
       "hash": "c2c9b858eeddb641d4857c0b2793a0c7a67dc152b2d0b24ae131fc652d159e33"
     },
     {
-      "id": "363672",
-      "number": "G26AS00136",
-      "title": "Cooperative Agreement for Affiliated Partner with the Hawaii- Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "08/20/2026",
-      "closeDate": "09/20/2026",
-      "hash": "a7d7c92bf5e8c724f0742b51bb906fdb0a679b05908e01978239d7131e3992a6"
-    },
-    {
       "id": "363617",
       "number": "26-519",
       "title": "MPS Chemistry Research Programs (MPS Chem)",
@@ -12000,15 +11982,6 @@
       "hash": "af23468618af8ae5116eca37691fd50e36de4d1702751a0df1eab15747c8bcbc"
     },
     {
-      "id": "363708",
-      "number": "PDS-AUSTRALIA-2026-01",
-      "title": "U.S. Mission to Australia 2026 Annual Program Statement",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "09/20/2026",
-      "hash": "436e83a5f555b4aba4271a3fb847c5e15fcecc4cb6905ef137a5394f04e54c21"
-    },
-    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
@@ -12025,15 +11998,6 @@
       "openDate": "08/25/2026",
       "closeDate": "10/05/2026",
       "hash": "5d8e05249f1d7d9aa74c262cc06896d54869a241c1ab5ec876697c37be9aaa74"
-    },
-    {
-      "id": "363709",
-      "number": "OFOP0003732",
-      "title": "Mission Australia APS, 2026",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "09/20/2026",
-      "hash": "f414e0d6276ca0887b7de0a25be0b62c0021fba1bd787231ea872f094a075ba1"
     },
     {
       "id": "363212",
@@ -12837,6 +12801,42 @@
       "hash": "0b20c24e406b567e2c951ed4d7112c3a6363756d651a0e3cb8118a77a46c1f85"
     },
     {
+      "id": "361999",
+      "number": "CPD-2600-DC-0025",
+      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
+      "status": "posted",
+      "openDate": "06/01/2026",
+      "closeDate": "09/30/2026",
+      "hash": "af87d51f363e5b2b800da23b1c29487a3c58a4decaa0aa5441b035fb62e08151"
+    },
+    {
+      "id": "363423",
+      "number": "HRSA-27-005",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "posted",
+      "openDate": "09/18/2026",
+      "closeDate": "10/19/2026",
+      "hash": "e11554addd3f5db61aab4ac8555a09d8897f67b0fd7acb866f3a3871fd9509f9"
+    },
+    {
+      "id": "363728",
+      "number": "P27AS00032",
+      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+      "status": "posted",
+      "openDate": "08/27/2026",
+      "closeDate": "11/04/2026",
+      "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "status": "posted",
+      "openDate": "10/20/2022",
+      "closeDate": "01/20/2027",
+      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
+    },
+    {
       "id": "362905",
       "number": "HR001126S0011",
       "title": "Information Processing Techniques Office Office-Wide",
@@ -12844,15 +12844,6 @@
       "openDate": "06/22/2026",
       "closeDate": "06/22/2027",
       "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
-    },
-    {
-      "id": "351547",
-      "number": "EPA-OLEM-R10-NC-24-01",
-      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
-      "status": "posted",
-      "openDate": "12/28/2023",
-      "closeDate": "12/31/2029",
-      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
     },
     {
       "id": "362178",
@@ -13269,15 +13260,6 @@
       "hash": "8a3a8aa6b223a121977965549fe6e2257a00a353d4f23e5d8f566419532f1c41"
     },
     {
-      "id": "363224",
-      "number": "NNH25ZDA001N-AES",
-      "title": "ROSES25: A.13 Accelerating Earth Solutions",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "10/15/2026",
-      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
-    },
-    {
       "id": "363864",
       "number": "ETA-UI-2026-01",
       "title": "UI Integrity Center of Excellence Operations",
@@ -13683,13 +13665,40 @@
       "hash": "353e8bcd577f7201f2b79ddeb80a11bd067bc0991a2cca95d4a2d14e7debe2be"
     },
     {
-      "id": "344124",
-      "number": "23-510",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "id": "363893",
+      "number": "O-BJA-2026-172726",
+      "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
       "status": "posted",
-      "openDate": "10/20/2022",
-      "closeDate": "01/20/2027",
-      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
+      "openDate": "09/21/2026",
+      "closeDate": "11/02/2026",
+      "hash": "7073b18d7d977e82795c8d2e87d41e7a9ebff5bfbfd43c1849b2a0fa5f974f69"
+    },
+    {
+      "id": "363900",
+      "number": "O-BJA-2026-172714",
+      "title": "BJA FY 2026 Veterans Treatment Court Program",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "f4444135d3eeee945708491979fdbe8491f4b60f3cc356cafb33e548ef855df2"
+    },
+    {
+      "id": "363890",
+      "number": "O-BJA-2026-172708",
+      "title": "BJA FY 2026 Prosecuting Cold Cases Using DNA",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "38ec7186d8ebbaf17c0b26425ce8849bc497c0171045f2e5a59713ee3f1d5aef"
+    },
+    {
+      "id": "363711",
+      "number": "O-BJA-2026-172704",
+      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;State Formula",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "09/23/2026",
+      "hash": "547f9a2186c692cc4f5830930f72db1f2453fd868a5e281140750a2217a71cc5"
     },
     {
       "id": "363516",
@@ -13701,31 +13710,85 @@
       "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
     },
     {
-      "id": "363423",
-      "number": "HRSA-27-005",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "id": "363889",
+      "number": "O-BJA-2026-172718",
+      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
       "status": "posted",
-      "openDate": "09/18/2026",
-      "closeDate": "10/19/2026",
-      "hash": "e11554addd3f5db61aab4ac8555a09d8897f67b0fd7acb866f3a3871fd9509f9"
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "1121432662acafee2990e19d2b0a86f63b100c428bf83bcc479a8640e3308545"
     },
     {
-      "id": "363728",
-      "number": "P27AS00032",
-      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+      "id": "363891",
+      "number": "O-BJA-2026-172724",
+      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Program (COSSUP) Training and Technical Assistance (TTA)",
       "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "11/04/2026",
-      "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
+      "openDate": "09/21/2026",
+      "closeDate": "11/02/2026",
+      "hash": "60c1ea27424924333eb4de3dd1a328181a94295801feedd0fa3439fbe221059e"
     },
     {
-      "id": "361999",
-      "number": "CPD-2600-DC-0025",
-      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
+      "id": "363888",
+      "number": "O-BJA-2026-172721",
+      "title": "BJA FY 2026 Adult Treatment Court Program",
       "status": "posted",
-      "openDate": "06/01/2026",
-      "closeDate": "09/30/2026",
-      "hash": "af87d51f363e5b2b800da23b1c29487a3c58a4decaa0aa5441b035fb62e08151"
+      "openDate": "09/21/2026",
+      "closeDate": "10/30/2026",
+      "hash": "9c3f4c8371b3fe10c5aa0b26bb3cd022ed711b24a55acdb2134d97f292b3df46"
+    },
+    {
+      "id": "363892",
+      "number": "O-BJA-2026-172717",
+      "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/30/2026",
+      "hash": "a9b0b56298197a84252ec3d40fe150c04765b533cc836090ce4f76b3743d2369"
+    },
+    {
+      "id": "363887",
+      "number": "O-BJA-2026-172715",
+      "title": "BJA FY 2026 Capital Case Litigation Initiative: Improving the Quality of Legal Representation in State Capital Cases",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "0cf1ea943eaab5ab6e58418810ec431514b28952f163acaf2b899e697016fd47"
+    },
+    {
+      "id": "351547",
+      "number": "EPA-OLEM-R10-NC-24-01",
+      "title": "CONTAMINATED ALASKA NATIVE CLAIMS SETTLEMENT ACT LANDS ASSISTANCE PROGRAM",
+      "status": "posted",
+      "openDate": "12/28/2023",
+      "closeDate": "12/31/2029",
+      "hash": "95f74de346b1e95816924fc4b86daa4bef3b89f98f028f6005d41d582f50889c"
+    },
+    {
+      "id": "363898",
+      "number": "O-BJA-2026-172760",
+      "title": "BJA FY 2026 National Center for Veterans Justice",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/30/2026",
+      "hash": "7b76aeecbef93cdca960f8ab7312485d2c870fc917abe58f6e42db36aa990ea7"
+    },
+    {
+      "id": "363240",
+      "number": "NNH25ZDA001N-ATMOS",
+      "title": "ROSES25: A.14 Atmosphere",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "12/02/2026",
+      "hash": "1448e1c17485bd2c66386b68706205a3a1353256ed38837d13dd7aecd1393838"
+    },
+    {
+      "id": "363224",
+      "number": "NNH25ZDA001N-AES",
+      "title": "ROSES25: A.13 Accelerating Earth Solutions",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "10/15/2026",
+      "hash": "225c9e52520863a569e394f437405e0c516f00f6af36481aeccbfa756d4a6dc7"
     }
   ]
 }
