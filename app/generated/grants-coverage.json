@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T16:31:27.914Z",
-  "inventoryCheckedAt": "2026-09-21T16:31:24.921Z",
+  "generatedAt": "2026-09-22T15:02:14.643Z",
+  "inventoryCheckedAt": "2026-09-22T15:02:11.141Z",
   "screeningSnapshotAt": "2026-09-06T14:31:26.709Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1532,
-  "historicalSourceRecords": 2303,
+  "currentActiveSourceRecords": 1536,
+  "historicalSourceRecords": 2320,
   "previouslyScreenedSnapshotRecords": 1586,
-  "currentRecordsCoveredBySnapshot": 945,
-  "currentRecordsRequiringScreening": 587,
-  "newRecordsRequiringScreening": 61,
+  "currentRecordsCoveredBySnapshot": 932,
+  "currentRecordsRequiringScreening": 604,
+  "newRecordsRequiringScreening": 78,
   "changedRecordsRequiringScreening": 526,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
@@ -109,8 +109,15 @@
         "grantsGovId": "363649",
         "opportunityNumber": "DFOP0017890",
         "title": "Advancing Global Health",
-        "status": "posted",
+        "status": "unavailable",
         "sourceUrl": "https://www.grants.gov/search-results-detail/363649"
+      },
+      {
+        "grantsGovId": "363912",
+        "opportunityNumber": "DFOP0017890",
+        "title": "Advancing Global Health",
+        "status": "posted",
+        "sourceUrl": "https://www.grants.gov/search-results-detail/363912"
       }
     ],
     [
