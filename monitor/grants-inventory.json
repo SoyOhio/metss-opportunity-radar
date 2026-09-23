@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T15:02:11.141Z",
-  "hitCount": 1536,
+  "updatedAt": "2026-09-23T15:06:27.429Z",
+  "hitCount": 1534,
   "records": [
     {
       "id": "355824",
@@ -1351,15 +1351,6 @@
       "openDate": "09/22/2023",
       "closeDate": "09/25/2026",
       "hash": "7a4b24bd036d20720fe16ca5b130b73e7330f49e0c4683fccc2196ad4594f384"
-    },
-    {
-      "id": "349655",
-      "number": "23-612",
-      "title": "Division of Materials Research: Topical Materials Research Programs",
-      "status": "posted",
-      "openDate": "08/01/2023",
-      "closeDate": "",
-      "hash": "30d137fa97cf436bb00a1e8ee93df819b159ee0c3b0b1d366413283a4a276d97"
     },
     {
       "id": "349554",
@@ -3790,24 +3781,6 @@
       "openDate": "03/17/2020",
       "closeDate": "09/30/2026",
       "hash": "0118548292244b40076a4a81db2c4947442a65ed981c2013ff10a28275a45708"
-    },
-    {
-      "id": "302273",
-      "number": "PD-18-7970",
-      "title": "Combinatorics",
-      "status": "posted",
-      "openDate": "03/29/2018",
-      "closeDate": "09/22/2026",
-      "hash": "9f41bc7f496016d3c26e87ccdcd36070c7c8e0171c927e757b604adaf957585a"
-    },
-    {
-      "id": "302270",
-      "number": "PD-18-1268",
-      "title": "Foundations",
-      "status": "posted",
-      "openDate": "03/29/2018",
-      "closeDate": "09/22/2026",
-      "hash": "e6798c7dd6074eb0ea0ecd9d438b7c7c77c9f5842b8944c7123b4f7987e3e3f0"
     },
     {
       "id": "355100",
@@ -8724,33 +8697,6 @@
       "hash": "d491841af4254f5f0a5635c5c06066cd4900590cd1dd410627e4aead79360707"
     },
     {
-      "id": "362975",
-      "number": "HT942526NFRPIIRA",
-      "title": "DoW Neurofibromatosis Investigator-Initiated Research Award",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "09/22/2026",
-      "hash": "3a66410adf423cb87b559076597f697635516512fed9268caa91102ae0426473"
-    },
-    {
-      "id": "362976",
-      "number": "HT942526NFRPEHDA",
-      "title": "DoW Neurofibromatosis Exploration-Hypothesis Development Award",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "09/22/2026",
-      "hash": "ad41d00f9b576e24cc4f02df0a3ba126f2a9c6c4c0022621b18e3598c1abda3c"
-    },
-    {
-      "id": "362973",
-      "number": "HT942526NFRPSIA",
-      "title": "DoW Neurofibromatosis Synergistic Idea Award",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "09/22/2026",
-      "hash": "44f46c7c8b51b5a4fd843540bf5df38116e1e2e18ad46a8c71a5c461f846aedf"
-    },
-    {
       "id": "343725",
       "number": "HT942523SBAA1",
       "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
@@ -8767,15 +8713,6 @@
       "openDate": "09/19/2022",
       "closeDate": "09/18/2027",
       "hash": "b4becae8e366fdc271bbfd88568452a636e4eec7ac4db98ffcf4e2b73ffaf579"
-    },
-    {
-      "id": "362321",
-      "number": "HT942526PRMRPCTA",
-      "title": "DoW Peer Reviewed Medical, Clinical Trial Award",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "09/22/2026",
-      "hash": "0e60833f8b1d3b94a2539e688d018a38ef46fe52749a15a740e4fcfe88002942"
     },
     {
       "id": "362222",
@@ -8875,15 +8812,6 @@
       "openDate": "05/01/2026",
       "closeDate": "09/24/2026",
       "hash": "6e4347d661447d34112fb8eb39e59bfcc2632aad67a9c816b38c6c008ffa9b7f"
-    },
-    {
-      "id": "362329",
-      "number": "HT942526PRMRPPCTA",
-      "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "09/22/2026",
-      "hash": "b3e333049b85c96644fa648a41528149f42cd654913ea641c9299717478b30d4"
     },
     {
       "id": "362520",
@@ -9145,15 +9073,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "741263db2b1b47d3e856cc4ab2b7e648b1897fa9e3504ffb0b22dcfc6352c33f"
-    },
-    {
-      "id": "362731",
-      "number": "CDC-RFA-PS-27-0009",
-      "title": "Integrated Viral Hepatitis Surveillance, Testing, Treatment, and Prevention Programs for Health Departments (IVH-STTP)",
-      "status": "forecasted",
-      "openDate": "06/09/2026",
-      "closeDate": "",
-      "hash": "2c1f91ccbbe231e8fba9a6d7792cab3272f6c9c283441693ce099b5d3222f1a1"
     },
     {
       "id": "363168",
@@ -9523,15 +9442,6 @@
       "openDate": "07/28/2026",
       "closeDate": "",
       "hash": "6c296b0dee0ffc41602eeb6ee5807ce7a7cbf4ee59f6643cba6dcb712537e49d"
-    },
-    {
-      "id": "363360",
-      "number": "RFA-DP-27-051",
-      "title": "Implementation Research on Coordinated Combinations of Community-Clinical Linkage Strategies for Diabetes Prevention and Management",
-      "status": "forecasted",
-      "openDate": "07/28/2026",
-      "closeDate": "",
-      "hash": "a7cc18b9cee4735d1439f3bb6bd7cbddc851210d241ea548a9d81948d976072f"
     },
     {
       "id": "363327",
@@ -10281,15 +10191,6 @@
       "hash": "9016584d5d2a505211a296dc987783814d9b60031559ec5387a6b535ae6323f6"
     },
     {
-      "id": "363223",
-      "number": "EPA-OLEM-OBLR-26-01",
-      "title": "FY27 Brownfields Job Training (JT) Grants",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "09/23/2026",
-      "hash": "288bdb6da9ff525bf8c4c5561d1a0ac740a9db42608c8c3db29c1f8f44539cb0"
-    },
-    {
       "id": "363292",
       "number": "RFA-OH-27-044",
       "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
@@ -10315,15 +10216,6 @@
       "openDate": "07/24/2026",
       "closeDate": "09/25/2026",
       "hash": "a0b2bc4eef0a486296ab7991d8bd11880b6e7207029b143563ba7c15c1861ff2"
-    },
-    {
-      "id": "363302",
-      "number": "DE-FOA-0003634",
-      "title": "Advancing Oil and Natural Gas Production and Delivery",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "09/22/2026",
-      "hash": "4884aed1a60b127f2d9cb6d98cce752f7b6c75acfbeadd56894507baa169e8fd"
     },
     {
       "id": "363313",
@@ -11512,15 +11404,6 @@
       "openDate": "08/19/2026",
       "closeDate": "09/28/2026",
       "hash": "e0a34a25e208db90d539987172fda68fe0979cfd780815f91e3a31805c334f87"
-    },
-    {
-      "id": "363641",
-      "number": "NM-PMO1726",
-      "title": "NM-TEST1726",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "09/29/2026",
-      "hash": "e1618e11ccdd1991adb7050ded422841e38e4da16a0619a29334a018f7932124"
     },
     {
       "id": "363648",
@@ -13017,15 +12900,6 @@
       "hash": "b5ceac45e5c92adc126d483e58d00e7a7c5b96305005f2806f5db87f3853e1f0"
     },
     {
-      "id": "362974",
-      "number": "HT942526NFRPNFRASA",
-      "title": "DoW Neurofibromatosis Research Academy &ndash; Scholar Award",
-      "status": "posted",
-      "openDate": "06/25/2026",
-      "closeDate": "09/22/2026",
-      "hash": "43fc25eae24b03cd507cdfb128dca056f6f7efa803da65baf3e34c16cde3e1a3"
-    },
-    {
       "id": "362715",
       "number": "P26AS00125",
       "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
@@ -13611,15 +13485,6 @@
       "hash": "1121432662acafee2990e19d2b0a86f63b100c428bf83bcc479a8640e3308545"
     },
     {
-      "id": "363891",
-      "number": "O-BJA-2026-172724",
-      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Program (COSSUP) Training and Technical Assistance (TTA)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "11/02/2026",
-      "hash": "60c1ea27424924333eb4de3dd1a328181a94295801feedd0fa3439fbe221059e"
-    },
-    {
       "id": "363888",
       "number": "O-BJA-2026-172721",
       "title": "BJA FY 2026 Adult Treatment Court Program",
@@ -13636,15 +13501,6 @@
       "openDate": "09/21/2026",
       "closeDate": "10/30/2026",
       "hash": "a9b0b56298197a84252ec3d40fe150c04765b533cc836090ce4f76b3743d2369"
-    },
-    {
-      "id": "363887",
-      "number": "O-BJA-2026-172715",
-      "title": "BJA FY 2026 Capital Case Litigation Initiative: Improving the Quality of Legal Representation in State Capital Cases",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "hash": "0cf1ea943eaab5ab6e58418810ec431514b28952f163acaf2b899e697016fd47"
     },
     {
       "id": "363913",
@@ -13701,22 +13557,76 @@
       "hash": "fe8445121f4d8ef7733d7ff48b7408ad08343c874a3989031159c87cd93333e6"
     },
     {
-      "id": "363899",
-      "number": "NOFOAFRLAFOSR20260002",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "id": "363223",
+      "number": "EPA-OLEM-OBLR-26-01",
+      "title": "FY27 Brownfields Job Training (JT) Grants",
       "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "0af2047b9dfba837b38688ed426cf1b597d506aa889b64eb4202b53334ad584f"
+      "openDate": "07/17/2026",
+      "closeDate": "09/23/2026",
+      "hash": "288bdb6da9ff525bf8c4c5561d1a0ac740a9db42608c8c3db29c1f8f44539cb0"
     },
     {
-      "id": "363905",
-      "number": "W911NF26S1000",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "id": "363926",
+      "number": "RFA-NS-28-009",
+      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
+      "status": "forecasted",
+      "openDate": "09/23/2026",
+      "closeDate": "",
+      "hash": "06010b5a42c89be01836629eed20d830616414e489eac2c9fe62556cbce03a1a"
+    },
+    {
+      "id": "362731",
+      "number": "CDC-RFA-PS-27-0009",
+      "title": "Integrated Viral Hepatitis Surveillance, Testing, Treatment, and Prevention Programs for Health Departments (IVH-STTP)",
+      "status": "forecasted",
+      "openDate": "06/09/2026",
+      "closeDate": "",
+      "hash": "2c1f91ccbbe231e8fba9a6d7792cab3272f6c9c283441693ce099b5d3222f1a1"
+    },
+    {
+      "id": "349655",
+      "number": "23-612",
+      "title": "Division of Materials Research: Topical Materials Research Programs (MPS Materials)",
+      "status": "posted",
+      "openDate": "08/01/2023",
+      "closeDate": "",
+      "hash": "4cf16a98373e714a15257624da8f3064c2d9a04327b1133894937e6c12795c51"
+    },
+    {
+      "id": "363924",
+      "number": "O-BJA-2026-172680",
+      "title": "BJA FY26 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Competitive Grants Program",
+      "status": "posted",
+      "openDate": "09/23/2026",
+      "closeDate": "11/03/2026",
+      "hash": "311cb1e2d62c284b9cffcee5ec470dbb0cd14983dfc0f7f235741ca7963ac840"
+    },
+    {
+      "id": "363891",
+      "number": "O-BJA-2026-172724",
+      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Program (COSSUP) Training and Technical Assistance (TTA)",
       "status": "posted",
       "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
+      "closeDate": "11/02/2026",
+      "hash": "60c1ea27424924333eb4de3dd1a328181a94295801feedd0fa3439fbe221059e"
+    },
+    {
+      "id": "363919",
+      "number": "O-OJJDP-2026-172767",
+      "title": "OJJDP FY 2026 Invited To Apply - Internet Crimes Against Children (ICAC) Task Forces",
+      "status": "posted",
+      "openDate": "09/22/2026",
+      "closeDate": "09/30/2026",
+      "hash": "3034e82b597d8204bed3380405c510737e647de18090251de52534a62756caad"
+    },
+    {
+      "id": "363921",
+      "number": "O-OJJDP-2026-172764",
+      "title": "OJJDP FY 2026 Invited to Apply - Court Appointed Special Advocates (CASA) Training, Technical Assistance, and Subgrants Program",
+      "status": "posted",
+      "openDate": "09/22/2026",
+      "closeDate": "09/30/2026",
+      "hash": "297817ed9e4f4b2e4c5886f99bb82a58bc4fde0d9237e67fecbe3cab773a4cd6"
     },
     {
       "id": "363906",
@@ -13735,15 +13645,6 @@
       "openDate": "08/25/2026",
       "closeDate": "01/31/2027",
       "hash": "2b0fed21753508fe9673e4848e441084efd723b915bc6764df65c91e9e63bd24"
-    },
-    {
-      "id": "363843",
-      "number": "DFOP0019791",
-      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
-      "status": "posted",
-      "openDate": "09/10/2026",
-      "closeDate": "10/16/2026",
-      "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
     },
     {
       "id": "363878",
@@ -13809,6 +13710,69 @@
       "hash": "ee8ea72d990e41b31885dbf719e4eb453e9eef64dd344fdce17dff39c8977732"
     },
     {
+      "id": "363905",
+      "number": "W911NF26S1000",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
+    },
+    {
+      "id": "363899",
+      "number": "NOFOAFRLAFOSR20260002",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "0af2047b9dfba837b38688ed426cf1b597d506aa889b64eb4202b53334ad584f"
+    },
+    {
+      "id": "363285",
+      "number": "USDA-NRCS-NHQ-FSCP-26-NOFO0001453",
+      "title": "NRCS' Feral Swine Eradication and Control Pilot Program Fiscal Year (FY) 2026",
+      "status": "posted",
+      "openDate": "07/23/2026",
+      "closeDate": "09/25/2026",
+      "hash": "a53701d81cb4354973667da620fa32fbc8e5cdfe835a7efdcfb80ed47644207b"
+    },
+    {
+      "id": "363843",
+      "number": "DFOP0019791",
+      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
+      "status": "posted",
+      "openDate": "09/10/2026",
+      "closeDate": "10/16/2026",
+      "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
+    },
+    {
+      "id": "363917",
+      "number": "CDC-RFA-EH-27-0074",
+      "title": "State Biomonitoring Cooperative Agreement",
+      "status": "forecasted",
+      "openDate": "09/22/2026",
+      "closeDate": "",
+      "hash": "00b3d129ee415d525f00ec1541fe40c2508609f63127d04153a5593e6d7c58de"
+    },
+    {
+      "id": "363360",
+      "number": "RFA-DP-27-051",
+      "title": "Implementation Research on Multi-component Community-Clinical Linkage Approaches for Diabetes Prevention and Management",
+      "status": "forecasted",
+      "openDate": "07/28/2026",
+      "closeDate": "",
+      "hash": "a0cfbfd25c52d96174845b21496cb39ea571d45e2b7dd73ffffbc9c124795af0"
+    },
+    {
+      "id": "363918",
+      "number": "O-NIJ-2025-172769",
+      "title": "NIJ FY25 Invited to Apply - Law Enforcement Advancing Data and Science (LEADS) Scholars Program",
+      "status": "posted",
+      "openDate": "09/22/2026",
+      "closeDate": "09/24/2026",
+      "hash": "d9d4c7965613efc89062c4c0ba618b12e83c1c97622b05cc2665016d316f0dc3"
+    },
+    {
       "id": "363912",
       "number": "DFOP0017890",
       "title": "Advancing Global Health",
@@ -13818,13 +13782,31 @@
       "hash": "4cf5a34ba84416c94cabe2b6ab2811a5ad444d90e2c16586777e6a0aa1f98e3a"
     },
     {
-      "id": "351715",
-      "number": "PD-24-110Z",
-      "title": "ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE)",
+      "id": "363922",
+      "number": "FR-CRS-23-006",
+      "title": "FY23- Bellows Falls Intermodal Center Rehabilitation",
       "status": "posted",
-      "openDate": "01/06/2024",
-      "closeDate": "09/22/2026",
-      "hash": "4440eae1acd7819786f85a3f56a0adb4b0e6042c81f68545736b5cc0d39b8877"
+      "openDate": "09/22/2026",
+      "closeDate": "10/09/2026",
+      "hash": "f57a61a67c322c0fe5e9ef317898432c6b8c41acf04cd97fdbf9a1d0f53c2244"
+    },
+    {
+      "id": "363887",
+      "number": "O-BJA-2026-172715",
+      "title": "BJA FY 2026 Capital Case Litigation Initiative: Improving the Quality of Legal Representation in State Capital Cases",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "0cf1ea943eaab5ab6e58418810ec431514b28952f163acaf2b899e697016fd47"
+    },
+    {
+      "id": "363928",
+      "number": "O-OVC-2026-172777",
+      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; West Bloomfield, Michigan (Crisis)",
+      "status": "posted",
+      "openDate": "09/23/2026",
+      "closeDate": "09/25/2026",
+      "hash": "fadf8abb7f701b38ea55bfa192e892a7f477d983e4eceef8b0875b834f7fe5f2"
     }
   ]
 }
