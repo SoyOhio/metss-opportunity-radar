@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T14:34:34.639Z",
-  "hitCount": 1536,
+  "updatedAt": "2026-09-27T15:12:45.548Z",
+  "hitCount": 1524,
   "records": [
     {
       "id": "355824",
@@ -13350,24 +13350,6 @@
       "hash": "b1735cf56372b381fb05deddc043cccb4aaabb13cbbc166f37850644666565a3"
     },
     {
-      "id": "357105",
-      "number": "25-510",
-      "title": "Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR)",
-      "status": "posted",
-      "openDate": "11/14/2024",
-      "closeDate": "",
-      "hash": "53f25ffc94af4fbd246f39923c1f2eb08ed6b0020e6dc200c0d37ad5b240d57f"
-    },
-    {
-      "id": "349109",
-      "number": "23-602",
-      "title": "Facility and Instrumentation Request Process (FIRP)",
-      "status": "posted",
-      "openDate": "07/06/2023",
-      "closeDate": "",
-      "hash": "2bec241f0d24f607bae5a26124115725f5a441d5bfee614cef42b199178aaa13"
-    },
-    {
       "id": "363949",
       "number": "DFOP0018712",
       "title": "NEA/AC Regional Annual Program Statement",
@@ -13375,24 +13357,6 @@
       "openDate": "09/24/2026",
       "closeDate": "09/30/2026",
       "hash": "756174e46fd5ca85188e4d5db81031b9216b22877449c0ec59b34386e8b49f9e"
-    },
-    {
-      "id": "295449",
-      "number": "PD-17-1620",
-      "title": "Marine Geology and Geophysics (MG&amp;G)",
-      "status": "posted",
-      "openDate": "07/13/2017",
-      "closeDate": "",
-      "hash": "3f53e0ddcd0b5cce9b892d898be6e5c864b611be2855abf83a3b1cd0352bb304"
-    },
-    {
-      "id": "363955",
-      "number": "PD-05-1690",
-      "title": "OCE Education",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "",
-      "hash": "2e6bc754ab4ec5dcbc517e209e1a8de1b6ca7f6d1a1520b5327dffb923cdfc7d"
     },
     {
       "id": "363957",
@@ -13413,24 +13377,6 @@
       "hash": "9b564c6c9df4a89c193a1698cd29d22e919ad1693920408c734fdece802905d9"
     },
     {
-      "id": "356536",
-      "number": "PD-24-7789",
-      "title": "Geospace Cluster (AGS-GC)",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "",
-      "hash": "5f6cd846a082fb82268a64a2359855bb9814b5e5cc4af3ca2d3f96876d3b6d57"
-    },
-    {
-      "id": "332012",
-      "number": "PD-21-7700",
-      "title": "Education Programs in Atmospheric and Geospace Sciences",
-      "status": "posted",
-      "openDate": "03/11/2021",
-      "closeDate": "",
-      "hash": "5d8caae3dd3c73b08a844ed085255626347d2ef15c882ff2f9790a43578c184e"
-    },
-    {
       "id": "363956",
       "number": "CDC-RFA-PS-27-0053",
       "title": "Strengthening Collaboration Between Tuberculosis Control Programs and Affiliated Partners in the United States.",
@@ -13438,15 +13384,6 @@
       "openDate": "09/25/2026",
       "closeDate": "",
       "hash": "2841af41a3862b4eda02075c21ac4c05352e561ac5255e48f6f3fc5230defd94"
-    },
-    {
-      "id": "356538",
-      "number": "PD-24-7790",
-      "title": "Atmosphere Cluster (AGS-AC)",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "",
-      "hash": "89179eaa7afdd042a2bf61afe0179bbd470ff9accdf7d60fce6f26436b076e07"
     },
     {
       "id": "363829",
@@ -13573,33 +13510,6 @@
       "openDate": "09/25/2026",
       "closeDate": "",
       "hash": "efffb4a8d5f62c722eda17a97e9667bc3429a216a6492de7d2ae432ff6267aaf"
-    },
-    {
-      "id": "357578",
-      "number": "25-518",
-      "title": "Structure and Physics of the Solid Earth (SPSE)",
-      "status": "posted",
-      "openDate": "12/07/2024",
-      "closeDate": "",
-      "hash": "11b46c2e6f84c856ae440e4a8c17ae2b935c2b74d45d467a1b70b9905265f181"
-    },
-    {
-      "id": "357579",
-      "number": "25-519",
-      "title": "Water, Landscape, and Critical Zone Processes (WaLCZ)",
-      "status": "posted",
-      "openDate": "12/07/2024",
-      "closeDate": "",
-      "hash": "edad08591047d10e9dbe7ad46f84f076c0706b987fb388bd5b5cf1ebac8896a0"
-    },
-    {
-      "id": "357609",
-      "number": "25-516",
-      "title": "Chemical Evolution of the Solid Earth and Volcanology (CESEV)",
-      "status": "posted",
-      "openDate": "12/10/2024",
-      "closeDate": "",
-      "hash": "dfcf85f821bb360d2637a07e1a16993c542619f81fee65d27ba0d1fa09fc29a0"
     },
     {
       "id": "363960",
@@ -13791,15 +13701,6 @@
       "hash": "63ae29565c2ab46797881a1e6f5c04e54543ba8edf669422982a00c274c77e23"
     },
     {
-      "id": "357580",
-      "number": "25-517",
-      "title": "Life and Environments Through Time (LET)",
-      "status": "posted",
-      "openDate": "12/07/2024",
-      "closeDate": "",
-      "hash": "d3ed2af58627ef15a5dff00ed5a5acd64b3dc9766aa5f204cbb942f5550d8e77"
-    },
-    {
       "id": "361275",
       "number": "PAR-28-056",
       "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
@@ -13807,15 +13708,6 @@
       "openDate": "09/25/2026",
       "closeDate": "11/05/2029",
       "hash": "2f80b0c6f2183f31038dd5e150821cf643f7bccebdbe9f29282742873dff8c27"
-    },
-    {
-      "id": "361931",
-      "number": "CDC-RFA-CK-26-0230",
-      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
-      "status": "posted",
-      "openDate": "07/30/2026",
-      "closeDate": "09/26/2026",
-      "hash": "895d4a216c9f6d4559892f27847f8bca89181ab7edd8bbe5a8febe78aa9a2091"
     },
     {
       "id": "363936",
