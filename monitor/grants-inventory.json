@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-27T15:12:45.548Z",
-  "hitCount": 1524,
+  "updatedAt": "2026-09-28T18:12:30.267Z",
+  "hitCount": 1528,
   "records": [
     {
       "id": "355824",
@@ -11496,15 +11496,6 @@
       "hash": "ea78224a0d8e49197c266ac6a9ff3e997a18d564532b92c409f66bf6737ea206"
     },
     {
-      "id": "363797",
-      "number": "DE-FOA-0003671",
-      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
-      "status": "posted",
-      "openDate": "09/03/2026",
-      "closeDate": "10/05/2026",
-      "hash": "85d4353ac9e2e6305d41f13f38d5d5176ba1fbd5d27b9f7b390f675c23ced7d3"
-    },
-    {
       "id": "363800",
       "number": "RFA-RM-28-004",
       "title": "NIH Director's Early Independence Award (DP5 Clinical Trial Optional)",
@@ -12169,15 +12160,6 @@
       "openDate": "09/11/2026",
       "closeDate": "",
       "hash": "2313ec3eb7c67a37260800379827f08858bd25048a790c2cb6597b11c30934de"
-    },
-    {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/10/2076",
-      "hash": "f81da246e21804844ccee8b2a22b29ce6380439e70238f3d4ab5d61598862c88"
     },
     {
       "id": "363844",
@@ -12972,15 +12954,6 @@
       "hash": "9c3f4c8371b3fe10c5aa0b26bb3cd022ed711b24a55acdb2134d97f292b3df46"
     },
     {
-      "id": "363892",
-      "number": "O-BJA-2026-172717",
-      "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "10/30/2026",
-      "hash": "a9b0b56298197a84252ec3d40fe150c04765b533cc836090ce4f76b3743d2369"
-    },
-    {
       "id": "363913",
       "number": "O-BJA-2026-172709",
       "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
@@ -13413,15 +13386,6 @@
       "hash": "ac6728f102003ed1618feeba41c62c133fa7c2a17e4bdbe8b8cb8c3e1b278faf"
     },
     {
-      "id": "363843",
-      "number": "DFOP0019791",
-      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
-      "status": "posted",
-      "openDate": "09/10/2026",
-      "closeDate": "10/16/2026",
-      "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
-    },
-    {
       "id": "363962",
       "number": "HHS-2027-ACL-AOA-ADPI-0006",
       "title": "Alzheimer's Disease Programs Initiative (ADPI) - Developing Dementia-Capable Community Health Worker Programs in the National Aging Network",
@@ -13638,15 +13602,6 @@
       "hash": "07042beb18d1c4bcf25d6d52d80b67485f3e215472454b795eebb924675c564f"
     },
     {
-      "id": "361304",
-      "number": "PAR-27-045",
-      "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "02/17/2026",
-      "closeDate": "",
-      "hash": "909aaf29df7965dd66b1013d4b2307a58603403637e83690304f7c66880c7a4a"
-    },
-    {
       "id": "363978",
       "number": "CDC-RFA-DP-27-0063",
       "title": "National Breastfeeding Support, Implementation, and Hospital Quality Improvement Initiative",
@@ -13710,6 +13665,15 @@
       "hash": "2f80b0c6f2183f31038dd5e150821cf643f7bccebdbe9f29282742873dff8c27"
     },
     {
+      "id": "361304",
+      "number": "PAR-27-045",
+      "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "10/30/2026",
+      "hash": "fbc6078ef26b6a0d20f9817792aa9b2748eeaf56b65c652232868f4d16c48c37"
+    },
+    {
       "id": "363936",
       "number": "EPA-OAR-OTAQ-26-01",
       "title": "2026 Diesel Emissions Reduction Act (DERA) National Program",
@@ -13717,6 +13681,78 @@
       "openDate": "09/25/2026",
       "closeDate": "01/22/2027",
       "hash": "4308b57972a5265792a6a10e36e30cec1bc5822833c36e53d6f1eb20c952583d"
+    },
+    {
+      "id": "363843",
+      "number": "DFOP0019791",
+      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
+      "status": "posted",
+      "openDate": "09/10/2026",
+      "closeDate": "10/16/2026",
+      "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
+    },
+    {
+      "id": "363983",
+      "number": "NNH26ZTR001N-27NIAC-A1",
+      "title": "NASA Innovative Advanced Concepts (NIAC) Phase I",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "10/28/2026",
+      "hash": "495431e1300b11fa4521616eeb5b16cec4208ef997f3722e42fa1b82da300bf0"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "09/28/2076",
+      "hash": "df67da154da33d2fa2e8256be82fecd5d22fd142d33c6a854a423b1addba090d"
+    },
+    {
+      "id": "363892",
+      "number": "O-BJA-2026-172717",
+      "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "10/30/2026",
+      "hash": "dad43696d1758035fca578c97007b61ea75e37710e0449d852e1b6c30c5d2b4b"
+    },
+    {
+      "id": "363982",
+      "number": "O-OJJDP-2026-172782",
+      "title": "OJJDP FY 2026 Invited to Apply - National Center For Missing &amp; Exploited Children - IAA USSS",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "09/29/2026",
+      "hash": "314ca7f958ac4223f61c73943f1a3053199e54f1fe5428f0d1401f750cc04218"
+    },
+    {
+      "id": "363984",
+      "number": "O-OJJDP-2026-172781",
+      "title": "OJJDP FY 2026 Invited to Apply - National Center for Missing and Exploited Children",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "09/30/2026",
+      "hash": "d71fbaf748eda4ffc6177e5f7069b40c7e2fc9ff84f28099edfbd77aa5ea294b"
+    },
+    {
+      "id": "363985",
+      "number": "P26AS00055",
+      "title": "National Parks Business Plan Internship",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "01/04/2027",
+      "hash": "fef5b2d1a0fc900554a2442bcb8198e937658b14e62034559e96f82359a310af"
+    },
+    {
+      "id": "363797",
+      "number": "DE-FOA-0003671",
+      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+      "status": "posted",
+      "openDate": "09/03/2026",
+      "closeDate": "11/05/2026",
+      "hash": "d1262bf9c99c59c2f13b7265b372465d827e47c8ed03746cc1038dc1a0d81218"
     }
   ]
 }
