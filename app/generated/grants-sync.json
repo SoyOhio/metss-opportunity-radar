@@ -1,12 +1,12 @@
 {
   "source": "Grants.gov public API",
-  "lastSuccessfulCheckAt": "2026-09-30T16:27:16.980Z",
+  "lastSuccessfulCheckAt": "2026-10-01T17:04:47.514Z",
   "lastAttempt": {
-    "id": "grants-2026-09-30T16:26:31.282Z-9f34466c",
+    "id": "grants-2026-10-01T17:03:47.584Z-d8b571ba",
     "status": "success",
-    "startedAt": "2026-09-30T16:26:31.282Z",
-    "completedAt": "2026-09-30T16:27:16.980Z",
-    "durationSeconds": 46,
+    "startedAt": "2026-10-01T17:03:47.584Z",
+    "completedAt": "2026-10-01T17:04:47.514Z",
+    "durationSeconds": 60,
     "scope": {
       "statuses": "forecasted|posted",
       "keyword": null,
@@ -14,30 +14,66 @@
       "pageSize": 100
     },
     "counts": {
-      "fetched": 1524,
-      "created": 8,
-      "updated": 14,
-      "unchanged": 1502,
-      "removedFromActive": 7,
-      "archivedOrClosed": 7,
+      "fetched": 1536,
+      "created": 13,
+      "updated": 64,
+      "unchanged": 1459,
+      "removedFromActive": 40,
+      "archivedOrClosed": 40,
       "failed": 0
     },
     "pagination": {
-      "totalAvailable": 1517,
-      "target": 1517,
-      "uniqueResults": 1517,
-      "pagesRequested": 16,
-      "pagesSucceeded": 16,
+      "totalAvailable": 1496,
+      "target": 1496,
+      "uniqueResults": 1496,
+      "pagesRequested": 15,
+      "pagesSucceeded": 15,
       "pagesFailed": 0
     },
     "integrity": {
-      "storedRecords": 2385,
+      "storedRecords": 2398,
       "duplicateIds": 0,
       "duplicateOpportunityNumbers": 23
     },
     "errors": []
   },
   "recentAttempts": [
+    {
+      "id": "grants-2026-10-01T17:03:47.584Z-d8b571ba",
+      "status": "success",
+      "startedAt": "2026-10-01T17:03:47.584Z",
+      "completedAt": "2026-10-01T17:04:47.514Z",
+      "durationSeconds": 60,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1536,
+        "created": 13,
+        "updated": 64,
+        "unchanged": 1459,
+        "removedFromActive": 40,
+        "archivedOrClosed": 40,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1496,
+        "target": 1496,
+        "uniqueResults": 1496,
+        "pagesRequested": 15,
+        "pagesSucceeded": 15,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2398,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 23
+      },
+      "errors": []
+    },
     {
       "id": "grants-2026-09-30T16:26:31.282Z-9f34466c",
       "status": "success",
@@ -357,42 +393,6 @@
       },
       "integrity": {
         "storedRecords": 2320,
-        "duplicateIds": 0,
-        "duplicateOpportunityNumbers": 23
-      },
-      "errors": []
-    },
-    {
-      "id": "grants-2026-09-21T16:30:33.064Z-09ad4311",
-      "status": "success",
-      "startedAt": "2026-09-21T16:30:33.064Z",
-      "completedAt": "2026-09-21T16:31:24.921Z",
-      "durationSeconds": 52,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": null,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 1535,
-        "created": 9,
-        "updated": 10,
-        "unchanged": 1516,
-        "removedFromActive": 3,
-        "archivedOrClosed": 3,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1532,
-        "target": 1532,
-        "uniqueResults": 1532,
-        "pagesRequested": 16,
-        "pagesSucceeded": 16,
-        "pagesFailed": 0
-      },
-      "integrity": {
-        "storedRecords": 2303,
         "duplicateIds": 0,
         "duplicateOpportunityNumbers": 23
       },
