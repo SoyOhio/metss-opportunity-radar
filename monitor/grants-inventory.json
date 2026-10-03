@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T16:18:45.705Z",
-  "hitCount": 1486,
+  "updatedAt": "2026-10-03T14:46:27.545Z",
+  "hitCount": 1473,
   "records": [
     {
       "id": "355824",
@@ -6267,15 +6267,6 @@
       "hash": "6a6e57e827732dffa1c9ee6ecd52a23228b9190ad4784f316811448c55b180c9"
     },
     {
-      "id": "359949",
-      "number": "RFA-HD-27-006",
-      "title": "Novel Experiential Technologies Assisting Individual Learning (NExT AI) Hubs (P20 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "06/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "3659ee2ffbee7bdc8131c33f46c7fe92c0c0e3f8251fc0d034a74169fdc0853c"
-    },
-    {
       "id": "360368",
       "number": "PA-26-001",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
@@ -6490,15 +6481,6 @@
       "openDate": "04/09/2026",
       "closeDate": "",
       "hash": "40adbc408b15789b5e25fdc6ab6c993f2034da7e6c61d55afd5521d3c85cfab5"
-    },
-    {
-      "id": "346203",
-      "number": "PD-23-221Y",
-      "title": "Growing Research Access for Nationally Transformative Economic Development",
-      "status": "posted",
-      "openDate": "02/17/2023",
-      "closeDate": "",
-      "hash": "815feda58144b2e8d9a1540b202c84853c472e26daab9c634d486887a1d55704"
     },
     {
       "id": "360159",
@@ -6967,15 +6949,6 @@
       "openDate": "06/12/2025",
       "closeDate": "",
       "hash": "4f73202cd30d414a36736f1dad6cdad90624d7c80b95275cec5d25bf3a4332b7"
-    },
-    {
-      "id": "358915",
-      "number": "RFA-HD-27-012",
-      "title": "Limited Competition: Intellectual and Developmental Disabilities Research Centers 2027 (P50 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "05/15/2026",
-      "closeDate": "10/02/2026",
-      "hash": "f8ce720843a2fa92a2be7b761fd0d7be2e82f85b76089d284c37eadcda01386a"
     },
     {
       "id": "357893",
@@ -8524,15 +8497,6 @@
       "openDate": "04/19/2022",
       "closeDate": "07/28/2027",
       "hash": "3eddd50383b9b986b9386d034a869322b1d7e8424a0a7eeae972d75de3737d4c"
-    },
-    {
-      "id": "363489",
-      "number": "HR001126S0016",
-      "title": "Precision Inertial Navigation &amp; Positioning On an Integrated Tesseract (PINPOINT)",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "10/02/2026",
-      "hash": "6f410d762a1eb399d927641a0d6a79201d35ae272c44faa2e98c7d0930803547"
     },
     {
       "id": "363847",
@@ -11037,24 +11001,6 @@
       "hash": "261c73a89be58ad1346ef325816a5cdd178136889344eebbca39fa8fd787ba53"
     },
     {
-      "id": "359269",
-      "number": "RFA-RM-27-014",
-      "title": "Validation Center for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U54 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "10/02/2026",
-      "hash": "2732f4d64da4207377d3dac5cf52f97b76e4cfb5a3f95784cc4a0b28eb4df391"
-    },
-    {
-      "id": "359268",
-      "number": "RFA-RM-27-015",
-      "title": "Logistics Center for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U24 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "10/02/2026",
-      "hash": "0cd328c0c8ef368981c35623f771069c5ed048f169e9d50915eda9ecdca01b0f"
-    },
-    {
       "id": "359271",
       "number": "RFA-RM-27-011",
       "title": "Development and Testing of a Multi-use Frameworks Playbook for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U01 Clinical Trial Not Allowed)",
@@ -11197,15 +11143,6 @@
       "openDate": "07/28/2026",
       "closeDate": "",
       "hash": "a8d9f6d7559eab0bea044b0dae11b429310d95e513832a0cab61db38bbbb0424"
-    },
-    {
-      "id": "363376",
-      "number": "USDA-AMS-TM-SPMGP-G-26-0007",
-      "title": "Sheep Production and Marketing Grant Program FY 2026",
-      "status": "posted",
-      "openDate": "07/29/2026",
-      "closeDate": "10/02/2026",
-      "hash": "8353b7fcd79a7e1c08373635018e1a203f4a36e9557f48e9e00b425f22343b30"
     },
     {
       "id": "363650",
@@ -11433,24 +11370,6 @@
       "hash": "2127d0ff8f96401bb2aae8112d0ce259279a91f0d07b360463d74baec04c2923"
     },
     {
-      "id": "360324",
-      "number": "CDC-RFA-JG-26-0042",
-      "title": "Improving global health security in C&ocirc;te d'Ivoire to stop the spread of infectious disease",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "e690d9232b145e5a7f8574242bf1e86bcffdcccd4fd36e5f4a19241e222e6631"
-    },
-    {
-      "id": "360337",
-      "number": "CDC-RFA-JG-26-0052",
-      "title": "Expanding global health security though local partnerships in Tanzania",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "dd81cd948c151195b6f189e0e1a4f2a12ec7851193585f7a6b63d2592bff304a"
-    },
-    {
       "id": "363664",
       "number": "O-OVW-2026-172651",
       "title": "OVW Fiscal Year 2026 Electronic Service Protection Order Court Pilot Program",
@@ -11478,24 +11397,6 @@
       "hash": "426644c3f425917e243756f7a741cff4e666388a7e50c2f5cd1acfa23bd2e19c"
     },
     {
-      "id": "360332",
-      "number": "CDC-RFA-JG-26-0043",
-      "title": "Expanding global health security through local partnerships in Nigeria",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "ec6942d3bf3abd1150cc9d07a2063ec8bdb744b8fea242b60ff1062c1dfe2d0b"
-    },
-    {
-      "id": "360338",
-      "number": "CDC-RFA-JG-26-0053",
-      "title": "Expanding global health security through local partnerships in Indonesia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "47eef00703e950a3105f5228fcdcffcb2d6ca2d5b2e8c611a3e6869df9ad08ff"
-    },
-    {
       "id": "360611",
       "number": "PAR-27-054",
       "title": "Limited Competition: Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)",
@@ -11512,51 +11413,6 @@
       "openDate": "08/19/2026",
       "closeDate": "10/14/2026",
       "hash": "0d9d35ce1ccc35a8f0801ce4d7bd1b3813d5702f44a6e52bf2a639555096db36"
-    },
-    {
-      "id": "360455",
-      "number": "CDC-RFA-JG-26-0047",
-      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "43cd45b5e34cfaf0f925b286d528c1ac57de2cd3dfc2c0e03b528f1d7dd1fc2d"
-    },
-    {
-      "id": "360336",
-      "number": "CDC-RFA-JG-26-0051",
-      "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "44e7d419c394cdc738890c5ac6f89953bc1cc71a5c6164d18ae3ea94178e3991"
-    },
-    {
-      "id": "360334",
-      "number": "CDC-RFA-JG-26-0048",
-      "title": "Expanding Global Health Security through local partnerships in Senegal",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "d5263d5158c886a6d06e73d3ca5f888cd2c6f11ccf3353a0e7f5206e35ab6a8f"
-    },
-    {
-      "id": "360335",
-      "number": "CDC-RFA-JG-26-0050",
-      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "99bdcccc0230d8378940f6fbaa9dc993ebb2956f1f5f8ade32626644666dbf29"
-    },
-    {
-      "id": "360333",
-      "number": "CDC-RFA-JG-26-0046",
-      "title": "Expanding global health security through local partnerships in Ethiopia",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "10/02/2026",
-      "hash": "e21f276d16f44c9b09e37bded25c551d5172d88d14d41fa1d1c64992d3c09ca1"
     },
     {
       "id": "362681",
@@ -12792,15 +12648,6 @@
       "hash": "4a402670576d8b301e13c76dc4f5ddf8969031e4c04302311acc3d842ba0efe4"
     },
     {
-      "id": "364004",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
-      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/31/2026",
-      "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
-    },
-    {
       "id": "364011",
       "number": "FHWA-PPPP-26-001",
       "title": "Prioritization Process Pilot Program (PPPP) Competitive Grant Program",
@@ -12835,15 +12682,6 @@
       "openDate": "10/08/2024",
       "closeDate": "01/15/2027",
       "hash": "382fa254898c7c1d62395546fe610d65a53b22825695aecf894c19a2fd163b00"
-    },
-    {
-      "id": "363648",
-      "number": "O-BJS-2026-172688",
-      "title": "BJS FY 2026 Consolidated National Criminal History Improvement Program",
-      "status": "posted",
-      "openDate": "08/18/2026",
-      "closeDate": "10/02/2026",
-      "hash": "0f46ef22efebec42bd9658e172a84f7ae8221ed697cbadc0e9578b0c0dd537cb"
     },
     {
       "id": "363902",
@@ -13251,31 +13089,49 @@
       "hash": "a5d74e0bddd0cb7cef7844f95219e8a2e6fbe8ac1a555a5e35fb56d6f6652316"
     },
     {
-      "id": "342747",
-      "number": "22-621",
-      "title": "NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)",
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
       "status": "posted",
-      "openDate": "07/27/2022",
-      "closeDate": "10/15/2026",
-      "hash": "f839de5da96ee525f6ea01ca7671b7b2b0ef3efae509c0669572583ee7f35ce0"
+      "openDate": "07/21/2026",
+      "closeDate": "11/04/2026",
+      "hash": "6de943fd96f9e5fec10204ee9fca4147db48487703c244b49437f7dc6bbe1d89"
     },
     {
-      "id": "343875",
-      "number": "22-639",
-      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
+      "id": "361915",
+      "number": "26-509",
+      "title": "Integrated Data Systems &amp; Services (IDSS)",
       "status": "posted",
-      "openDate": "10/01/2022",
-      "closeDate": "10/02/2076",
-      "hash": "1bf8fa19550484a742df9889eb95e5731dee744a458fd89c742e53af830b22c2"
+      "openDate": "04/15/2026",
+      "closeDate": "07/27/2027",
+      "hash": "84330d09a77f08ea85ef28711446f5c57e6d28a781b3618b0cc5a151e699a0b3"
     },
     {
-      "id": "349280",
-      "number": "23-603",
-      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
+      "id": "363622",
+      "number": "26-524",
+      "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
       "status": "posted",
-      "openDate": "07/14/2023",
-      "closeDate": "10/21/2026",
-      "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
+      "openDate": "08/17/2026",
+      "closeDate": "02/11/2027",
+      "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
+    },
+    {
+      "id": "355270",
+      "number": "24-588",
+      "title": "EPSCoR Graduate Fellowship Program (EGFP)",
+      "status": "posted",
+      "openDate": "07/04/2024",
+      "closeDate": "06/01/2027",
+      "hash": "810ecc33fca43422f963621ceb72c1ec292aeac0eb31494729315d32b56ab42f"
+    },
+    {
+      "id": "362990",
+      "number": "O-BJA-2026-172648",
+      "title": "DOJ FY 2026 Invited to Apply - National Integrated Ballistic Information (NIBIN) Modernization Program",
+      "status": "posted",
+      "openDate": "06/26/2026",
+      "closeDate": "10/13/2026",
+      "hash": "13f0f5953ad32854b16f222bb76a5b6d24f03cbb1a1fc4676aacc46ecc54a749"
     },
     {
       "id": "350802",
@@ -13287,6 +13143,24 @@
       "hash": "47a8a9da91a3e50f9052935349570795b2dfc178b992d09f5c9c37478b748ebf"
     },
     {
+      "id": "343875",
+      "number": "22-639",
+      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
+      "status": "posted",
+      "openDate": "10/01/2022",
+      "closeDate": "10/02/2076",
+      "hash": "1bf8fa19550484a742df9889eb95e5731dee744a458fd89c742e53af830b22c2"
+    },
+    {
+      "id": "342747",
+      "number": "22-621",
+      "title": "NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)",
+      "status": "posted",
+      "openDate": "07/27/2022",
+      "closeDate": "10/15/2026",
+      "hash": "f839de5da96ee525f6ea01ca7671b7b2b0ef3efae509c0669572583ee7f35ce0"
+    },
+    {
       "id": "363233",
       "number": "24-590",
       "title": "Engineering Research Initiation (ERI)",
@@ -13296,6 +13170,15 @@
       "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
     },
     {
+      "id": "349280",
+      "number": "23-603",
+      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
+      "status": "posted",
+      "openDate": "07/14/2023",
+      "closeDate": "10/21/2026",
+      "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
+    },
+    {
       "id": "361604",
       "number": "26-507",
       "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
@@ -13303,15 +13186,6 @@
       "openDate": "03/23/2026",
       "closeDate": "11/18/2026",
       "hash": "7c97085e53412d987ca014c0ef74cdc5eb94608b6f7b2e2525bcbe869e6dcf75"
-    },
-    {
-      "id": "361915",
-      "number": "26-509",
-      "title": "Integrated Data Systems &amp; Services (IDSS)",
-      "status": "posted",
-      "openDate": "04/15/2026",
-      "closeDate": "07/27/2027",
-      "hash": "84330d09a77f08ea85ef28711446f5c57e6d28a781b3618b0cc5a151e699a0b3"
     },
     {
       "id": "363613",
@@ -13341,15 +13215,6 @@
       "hash": "ac3de79607942669898f9a07e10f4d93b445485bba41d9844b2e9f99054c5c51"
     },
     {
-      "id": "363622",
-      "number": "26-524",
-      "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "02/11/2027",
-      "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
-    },
-    {
       "id": "358100",
       "number": "DE-FOA-0003339",
       "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
@@ -13359,15 +13224,6 @@
       "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
     },
     {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "6de943fd96f9e5fec10204ee9fca4147db48487703c244b49437f7dc6bbe1d89"
-    },
-    {
       "id": "359606",
       "number": "PD-98-1391",
       "title": "Archaeology and Archaeometry",
@@ -13375,6 +13231,33 @@
       "openDate": "06/06/2025",
       "closeDate": "",
       "hash": "0450459b042f254c770db2fe19711a9665665d047dc0f8f1aa9fcdd9bc8969ae"
+    },
+    {
+      "id": "346203",
+      "number": "PD-23-221Y",
+      "title": "Growing Research Access for Nationally Transformative Economic Development (GRANTED)",
+      "status": "posted",
+      "openDate": "02/17/2023",
+      "closeDate": "10/02/2076",
+      "hash": "3a0bdea924ee803fd6defaa5ff1d3228d7f7c1dccef939749ee2c2f58206e66f"
+    },
+    {
+      "id": "356537",
+      "number": "PD-24-7791",
+      "title": "Infrastructure Cluster (AGS-IC)",
+      "status": "posted",
+      "openDate": "09/26/2024",
+      "closeDate": "",
+      "hash": "4b55b16fc0d12f5a54ca35490fc7267619cfddc1ebede3b09c6996b4f65ec45c"
+    },
+    {
+      "id": "364004",
+      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
+      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "10/31/2026",
+      "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
     }
   ]
 }
