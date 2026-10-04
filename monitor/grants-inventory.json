@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T14:46:27.545Z",
-  "hitCount": 1473,
+  "updatedAt": "2026-10-04T15:26:16.986Z",
+  "hitCount": 1469,
   "records": [
     {
       "id": "355824",
@@ -6735,15 +6735,6 @@
       "hash": "fab7857887af298d9a92b0f1f3a870f64271fef0974f9fc2f97a63cfcf8327af"
     },
     {
-      "id": "358863",
-      "number": "PAR-25-445",
-      "title": "NIDCD Clinical Research Center Grant (P50 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "09/15/2025",
-      "closeDate": "10/03/2026",
-      "hash": "6a5f46c7feb5bab7ed2f401fa577f927a05e0e3fd41d8e4ece5b9bb5759a900b"
-    },
-    {
       "id": "361769",
       "number": "PA-28-011",
       "title": "NIH Specialized Center Grant (Parent P50)",
@@ -12801,15 +12792,6 @@
       "hash": "48bbbde7b929d88ec46f72a97a36df0c4c1896bf020e91b43541f5b6b3ff6c23"
     },
     {
-      "id": "364017",
-      "number": "25-546",
-      "title": "Foundations for Operating the National Artificial Intelligence Research Resource: the NAIRR Operations Center (NAIRR-OC)",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "",
-      "hash": "d9518eb52435b9d242cb54ccdfb2527c13d4e86f54408b7228091b543cb3b47b"
-    },
-    {
       "id": "360664",
       "number": "25-549",
       "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
@@ -13224,15 +13206,6 @@
       "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
     },
     {
-      "id": "359606",
-      "number": "PD-98-1391",
-      "title": "Archaeology and Archaeometry",
-      "status": "posted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "0450459b042f254c770db2fe19711a9665665d047dc0f8f1aa9fcdd9bc8969ae"
-    },
-    {
       "id": "346203",
       "number": "PD-23-221Y",
       "title": "Growing Research Access for Nationally Transformative Economic Development (GRANTED)",
@@ -13240,15 +13213,6 @@
       "openDate": "02/17/2023",
       "closeDate": "10/02/2076",
       "hash": "3a0bdea924ee803fd6defaa5ff1d3228d7f7c1dccef939749ee2c2f58206e66f"
-    },
-    {
-      "id": "356537",
-      "number": "PD-24-7791",
-      "title": "Infrastructure Cluster (AGS-IC)",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "",
-      "hash": "4b55b16fc0d12f5a54ca35490fc7267619cfddc1ebede3b09c6996b4f65ec45c"
     },
     {
       "id": "364004",
