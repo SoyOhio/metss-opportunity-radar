@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T15:26:16.986Z",
-  "hitCount": 1469,
+  "updatedAt": "2026-10-05T19:20:02.294Z",
+  "hitCount": 1472,
   "records": [
     {
       "id": "355824",
@@ -4449,15 +4449,6 @@
       "hash": "bfcff61f142d2279c1b1c666c4291b18e1695a284dee3d0dcde717a787d9cc60"
     },
     {
-      "id": "351889",
-      "number": "24-527",
-      "title": "GROWING CONVERGENCE RESEARCH",
-      "status": "posted",
-      "openDate": "01/19/2024",
-      "closeDate": "02/08/2027",
-      "hash": "82b3f4e13e5644b0700c288cb0eccb1e431d90c3e80511ede0555d29f116ea92"
-    },
-    {
       "id": "361317",
       "number": "PAR-26-123",
       "title": "Limited Competition: Small Grant Program for the NCATS Clinical and Translational Science Award (CTSA) Program (Clinical Trial Optional)",
@@ -4906,15 +4897,6 @@
       "openDate": "03/29/2018",
       "closeDate": "12/15/2026",
       "hash": "a65ffd3e9137d32ea3a02a766b047ce3d8d5907c482360f0cb99f7cfd6b3b165"
-    },
-    {
-      "id": "361008",
-      "number": "26-501",
-      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
-      "status": "posted",
-      "openDate": "12/12/2025",
-      "closeDate": "",
-      "hash": "41f3e50df180663d282c6655a9d442a948228868484e5f7c654fcdaf68c8dc54"
     },
     {
       "id": "343980",
@@ -6609,15 +6591,6 @@
       "hash": "64bb57731675bb3270eaedd5b144abea12e3209c54ef05fb953e1c0d839cc03b"
     },
     {
-      "id": "355196",
-      "number": "24-586",
-      "title": "NSF National Quantum Virtual Laboratory - Quantum Testbeds",
-      "status": "posted",
-      "openDate": "06/28/2024",
-      "closeDate": "04/06/2027",
-      "hash": "d8552c5def4fe6933eb0aa180f6ae24fd22ee33ba611be1523d99a161e8fa206"
-    },
-    {
       "id": "349343",
       "number": "23-606",
       "title": "Mathematical Sciences Research Institutes",
@@ -7518,15 +7491,6 @@
       "hash": "b3f8898df93374a0e48271b812cd8217725ba5e32795f047de2e71e39b0d7fe8"
     },
     {
-      "id": "361238",
-      "number": "26-503",
-      "title": "Artificial Intelligence and Cybersecurity Education Innovation and Scholarship for Service (CyberAI SFS)",
-      "status": "posted",
-      "openDate": "02/04/2026",
-      "closeDate": "04/05/2027",
-      "hash": "342fd648024eb14684999a45a3381eda425834e8c6a7c6a475d6782f6eb4cfed"
-    },
-    {
       "id": "363508",
       "number": "HRSA-27-046",
       "title": "Rural Residency Planning and Development Program",
@@ -7707,15 +7671,6 @@
       "hash": "ebe65dfac1a4d5adb53d367accdfd5b886c6c1d0fa3c00533791cb92f6fab930"
     },
     {
-      "id": "357724",
-      "number": "25-522",
-      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
-      "status": "posted",
-      "openDate": "12/14/2024",
-      "closeDate": "08/10/2027",
-      "hash": "643030f2b0cb579d814e52dfa6f045a56f46227866c74fb8fdc8071a99d0db63"
-    },
-    {
       "id": "363532",
       "number": "HRSA-27-027",
       "title": "Alliance for Innovation on Maternal Health (AIM) Technical Assistance Center",
@@ -7885,15 +7840,6 @@
       "openDate": "08/17/2026",
       "closeDate": "",
       "hash": "ec30eb406b2eb35a772223559dd5b302fb7da9121cc5fa58a38a1033cb3fb60e"
-    },
-    {
-      "id": "363623",
-      "number": "26-525",
-      "title": "Expeditions in Computing (Expeditions)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "07/27/2027",
-      "hash": "1650b21d29b14cd21137c558de970a7efd328c170c0e6a60cea85c7ee5c93985"
     },
     {
       "id": "362787",
@@ -8191,15 +8137,6 @@
       "openDate": "03/17/2026",
       "closeDate": "12/17/2026",
       "hash": "9016584d5d2a505211a296dc987783814d9b60031559ec5387a6b535ae6323f6"
-    },
-    {
-      "id": "362905",
-      "number": "HR001126S0011",
-      "title": "Information Processing Techniques Office Office-Wide",
-      "status": "posted",
-      "openDate": "06/22/2026",
-      "closeDate": "06/22/2027",
-      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
     },
     {
       "id": "353413",
@@ -9246,15 +9183,6 @@
       "hash": "1eacca2ee3646de87c8980d782def759e9a7d945e9e890f9133f54b7e031067d"
     },
     {
-      "id": "354269",
-      "number": "24-573",
-      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations (FEC)",
-      "status": "posted",
-      "openDate": "05/17/2024",
-      "closeDate": "01/26/2027",
-      "hash": "65a3ebe9fb087913af83298042c8f26355618ae002e01585255117ebbbdf3e54"
-    },
-    {
       "id": "363940",
       "number": "RFA-ES-28-004",
       "title": "Collaborative Centers in Children&rsquo;s Environmental Health Research and Translation (P2C Clinical Trial Optional)",
@@ -9280,15 +9208,6 @@
       "openDate": "12/13/2024",
       "closeDate": "03/06/2027",
       "hash": "913eadaf8dea533da3126be66c3ebc1b1e5638e4db231926763bcb5e39952df3"
-    },
-    {
-      "id": "348599",
-      "number": "23-598",
-      "title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)",
-      "status": "posted",
-      "openDate": "06/08/2023",
-      "closeDate": "10/20/2026",
-      "hash": "c8284a368bf897f12c61eca98507de36e8318bae7bba2c89185b587ae0377e37"
     },
     {
       "id": "363941",
@@ -9534,15 +9453,6 @@
       "hash": "953bcf7292b389c98e82bac9cd742147b8e951a6c8ba54f7d9f0149ddc8a2494"
     },
     {
-      "id": "363621",
-      "number": "26-523",
-      "title": "MPS Physics Research Programs (MPS Physics)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/25/2076",
-      "hash": "9707b848a6a5896332c41bf533806ee7207d401a939168cb6e72245c148a506c"
-    },
-    {
       "id": "363976",
       "number": "HHS-2027-ACL-AOA-LRLI-0007",
       "title": "Lifespan Respite Care Program: State Grants",
@@ -9604,15 +9514,6 @@
       "openDate": "09/25/2026",
       "closeDate": "10/21/2026",
       "hash": "9101f0249dd6f1edea847f46c248778ea5a8e87c28625fec425631ce246cc749"
-    },
-    {
-      "id": "363618",
-      "number": "26-521",
-      "title": "MPS Materials Research Programs (MPS Materials)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/25/2076",
-      "hash": "a8d904f5ec53b3daeffb7e94e6f2a9e68552c380b557e25d321562bdd45de250"
     },
     {
       "id": "361275",
@@ -10785,15 +10686,6 @@
       "hash": "13c0e56c63f77f61e0df495178a83964b12555a3438b075a59cddee9b6af7c1b"
     },
     {
-      "id": "357725",
-      "number": "25-523",
-      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
-      "status": "posted",
-      "openDate": "12/14/2024",
-      "closeDate": "07/20/2027",
-      "hash": "f84faf5e5b044fa5fc05f176ad87abf658e7ab54cf49e827b85d201a62df84a1"
-    },
-    {
       "id": "349586",
       "number": "HT9425-23-S-SOC1",
       "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
@@ -11217,15 +11109,6 @@
       "hash": "3ba5b1ad1fef9367370a0c8ff74e6bcad54d52a9c3170d065d8392dff207be1c"
     },
     {
-      "id": "363481",
-      "number": "26-513",
-      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "11/04/2026",
-      "hash": "00a3c392811dc84867231b9b276e33cfb9ce6a69eec8cb88cec29bea18460447"
-    },
-    {
       "id": "363686",
       "number": "HRSA-27-040",
       "title": "Rural Communities Opioid Response Program - Overdose Response",
@@ -11253,15 +11136,6 @@
       "hash": "c2c9b858eeddb641d4857c0b2793a0c7a67dc152b2d0b24ae131fc652d159e33"
     },
     {
-      "id": "363617",
-      "number": "26-519",
-      "title": "MPS Chemistry Research Programs (MPS Chem)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/20/2076",
-      "hash": "db07c1589639fac558d1a7bd88a43c2799fb22d48b4397f012d212129e35140e"
-    },
-    {
       "id": "363677",
       "number": "HQ003426NFOECAD06",
       "title": "National Center for Narrative Intelligence (NCNI)",
@@ -11278,15 +11152,6 @@
       "openDate": "04/24/2026",
       "closeDate": "08/20/2076",
       "hash": "aa2dc6df04bb341c0345c6621b6069090f89cfacdfc2b56b6bbe2172a3934539"
-    },
-    {
-      "id": "348985",
-      "number": "23-601",
-      "title": "Research Experiences for Undergraduates (REU)",
-      "status": "posted",
-      "openDate": "06/29/2023",
-      "closeDate": "08/18/2027",
-      "hash": "a0fa5d37a834db26ac4eda860ab9c04dba5f20da918be3c5aa0859d23e25ecc5"
     },
     {
       "id": "363678",
@@ -11548,15 +11413,6 @@
       "openDate": "08/24/2026",
       "closeDate": "10/26/2026",
       "hash": "678ea0cd2c08193cce9efdfad98329c5b025c4b485794903d9bdd832bb7fd01c"
-    },
-    {
-      "id": "363615",
-      "number": "26-517",
-      "title": "Core Research in Biological Sciences (BIO Core)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "08/21/2076",
-      "hash": "c938d33037a0d9c9ab86567b8363b3a8fa45baaca8750463c4cbcc5e943a2026"
     },
     {
       "id": "363455",
@@ -12234,15 +12090,6 @@
       "hash": "e76be81edc28309b313a7f75e25c11cf81d71bdd890c3f6f1cd9352c91544ad8"
     },
     {
-      "id": "334326",
-      "number": "21-595",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "status": "posted",
-      "openDate": "06/24/2021",
-      "closeDate": "10/14/2026",
-      "hash": "17f3439e619f24244c19ebe5aceba6cad0b31c6e524fbf1a211f1e18d9475d26"
-    },
-    {
       "id": "363748",
       "number": "CDC-RFA-JG-27-0077",
       "title": "Informing global polio eradication efforts through innovative modeling approaches",
@@ -12259,15 +12106,6 @@
       "openDate": "08/31/2026",
       "closeDate": "",
       "hash": "7517c3106b1d395e592c51cde8b1dba6ae26c6190f0a663ed2f3df447014af5f"
-    },
-    {
-      "id": "363684",
-      "number": "26-516",
-      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
-      "status": "posted",
-      "openDate": "08/21/2026",
-      "closeDate": "08/31/2076",
-      "hash": "59f6501ef67274eadd56446b73da8094756518c92ce7e5c990da9ef2f540f561"
     },
     {
       "id": "359740",
@@ -12486,15 +12324,6 @@
       "hash": "480031279443df2ed15f997d4ced7a173232d5a67641fc426651393d2f839786"
     },
     {
-      "id": "363620",
-      "number": "26-522",
-      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/30/2076",
-      "hash": "844b50a9b91a2ce0ce3495540d724ce66af01d76ecdbc0349c8ba3d23074ccd9"
-    },
-    {
       "id": "364000",
       "number": "O-NIJ-2026-172786",
       "title": "NIJ FY 2026 Invited to Apply - A Universal Method for the Detection of Gunshot Residue using Vibrational Spectroscopy",
@@ -12621,15 +12450,6 @@
       "hash": "3d7c22168625bd53d321451a74c178679efd54e31229b1b05146afd951796abd"
     },
     {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "09/30/2076",
-      "hash": "8f1027e46e56eafb2534072c2eff524ac5afcfd4ee82fa68f17b56774f2a65dd"
-    },
-    {
       "id": "360606",
       "number": "RFA-CA-27-005",
       "title": "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)",
@@ -12747,15 +12567,6 @@
       "hash": "88cfee5e0b90007d26b7e9bc50bc04cd4121ba81a301a68d1aa1bf0677291c9c"
     },
     {
-      "id": "344124",
-      "number": "23-510",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
-      "status": "posted",
-      "openDate": "10/20/2022",
-      "closeDate": "01/20/2027",
-      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
-    },
-    {
       "id": "341086",
       "number": "22-603",
       "title": "Mid-Career Advancement (MCA)",
@@ -12763,24 +12574,6 @@
       "openDate": "06/11/2022",
       "closeDate": "03/01/2027",
       "hash": "28effe4350995369539ca9792bbd59fea240c043a9ddf6ca86672f3f322257b4"
-    },
-    {
-      "id": "327047",
-      "number": "20-576",
-      "title": "Plant Biotic Interactions",
-      "status": "posted",
-      "openDate": "05/14/2020",
-      "closeDate": "10/02/2076",
-      "hash": "99a6bc47202a5a5ef3ee69e7ad642587bc04da9c31b5b32f5419905dbdc653f4"
-    },
-    {
-      "id": "357554",
-      "number": "25-515",
-      "title": "Security, Privacy, and Trust in Cyberspace (NSF SaTC)",
-      "status": "posted",
-      "openDate": "12/06/2024",
-      "closeDate": "01/25/2027",
-      "hash": "412548558438ee728c85687d78ae75712fb79bbf30071ba10d1eabb7e8bfd4e0"
     },
     {
       "id": "364012",
@@ -12801,15 +12594,6 @@
       "hash": "84f7940ffd090a2d73360bdc7a0a8a8f1a598e12712ae5729cc0db6ce6d98457"
     },
     {
-      "id": "358036",
-      "number": "25-533",
-      "title": "Findable Accessible Interoperable Reusable Open Science (FAIROS)",
-      "status": "posted",
-      "openDate": "01/07/2025",
-      "closeDate": "04/14/2027",
-      "hash": "4891c850381010e5381e3845fb62a4344d8bb846c733a5664dd309ed91c1a0f4"
-    },
-    {
       "id": "359499",
       "number": "25-537",
       "title": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems",
@@ -12828,22 +12612,76 @@
       "hash": "59ac66455e23edaf29977acdebbd922df46f42c913354ea0972fd061436f79b3"
     },
     {
-      "id": "361249",
-      "number": "26-504",
-      "title": "Postdoctoral Research Fellowships in Biology (PRFB)",
+      "id": "347680",
+      "number": "23-578",
+      "title": "Infrastructure Innovation for Biological Research (Innovation)",
       "status": "posted",
-      "openDate": "02/05/2026",
-      "closeDate": "09/28/2027",
-      "hash": "a1bbde85b82349b1e2dc085f2819d81aa7833d199fcfd031c3056030c50e6b1e"
+      "openDate": "04/21/2023",
+      "closeDate": "10/02/2076",
+      "hash": "73de7189cb94f352c889ecdd0c5798774a8c46b5caa3c419a27f599c1382cdd0"
     },
     {
-      "id": "357498",
-      "number": "25-514",
-      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM)",
+      "id": "361915",
+      "number": "26-509",
+      "title": "Integrated Data Systems &amp; Services (IDSS)",
       "status": "posted",
-      "openDate": "12/03/2024",
-      "closeDate": "03/02/2027",
-      "hash": "a01dc01b442ecec3be9989a2ee39266c82b841b66ea65c136b5a2a274efd231f"
+      "openDate": "04/15/2026",
+      "closeDate": "07/27/2027",
+      "hash": "e7bfa1c1ad6a20e88b8665e4dd30598c6f6c9c8720ef78d0b780c08670772f3e"
+    },
+    {
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "11/04/2026",
+      "hash": "48679df33dc7101f62c585464e970e033751085fab4a30e118c14d789bc9403a"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "b711461e88a74e4169f465029a67496505c3d7c93cb5467752eb77f06c985e42"
+    },
+    {
+      "id": "358036",
+      "number": "25-533",
+      "title": "Findable Accessible Interoperable Reusable Open Science (FAIROS)",
+      "status": "posted",
+      "openDate": "01/07/2025",
+      "closeDate": "04/14/2027",
+      "hash": "8c792ab48e1b7e0d1e87142b42b78f60e796076dd0a689c4c70c33187788a006"
+    },
+    {
+      "id": "348985",
+      "number": "23-601",
+      "title": "Research Experiences for Undergraduates (REU)",
+      "status": "posted",
+      "openDate": "06/29/2023",
+      "closeDate": "08/18/2027",
+      "hash": "9d691bcfcdbbedf7d31c92507565649e9eabe0c657bf59680a86a7f2d9cdc50f"
+    },
+    {
+      "id": "363620",
+      "number": "26-522",
+      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "4f44d7391bec89c23d8fb7c0c063c8085e3ead4b6cf00836783a3ac4c815e47e"
+    },
+    {
+      "id": "357554",
+      "number": "25-515",
+      "title": "Security, Privacy, and Trust in Cyberspace (NSF SaTC)",
+      "status": "posted",
+      "openDate": "12/06/2024",
+      "closeDate": "01/25/2027",
+      "hash": "833db5cd42bccaa82cc19875d55fca14b354a19c5e34b449900cb7929d1f6afe"
     },
     {
       "id": "360149",
@@ -12852,16 +12690,34 @@
       "status": "posted",
       "openDate": "07/25/2025",
       "closeDate": "02/04/2027",
-      "hash": "b547c0e4427275b7b6f10848a93c8548fdadcc273ebde2901e3dd99be52c05f4"
+      "hash": "d5442bf0fceb3bf3345e80bc8242f7c51b641affd9a83b0493f0cbf8a34b0230"
     },
     {
-      "id": "360350",
-      "number": "25-545",
-      "title": "NSF STEM K-12 (STEM K-12)",
+      "id": "363621",
+      "number": "26-523",
+      "title": "MPS Physics Research Programs (MPS Physics)",
       "status": "posted",
-      "openDate": "08/22/2025",
-      "closeDate": "10/02/2076",
-      "hash": "4dedb6f595153d206f0b6ac9085b9da3e3216d6b85de60260b47f02c1dfdb891"
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "d2017640994fde270b0c00b07d4e2a15998fc321c299d0a9444ae05d480fac02"
+    },
+    {
+      "id": "363623",
+      "number": "26-525",
+      "title": "Expeditions in Computing (Expeditions)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "07/27/2027",
+      "hash": "3fb95bb97e4ba2348e2814e69580a0683b6eb1c6ccd5c8f917383358488178ee"
+    },
+    {
+      "id": "363481",
+      "number": "26-513",
+      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "11/04/2026",
+      "hash": "07c0695bfe7505024ffa5fe3d141866c5080149cb4c9fa20af7408c4ed161bd2"
     },
     {
       "id": "358004",
@@ -12870,16 +12726,16 @@
       "status": "posted",
       "openDate": "01/04/2025",
       "closeDate": "01/20/2027",
-      "hash": "e0e51d6a4ebec36ff11d98b0e76a675dcd22a1dfddb3bb5f0aa9d4df3409ac07"
+      "hash": "52efbf2e7a395f4dce32b7e90a8f6a3652f1eb397f9087c326886daba2bc8fbc"
     },
     {
-      "id": "347680",
-      "number": "23-578",
-      "title": "Infrastructure Innovation for Biological Research (Innovation)",
+      "id": "361238",
+      "number": "26-503",
+      "title": "Artificial Intelligence and Cybersecurity Education Innovation and Scholarship for Service (CyberAI SFS)",
       "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/02/2076",
-      "hash": "73de7189cb94f352c889ecdd0c5798774a8c46b5caa3c419a27f599c1382cdd0"
+      "openDate": "02/04/2026",
+      "closeDate": "04/05/2027",
+      "hash": "342fd648024eb14684999a45a3381eda425834e8c6a7c6a475d6782f6eb4cfed"
     },
     {
       "id": "359657",
@@ -12954,15 +12810,6 @@
       "hash": "607bb751385e90b8bfdd30f8d1041384b50a80bc4d54f61ff3664b37cef65e9b"
     },
     {
-      "id": "364019",
-      "number": "TAT-FY27",
-      "title": "Technical Assistance and Training Grant Program",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
-    },
-    {
       "id": "364018",
       "number": "SWMFY27",
       "title": "Solid Waste Management Grant Program",
@@ -12979,15 +12826,6 @@
       "openDate": "12/01/2022",
       "closeDate": "01/11/2027",
       "hash": "1f975ab4ad5e9d341d70b03a9fdd71ffd2a7311034788f5e8e347d091948e3cf"
-    },
-    {
-      "id": "347026",
-      "number": "23-569",
-      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
-      "status": "posted",
-      "openDate": "03/21/2023",
-      "closeDate": "02/09/2027",
-      "hash": "c37435f3e0e10061bf383a0fe4097deaf3772116a5083791a9231610a7c1d5ce"
     },
     {
       "id": "353936",
@@ -13008,15 +12846,6 @@
       "hash": "734f3ff2af2cb70959799f79370f0cc0c24278a800f85571638ea05ddd729715"
     },
     {
-      "id": "344608",
-      "number": "23-520",
-      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure",
-      "status": "posted",
-      "openDate": "11/22/2022",
-      "closeDate": "01/21/2027",
-      "hash": "9aebe5fbc66f24e5a87eb4ac972edba1907dc277092a92fd94ce57e335904c95"
-    },
-    {
       "id": "347679",
       "number": "23-580",
       "title": "Infrastructure Capacity for Biological Research (Capacity)",
@@ -13024,24 +12853,6 @@
       "openDate": "04/21/2023",
       "closeDate": "10/02/2076",
       "hash": "2457dd7e982e398f3bb781ef2ab0b26b7f6fc2620b4c334aac84e70b57505780"
-    },
-    {
-      "id": "363752",
-      "number": "23-584",
-      "title": "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "12/09/2026",
-      "hash": "ee7d6655bdfa00f43e8fa7b493adf0c89800c52a500b090d8a105a0a15c185a2"
-    },
-    {
-      "id": "359325",
-      "number": "23-589",
-      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
-      "status": "posted",
-      "openDate": "06/06/2025",
-      "closeDate": "09/10/2027",
-      "hash": "a6716aa302ef078611a9b3b1edd4746ac51605ebe92bff0258ec13e50bace0cf"
     },
     {
       "id": "363764",
@@ -13053,42 +12864,6 @@
       "hash": "7ffeeb988bb08ba595eda2691cffbf603ba7ab044e6e1571785209c55bdc74aa"
     },
     {
-      "id": "340828",
-      "number": "22-600",
-      "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
-      "status": "posted",
-      "openDate": "06/01/2022",
-      "closeDate": "09/20/2027",
-      "hash": "7f239e9b3f3972db896073012e080f2349316c98a4809fbc42827a6a6ffd0fcb"
-    },
-    {
-      "id": "356605",
-      "number": "N0001425SB001",
-      "title": "FY25 Long Range Broad Agency Announcement (BAA) for Navy and Marine Corps Science and Technology",
-      "status": "posted",
-      "openDate": "10/01/2024",
-      "closeDate": "12/31/2026",
-      "hash": "a5d74e0bddd0cb7cef7844f95219e8a2e6fbe8ac1a555a5e35fb56d6f6652316"
-    },
-    {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "6de943fd96f9e5fec10204ee9fca4147db48487703c244b49437f7dc6bbe1d89"
-    },
-    {
-      "id": "361915",
-      "number": "26-509",
-      "title": "Integrated Data Systems &amp; Services (IDSS)",
-      "status": "posted",
-      "openDate": "04/15/2026",
-      "closeDate": "07/27/2027",
-      "hash": "84330d09a77f08ea85ef28711446f5c57e6d28a781b3618b0cc5a151e699a0b3"
-    },
-    {
       "id": "363622",
       "number": "26-524",
       "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
@@ -13096,15 +12871,6 @@
       "openDate": "08/17/2026",
       "closeDate": "02/11/2027",
       "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
-    },
-    {
-      "id": "355270",
-      "number": "24-588",
-      "title": "EPSCoR Graduate Fellowship Program (EGFP)",
-      "status": "posted",
-      "openDate": "07/04/2024",
-      "closeDate": "06/01/2027",
-      "hash": "810ecc33fca43422f963621ceb72c1ec292aeac0eb31494729315d32b56ab42f"
     },
     {
       "id": "362990",
@@ -13134,15 +12900,6 @@
       "hash": "1bf8fa19550484a742df9889eb95e5731dee744a458fd89c742e53af830b22c2"
     },
     {
-      "id": "342747",
-      "number": "22-621",
-      "title": "NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)",
-      "status": "posted",
-      "openDate": "07/27/2022",
-      "closeDate": "10/15/2026",
-      "hash": "f839de5da96ee525f6ea01ca7671b7b2b0ef3efae509c0669572583ee7f35ce0"
-    },
-    {
       "id": "363233",
       "number": "24-590",
       "title": "Engineering Research Initiation (ERI)",
@@ -13152,22 +12909,22 @@
       "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
     },
     {
-      "id": "349280",
-      "number": "23-603",
-      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
+      "id": "334326",
+      "number": "21-595",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
       "status": "posted",
-      "openDate": "07/14/2023",
-      "closeDate": "10/21/2026",
-      "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
+      "openDate": "06/24/2021",
+      "closeDate": "10/14/2026",
+      "hash": "17f3439e619f24244c19ebe5aceba6cad0b31c6e524fbf1a211f1e18d9475d26"
     },
     {
-      "id": "361604",
-      "number": "26-507",
-      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
+      "id": "357724",
+      "number": "25-522",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
       "status": "posted",
-      "openDate": "03/23/2026",
-      "closeDate": "11/18/2026",
-      "hash": "7c97085e53412d987ca014c0ef74cdc5eb94608b6f7b2e2525bcbe869e6dcf75"
+      "openDate": "12/14/2024",
+      "closeDate": "08/10/2027",
+      "hash": "643030f2b0cb579d814e52dfa6f045a56f46227866c74fb8fdc8071a99d0db63"
     },
     {
       "id": "363613",
@@ -13197,13 +12954,22 @@
       "hash": "ac3de79607942669898f9a07e10f4d93b445485bba41d9844b2e9f99054c5c51"
     },
     {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "id": "351889",
+      "number": "24-527",
+      "title": "GROWING CONVERGENCE RESEARCH (GCR)",
       "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "11/30/2026",
-      "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
+      "openDate": "01/19/2024",
+      "closeDate": "02/08/2027",
+      "hash": "1aead02b2558924aea98a4961f9226adef1df6c83e02d1cfa9264b3487b36e9e"
+    },
+    {
+      "id": "361604",
+      "number": "26-507",
+      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
+      "status": "posted",
+      "openDate": "03/23/2026",
+      "closeDate": "11/18/2026",
+      "hash": "7c97085e53412d987ca014c0ef74cdc5eb94608b6f7b2e2525bcbe869e6dcf75"
     },
     {
       "id": "346203",
@@ -13215,6 +12981,33 @@
       "hash": "3a0bdea924ee803fd6defaa5ff1d3228d7f7c1dccef939749ee2c2f58206e66f"
     },
     {
+      "id": "354269",
+      "number": "24-573",
+      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations (FEC)",
+      "status": "posted",
+      "openDate": "05/17/2024",
+      "closeDate": "01/26/2027",
+      "hash": "c88888c34cd68059721fb9db6e3b10f220c84ecc4ce02a3c0c06ce5e08e42fe5"
+    },
+    {
+      "id": "357725",
+      "number": "25-523",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems (E-CORE)",
+      "status": "posted",
+      "openDate": "12/14/2024",
+      "closeDate": "07/20/2027",
+      "hash": "592baf6ad385d6dfaf617c1d3877cbc0f22c986e5ed0a8dd841f88ceddfb59be"
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
+    },
+    {
       "id": "364004",
       "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
       "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
@@ -13222,6 +13015,240 @@
       "openDate": "09/30/2026",
       "closeDate": "10/31/2026",
       "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "status": "posted",
+      "openDate": "10/20/2022",
+      "closeDate": "01/20/2027",
+      "hash": "4ca55cf258cbd134044939047b24206e1d31fc77d8da30bb801ad849048f8693"
+    },
+    {
+      "id": "363752",
+      "number": "23-584",
+      "title": "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
+      "status": "posted",
+      "openDate": "08/31/2026",
+      "closeDate": "12/09/2026",
+      "hash": "ee7d6655bdfa00f43e8fa7b493adf0c89800c52a500b090d8a105a0a15c185a2"
+    },
+    {
+      "id": "355270",
+      "number": "24-588",
+      "title": "EPSCoR Graduate Fellowship Program (EGFP)",
+      "status": "posted",
+      "openDate": "07/04/2024",
+      "closeDate": "06/01/2027",
+      "hash": "be052d366b0e7d75bb2206fe8207c85419cf5db1b52ef30de3462d7b5e26c82b"
+    },
+    {
+      "id": "357498",
+      "number": "25-514",
+      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM)",
+      "status": "posted",
+      "openDate": "12/03/2024",
+      "closeDate": "03/02/2027",
+      "hash": "a01dc01b442ecec3be9989a2ee39266c82b841b66ea65c136b5a2a274efd231f"
+    },
+    {
+      "id": "360350",
+      "number": "25-545",
+      "title": "NSF STEM K-12 (STEM K-12)",
+      "status": "posted",
+      "openDate": "08/22/2025",
+      "closeDate": "10/05/2076",
+      "hash": "ac47f422d63ddb6895935e045005db8d78c224523681368b333c5203c78fb591"
+    },
+    {
+      "id": "344608",
+      "number": "23-520",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure",
+      "status": "posted",
+      "openDate": "11/22/2022",
+      "closeDate": "01/21/2027",
+      "hash": "6d2e4fc8622fd8a1bdf87f2a16116ce8e0bdd0684a0e4a3bfe1afb00ee0ed9fd"
+    },
+    {
+      "id": "359325",
+      "number": "23-589",
+      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
+      "status": "posted",
+      "openDate": "06/06/2025",
+      "closeDate": "09/10/2027",
+      "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
+    },
+    {
+      "id": "348599",
+      "number": "23-598",
+      "title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)",
+      "status": "posted",
+      "openDate": "06/08/2023",
+      "closeDate": "10/20/2026",
+      "hash": "3c615bc2ee3f89e631f3b34386cc51d1de0c60b0b70acc244a13c2da610e75a4"
+    },
+    {
+      "id": "356605",
+      "number": "N0001425SB001",
+      "title": "FY25 Long Range Broad Agency Announcement (BAA) for Navy and Marine Corps Science and Technology",
+      "status": "posted",
+      "openDate": "10/01/2024",
+      "closeDate": "12/31/2026",
+      "hash": "a5d74e0bddd0cb7cef7844f95219e8a2e6fbe8ac1a555a5e35fb56d6f6652316"
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "status": "posted",
+      "openDate": "01/08/2025",
+      "closeDate": "11/30/2026",
+      "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
+    },
+    {
+      "id": "327047",
+      "number": "20-576",
+      "title": "Plant Biotic Interactions",
+      "status": "posted",
+      "openDate": "05/14/2020",
+      "closeDate": "10/05/2076",
+      "hash": "8f45cba9b14d2bc577baa8e4759c0f358f41fe7815ff29ae52f0d09084fb3126"
+    },
+    {
+      "id": "364025",
+      "number": "25-534",
+      "title": "Strengthening American Infrastructure (SAI)",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "",
+      "hash": "cb1ce143675bb75c425c999d4bc43028db631a4852828b0dd9ea86c3dfe32c5e"
+    },
+    {
+      "id": "361249",
+      "number": "26-504",
+      "title": "Postdoctoral Research Fellowships in Biology (PRFB)",
+      "status": "posted",
+      "openDate": "02/05/2026",
+      "closeDate": "09/28/2027",
+      "hash": "a1bbde85b82349b1e2dc085f2819d81aa7833d199fcfd031c3056030c50e6b1e"
+    },
+    {
+      "id": "363684",
+      "number": "26-516",
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "status": "posted",
+      "openDate": "08/21/2026",
+      "closeDate": "10/05/2076",
+      "hash": "9fd899968dad4bba5aa1f3004358648e8a1ac165f726cecd0563ddeaedcf72bf"
+    },
+    {
+      "id": "363618",
+      "number": "26-521",
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "46dbcfa03650ddcfa5874a00846a70924ed217f26215f1b1c4c2cd37e9ed55a9"
+    },
+    {
+      "id": "363617",
+      "number": "26-519",
+      "title": "MPS Chemistry Research Programs (MPS Chem)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "c0bcf97bee2febb58981376f705302a9742066b92dc605c2cfa702105da4d226"
+    },
+    {
+      "id": "363615",
+      "number": "26-517",
+      "title": "Core Research in Biological Sciences (BIO Core)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "5ede5d86587235de20203f0afcea4ce4e1f3478e2c4b4116bc792eea98555c5b"
+    },
+    {
+      "id": "349280",
+      "number": "23-603",
+      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
+      "status": "posted",
+      "openDate": "07/14/2023",
+      "closeDate": "10/21/2026",
+      "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
+    },
+    {
+      "id": "355196",
+      "number": "24-586",
+      "title": "NSF National Quantum Virtual Laboratory (NQVL)",
+      "status": "posted",
+      "openDate": "06/28/2024",
+      "closeDate": "04/06/2027",
+      "hash": "90539893139a73ebdbe8db11b5f77520f59286e6106123fcb39a3aaa8479c245"
+    },
+    {
+      "id": "364024",
+      "number": "NNH26ZTR001N-26STRI-B3",
+      "title": "Space Technology Research Institutes",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "11/03/2026",
+      "hash": "bb8bef4b89dbb24351a5cda6a1ee213d09012bf2680f22a3e2c97be20bb1ca08"
+    },
+    {
+      "id": "342747",
+      "number": "22-621",
+      "title": "NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)",
+      "status": "posted",
+      "openDate": "07/27/2022",
+      "closeDate": "10/15/2026",
+      "hash": "f839de5da96ee525f6ea01ca7671b7b2b0ef3efae509c0669572583ee7f35ce0"
+    },
+    {
+      "id": "340828",
+      "number": "22-600",
+      "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
+      "status": "posted",
+      "openDate": "06/01/2022",
+      "closeDate": "09/20/2027",
+      "hash": "926e5fd7ecb62c258823bf5471395a18ae81ce101496fe0cd1e19101bf502ea3"
+    },
+    {
+      "id": "362905",
+      "number": "HR001126S0011",
+      "title": "Information Processing Techniques Office Office-Wide",
+      "status": "posted",
+      "openDate": "06/22/2026",
+      "closeDate": "06/22/2027",
+      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
+    },
+    {
+      "id": "364019",
+      "number": "TAT-FY27",
+      "title": "Technical Assistance and Training Grant Program",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
+    },
+    {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "status": "posted",
+      "openDate": "03/21/2023",
+      "closeDate": "02/09/2027",
+      "hash": "e16930f4ced578b9a13fa29be79cbed33f50de5c0a0ad8999a6153cba0901e91"
+    },
+    {
+      "id": "361008",
+      "number": "26-501",
+      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "status": "posted",
+      "openDate": "12/12/2025",
+      "closeDate": "10/05/2076",
+      "hash": "12db6e9dcbaaaa10120d6ecbb8c435d8c7b887f9e7a8a8799b5d76df50184d80"
     }
   ]
 }
