@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T19:20:02.294Z",
-  "hitCount": 1472,
+  "updatedAt": "2026-10-06T16:52:23.549Z",
+  "hitCount": 1467,
   "records": [
     {
       "id": "355824",
@@ -6555,15 +6555,6 @@
       "hash": "447a65fd18257143b06b8ab72ff8f981a1d99d4b4f70ac6a794cf677383d6b75"
     },
     {
-      "id": "361952",
-      "number": "PD-26-1341",
-      "title": "Professional Formation of Engineers",
-      "status": "posted",
-      "openDate": "04/17/2026",
-      "closeDate": "",
-      "hash": "03fa2b73b1be86ca9eaba70f1d9aebd752e2e0be36ecdbfbae777d63f112f5f2"
-    },
-    {
       "id": "362012",
       "number": "PIH-2600-DC-0014",
       "title": "Jobs Plus NOFO for FY2026",
@@ -6915,15 +6906,6 @@
       "hash": "4f73202cd30d414a36736f1dad6cdad90624d7c80b95275cec5d25bf3a4332b7"
     },
     {
-      "id": "357893",
-      "number": "25-525",
-      "title": "Antarctic Research Requiring U.S. Antarctic Program (USAP) Support for Fieldwork",
-      "status": "posted",
-      "openDate": "12/22/2024",
-      "closeDate": "06/01/2027",
-      "hash": "094594f4ae2125154d9d7fddb8ea6b2202021116c4efdb72de0fbf5dca09facd"
-    },
-    {
       "id": "362749",
       "number": "F26AS00083",
       "title": "F26AS00083 Aquatic Invasive Species Grants to Great Lakes States - Fiscal Year 2026 Great Lakes Restoration Initiative",
@@ -7203,15 +7185,6 @@
       "hash": "42e8544fa9855becd24fac5527445ee080455eb263b8b1e1a9082ad11c6b97fb"
     },
     {
-      "id": "357826",
-      "number": "25-526",
-      "title": "Antarctic Research Not Requiring U.S. Antarctic Program (USAP) Field Support",
-      "status": "posted",
-      "openDate": "12/19/2024",
-      "closeDate": "01/15/2027",
-      "hash": "849e2e77594fdd8158883efdf950c4925c057beb9aefccd0f3033e3b89c20834"
-    },
-    {
       "id": "359966",
       "number": "25-540",
       "title": "National Science Foundation Translation to Practice",
@@ -7480,15 +7453,6 @@
       "openDate": "08/07/2020",
       "closeDate": "02/02/2027",
       "hash": "cfe4d7c4cb4af682170e35efcd88ed44ec5fd0c20fdfbc23d7e6e0f4c3bb6623"
-    },
-    {
-      "id": "349724",
-      "number": "23-572",
-      "title": "Arctic Research Opportunities",
-      "status": "posted",
-      "openDate": "08/02/2023",
-      "closeDate": "01/15/2027",
-      "hash": "b3f8898df93374a0e48271b812cd8217725ba5e32795f047de2e71e39b0d7fe8"
     },
     {
       "id": "363508",
@@ -8191,51 +8155,6 @@
       "openDate": "08/19/2026",
       "closeDate": "10/15/2026",
       "hash": "2d891c049d29be40d93a50ec16d2a5fa3d29c05f2d341b30880b227b5a7f662a"
-    },
-    {
-      "id": "363821",
-      "number": "W9126G262SOI9557",
-      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "0eae537fbcc21d7c636c2b3f700075c367aca63e77cb3a1a9622e0cc3fa279f4"
-    },
-    {
-      "id": "363820",
-      "number": "W9126G262SOI9486",
-      "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "2c01087c60bcfb9a340fbdfde736a6b2afd79815a1410c8ae818808c86d11f2d"
-    },
-    {
-      "id": "363822",
-      "number": "W9126G262SOI9558",
-      "title": "American Alligators as Ecological Indicators of Everglades Restoration",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "1fca2c0574ee58a870251779fac2d099a8c1bd2ab76a44e757e129ade65218b9"
-    },
-    {
-      "id": "363819",
-      "number": "W9126G262SOI9482",
-      "title": "Juvenile Sportfish Community and Habitat Suitability in Florida Bay",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "45219b77bea926df8b91abce72ef394a4404b734ce02ec23da1622d574e814ab"
-    },
-    {
-      "id": "363823",
-      "number": "W9126G262SOI9597",
-      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
-      "status": "posted",
-      "openDate": "09/04/2026",
-      "closeDate": "10/05/2026",
-      "hash": "a56c8ecaf9c6e23ef1b05e7daadd47a2377af5321dec0f84980bc668b3111410"
     },
     {
       "id": "363834",
@@ -9624,15 +9543,6 @@
       "hash": "cb8a6249dc8bbc76937bb7b691b9d1e287d5d7f93624789699d6330e48671acb"
     },
     {
-      "id": "361896",
-      "number": "20-597",
-      "title": "Arctic Doctoral Dissertation Research Improvement Grants (Arctic DDRIG)  Arctic Social Sciences, Arctic System Sciences, and Arctic Observing Network",
-      "status": "posted",
-      "openDate": "04/14/2026",
-      "closeDate": "12/15/2026",
-      "hash": "60e925f06f203c46d953b8095c336e675fe2a008dd8355777b0a0c03e894ed03"
-    },
-    {
       "id": "362957",
       "number": "RFA-AI-28-006",
       "title": "Clinical Data, Safety and Statistical Centers (CDSSC)",
@@ -9856,15 +9766,6 @@
       "openDate": "05/05/2026",
       "closeDate": "11/12/2026",
       "hash": "8a86570132dfc9f12f9bac97098323f2f6b903d2a20a23593de05230aafa7b97"
-    },
-    {
-      "id": "362268",
-      "number": "HT942526PRCRPCTA",
-      "title": "DoW Peer Reviewed Cancer, Clinical Trial Award",
-      "status": "posted",
-      "openDate": "05/06/2026",
-      "closeDate": "10/05/2026",
-      "hash": "97eb08f2802e220d85d796c131e26fc5717b3c7be218bea1bdc238b7c7e71cc5"
     },
     {
       "id": "362866",
@@ -10092,15 +9993,6 @@
       "hash": "f2b7e5f393d6547c98ed970eaa37e5bd1e7c9bbefc96974b93a42917a759b904"
     },
     {
-      "id": "362265",
-      "number": "HT942526PRCRPIA",
-      "title": "DoW Peer Reviewed Cancer, Idea Award",
-      "status": "posted",
-      "openDate": "05/06/2026",
-      "closeDate": "10/05/2026",
-      "hash": "fcdc66d00e7b45b0527a247c1ed6e7226528849526378283c816e2b6aeb69777"
-    },
-    {
       "id": "362246",
       "number": "HT942526MRPSRA",
       "title": "DoW Melanoma Research Program Survivorship Research Award",
@@ -10198,15 +10090,6 @@
       "openDate": "05/21/2026",
       "closeDate": "10/14/2026",
       "hash": "61b2dd167cbe33f809f45ae9b9233b682e4573bf119b57517d2880ccf4b8a035"
-    },
-    {
-      "id": "362267",
-      "number": "HT942526PRCRPIPA",
-      "title": "DoW, Peer Reviewed Cancer, Impact Award",
-      "status": "posted",
-      "openDate": "05/06/2026",
-      "closeDate": "10/05/2026",
-      "hash": "ba0c747c0ef746e34d730cc5d8ff53eb7fd5ee2ca864681034f34fe7932afb63"
     },
     {
       "id": "362531",
@@ -11478,15 +11361,6 @@
       "hash": "af23468618af8ae5116eca37691fd50e36de4d1702751a0df1eab15747c8bcbc"
     },
     {
-      "id": "363710",
-      "number": "O-BJA-2026-172706",
-      "title": "BJA FY 2026 Crisis Response Training Program",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "10/05/2026",
-      "hash": "5d8e05249f1d7d9aa74c262cc06896d54869a241c1ab5ec876697c37be9aaa74"
-    },
-    {
       "id": "363446",
       "number": "NHTSA-693JJ926R000024-FY26",
       "title": "Innovative Traffic Safety Enforcement (ITSE) Grant Program",
@@ -12081,15 +11955,6 @@
       "hash": "43833e065f20a4e9bd86ace8ae290f8f01a53407e43b352c8f741406dd25902b"
     },
     {
-      "id": "361333",
-      "number": "26-506",
-      "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
-      "status": "posted",
-      "openDate": "02/19/2026",
-      "closeDate": "03/02/2027",
-      "hash": "e76be81edc28309b313a7f75e25c11cf81d71bdd890c3f6f1cd9352c91544ad8"
-    },
-    {
       "id": "363748",
       "number": "CDC-RFA-JG-27-0077",
       "title": "Informing global polio eradication efforts through innovative modeling approaches",
@@ -12151,24 +12016,6 @@
       "openDate": "08/27/2026",
       "closeDate": "11/04/2026",
       "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
-    },
-    {
-      "id": "363998",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION3-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "hash": "b3163e9b1c73692aa8a11c854a8d7e789698658ad63cefe1abbbcca83088eb4f"
-    },
-    {
-      "id": "363996",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION1-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "hash": "214c365de109603159d34f1d375b3c1dbbc61b4f4abfa4b00a91ea893a038297"
     },
     {
       "id": "360402",
@@ -12358,15 +12205,6 @@
       "openDate": "09/30/2026",
       "closeDate": "10/30/2026",
       "hash": "4a809c6159a8487a223e3e4221bbde73f8af2babfbcf9a72aff65cf5e6cbf151"
-    },
-    {
-      "id": "362715",
-      "number": "P26AS00125",
-      "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
-      "status": "posted",
-      "openDate": "06/08/2026",
-      "closeDate": "11/01/2030",
-      "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
     },
     {
       "id": "350561",
@@ -12585,15 +12423,6 @@
       "hash": "48bbbde7b929d88ec46f72a97a36df0c4c1896bf020e91b43541f5b6b3ff6c23"
     },
     {
-      "id": "360664",
-      "number": "25-549",
-      "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
-      "status": "posted",
-      "openDate": "09/26/2025",
-      "closeDate": "10/02/2076",
-      "hash": "84f7940ffd090a2d73360bdc7a0a8a8f1a598e12712ae5729cc0db6ce6d98457"
-    },
-    {
       "id": "359499",
       "number": "25-537",
       "title": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems",
@@ -12610,15 +12439,6 @@
       "openDate": "10/02/2026",
       "closeDate": "",
       "hash": "59ac66455e23edaf29977acdebbd922df46f42c913354ea0972fd061436f79b3"
-    },
-    {
-      "id": "347680",
-      "number": "23-578",
-      "title": "Infrastructure Innovation for Biological Research (Innovation)",
-      "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/02/2076",
-      "hash": "73de7189cb94f352c889ecdd0c5798774a8c46b5caa3c419a27f599c1382cdd0"
     },
     {
       "id": "361915",
@@ -12738,6 +12558,87 @@
       "hash": "342fd648024eb14684999a45a3381eda425834e8c6a7c6a475d6782f6eb4cfed"
     },
     {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silicon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "9ec6bfd6b38e3ad2a23335c1ee0394a567cd35f26f70d81c0cb8b5f8bd3e885b"
+    },
+    {
+      "id": "361896",
+      "number": "20-597",
+      "title": "Arctic Doctoral Dissertation Research Improvement Grants (Arctic DDRIG)  Arctic Social Sciences, Arctic System Sciences, and Arctic Observing Network (DDRIG)",
+      "status": "posted",
+      "openDate": "04/14/2026",
+      "closeDate": "12/15/2026",
+      "hash": "43ad3cafd534cb9faac9cc7f99786f0030cd56d61814ff18c202ae924bddef13"
+    },
+    {
+      "id": "349724",
+      "number": "23-572",
+      "title": "Arctic Research Opportunities",
+      "status": "posted",
+      "openDate": "08/02/2023",
+      "closeDate": "01/15/2027",
+      "hash": "305d0e518516c5d1973f29c2383671d1fbc0d4a7dd66b3ef1bee73bd39d70b11"
+    },
+    {
+      "id": "357893",
+      "number": "25-525",
+      "title": "Antarctic Research Requiring U.S. Antarctic Program (USAP) Support for Fieldwork",
+      "status": "posted",
+      "openDate": "12/22/2024",
+      "closeDate": "06/01/2027",
+      "hash": "90325eba4d6f7bc6419327437fd2dbd647a142dca963a4e6b52952b87e727d0a"
+    },
+    {
+      "id": "364027",
+      "number": "RFA-AI-28-020",
+      "title": "Centers for Research on Neglected Infectious Diseases",
+      "status": "forecasted",
+      "openDate": "10/06/2026",
+      "closeDate": "",
+      "hash": "6ff1c1acbea39a9e06631e8a6e22fc7528d607c160188ef6b69ecfaeb3edcc1e"
+    },
+    {
+      "id": "364028",
+      "number": "RFA-AA-28-002",
+      "title": "Collaborative Initiative on Fetal Alcohol Spectrum Disorders (CIFASD), Research Program (U19 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "10/06/2026",
+      "closeDate": "",
+      "hash": "1f46d9fcca8c9462336f8f7c5576ac80c2514ec45ce136a9e41aa378d1dd801b"
+    },
+    {
+      "id": "361008",
+      "number": "26-501",
+      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "status": "posted",
+      "openDate": "12/12/2025",
+      "closeDate": "10/05/2076",
+      "hash": "12db6e9dcbaaaa10120d6ecbb8c435d8c7b887f9e7a8a8799b5d76df50184d80"
+    },
+    {
+      "id": "363616",
+      "number": "26-518",
+      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "584cf367d5804a62435393607c3d616fb9f62a44c3d3a0e913a2bcd645de0708"
+    },
+    {
+      "id": "363613",
+      "number": "26-514",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "3242a33bbb596befd01acd559183d97eccede5c3b93d7e68f509f4aaf87d7cff"
+    },
+    {
       "id": "359657",
       "number": "RFA-MH-27-125",
       "title": "Mechanistic Evaluation of Therapeutic Targets derived from Treatable Traits to Improve CNS Outcomes in People with HIV (R21/R33 Clinical Trial Not Allowed)",
@@ -12846,33 +12747,6 @@
       "hash": "734f3ff2af2cb70959799f79370f0cc0c24278a800f85571638ea05ddd729715"
     },
     {
-      "id": "347679",
-      "number": "23-580",
-      "title": "Infrastructure Capacity for Biological Research (Capacity)",
-      "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/02/2076",
-      "hash": "2457dd7e982e398f3bb781ef2ab0b26b7f6fc2620b4c334aac84e70b57505780"
-    },
-    {
-      "id": "363764",
-      "number": "20-558",
-      "title": "PFE: Research Initiation in Engineering Formation (PFE: RIEF)",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "11/10/2026",
-      "hash": "7ffeeb988bb08ba595eda2691cffbf603ba7ab044e6e1571785209c55bdc74aa"
-    },
-    {
-      "id": "363622",
-      "number": "26-524",
-      "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "02/11/2027",
-      "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
-    },
-    {
       "id": "362990",
       "number": "O-BJA-2026-172648",
       "title": "DOJ FY 2026 Invited to Apply - National Integrated Ballistic Information (NIBIN) Modernization Program",
@@ -12900,15 +12774,6 @@
       "hash": "1bf8fa19550484a742df9889eb95e5731dee744a458fd89c742e53af830b22c2"
     },
     {
-      "id": "363233",
-      "number": "24-590",
-      "title": "Engineering Research Initiation (ERI)",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "10/09/2026",
-      "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
-    },
-    {
       "id": "334326",
       "number": "21-595",
       "title": "Tribal Colleges and Universities Program (TCUP)",
@@ -12925,33 +12790,6 @@
       "openDate": "12/14/2024",
       "closeDate": "08/10/2027",
       "hash": "643030f2b0cb579d814e52dfa6f045a56f46227866c74fb8fdc8071a99d0db63"
-    },
-    {
-      "id": "363613",
-      "number": "26-514",
-      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/02/2076",
-      "hash": "d0b762507b24a51aae4c2c2574320441511cfacde26af524499e406881b4034f"
-    },
-    {
-      "id": "363614",
-      "number": "26-515",
-      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/02/2076",
-      "hash": "58c42131a741328fd398970168e0c93f7461f2a5cf53310fcf3aeb5f727b3183"
-    },
-    {
-      "id": "363616",
-      "number": "26-518",
-      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/02/2076",
-      "hash": "ac3de79607942669898f9a07e10f4d93b445485bba41d9844b2e9f99054c5c51"
     },
     {
       "id": "351889",
@@ -12997,24 +12835,6 @@
       "openDate": "12/14/2024",
       "closeDate": "07/20/2027",
       "hash": "592baf6ad385d6dfaf617c1d3877cbc0f22c986e5ed0a8dd841f88ceddfb59be"
-    },
-    {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
-    },
-    {
-      "id": "364004",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
-      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/31/2026",
-      "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
     },
     {
       "id": "344124",
@@ -13098,13 +12918,13 @@
       "hash": "a5d74e0bddd0cb7cef7844f95219e8a2e6fbe8ac1a555a5e35fb56d6f6652316"
     },
     {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "id": "364019",
+      "number": "TAT-FY27",
+      "title": "Technical Assistance and Training Grant Program",
       "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "11/30/2026",
-      "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
     },
     {
       "id": "327047",
@@ -13179,13 +12999,13 @@
       "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
     },
     {
-      "id": "355196",
-      "number": "24-586",
-      "title": "NSF National Quantum Virtual Laboratory (NQVL)",
+      "id": "362905",
+      "number": "HR001126S0011",
+      "title": "Information Processing Techniques Office Office-Wide",
       "status": "posted",
-      "openDate": "06/28/2024",
-      "closeDate": "04/06/2027",
-      "hash": "90539893139a73ebdbe8db11b5f77520f59286e6106123fcb39a3aaa8479c245"
+      "openDate": "06/22/2026",
+      "closeDate": "06/22/2027",
+      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
     },
     {
       "id": "364024",
@@ -13215,22 +13035,31 @@
       "hash": "926e5fd7ecb62c258823bf5471395a18ae81ce101496fe0cd1e19101bf502ea3"
     },
     {
-      "id": "362905",
-      "number": "HR001126S0011",
-      "title": "Information Processing Techniques Office Office-Wide",
+      "id": "355196",
+      "number": "24-586",
+      "title": "NSF National Quantum Virtual Laboratory (NQVL)",
       "status": "posted",
-      "openDate": "06/22/2026",
-      "closeDate": "06/22/2027",
-      "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
+      "openDate": "06/28/2024",
+      "closeDate": "04/06/2027",
+      "hash": "90539893139a73ebdbe8db11b5f77520f59286e6106123fcb39a3aaa8479c245"
     },
     {
-      "id": "364019",
-      "number": "TAT-FY27",
-      "title": "Technical Assistance and Training Grant Program",
+      "id": "347679",
+      "number": "23-580",
+      "title": "Infrastructure Capacity for Biological Research (Capacity)",
       "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
+      "openDate": "04/21/2023",
+      "closeDate": "10/05/2076",
+      "hash": "8dea7200be2d5a3318b6f1db0d85fb630c6079b8f9f7cdf9376ebce134421fef"
+    },
+    {
+      "id": "363614",
+      "number": "26-515",
+      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/05/2076",
+      "hash": "ddc7527f72215df023bf959e8ecd900f8475399d5df8f28c1a51f5d2f80b7584"
     },
     {
       "id": "347026",
@@ -13242,13 +13071,139 @@
       "hash": "e16930f4ced578b9a13fa29be79cbed33f50de5c0a0ad8999a6153cba0901e91"
     },
     {
-      "id": "361008",
-      "number": "26-501",
-      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "id": "363622",
+      "number": "26-524",
+      "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
       "status": "posted",
-      "openDate": "12/12/2025",
+      "openDate": "08/17/2026",
+      "closeDate": "02/11/2027",
+      "hash": "d5cf480566313c382571b344f1c676e1d8801f927b3c7a25b261a7a8dc84b4f3"
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "status": "posted",
+      "openDate": "01/08/2025",
+      "closeDate": "11/30/2026",
+      "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
+    },
+    {
+      "id": "363233",
+      "number": "24-590",
+      "title": "Engineering Research Initiation (ERI)",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "10/09/2026",
+      "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
+    },
+    {
+      "id": "363764",
+      "number": "20-558",
+      "title": "PFE: Research Initiation in Engineering Formation (PFE: RIEF)",
+      "status": "posted",
+      "openDate": "09/01/2026",
+      "closeDate": "11/10/2026",
+      "hash": "7ffeeb988bb08ba595eda2691cffbf603ba7ab044e6e1571785209c55bdc74aa"
+    },
+    {
+      "id": "347680",
+      "number": "23-578",
+      "title": "Infrastructure Innovation for Biological Research (Innovation)",
+      "status": "posted",
+      "openDate": "04/21/2023",
       "closeDate": "10/05/2076",
-      "hash": "12db6e9dcbaaaa10120d6ecbb8c435d8c7b887f9e7a8a8799b5d76df50184d80"
+      "hash": "ffcd2bb4ad134977ae80ec81db23cc9979d1b3d811542cf5e01fcc299e69c752"
+    },
+    {
+      "id": "364029",
+      "number": "O-OVC-2026-172790",
+      "title": "OVC FY 2026 Specialized Human Trafficking Assistance: Task Forces and Legal Services",
+      "status": "posted",
+      "openDate": "10/06/2026",
+      "closeDate": "12/01/2026",
+      "hash": "69b4307b1a13003d7ac5dd5d3b5c5a3509e4c9aecea6b16d9916a2224474ce86"
+    },
+    {
+      "id": "361952",
+      "number": "PD-26-1341",
+      "title": "Professional Formation of Engineers (PFE)",
+      "status": "posted",
+      "openDate": "04/17/2026",
+      "closeDate": "10/06/2076",
+      "hash": "670aaa40d31591170847bc10f9aad7707d47246641cfe13ce0816c82abea3faa"
+    },
+    {
+      "id": "357826",
+      "number": "25-526",
+      "title": "Antarctic Research Not Requiring U.S. Antarctic Program (USAP) Field Support",
+      "status": "posted",
+      "openDate": "12/19/2024",
+      "closeDate": "01/15/2027",
+      "hash": "72229d2cfc5376c5dac5a8805f88cdecbfe5adcec42073651b11ffb10bf1ef92"
+    },
+    {
+      "id": "364030",
+      "number": "20270113-PJ",
+      "title": "National Digital Newspaper Program",
+      "status": "posted",
+      "openDate": "10/06/2026",
+      "closeDate": "01/13/2027",
+      "hash": "a09a35f8295612c7690f91656f952365bb3354328573aa07826e09e0ff5703c8"
+    },
+    {
+      "id": "360664",
+      "number": "25-549",
+      "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
+      "status": "posted",
+      "openDate": "09/26/2025",
+      "closeDate": "10/06/2076",
+      "hash": "fba57c8731626f42b92a80b96d625dc06a82be01615afdd538ae31b0c076a355"
+    },
+    {
+      "id": "363998",
+      "number": "OST-OSDBU-2027-SBTTAC-REGION3-FY2027-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "10/31/2026",
+      "hash": "b3163e9b1c73692aa8a11c854a8d7e789698658ad63cefe1abbbcca83088eb4f"
+    },
+    {
+      "id": "363996",
+      "number": "OST-OSDBU-2027-SBTTAC-REGION1-FY2027-1",
+      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "10/31/2026",
+      "hash": "214c365de109603159d34f1d375b3c1dbbc61b4f4abfa4b00a91ea893a038297"
+    },
+    {
+      "id": "361333",
+      "number": "26-506",
+      "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
+      "status": "posted",
+      "openDate": "02/19/2026",
+      "closeDate": "03/02/2027",
+      "hash": "38f228bd3965af8a79d0cf5d86cfecc9202c12fcc5a851da1b5123289f1122d1"
+    },
+    {
+      "id": "364004",
+      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
+      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "10/31/2026",
+      "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
+    },
+    {
+      "id": "362715",
+      "number": "P26AS00125",
+      "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
+      "status": "posted",
+      "openDate": "06/08/2026",
+      "closeDate": "11/01/2030",
+      "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
     }
   ]
 }
