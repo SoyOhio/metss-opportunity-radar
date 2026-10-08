@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T17:28:41.104Z",
-  "hitCount": 1463,
+  "updatedAt": "2026-10-08T17:27:14.417Z",
+  "hitCount": 1465,
   "records": [
     {
       "id": "355824",
@@ -568,15 +568,6 @@
       "openDate": "06/06/2025",
       "closeDate": "",
       "hash": "40a28ace1a8c0173d1ec77765b5df9cc2ab4c44650600e97b58c79dcd890ea01"
-    },
-    {
-      "id": "359676",
-      "number": "FOR-HL-25-025",
-      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS)",
-      "status": "forecasted",
-      "openDate": "07/01/2025",
-      "closeDate": "",
-      "hash": "548dd5a58c98a0576f6976c1805e88da6da8ef8ac6437881ac56f5660484b7a9"
     },
     {
       "id": "359894",
@@ -8301,15 +8292,6 @@
       "hash": "f4bcd6ec263a99d3e658ed58fc84437449145187bd49c8cc58582c5a1f032f25"
     },
     {
-      "id": "363611",
-      "number": "EPA-OW-OWOW-26-01",
-      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "11/09/2026",
-      "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
-    },
-    {
       "id": "363852",
       "number": "NOAA-OAR-CPO-2026-33326",
       "title": "Climate Program Office (CPO) FY2026 Earth System Science and Services Partnership",
@@ -8524,15 +8506,6 @@
       "openDate": "08/10/2026",
       "closeDate": "04/05/2027",
       "hash": "49936e61085d5593abe9815543b4b9bb318ed0e65624123dabad810314b8a6bd"
-    },
-    {
-      "id": "363869",
-      "number": "DE-FOA-0003657",
-      "title": "The DOE Quantum Genesis Q Competition",
-      "status": "posted",
-      "openDate": "09/17/2026",
-      "closeDate": "10/19/2026",
-      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
     },
     {
       "id": "363880",
@@ -9615,15 +9588,6 @@
       "hash": "9456bf1a4d1f7e4588462a743d43bde9f1f0a668177329392a812a20320f84c4"
     },
     {
-      "id": "362191",
-      "number": "HT942526PCARPTRPA",
-      "title": "DoW Pancreatic Cancer Research Program, Translational Research Partnership Award",
-      "status": "posted",
-      "openDate": "05/04/2026",
-      "closeDate": "10/07/2026",
-      "hash": "b55c5c46716576b500c2b1a0cfc983ee9d724e7e5147c340a4d3a81a48a7e4b7"
-    },
-    {
       "id": "362245",
       "number": "HT942526MRPMASA",
       "title": "DoW Melanoma Research Program Melanoma Academy Scholar Award",
@@ -9640,15 +9604,6 @@
       "openDate": "05/01/2026",
       "closeDate": "10/22/2026",
       "hash": "7ef90016d13a6c5ed0bf5f8d6dbb0c01d4d280fb1a5f8fa46756a143896ab6e9"
-    },
-    {
-      "id": "362190",
-      "number": "HT942526PCARPIDA",
-      "title": "DoW Pancreatic Cancer Research Program, Idea Development Award",
-      "status": "posted",
-      "openDate": "05/04/2026",
-      "closeDate": "10/07/2026",
-      "hash": "64f8d8a954bf9066721e6424795b9f9b50f02012144c25a6d2fbfa9a40134a0e"
     },
     {
       "id": "362225",
@@ -9928,15 +9883,6 @@
       "openDate": "05/21/2026",
       "closeDate": "10/21/2026",
       "hash": "c49b653a59fdb188e93e94c55b31d590ea1f26e31c0578c6dcdeb0ea8d9f212e"
-    },
-    {
-      "id": "362193",
-      "number": "HT942526PCARPFPTA",
-      "title": "DoW Pancreatic Cancer Research Program, Focused Pilot Award",
-      "status": "posted",
-      "openDate": "05/04/2026",
-      "closeDate": "10/07/2026",
-      "hash": "0f62adb8516f2daa31ddfba7736eb3a6e3e8193e3905358e37b109804f745193"
     },
     {
       "id": "362226",
@@ -11190,15 +11136,6 @@
       "hash": "503644b4e2cb9586ce25501d4ecbce1a2440529a2bcae422e9698e93065ba1fe"
     },
     {
-      "id": "363700",
-      "number": "USDA-NIFA-TCEG-011837",
-      "title": "Tribal Colleges Education Equity Grants Program",
-      "status": "posted",
-      "openDate": "08/24/2026",
-      "closeDate": "10/07/2026",
-      "hash": "c322da0b3ce65501f7d459512f56132013b6e91a397b6042af6d56290baaf56d"
-    },
-    {
       "id": "363699",
       "number": "F26AS00105",
       "title": "F26AS00105 National Fish Passage Program",
@@ -11946,15 +11883,6 @@
       "hash": "17430d69979a6f48b7041d1bd9b77155950add428e8736fa95289a524a6b2b63"
     },
     {
-      "id": "364002",
-      "number": "O-NIJ-2026-172784",
-      "title": "NIJ FY 2026 Invited to Apply - Novel Psychoactive Substance Discovery, Education, and Reporting Institute",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/07/2026",
-      "hash": "112502161db488daf9163ce486bcc90e0b28e96f936e5c9e5ed0262fcdca163b"
-    },
-    {
       "id": "363993",
       "number": "DE-FOA-0003665",
       "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
@@ -11998,33 +11926,6 @@
       "openDate": "09/29/2026",
       "closeDate": "",
       "hash": "c5325db9ea00a8a061e7caa3fc089cec0fec70448b63f67c56a9aefd8ce5a908"
-    },
-    {
-      "id": "363999",
-      "number": "O-NIJ-2026-172787",
-      "title": "NIJ FY 2026 Invited to Apply - Advancing the Understanding of 3D Algorithms for Firearm Identification",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/07/2026",
-      "hash": "648b20ab13b47a912a10ca62f8bc8f5fc22c4afcba9ce0a38b5eed44404255ed"
-    },
-    {
-      "id": "364001",
-      "number": "O-NIJ-2026-172785",
-      "title": "NIJ FY 2026 Invited to Apply - Operation of the Secretariat of  SC 37 under JTC 1 of ISO/IEC",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/07/2026",
-      "hash": "480031279443df2ed15f997d4ced7a173232d5a67641fc426651393d2f839786"
-    },
-    {
-      "id": "364000",
-      "number": "O-NIJ-2026-172786",
-      "title": "NIJ FY 2026 Invited to Apply - A Universal Method for the Detection of Gunshot Residue using Vibrational Spectroscopy",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/07/2026",
-      "hash": "e3b1733bfc2473c322a52b8db15afd711860718fa0d1ebd41d669a8924157739"
     },
     {
       "id": "363988",
@@ -12252,15 +12153,6 @@
       "hash": "13f0f5953ad32854b16f222bb76a5b6d24f03cbb1a1fc4676aacc46ecc54a749"
     },
     {
-      "id": "343875",
-      "number": "22-639",
-      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
-      "status": "posted",
-      "openDate": "10/01/2022",
-      "closeDate": "10/02/2076",
-      "hash": "1bf8fa19550484a742df9889eb95e5731dee744a458fd89c742e53af830b22c2"
-    },
-    {
       "id": "357724",
       "number": "25-522",
       "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
@@ -12313,15 +12205,6 @@
       "openDate": "11/22/2022",
       "closeDate": "01/21/2027",
       "hash": "6d2e4fc8622fd8a1bdf87f2a16116ce8e0bdd0684a0e4a3bfe1afb00ee0ed9fd"
-    },
-    {
-      "id": "359325",
-      "number": "23-589",
-      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
-      "status": "posted",
-      "openDate": "06/06/2025",
-      "closeDate": "09/10/2027",
-      "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
     },
     {
       "id": "348599",
@@ -12385,15 +12268,6 @@
       "openDate": "08/21/2026",
       "closeDate": "10/05/2076",
       "hash": "9fd899968dad4bba5aa1f3004358648e8a1ac165f726cecd0563ddeaedcf72bf"
-    },
-    {
-      "id": "363618",
-      "number": "26-521",
-      "title": "MPS Materials Research Programs (MPS Materials)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/05/2076",
-      "hash": "46dbcfa03650ddcfa5874a00846a70924ed217f26215f1b1c4c2cd37e9ed55a9"
     },
     {
       "id": "363615",
@@ -12630,15 +12504,6 @@
       "hash": "48679df33dc7101f62c585464e970e033751085fab4a30e118c14d789bc9403a"
     },
     {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/05/2076",
-      "hash": "b711461e88a74e4169f465029a67496505c3d7c93cb5467752eb77f06c985e42"
-    },
-    {
       "id": "358036",
       "number": "25-533",
       "title": "Findable Accessible Interoperable Reusable Open Science (FAIROS)",
@@ -12646,15 +12511,6 @@
       "openDate": "01/07/2025",
       "closeDate": "04/14/2027",
       "hash": "8c792ab48e1b7e0d1e87142b42b78f60e796076dd0a689c4c70c33187788a006"
-    },
-    {
-      "id": "363620",
-      "number": "26-522",
-      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/05/2076",
-      "hash": "4f44d7391bec89c23d8fb7c0c063c8085e3ead4b6cf00836783a3ac4c815e47e"
     },
     {
       "id": "357554",
@@ -12900,6 +12756,15 @@
       "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
     },
     {
+      "id": "360873",
+      "number": "RFA-AI-27-018",
+      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "10/06/2026",
+      "closeDate": "06/20/2029",
+      "hash": "d115997d7cadd14dc5c85b04c155da6b44aba2433e381dfbbf87bdec4ecb7af5"
+    },
+    {
       "id": "362551",
       "number": "26-511",
       "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
@@ -12963,15 +12828,6 @@
       "hash": "4b55b16fc0d12f5a54ca35490fc7267619cfddc1ebede3b09c6996b4f65ec45c"
     },
     {
-      "id": "363617",
-      "number": "26-519",
-      "title": "MPS Chemistry Research Programs (MPS Chem)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/06/2076",
-      "hash": "bef0c01f22407563de57ca0e1f9162925b27827a69b6a5e4d24ef1aba8560143"
-    },
-    {
       "id": "350802",
       "number": "24-503",
       "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
@@ -12990,6 +12846,96 @@
       "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
     },
     {
+      "id": "364039",
+      "number": "NNH25ZDA001N-SSF",
+      "title": "ROSES 2025: B.8 Heliophysics Spaceflight Science Foundations",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "02/05/2027",
+      "hash": "ecb4fd6f9ee5abb39083807435ae724faf4af9caecaab3b8b42409dede31663c"
+    },
+    {
+      "id": "364038",
+      "number": "22-521",
+      "title": "Science and Technology Centers: Integrative Partnerships",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "",
+      "hash": "3dc0a9b7f67d764b5eb68a667b99b0ebfcac08953103266453547a56622e000e"
+    },
+    {
+      "id": "363617",
+      "number": "26-519",
+      "title": "MPS Chemistry Research Programs (MPS Chem)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/07/2076",
+      "hash": "6edc2d7803120aaa5219aa791305ddcfd9f3a4cc1b7342275fdb9a67e82358b7"
+    },
+    {
+      "id": "363618",
+      "number": "26-521",
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/07/2076",
+      "hash": "548953cfa40e7e31eed043c949eb358afb91bbb7de9876f057f6d9d57055c543"
+    },
+    {
+      "id": "363620",
+      "number": "26-522",
+      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/07/2076",
+      "hash": "bbdc84c9d67669d6b9afbbe182029be24c8dd7b8f3592344ebbf84540b9b1bb8"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/07/2076",
+      "hash": "5ece342e43303c4b9b7751488d22c3e9c05307ae23908e8c589f216d9cd6c17b"
+    },
+    {
+      "id": "343875",
+      "number": "22-639",
+      "title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)",
+      "status": "posted",
+      "openDate": "10/01/2022",
+      "closeDate": "10/07/2076",
+      "hash": "c534a7b70b48e09fd0fde79af5e58b44b65a7cd0560f59496ccd146a310c963f"
+    },
+    {
+      "id": "364037",
+      "number": "O-BJA-2026-172770",
+      "title": "BJA FY 2026 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism",
+      "status": "posted",
+      "openDate": "10/07/2026",
+      "closeDate": "11/20/2026",
+      "hash": "293f8c5a06e06c82d8e2473944890866e10e55eaf0b3c34862ba652bb56af1ce"
+    },
+    {
+      "id": "364035",
+      "number": "O-OJJDP-2026-172735",
+      "title": "OJJDP FY 2026 Emergency Planning for Juvenile Justice Residential Facilities",
+      "status": "posted",
+      "openDate": "10/07/2026",
+      "closeDate": "11/16/2026",
+      "hash": "ac9494332025884854e715505526b41fb32d8bb96f4494cfdbcdb507a842a3c5"
+    },
+    {
+      "id": "364036",
+      "number": "O-BJA-2026-172775",
+      "title": "BJA FY 2026 Tribal Civil and Criminal Legal Assistance",
+      "status": "posted",
+      "openDate": "10/07/2026",
+      "closeDate": "11/06/2026",
+      "hash": "b6fde340bf812b3e13e6c56f38e084ffde64688b4bcfd420e01e2ec64a29a79c"
+    },
+    {
       "id": "364030",
       "number": "20270113-PJ",
       "title": "National Digital Newspaper Program",
@@ -12997,87 +12943,6 @@
       "openDate": "10/06/2026",
       "closeDate": "01/13/2027",
       "hash": "a09a35f8295612c7690f91656f952365bb3354328573aa07826e09e0ff5703c8"
-    },
-    {
-      "id": "356943",
-      "number": "25-507",
-      "title": "Human-Environment and Geographical Sciences Program (HEGS)",
-      "status": "posted",
-      "openDate": "11/02/2024",
-      "closeDate": "01/15/2027",
-      "hash": "4c4aeef15e34b060cf786a6593543b2daa1a0e80e88af7e150f6126a4bfd47e9"
-    },
-    {
-      "id": "348164",
-      "number": "PD-23-1320",
-      "title": "Economics",
-      "status": "posted",
-      "openDate": "05/17/2023",
-      "closeDate": "10/06/2076",
-      "hash": "558f81dca0e011f0d12fcbc2f9a06cba31e73097254ba2e0b0b50ad8c7084848"
-    },
-    {
-      "id": "360873",
-      "number": "RFA-AI-27-018",
-      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "10/06/2026",
-      "closeDate": "06/20/2029",
-      "hash": "d115997d7cadd14dc5c85b04c155da6b44aba2433e381dfbbf87bdec4ecb7af5"
-    },
-    {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "status": "posted",
-      "openDate": "04/05/2024",
-      "closeDate": "04/13/2027",
-      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
-    },
-    {
-      "id": "359966",
-      "number": "25-540",
-      "title": "National Science Foundation Translation to Practice (NSF TTP)",
-      "status": "posted",
-      "openDate": "07/09/2025",
-      "closeDate": "11/17/2026",
-      "hash": "641c342fde717cb379b18dab85298bd6edaa7b3640f55f625e9df0f7130548dc"
-    },
-    {
-      "id": "356163",
-      "number": "RFA-OH-26-001",
-      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
-    },
-    {
-      "id": "360753",
-      "number": "RFA-OH-26-015",
-      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
-    },
-    {
-      "id": "341086",
-      "number": "22-603",
-      "title": "Mid-Career Advancement (MCA)",
-      "status": "posted",
-      "openDate": "06/11/2022",
-      "closeDate": "03/01/2027",
-      "hash": "28effe4350995369539ca9792bbd59fea240c043a9ddf6ca86672f3f322257b4"
-    },
-    {
-      "id": "347680",
-      "number": "23-578",
-      "title": "Infrastructure Innovation for Biological Research (Innovation)",
-      "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/07/2076",
-      "hash": "29b81bed185d8e3ac7336a796dc3e1434667b1ebedd899981f0fd8cb7024825f"
     },
     {
       "id": "334326",
@@ -13168,6 +13033,159 @@
       "openDate": "10/07/2026",
       "closeDate": "03/16/2027",
       "hash": "fb980a8f2e47aed37c540d17ff98b3015d4e6f8093b0bd6b46bca2992d03baf7"
+    },
+    {
+      "id": "356943",
+      "number": "25-507",
+      "title": "Human-Environment and Geographical Sciences Program (HEGS)",
+      "status": "posted",
+      "openDate": "11/02/2024",
+      "closeDate": "01/15/2027",
+      "hash": "4c4aeef15e34b060cf786a6593543b2daa1a0e80e88af7e150f6126a4bfd47e9"
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "status": "posted",
+      "openDate": "05/17/2023",
+      "closeDate": "10/06/2076",
+      "hash": "558f81dca0e011f0d12fcbc2f9a06cba31e73097254ba2e0b0b50ad8c7084848"
+    },
+    {
+      "id": "359966",
+      "number": "25-540",
+      "title": "National Science Foundation Translation to Practice (NSF TTP)",
+      "status": "posted",
+      "openDate": "07/09/2025",
+      "closeDate": "11/17/2026",
+      "hash": "641c342fde717cb379b18dab85298bd6edaa7b3640f55f625e9df0f7130548dc"
+    },
+    {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "status": "posted",
+      "openDate": "04/05/2024",
+      "closeDate": "04/13/2027",
+      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
+    },
+    {
+      "id": "359325",
+      "number": "23-589",
+      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
+      "status": "posted",
+      "openDate": "06/06/2025",
+      "closeDate": "09/10/2027",
+      "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
+    },
+    {
+      "id": "341086",
+      "number": "22-603",
+      "title": "Mid-Career Advancement (MCA)",
+      "status": "posted",
+      "openDate": "06/11/2022",
+      "closeDate": "03/01/2027",
+      "hash": "28effe4350995369539ca9792bbd59fea240c043a9ddf6ca86672f3f322257b4"
+    },
+    {
+      "id": "347680",
+      "number": "23-578",
+      "title": "Infrastructure Innovation for Biological Research (Innovation)",
+      "status": "posted",
+      "openDate": "04/21/2023",
+      "closeDate": "10/07/2076",
+      "hash": "29b81bed185d8e3ac7336a796dc3e1434667b1ebedd899981f0fd8cb7024825f"
+    },
+    {
+      "id": "356163",
+      "number": "RFA-OH-26-001",
+      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
+    },
+    {
+      "id": "360753",
+      "number": "RFA-OH-26-015",
+      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
+    },
+    {
+      "id": "364033",
+      "number": "DE-FOA-0003673",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "01/12/2027",
+      "hash": "68cdaf33efd935cc6111ab51cb9ef060da0453a708f57ce33bdd2bd9c8a059f9"
+    },
+    {
+      "id": "363869",
+      "number": "DE-FOA-0003657",
+      "title": "The DOE Quantum Genesis Q Competition",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "10/19/2026",
+      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
+    },
+    {
+      "id": "363611",
+      "number": "EPA-OW-OWOW-26-01",
+      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/09/2026",
+      "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
+    },
+    {
+      "id": "364040",
+      "number": "O-OJJDP-2026-172737",
+      "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "a1fba1ecb3b92d1cdd4797b43bc782a5c8d01fbfc03eb0b516d4a0a317a54c94"
+    },
+    {
+      "id": "364041",
+      "number": "O-OJJDP-2026-172738",
+      "title": "OJJDP FY 2026 Family Treatment Court Program",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "9bf687f225d3cf5fc4205e4356c323982f611cc591cc15eeb8ce8853a14b290d"
+    },
+    {
+      "id": "359676",
+      "number": "RFA-HL-27-010",
+      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "07/01/2025",
+      "closeDate": "",
+      "hash": "4e6c46f19a07a7a76d5632ad9ec82da8c649abce5c179dab6a988fa7d3f2276d"
+    },
+    {
+      "id": "364042",
+      "number": "O-OJJDP-2026-172740",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "57bdd885b7dadffd77e989a8662afcdf5724263d5d8a91136e09ffc51f0aa83b"
+    },
+    {
+      "id": "364043",
+      "number": "O-BJA-2026-172763",
+      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/20/2026",
+      "hash": "bb9777d50da64ded2ac9ccb8483e2ba898e328116efb1ae9ff9597bd15a245f5"
     }
   ]
 }
