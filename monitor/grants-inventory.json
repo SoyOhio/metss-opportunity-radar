@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T17:27:14.417Z",
-  "hitCount": 1465,
+  "updatedAt": "2026-10-09T17:03:41.694Z",
+  "hitCount": 1472,
   "records": [
     {
       "id": "355824",
@@ -399,24 +399,6 @@
       "hash": "61cd40163eaebbc6aaa8c18ff6ab413b99667022e8f52e18f240a55d83961138"
     },
     {
-      "id": "359169",
-      "number": "NOT-RM-25-019",
-      "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination, Integration and Organizational Center (U24 or UM1)",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "277ccc8af95020bd70401796f75f7f909a958ec28d58f33251bbd6c8af05f8fc"
-    },
-    {
-      "id": "359168",
-      "number": "NOT-RM-25-018",
-      "title": "Cellular Senescence Network (SenNet):Technology Projects (UG3/UH3 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "82bd4fc5a80b41732aa94c308d72aa1dd845894e36338c6c536c23e77cc08175"
-    },
-    {
       "id": "358373",
       "number": "PAR-25-378",
       "title": "Intervention Research to Improve Native American Health (R34 Clinical Trial Optional)",
@@ -588,15 +570,6 @@
       "hash": "0d5775ebc25deef9736124134e8cdf0466da18dc75af25ccb0fb466a74251e8d"
     },
     {
-      "id": "358854",
-      "number": "FOR-HG-25-018",
-      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/12/2025",
-      "closeDate": "",
-      "hash": "5a041592a6b2533640374a34bd82967cfb487f22812f7e5a967d7325d46fe76a"
-    },
-    {
       "id": "358959",
       "number": "NOT-RM-25-035",
       "title": "Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trials Not Allowed)",
@@ -685,24 +658,6 @@
       "openDate": "05/22/2025",
       "closeDate": "",
       "hash": "e7bd468e5d5855110a01dec7c5c1bd2d1cc1f81ffe905d54fb1180d35cfb3ff9"
-    },
-    {
-      "id": "359277",
-      "number": "FOR-HG-25-020",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "082b1e25c51ad1446ff8a299ee9429ac7a1812ac81ffe9a6b66b2cc75abb7cf5"
-    },
-    {
-      "id": "359170",
-      "number": "FOR-HG-25-021",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "ea8e8e46e2719a0755e8e43cd1212c5fafaacff52f9b7525b788d9f3801940af"
     },
     {
       "id": "358934",
@@ -883,15 +838,6 @@
       "openDate": "05/09/2025",
       "closeDate": "",
       "hash": "e979cc27035e35668ff457398c4df959f4d8adaae6d1683d2daaf3efedb3e299"
-    },
-    {
-      "id": "358855",
-      "number": "FOR-HG-25-019",
-      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/12/2025",
-      "closeDate": "",
-      "hash": "8074cb52e4b24bd37e9555d22e5bb94a01cc9d5fc696524ad93552be9fde0e25"
     },
     {
       "id": "358912",
@@ -3576,15 +3522,6 @@
       "hash": "c2569c01611cf2d7d816893ad390e641667f386a20e7b3363c168fb0b91ede53"
     },
     {
-      "id": "360905",
-      "number": "RFA-CA-26-006",
-      "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "11/21/2025",
-      "closeDate": "",
-      "hash": "de638d05641bd8c188aaf175b91c7d3b0ff503b5e82d344bbf38bf5fb237e100"
-    },
-    {
       "id": "360906",
       "number": "RFA-AG-26-023",
       "title": "Illuminating AD/ADRD Genome to Enable Precision Genomic Medicine",
@@ -5475,15 +5412,6 @@
       "hash": "eb38be9ba95d794c70236ca3aef4a0770eb5f9597dc02db775e4e6d995bda7e5"
     },
     {
-      "id": "361431",
-      "number": "RFA-RM-26-024",
-      "title": "Pilot Projects to Enhance the Human Virome Program (R03, Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "03/10/2026",
-      "closeDate": "",
-      "hash": "027767a807cdb98e46b5746aebd3bc6a672ec5fe3794e92c713fa378779ad8b3"
-    },
-    {
       "id": "361438",
       "number": "PAR-26-150",
       "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
@@ -5799,15 +5727,6 @@
       "hash": "a6609f9efeb3889ef1af5186d545bbb2a689b83c6522c237d879741b2fdcf0f8"
     },
     {
-      "id": "360562",
-      "number": "RFA-DA-27-010",
-      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances",
-      "status": "forecasted",
-      "openDate": "09/11/2025",
-      "closeDate": "",
-      "hash": "ee6353e92823b3a57917374028a32aae135d51fc87ea4b3194742ba33a7a51eb"
-    },
-    {
       "id": "361606",
       "number": "PAR-27-009",
       "title": "Single Source: Coordinating Center (CC) for the Small Cell Lung Cancer (SCLC) Consortium (U24 Clinical Trial Not Allowed)",
@@ -6049,15 +5968,6 @@
       "openDate": "05/26/2026",
       "closeDate": "",
       "hash": "908bf6df7d976965b98db98d11b06dcb9d0563cd020ad6688859f70c12fac83f"
-    },
-    {
-      "id": "358403",
-      "number": "14-579",
-      "title": "Facilitating Research at Predominantly Undergraduate Institutions:",
-      "status": "posted",
-      "openDate": "01/31/2025",
-      "closeDate": "",
-      "hash": "1bb4d0696072bf7df281f74129f9298a34f542151d5e6404fa6f67e732c5952f"
     },
     {
       "id": "362576",
@@ -7138,15 +7048,6 @@
       "openDate": "05/21/2026",
       "closeDate": "10/19/2027",
       "hash": "42e8544fa9855becd24fac5527445ee080455eb263b8b1e1a9082ad11c6b97fb"
-    },
-    {
-      "id": "359152",
-      "number": "RFA-AR-27-001",
-      "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "89160d7812bafe79cc1d83214f6e97f4a7ff5d4b2ea07e475a06598befa63b60"
     },
     {
       "id": "360613",
@@ -8661,15 +8562,6 @@
       "hash": "2d7af760edfd1fb9cab27605fd2282b5a7b5c3ff43c01ebe01ab4ff20c11e1d8"
     },
     {
-      "id": "363241",
-      "number": "NNH25ZDA001N-BIOS",
-      "title": "ROSES25: A.15 Biosphere",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "11/06/2026",
-      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
-    },
-    {
       "id": "363759",
       "number": "NNH25ZDA001N-CRYO",
       "title": "ROSES 2025: A.16 Cryosphere",
@@ -8884,15 +8776,6 @@
       "openDate": "09/21/2026",
       "closeDate": "11/20/2026",
       "hash": "f0ffdc6941721276924307e41553f3b57ebdf72e27b8a2e2b04da874d29b0b78"
-    },
-    {
-      "id": "363937",
-      "number": "O-BJA-2026-172762",
-      "title": "OJP FY 2026 Special Attorneys Program Round 9",
-      "status": "posted",
-      "openDate": "09/24/2026",
-      "closeDate": "10/08/2026",
-      "hash": "a278208be36b38a1aa0c51456206df37d8e13f503bda64e647bdfe7e39deacff"
     },
     {
       "id": "363421",
@@ -12819,15 +12702,6 @@
       "hash": "670aaa40d31591170847bc10f9aad7707d47246641cfe13ce0816c82abea3faa"
     },
     {
-      "id": "356537",
-      "number": "PD-24-7791",
-      "title": "Infrastructure Cluster (AGS-IC)",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "",
-      "hash": "4b55b16fc0d12f5a54ca35490fc7267619cfddc1ebede3b09c6996b4f65ec45c"
-    },
-    {
       "id": "350802",
       "number": "24-503",
       "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
@@ -12889,15 +12763,6 @@
       "openDate": "08/17/2026",
       "closeDate": "10/07/2076",
       "hash": "bbdc84c9d67669d6b9afbbe182029be24c8dd7b8f3592344ebbf84540b9b1bb8"
-    },
-    {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/07/2076",
-      "hash": "5ece342e43303c4b9b7751488d22c3e9c05307ae23908e8c589f216d9cd6c17b"
     },
     {
       "id": "343875",
@@ -13107,6 +12972,105 @@
       "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
     },
     {
+      "id": "361431",
+      "number": "RFA-RM-27-024",
+      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/10/2026",
+      "hash": "ebffb7f3b0ae5227d77d8b0c152580b1769a83e71e966c64a64a0dd5915aacb6"
+    },
+    {
+      "id": "360905",
+      "number": "RFA-CA-28-013",
+      "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "02/09/2027",
+      "hash": "4df3ad429c39bc82df8a57b2e49516844e060ab0b724d93cfe331734d3372dae"
+    },
+    {
+      "id": "364047",
+      "number": "OFOP0003897",
+      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/19/2026",
+      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
+    },
+    {
+      "id": "358855",
+      "number": "RFA-HG-27-008",
+      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
+      "status": "forecasted",
+      "openDate": "05/12/2025",
+      "closeDate": "",
+      "hash": "656f95544ff62fbdea988d154029ed35730605b399722335be0b2553561ad4af"
+    },
+    {
+      "id": "359277",
+      "number": "RFA-HG-27-009",
+      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+      "status": "forecasted",
+      "openDate": "06/06/2025",
+      "closeDate": "",
+      "hash": "4b57de7d389bd9818be3dd1512d5a011f8d3838378f92df6e59e4f574cdc5614"
+    },
+    {
+      "id": "359170",
+      "number": "RFA-HG-27-010",
+      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "06/06/2025",
+      "closeDate": "",
+      "hash": "bf4ff83163b78f35e1391df01d435ff8764e12893c330e96f91a14c8ce30d09c"
+    },
+    {
+      "id": "364048",
+      "number": "O-NIJ-2026-172796",
+      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "b5538a4bf11623084762a271f721e27692487cf79ddfb61b751a7a634a9faddf"
+    },
+    {
+      "id": "358403",
+      "number": "14-579",
+      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
+      "status": "posted",
+      "openDate": "01/31/2025",
+      "closeDate": "10/08/2076",
+      "hash": "7ebf4ed7215003503e43dc1bab7b166c389c2a0c12052d21150a52fc45674fa9"
+    },
+    {
+      "id": "358854",
+      "number": "RFA-HG-27-007",
+      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
+      "status": "forecasted",
+      "openDate": "05/12/2025",
+      "closeDate": "",
+      "hash": "44afd31488c9af5d458d9ec4acefd59488fb2448497af31dc8bd979ea9f567a9"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/08/2076",
+      "hash": "740cb29b9db710e89a7b3faf5c6baeba177b0722ad9a6db474f57153e2676abd"
+    },
+    {
+      "id": "364045",
+      "number": "O-BJA-2026-172797",
+      "title": "BJA FY 2026 Invited to Apply- Justice Information Sharing Training and Technical Assistance Program (RISS Support)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "10/13/2026",
+      "hash": "888ebd210dd86279bd53ed730f393fa7385550439477274fef54bb77e6d9e1d5"
+    },
+    {
       "id": "360753",
       "number": "RFA-OH-26-015",
       "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
@@ -13116,24 +13080,6 @@
       "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
     },
     {
-      "id": "364033",
-      "number": "DE-FOA-0003673",
-      "title": "Genesis Mission Graduate Fellowship Pilot",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "01/12/2027",
-      "hash": "68cdaf33efd935cc6111ab51cb9ef060da0453a708f57ce33bdd2bd9c8a059f9"
-    },
-    {
-      "id": "363869",
-      "number": "DE-FOA-0003657",
-      "title": "The DOE Quantum Genesis Q Competition",
-      "status": "posted",
-      "openDate": "09/17/2026",
-      "closeDate": "10/19/2026",
-      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
-    },
-    {
       "id": "363611",
       "number": "EPA-OW-OWOW-26-01",
       "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
@@ -13141,6 +13087,24 @@
       "openDate": "08/17/2026",
       "closeDate": "11/09/2026",
       "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
+    },
+    {
+      "id": "363241",
+      "number": "NNH25ZDA001N-BIOS",
+      "title": "ROSES25: A.15 Biosphere",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "11/06/2026",
+      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
+    },
+    {
+      "id": "364042",
+      "number": "O-OJJDP-2026-172740",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "57bdd885b7dadffd77e989a8662afcdf5724263d5d8a91136e09ffc51f0aa83b"
     },
     {
       "id": "364040",
@@ -13161,24 +13125,6 @@
       "hash": "9bf687f225d3cf5fc4205e4356c323982f611cc591cc15eeb8ce8853a14b290d"
     },
     {
-      "id": "359676",
-      "number": "RFA-HL-27-010",
-      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "07/01/2025",
-      "closeDate": "",
-      "hash": "4e6c46f19a07a7a76d5632ad9ec82da8c649abce5c179dab6a988fa7d3f2276d"
-    },
-    {
-      "id": "364042",
-      "number": "O-OJJDP-2026-172740",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "hash": "57bdd885b7dadffd77e989a8662afcdf5724263d5d8a91136e09ffc51f0aa83b"
-    },
-    {
       "id": "364043",
       "number": "O-BJA-2026-172763",
       "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
@@ -13186,6 +13132,123 @@
       "openDate": "10/08/2026",
       "closeDate": "11/20/2026",
       "hash": "bb9777d50da64ded2ac9ccb8483e2ba898e328116efb1ae9ff9597bd15a245f5"
+    },
+    {
+      "id": "364044",
+      "number": "O-OJJDP-2026-172742",
+      "title": "OJJDP FY 2026 Juvenile Justice System Enhancements",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "286d0f09620c363cb855a9bfb7b5455319a5f8f52ab9425115762b8a4c709931"
+    },
+    {
+      "id": "364033",
+      "number": "DE-FOA-0003673",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "01/12/2027",
+      "hash": "68cdaf33efd935cc6111ab51cb9ef060da0453a708f57ce33bdd2bd9c8a059f9"
+    },
+    {
+      "id": "363869",
+      "number": "DE-FOA-0003657",
+      "title": "The DOE Quantum Genesis Q Competition",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "10/19/2026",
+      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
+    },
+    {
+      "id": "359676",
+      "number": "RFA-HL-27-010",
+      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "10/13/2028",
+      "hash": "7151a3ac1c0dca19dee85c6a561b60e334f7a20f6ca3cdf9bd7999ec5e25eb03"
+    },
+    {
+      "id": "360562",
+      "number": "RFA-DA-28-013",
+      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "02/08/2027",
+      "hash": "534c27c887d94570982c9359e2f9dffe5b650b7effa05852f0aac974076eced0"
+    },
+    {
+      "id": "359168",
+      "number": "RFA-RM-27-007",
+      "title": "Cellular Senescence Network (SenNet):Technology Projects (UG3/UH3 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "05/28/2025",
+      "closeDate": "",
+      "hash": "e471ee616d2583e4393878a2612827a795c3ab1942f9c0d28d3f209a998a7a71"
+    },
+    {
+      "id": "359169",
+      "number": "RFA-RM-27-016",
+      "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
+      "status": "forecasted",
+      "openDate": "05/28/2025",
+      "closeDate": "",
+      "hash": "b1beb335b553c8827074446114b7e3a438fc7fd54d03740f8a31dc18d6605627"
+    },
+    {
+      "id": "364054",
+      "number": "24-599",
+      "title": "Quantum Leap Challenge Institutes (QLCI)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "",
+      "hash": "e59b7d3f02a86c8e1219c316ae92dea4573fabfc5296db1b6df437b1ec5712ad"
+    },
+    {
+      "id": "364049",
+      "number": "O-NIJ-2026-172798",
+      "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "fbc17433d955936d7d14c21ec41e38a6988159c67821e321b6fcac9d2299b525"
+    },
+    {
+      "id": "364050",
+      "number": "O-BJA-2026-172795",
+      "title": "BJA FY 2026 Invited to Apply- Medicaid and Corrections Program",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "10/21/2026",
+      "hash": "51672e209ed2e94227905e8feb5d459ef771afc44ac69bfe1005fd9ce998b680"
+    },
+    {
+      "id": "364051",
+      "number": "25-521",
+      "title": "Materials Innovation Platforms (MIP)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "",
+      "hash": "15bc955008037f344c8a1882cb1d2406660820e692ca6d4689db98a75b849d90"
+    },
+    {
+      "id": "364055",
+      "number": "CDC-RFA-DP-27-0068",
+      "title": "Chronic Disease Education and Awareness",
+      "status": "forecasted",
+      "openDate": "10/09/2026",
+      "closeDate": "",
+      "hash": "e4afafdae3b56fac6478f75e3e277a989e546f02b6d0e2123df676d52eb4fb74"
+    },
+    {
+      "id": "359152",
+      "number": "RFA-AR-28-001",
+      "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "03/01/2029",
+      "hash": "f4a5dbd6a5a6dba3899d883133f100d9a66ee8f1e9f9e481096e6cb43d74a6d3"
     }
   ]
 }
