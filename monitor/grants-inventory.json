@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T17:03:41.694Z",
-  "hitCount": 1472,
+  "updatedAt": "2026-10-10T15:54:55.898Z",
+  "hitCount": 1467,
   "records": [
     {
       "id": "355824",
@@ -3459,15 +3459,6 @@
       "hash": "65f40eacebc9976c6e22c075c937191e46eab0d9af127871fc000f2042ad6834"
     },
     {
-      "id": "329325",
-      "number": "PD-20-1264",
-      "title": "Algebra and Number Theory",
-      "status": "posted",
-      "openDate": "10/06/2020",
-      "closeDate": "10/09/2026",
-      "hash": "2bf2bcf5063e43ae216da7e812c613b4a87c3a16f581768fb7babc62dd071b23"
-    },
-    {
       "id": "352238",
       "number": "N0016424SNB35",
       "title": "Long Range Broad Agency Announcement (BAA) for NSWC Crane",
@@ -6303,15 +6294,6 @@
       "hash": "74d4a8edeec26fd6a9820d6e93ae9ea6c3011320e73f2797e5994adc45f5ba26"
     },
     {
-      "id": "361817",
-      "number": "RFA-RM-27-025",
-      "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination and Integration Center (SenNet DCIC) (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "hash": "9eac6da596e47c9cd6a61016f1ea70475761a19b54125e2ffe5bd1e58a5062c6"
-    },
-    {
       "id": "361831",
       "number": "RFA-AI-27-017",
       "title": "Cooperative Program for Modeling Clinical Transplantation",
@@ -6645,15 +6627,6 @@
       "hash": "5a5c0ce996200d1b8c17aebacaf6cdae38a790e83b14e14f2dfaa73524ff2e92"
     },
     {
-      "id": "360387",
-      "number": "RFA-DK-27-121",
-      "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Clinical Centers (U01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "06/08/2026",
-      "closeDate": "10/09/2026",
-      "hash": "48927809108e462688be4a02f4053b36e598cf4e2bd3a9af15f732d8f200628d"
-    },
-    {
       "id": "362722",
       "number": "PAR-27-105",
       "title": "National Centers for Biomedical Imaging and Bioengineering (NCBIB) (P41 Clinical Trials Optional)",
@@ -6679,15 +6652,6 @@
       "openDate": "06/09/2026",
       "closeDate": "",
       "hash": "200f7ea9cc6409bacc4e0bd887252d5c05beb06261a3be65299b2eec698752ad"
-    },
-    {
-      "id": "360441",
-      "number": "RFA-DK-27-136",
-      "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Research Coordinating Center (U24 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "06/08/2026",
-      "closeDate": "10/09/2026",
-      "hash": "eebbc03becd3cd9e84bd82e0e4c7c389a225b0aecdad7c9711bcdf99c7dc1a92"
     },
     {
       "id": "360553",
@@ -8823,15 +8787,6 @@
       "hash": "60c1ea27424924333eb4de3dd1a328181a94295801feedd0fa3439fbe221059e"
     },
     {
-      "id": "363922",
-      "number": "FR-CRS-23-006",
-      "title": "FY23- Bellows Falls Intermodal Center Rehabilitation",
-      "status": "posted",
-      "openDate": "09/22/2026",
-      "closeDate": "10/09/2026",
-      "hash": "f57a61a67c322c0fe5e9ef317898432c6b8c41acf04cd97fdbf9a1d0f53c2244"
-    },
-    {
       "id": "363887",
       "number": "O-BJA-2026-172715",
       "title": "BJA FY 2026 Capital Case Litigation Initiative: Improving the Quality of Legal Representation in State Capital Cases",
@@ -9064,15 +9019,6 @@
       "openDate": "09/25/2026",
       "closeDate": "",
       "hash": "efffb4a8d5f62c722eda17a97e9667bc3429a216a6492de7d2ae432ff6267aaf"
-    },
-    {
-      "id": "363732",
-      "number": "FHWA-PROT-26-001",
-      "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
-      "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "10/09/2026",
-      "hash": "9940eb57e021ac40c6a76322d46b275b2072adc29466bb379ce63eef8decd402"
     },
     {
       "id": "363958",
@@ -10371,15 +10317,6 @@
       "hash": "622a43003f132b649e217d05d264d79ff08721fc30a98e6a795051903cbed58e"
     },
     {
-      "id": "361754",
-      "number": "PA-FPH-27-001",
-      "title": "Title X Family Planning Services Grants",
-      "status": "posted",
-      "openDate": "04/03/2026",
-      "closeDate": "01/11/2027",
-      "hash": "777804f5ce851369c5d180e486ab4a932ab691e4cfa5f9c48a57b424c0deff83"
-    },
-    {
       "id": "363137",
       "number": "RFA-CE-27-014",
       "title": "Research Grants to Rigorously Evaluate Innovative and Promising Approaches to Prevent Firearm-Related Violence and Injuries",
@@ -10486,15 +10423,6 @@
       "openDate": "06/30/2026",
       "closeDate": "10/19/2026",
       "hash": "261c73a89be58ad1346ef325816a5cdd178136889344eebbca39fa8fd787ba53"
-    },
-    {
-      "id": "359271",
-      "number": "RFA-RM-27-011",
-      "title": "Development and Testing of a Multi-use Frameworks Playbook for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "06/30/2026",
-      "closeDate": "10/09/2026",
-      "hash": "beddba2a40b7b8284c2cfaef9c7d7bd6cfc99ee9223cece75e34756799a4d7c1"
     },
     {
       "id": "360544",
@@ -10830,15 +10758,6 @@
       "hash": "2127d0ff8f96401bb2aae8112d0ce259279a91f0d07b360463d74baec04c2923"
     },
     {
-      "id": "363396",
-      "number": "RUS-PART-2026",
-      "title": "Powering Affordable Reliable Technology (PART) Energy Program",
-      "status": "posted",
-      "openDate": "09/08/2026",
-      "closeDate": "10/09/2026",
-      "hash": "795ca70f7b73cccce8b3d38b21cf58e2c084028f141598597ba9a3ffe26fb7aa"
-    },
-    {
       "id": "360883",
       "number": "PAR-27-056",
       "title": "Limited Competition: Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR) (P30 - CT Optional)",
@@ -11053,15 +10972,6 @@
       "openDate": "08/03/2026",
       "closeDate": "09/01/2027",
       "hash": "7061e1a8e4d300f006af9705f7d91b06d1b57cd695a7f806048da1a80342c9d2"
-    },
-    {
-      "id": "363724",
-      "number": "W911NF26S0105",
-      "title": "Research and Education Program for Historically Black Colleges and Universities (HBCU) and Tribal Colleges and Universities (TCU) Equipment/Instrumentation",
-      "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "10/09/2026",
-      "hash": "d1cdc70f9cab27fd72f3dee1a0bd6ca2b04cc5e65a5a0fdfc297362fa70928c6"
     },
     {
       "id": "360554",
@@ -11442,15 +11352,6 @@
       "hash": "9aaf2a235da10a89b1911e27df0a196caf5673af0fb0fca97bc50bcc05260353"
     },
     {
-      "id": "363712",
-      "number": "O-BJA-2026-172705",
-      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;Local Formula",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "10/09/2026",
-      "hash": "a9682b27c846fc9f41e30e74743a582148f0a7c8985bf1d110b6f7c02f832754"
-    },
-    {
       "id": "363714",
       "number": "F26AS00107",
       "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
@@ -11775,15 +11676,6 @@
       "hash": "62844a95d9d6f31cac44388c4696980e5adc87f338de12910b21f7ff3613ab9f"
     },
     {
-      "id": "363754",
-      "number": "DE-FOA-0003618",
-      "title": "Staff Support to Tribal Radioactive Materials Transportation Committee for Engagement with the United States (U.S.) Department of Energy on Radioactive Materials Transportation Planning",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "10/09/2026",
-      "hash": "92034638358bbfe7a2975736b8d1aa70e9a0b082cd5d6ad1ff1d05d7cdcc5b05"
-    },
-    {
       "id": "362854",
       "number": "HT942526BMFRPIDA",
       "title": "DoW Bone Marrow Failure, Idea Development Award",
@@ -12007,15 +11899,6 @@
       "openDate": "12/01/2022",
       "closeDate": "01/11/2027",
       "hash": "1f975ab4ad5e9d341d70b03a9fdd71ffd2a7311034788f5e8e347d091948e3cf"
-    },
-    {
-      "id": "353936",
-      "number": "24-569",
-      "title": "Mathematical Foundations of Artificial Intelligence (MFAI)",
-      "status": "posted",
-      "openDate": "05/02/2024",
-      "closeDate": "10/09/2026",
-      "hash": "e995dd28c3fe0cebf28eae97c49888cf99a27ded097c14d691998340a525ee5d"
     },
     {
       "id": "364021",
@@ -12639,6 +12522,78 @@
       "hash": "b7cc7ac466138bbd55630e00731575969773ab4bb01065ef01b3c7897bc0e782"
     },
     {
+      "id": "356163",
+      "number": "RFA-OH-26-001",
+      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
+    },
+    {
+      "id": "361431",
+      "number": "RFA-RM-27-024",
+      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/10/2026",
+      "hash": "ebffb7f3b0ae5227d77d8b0c152580b1769a83e71e966c64a64a0dd5915aacb6"
+    },
+    {
+      "id": "360905",
+      "number": "RFA-CA-28-013",
+      "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "02/09/2027",
+      "hash": "4df3ad429c39bc82df8a57b2e49516844e060ab0b724d93cfe331734d3372dae"
+    },
+    {
+      "id": "364047",
+      "number": "OFOP0003897",
+      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/19/2026",
+      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
+    },
+    {
+      "id": "364048",
+      "number": "O-NIJ-2026-172796",
+      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "b5538a4bf11623084762a271f721e27692487cf79ddfb61b751a7a634a9faddf"
+    },
+    {
+      "id": "358403",
+      "number": "14-579",
+      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
+      "status": "posted",
+      "openDate": "01/31/2025",
+      "closeDate": "10/08/2076",
+      "hash": "7ebf4ed7215003503e43dc1bab7b166c389c2a0c12052d21150a52fc45674fa9"
+    },
+    {
+      "id": "363612",
+      "number": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "10/08/2076",
+      "hash": "740cb29b9db710e89a7b3faf5c6baeba177b0722ad9a6db474f57153e2676abd"
+    },
+    {
+      "id": "364045",
+      "number": "O-BJA-2026-172797",
+      "title": "BJA FY 2026 Invited to Apply- Justice Information Sharing Training and Technical Assistance Program (RISS Support)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "10/13/2026",
+      "hash": "888ebd210dd86279bd53ed730f393fa7385550439477274fef54bb77e6d9e1d5"
+    },
+    {
       "id": "360873",
       "number": "RFA-AI-27-018",
       "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
@@ -12711,15 +12666,6 @@
       "hash": "9ab32e45c8e3ab4f41a75d812c21b722c7475c24b90e37a10892aedc3f1f3caf"
     },
     {
-      "id": "363233",
-      "number": "24-590",
-      "title": "Engineering Research Initiation (ERI)",
-      "status": "posted",
-      "openDate": "07/17/2026",
-      "closeDate": "10/09/2026",
-      "hash": "123310d567af6a97c285d252ff016db1bcca8cf98d7baebdec269aa306db6caa"
-    },
-    {
       "id": "364039",
       "number": "NNH25ZDA001N-SSF",
       "title": "ROSES 2025: B.8 Heliophysics Spaceflight Science Foundations",
@@ -12727,15 +12673,6 @@
       "openDate": "10/08/2026",
       "closeDate": "02/05/2027",
       "hash": "ecb4fd6f9ee5abb39083807435ae724faf4af9caecaab3b8b42409dede31663c"
-    },
-    {
-      "id": "364038",
-      "number": "22-521",
-      "title": "Science and Technology Centers: Integrative Partnerships",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "",
-      "hash": "3dc0a9b7f67d764b5eb68a667b99b0ebfcac08953103266453547a56622e000e"
     },
     {
       "id": "363617",
@@ -12799,6 +12736,78 @@
       "openDate": "10/07/2026",
       "closeDate": "11/06/2026",
       "hash": "b6fde340bf812b3e13e6c56f38e084ffde64688b4bcfd420e01e2ec64a29a79c"
+    },
+    {
+      "id": "361754",
+      "number": "PA-FPH-27-001",
+      "title": "Title X Family Planning Services Grants",
+      "status": "posted",
+      "openDate": "04/03/2026",
+      "closeDate": "01/11/2027",
+      "hash": "777804f5ce851369c5d180e486ab4a932ab691e4cfa5f9c48a57b424c0deff83"
+    },
+    {
+      "id": "359168",
+      "number": "RFA-RM-27-007",
+      "title": "Cellular Senescence Network (SenNet): SenNet Technology Projects (SenTecs) (UG3/UH3 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "137ef87818bbd194ab39306443d7bc94ffee424b661e05c82644c9707f8ebe6d"
+    },
+    {
+      "id": "359152",
+      "number": "RFA-AR-28-001",
+      "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "03/01/2029",
+      "hash": "f4a5dbd6a5a6dba3899d883133f100d9a66ee8f1e9f9e481096e6cb43d74a6d3"
+    },
+    {
+      "id": "359169",
+      "number": "RFA-RM-27-016",
+      "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "f6bf8b7cdfba50ffe3f9275c8b3364b65bc9d8141af6b68a64c24aa13a1845f9"
+    },
+    {
+      "id": "361817",
+      "number": "RFA-RM-27-025",
+      "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination and Integration Center (SenNet DCIC) (UM1 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "298c80bdab5854c425c27660f26774eec64f8f8b9397633ae40c51e4b6dba3fb"
+    },
+    {
+      "id": "364049",
+      "number": "O-NIJ-2026-172798",
+      "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "fbc17433d955936d7d14c21ec41e38a6988159c67821e321b6fcac9d2299b525"
+    },
+    {
+      "id": "364055",
+      "number": "CDC-RFA-DP-27-0068",
+      "title": "Chronic Disease Education and Awareness",
+      "status": "forecasted",
+      "openDate": "10/09/2026",
+      "closeDate": "",
+      "hash": "e4afafdae3b56fac6478f75e3e277a989e546f02b6d0e2123df676d52eb4fb74"
+    },
+    {
+      "id": "364051",
+      "number": "25-521",
+      "title": "Materials Innovation Platforms (MIP)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "",
+      "hash": "15bc955008037f344c8a1882cb1d2406660820e692ca6d4689db98a75b849d90"
     },
     {
       "id": "364030",
@@ -12963,114 +12972,6 @@
       "hash": "29b81bed185d8e3ac7336a796dc3e1434667b1ebedd899981f0fd8cb7024825f"
     },
     {
-      "id": "356163",
-      "number": "RFA-OH-26-001",
-      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
-    },
-    {
-      "id": "361431",
-      "number": "RFA-RM-27-024",
-      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/10/2026",
-      "hash": "ebffb7f3b0ae5227d77d8b0c152580b1769a83e71e966c64a64a0dd5915aacb6"
-    },
-    {
-      "id": "360905",
-      "number": "RFA-CA-28-013",
-      "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "02/09/2027",
-      "hash": "4df3ad429c39bc82df8a57b2e49516844e060ab0b724d93cfe331734d3372dae"
-    },
-    {
-      "id": "364047",
-      "number": "OFOP0003897",
-      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/19/2026",
-      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
-    },
-    {
-      "id": "358855",
-      "number": "RFA-HG-27-008",
-      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/12/2025",
-      "closeDate": "",
-      "hash": "656f95544ff62fbdea988d154029ed35730605b399722335be0b2553561ad4af"
-    },
-    {
-      "id": "359277",
-      "number": "RFA-HG-27-009",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "4b57de7d389bd9818be3dd1512d5a011f8d3838378f92df6e59e4f574cdc5614"
-    },
-    {
-      "id": "359170",
-      "number": "RFA-HG-27-010",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "bf4ff83163b78f35e1391df01d435ff8764e12893c330e96f91a14c8ce30d09c"
-    },
-    {
-      "id": "364048",
-      "number": "O-NIJ-2026-172796",
-      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "b5538a4bf11623084762a271f721e27692487cf79ddfb61b751a7a634a9faddf"
-    },
-    {
-      "id": "358403",
-      "number": "14-579",
-      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
-      "status": "posted",
-      "openDate": "01/31/2025",
-      "closeDate": "10/08/2076",
-      "hash": "7ebf4ed7215003503e43dc1bab7b166c389c2a0c12052d21150a52fc45674fa9"
-    },
-    {
-      "id": "358854",
-      "number": "RFA-HG-27-007",
-      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/12/2025",
-      "closeDate": "",
-      "hash": "44afd31488c9af5d458d9ec4acefd59488fb2448497af31dc8bd979ea9f567a9"
-    },
-    {
-      "id": "363612",
-      "number": "26-520",
-      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/08/2076",
-      "hash": "740cb29b9db710e89a7b3faf5c6baeba177b0722ad9a6db474f57153e2676abd"
-    },
-    {
-      "id": "364045",
-      "number": "O-BJA-2026-172797",
-      "title": "BJA FY 2026 Invited to Apply- Justice Information Sharing Training and Technical Assistance Program (RISS Support)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "10/13/2026",
-      "hash": "888ebd210dd86279bd53ed730f393fa7385550439477274fef54bb77e6d9e1d5"
-    },
-    {
       "id": "360753",
       "number": "RFA-OH-26-015",
       "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
@@ -13179,24 +13080,6 @@
       "hash": "534c27c887d94570982c9359e2f9dffe5b650b7effa05852f0aac974076eced0"
     },
     {
-      "id": "359168",
-      "number": "RFA-RM-27-007",
-      "title": "Cellular Senescence Network (SenNet):Technology Projects (UG3/UH3 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "e471ee616d2583e4393878a2612827a795c3ab1942f9c0d28d3f209a998a7a71"
-    },
-    {
-      "id": "359169",
-      "number": "RFA-RM-27-016",
-      "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/28/2025",
-      "closeDate": "",
-      "hash": "b1beb335b553c8827074446114b7e3a438fc7fd54d03740f8a31dc18d6605627"
-    },
-    {
       "id": "364054",
       "number": "24-599",
       "title": "Quantum Leap Challenge Institutes (QLCI)",
@@ -13204,15 +13087,6 @@
       "openDate": "10/09/2026",
       "closeDate": "",
       "hash": "e59b7d3f02a86c8e1219c316ae92dea4573fabfc5296db1b6df437b1ec5712ad"
-    },
-    {
-      "id": "364049",
-      "number": "O-NIJ-2026-172798",
-      "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "fbc17433d955936d7d14c21ec41e38a6988159c67821e321b6fcac9d2299b525"
     },
     {
       "id": "364050",
@@ -13224,31 +13098,112 @@
       "hash": "51672e209ed2e94227905e8feb5d459ef771afc44ac69bfe1005fd9ce998b680"
     },
     {
-      "id": "364051",
-      "number": "25-521",
-      "title": "Materials Innovation Platforms (MIP)",
+      "id": "359170",
+      "number": "RFA-HG-27-010",
+      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
       "status": "posted",
       "openDate": "10/09/2026",
-      "closeDate": "",
-      "hash": "15bc955008037f344c8a1882cb1d2406660820e692ca6d4689db98a75b849d90"
+      "closeDate": "12/14/2026",
+      "hash": "875b962c4dcfd2a39c9df4bb57e2a05177ac6c8fc16f0b8301cf69a7ca3ffa4b"
     },
     {
-      "id": "364055",
-      "number": "CDC-RFA-DP-27-0068",
-      "title": "Chronic Disease Education and Awareness",
-      "status": "forecasted",
-      "openDate": "10/09/2026",
-      "closeDate": "",
-      "hash": "e4afafdae3b56fac6478f75e3e277a989e546f02b6d0e2123df676d52eb4fb74"
-    },
-    {
-      "id": "359152",
-      "number": "RFA-AR-28-001",
-      "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
+      "id": "358854",
+      "number": "RFA-HG-27-007",
+      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
       "status": "posted",
       "openDate": "10/09/2026",
-      "closeDate": "03/01/2029",
-      "hash": "f4a5dbd6a5a6dba3899d883133f100d9a66ee8f1e9f9e481096e6cb43d74a6d3"
+      "closeDate": "12/14/2026",
+      "hash": "771bd510b0355178e4fc82bfd236e0afa270e8060b2c206a661eae0d594f7d75"
+    },
+    {
+      "id": "359277",
+      "number": "RFA-HG-27-009",
+      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "4a0682e6d86013cc8df3a27283189d6f3d729cee5dccea738ee3b02a71013cc4"
+    },
+    {
+      "id": "358855",
+      "number": "RFA-HG-27-008",
+      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "a6a7b17dba013e1b75735ad389a04f782f95d28423f3c59002dcc7a151969dbf"
+    },
+    {
+      "id": "364056",
+      "number": "O-OJJDP-2026-172752",
+      "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "de20b5b79ab67f43b64e1eee4667ed0fb0bf32f0f6341c3c416b6e6810171690"
+    },
+    {
+      "id": "364057",
+      "number": "O-OJJDP-2026-172748",
+      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "75977137b228363dc501fcbac58479dd0b2466ef6daf09d997b56702f1e99407"
+    },
+    {
+      "id": "364058",
+      "number": "O-OJJDP-2026-172743",
+      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "7f1ad6cc23afe8744b35870e0767bd6640571e51f18e11e256ab2edd8dfe520a"
+    },
+    {
+      "id": "364059",
+      "number": "O-NIJ-2026-172799",
+      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "9d22131f841dfdbfa42c4141c83c6a553f896309c67ee9ad16d3e8b1cff67dcb"
+    },
+    {
+      "id": "364060",
+      "number": "O-NIJ-2026-172800",
+      "title": "NIJ FY 2026 Research and Evaluation on Justice System Responses to Illegal Immigration",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "e8f678090400cced3c3a30b12665a978ad3b0d9d4f02a867094bbbe802e2cb6f"
+    },
+    {
+      "id": "364061",
+      "number": "O-NIJ-2026-172801",
+      "title": "NIJ FY 2026 Crime and Justice Research",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "f2a36abb9c62f938c7eaa0212cfe4fafa167d81c59275458b4af8f53fa2e7063"
+    },
+    {
+      "id": "364062",
+      "number": "O-NIJ-2026-172802",
+      "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "hash": "630d45e4813eab2422ead614593c1837cc0f639903db72f8c5075c40d5426c1d"
+    },
+    {
+      "id": "364063",
+      "number": "O-SMART-2026-172794",
+      "title": "SMART FY26 Support for Adam Walsh Act Implementation Grant Program",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/25/2026",
+      "hash": "9d24d0a782ddde3478713ab51356da7f2543e961576c1e824babfa338eefb302"
     }
   ]
 }
