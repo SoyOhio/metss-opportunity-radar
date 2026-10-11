@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T15:54:55.898Z",
-  "hitCount": 1467,
+  "updatedAt": "2026-10-11T16:22:08.735Z",
+  "hitCount": 1465,
   "records": [
     {
       "id": "355824",
@@ -12801,15 +12801,6 @@
       "hash": "e4afafdae3b56fac6478f75e3e277a989e546f02b6d0e2123df676d52eb4fb74"
     },
     {
-      "id": "364051",
-      "number": "25-521",
-      "title": "Materials Innovation Platforms (MIP)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "",
-      "hash": "15bc955008037f344c8a1882cb1d2406660820e692ca6d4689db98a75b849d90"
-    },
-    {
       "id": "364030",
       "number": "20270113-PJ",
       "title": "National Digital Newspaper Program",
@@ -13078,15 +13069,6 @@
       "openDate": "10/09/2026",
       "closeDate": "02/08/2027",
       "hash": "534c27c887d94570982c9359e2f9dffe5b650b7effa05852f0aac974076eced0"
-    },
-    {
-      "id": "364054",
-      "number": "24-599",
-      "title": "Quantum Leap Challenge Institutes (QLCI)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "",
-      "hash": "e59b7d3f02a86c8e1219c316ae92dea4573fabfc5296db1b6df437b1ec5712ad"
     },
     {
       "id": "364050",

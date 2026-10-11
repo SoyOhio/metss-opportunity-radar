@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-10-11T16:21:11.165Z-255ad543",
+      "status": "success",
+      "startedAt": "2026-10-11T16:21:11.165Z",
+      "completedAt": "2026-10-11T16:22:08.735Z",
+      "durationSeconds": 58,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1467,
+        "created": 0,
+        "updated": 2,
+        "unchanged": 1465,
+        "removedFromActive": 2,
+        "archivedOrClosed": 2,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1465,
+        "target": 1465,
+        "uniqueResults": 1465,
+        "pagesRequested": 15,
+        "pagesSucceeded": 15,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2449,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 23
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-10-10T15:54:12.465Z-2d950b29",
       "status": "success",
       "startedAt": "2026-10-10T15:54:12.465Z",
@@ -1754,42 +1790,6 @@
         "totalAvailable": 1643,
         "target": 1643,
         "uniqueResults": 1643,
-        "pagesRequested": 17,
-        "pagesSucceeded": 17,
-        "pagesFailed": 0
-      },
-      "integrity": {
-        "storedRecords": 2123,
-        "duplicateIds": 0,
-        "duplicateOpportunityNumbers": 18
-      },
-      "errors": []
-    },
-    {
-      "id": "grants-2026-08-22T10:44:06.513Z-4b11e05f",
-      "status": "success",
-      "startedAt": "2026-08-22T10:44:06.513Z",
-      "completedAt": "2026-08-22T10:44:55.611Z",
-      "durationSeconds": 49,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": null,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 1660,
-        "created": 6,
-        "updated": 32,
-        "unchanged": 1622,
-        "removedFromActive": 16,
-        "archivedOrClosed": 16,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1644,
-        "target": 1644,
-        "uniqueResults": 1644,
         "pagesRequested": 17,
         "pagesSucceeded": 17,
         "pagesFailed": 0
