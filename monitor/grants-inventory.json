@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T16:22:08.735Z",
-  "hitCount": 1465,
+  "updatedAt": "2026-10-12T19:53:24.633Z",
+  "hitCount": 1464,
   "records": [
     {
       "id": "355824",
@@ -6535,15 +6535,6 @@
       "openDate": "05/30/2024",
       "closeDate": "12/30/2026",
       "hash": "3722648224dfb6d0c20500feb8c4ff063aa513f0c7e35469327f8b1a77cbfa66"
-    },
-    {
-      "id": "359202",
-      "number": "RFA-MH-27-135",
-      "title": "Addressing Methodological Challenges with Clinical Trials of Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (R01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "04/29/2026",
-      "closeDate": "10/11/2026",
-      "hash": "fab7857887af298d9a92b0f1f3a870f64271fef0974f9fc2f97a63cfcf8327af"
     },
     {
       "id": "361769",
