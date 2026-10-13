@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T19:53:24.633Z",
-  "hitCount": 1464,
+  "updatedAt": "2026-10-13T17:40:37.311Z",
+  "hitCount": 1466,
   "records": [
     {
       "id": "355824",
@@ -334,15 +334,6 @@
       "openDate": "05/27/2025",
       "closeDate": "",
       "hash": "d48bccb42a7c9262411b60309be73605a6dcbe6252333209b8a198b70b47759e"
-    },
-    {
-      "id": "359142",
-      "number": "NOT-AI-25-032",
-      "title": "Limited Competition: International epidemiology Databases to Evaluate AIDS (IeDEA) (U01 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/27/2025",
-      "closeDate": "",
-      "hash": "c821bc215820b8d0cb6349a0424a0766fc6f97702c83f8524c38953ff49447ed"
     },
     {
       "id": "359138",
@@ -6303,15 +6294,6 @@
       "hash": "a54cd96c31efe3180175b39e168e73025efa96dc55ad9a2fd6df23f77ad45491"
     },
     {
-      "id": "361832",
-      "number": "RFA-AI-28-024",
-      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
-      "status": "forecasted",
-      "openDate": "04/09/2026",
-      "closeDate": "",
-      "hash": "40adbc408b15789b5e25fdc6ab6c993f2034da7e6c61d55afd5521d3c85cfab5"
-    },
-    {
       "id": "360159",
       "number": "RFA-AG-26-005",
       "title": "Limited Competition: Social, Behavioral, &amp; Economic (SBE) Coordinating Center",
@@ -6976,15 +6958,6 @@
       "openDate": "05/14/2026",
       "closeDate": "08/26/2027",
       "hash": "be1a565e07a8e30d9aeb130aeae499e9d49aa4bff93fe003104b9a3cfbb36a26"
-    },
-    {
-      "id": "359853",
-      "number": "RFA-CA-27-021",
-      "title": "Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "10/19/2026",
-      "hash": "6a521098036641b6722b41c55f013333888baba7f9224bad710707f1e6d6eb64"
     },
     {
       "id": "359855",
@@ -8164,15 +8137,6 @@
       "openDate": "09/14/2026",
       "closeDate": "11/20/2026",
       "hash": "8af854b2a9eaea7ea14ad565bfd99456a6557625c8ffc5acdd8b4167f7544442"
-    },
-    {
-      "id": "363854",
-      "number": "W9126G262SOI9598",
-      "title": "Aquatic Fauna Response to Ecosystem Restoration in Southwest Florida",
-      "status": "posted",
-      "openDate": "09/11/2026",
-      "closeDate": "10/12/2026",
-      "hash": "91dbfb41bd3bcad76f4ae535d07c38cc08320569de75c10f5f19addf6884c88f"
     },
     {
       "id": "363599",
@@ -10965,15 +10929,6 @@
       "hash": "7061e1a8e4d300f006af9705f7d91b06d1b57cd695a7f806048da1a80342c9d2"
     },
     {
-      "id": "360554",
-      "number": "PAR-27-051",
-      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access (X01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "09/01/2026",
-      "closeDate": "04/17/2029",
-      "hash": "aa51a418074ca101306de07c5408ff95037cd3b6948680e0a1580e661cc9c9f4"
-    },
-    {
       "id": "363770",
       "number": "AAHC-FY27",
       "title": "Museum Grants for African American History and Culture (2027)",
@@ -11674,15 +11629,6 @@
       "openDate": "06/17/2026",
       "closeDate": "11/04/2026",
       "hash": "a7b5e44796cba17bcd7cb34920c04d5d87522ffe3d420e183042d09c1ecb0425"
-    },
-    {
-      "id": "361315",
-      "number": "USDA-FS-UCF-01-2026",
-      "title": "2026 National Urban and Community Forestry Challenge Cost Share Grant Program",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "10/12/2026",
-      "hash": "223d1874c5fa1dcdb98a1c23b6ff624120928c18b3ea3f30b801183cc913b274"
     },
     {
       "id": "363991",
@@ -12558,15 +12504,6 @@
       "hash": "b5538a4bf11623084762a271f721e27692487cf79ddfb61b751a7a634a9faddf"
     },
     {
-      "id": "358403",
-      "number": "14-579",
-      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
-      "status": "posted",
-      "openDate": "01/31/2025",
-      "closeDate": "10/08/2076",
-      "hash": "7ebf4ed7215003503e43dc1bab7b166c389c2a0c12052d21150a52fc45674fa9"
-    },
-    {
       "id": "363612",
       "number": "26-520",
       "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
@@ -12792,6 +12729,150 @@
       "hash": "e4afafdae3b56fac6478f75e3e277a989e546f02b6d0e2123df676d52eb4fb74"
     },
     {
+      "id": "360753",
+      "number": "RFA-OH-26-015",
+      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
+    },
+    {
+      "id": "363611",
+      "number": "EPA-OW-OWOW-26-01",
+      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/09/2026",
+      "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
+    },
+    {
+      "id": "363241",
+      "number": "NNH25ZDA001N-BIOS",
+      "title": "ROSES25: A.15 Biosphere",
+      "status": "posted",
+      "openDate": "07/20/2026",
+      "closeDate": "11/06/2026",
+      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
+    },
+    {
+      "id": "364042",
+      "number": "O-OJJDP-2026-172740",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "57bdd885b7dadffd77e989a8662afcdf5724263d5d8a91136e09ffc51f0aa83b"
+    },
+    {
+      "id": "364040",
+      "number": "O-OJJDP-2026-172737",
+      "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "a1fba1ecb3b92d1cdd4797b43bc782a5c8d01fbfc03eb0b516d4a0a317a54c94"
+    },
+    {
+      "id": "364041",
+      "number": "O-OJJDP-2026-172738",
+      "title": "OJJDP FY 2026 Family Treatment Court Program",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "9bf687f225d3cf5fc4205e4356c323982f611cc591cc15eeb8ce8853a14b290d"
+    },
+    {
+      "id": "364043",
+      "number": "O-BJA-2026-172763",
+      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/20/2026",
+      "hash": "bb9777d50da64ded2ac9ccb8483e2ba898e328116efb1ae9ff9597bd15a245f5"
+    },
+    {
+      "id": "364044",
+      "number": "O-OJJDP-2026-172742",
+      "title": "OJJDP FY 2026 Juvenile Justice System Enhancements",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "hash": "286d0f09620c363cb855a9bfb7b5455319a5f8f52ab9425115762b8a4c709931"
+    },
+    {
+      "id": "364033",
+      "number": "DE-FOA-0003673",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "01/12/2027",
+      "hash": "68cdaf33efd935cc6111ab51cb9ef060da0453a708f57ce33bdd2bd9c8a059f9"
+    },
+    {
+      "id": "363869",
+      "number": "DE-FOA-0003657",
+      "title": "The DOE Quantum Genesis Q Competition",
+      "status": "posted",
+      "openDate": "09/17/2026",
+      "closeDate": "10/19/2026",
+      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
+    },
+    {
+      "id": "359676",
+      "number": "RFA-HL-27-010",
+      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "10/13/2028",
+      "hash": "7151a3ac1c0dca19dee85c6a561b60e334f7a20f6ca3cdf9bd7999ec5e25eb03"
+    },
+    {
+      "id": "360562",
+      "number": "RFA-DA-28-013",
+      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "02/08/2027",
+      "hash": "534c27c887d94570982c9359e2f9dffe5b650b7effa05852f0aac974076eced0"
+    },
+    {
+      "id": "359170",
+      "number": "RFA-HG-27-010",
+      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "875b962c4dcfd2a39c9df4bb57e2a05177ac6c8fc16f0b8301cf69a7ca3ffa4b"
+    },
+    {
+      "id": "358854",
+      "number": "RFA-HG-27-007",
+      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "771bd510b0355178e4fc82bfd236e0afa270e8060b2c206a661eae0d594f7d75"
+    },
+    {
+      "id": "359277",
+      "number": "RFA-HG-27-009",
+      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "4a0682e6d86013cc8df3a27283189d6f3d729cee5dccea738ee3b02a71013cc4"
+    },
+    {
+      "id": "358855",
+      "number": "RFA-HG-27-008",
+      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "hash": "a6a7b17dba013e1b75735ad389a04f782f95d28423f3c59002dcc7a151969dbf"
+    },
+    {
       "id": "364030",
       "number": "20270113-PJ",
       "title": "National Digital Newspaper Program",
@@ -12954,193 +13035,22 @@
       "hash": "29b81bed185d8e3ac7336a796dc3e1434667b1ebedd899981f0fd8cb7024825f"
     },
     {
-      "id": "360753",
-      "number": "RFA-OH-26-015",
-      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
+      "id": "361832",
+      "number": "RFA-AI-28-024",
+      "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
       "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
+      "openDate": "10/13/2026",
+      "closeDate": "02/11/2027",
+      "hash": "5ac4f02d1047723dea1411ac08762e36a023d1ecfeb2f2e3a41133012afffb78"
     },
     {
-      "id": "363611",
-      "number": "EPA-OW-OWOW-26-01",
-      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
+      "id": "363390",
+      "number": "OFOP0003410",
+      "title": "Strengthening Bosnia and Herzegovina&rsquo;s Organized Crime Specialized Departments for Organized Crime Through Expert Advisory Support",
       "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "11/09/2026",
-      "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
-    },
-    {
-      "id": "363241",
-      "number": "NNH25ZDA001N-BIOS",
-      "title": "ROSES25: A.15 Biosphere",
-      "status": "posted",
-      "openDate": "07/20/2026",
-      "closeDate": "11/06/2026",
-      "hash": "17688f69b5fe564f9342a7549d6fd074d3288cacfc21302d290fcd12dc7e8654"
-    },
-    {
-      "id": "364042",
-      "number": "O-OJJDP-2026-172740",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "hash": "57bdd885b7dadffd77e989a8662afcdf5724263d5d8a91136e09ffc51f0aa83b"
-    },
-    {
-      "id": "364040",
-      "number": "O-OJJDP-2026-172737",
-      "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "hash": "a1fba1ecb3b92d1cdd4797b43bc782a5c8d01fbfc03eb0b516d4a0a317a54c94"
-    },
-    {
-      "id": "364041",
-      "number": "O-OJJDP-2026-172738",
-      "title": "OJJDP FY 2026 Family Treatment Court Program",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "hash": "9bf687f225d3cf5fc4205e4356c323982f611cc591cc15eeb8ce8853a14b290d"
-    },
-    {
-      "id": "364043",
-      "number": "O-BJA-2026-172763",
-      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/20/2026",
-      "hash": "bb9777d50da64ded2ac9ccb8483e2ba898e328116efb1ae9ff9597bd15a245f5"
-    },
-    {
-      "id": "364044",
-      "number": "O-OJJDP-2026-172742",
-      "title": "OJJDP FY 2026 Juvenile Justice System Enhancements",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "hash": "286d0f09620c363cb855a9bfb7b5455319a5f8f52ab9425115762b8a4c709931"
-    },
-    {
-      "id": "364033",
-      "number": "DE-FOA-0003673",
-      "title": "Genesis Mission Graduate Fellowship Pilot",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "01/12/2027",
-      "hash": "68cdaf33efd935cc6111ab51cb9ef060da0453a708f57ce33bdd2bd9c8a059f9"
-    },
-    {
-      "id": "363869",
-      "number": "DE-FOA-0003657",
-      "title": "The DOE Quantum Genesis Q Competition",
-      "status": "posted",
-      "openDate": "09/17/2026",
-      "closeDate": "10/19/2026",
-      "hash": "a17b40912781cf25c8d71d06e18a20f0a8f98e7bd0e200b60bfb7d9319e822b8"
-    },
-    {
-      "id": "359676",
-      "number": "RFA-HL-27-010",
-      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "10/13/2028",
-      "hash": "7151a3ac1c0dca19dee85c6a561b60e334f7a20f6ca3cdf9bd7999ec5e25eb03"
-    },
-    {
-      "id": "360562",
-      "number": "RFA-DA-28-013",
-      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "02/08/2027",
-      "hash": "534c27c887d94570982c9359e2f9dffe5b650b7effa05852f0aac974076eced0"
-    },
-    {
-      "id": "364050",
-      "number": "O-BJA-2026-172795",
-      "title": "BJA FY 2026 Invited to Apply- Medicaid and Corrections Program",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "10/21/2026",
-      "hash": "51672e209ed2e94227905e8feb5d459ef771afc44ac69bfe1005fd9ce998b680"
-    },
-    {
-      "id": "359170",
-      "number": "RFA-HG-27-010",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "hash": "875b962c4dcfd2a39c9df4bb57e2a05177ac6c8fc16f0b8301cf69a7ca3ffa4b"
-    },
-    {
-      "id": "358854",
-      "number": "RFA-HG-27-007",
-      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "hash": "771bd510b0355178e4fc82bfd236e0afa270e8060b2c206a661eae0d594f7d75"
-    },
-    {
-      "id": "359277",
-      "number": "RFA-HG-27-009",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "hash": "4a0682e6d86013cc8df3a27283189d6f3d729cee5dccea738ee3b02a71013cc4"
-    },
-    {
-      "id": "358855",
-      "number": "RFA-HG-27-008",
-      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "hash": "a6a7b17dba013e1b75735ad389a04f782f95d28423f3c59002dcc7a151969dbf"
-    },
-    {
-      "id": "364056",
-      "number": "O-OJJDP-2026-172752",
-      "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "de20b5b79ab67f43b64e1eee4667ed0fb0bf32f0f6341c3c416b6e6810171690"
-    },
-    {
-      "id": "364057",
-      "number": "O-OJJDP-2026-172748",
-      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "75977137b228363dc501fcbac58479dd0b2466ef6daf09d997b56702f1e99407"
-    },
-    {
-      "id": "364058",
-      "number": "O-OJJDP-2026-172743",
-      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "7f1ad6cc23afe8744b35870e0767bd6640571e51f18e11e256ab2edd8dfe520a"
-    },
-    {
-      "id": "364059",
-      "number": "O-NIJ-2026-172799",
-      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "9d22131f841dfdbfa42c4141c83c6a553f896309c67ee9ad16d3e8b1cff67dcb"
+      "openDate": "07/30/2026",
+      "closeDate": "10/27/2026",
+      "hash": "efd49ad9a824a3c8d30daaafe5269fd09cdd4624a43f4d3cc0de610b06deb781"
     },
     {
       "id": "364060",
@@ -13152,15 +13062,6 @@
       "hash": "e8f678090400cced3c3a30b12665a978ad3b0d9d4f02a867094bbbe802e2cb6f"
     },
     {
-      "id": "364061",
-      "number": "O-NIJ-2026-172801",
-      "title": "NIJ FY 2026 Crime and Justice Research",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "f2a36abb9c62f938c7eaa0212cfe4fafa167d81c59275458b4af8f53fa2e7063"
-    },
-    {
       "id": "364062",
       "number": "O-NIJ-2026-172802",
       "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
@@ -13170,6 +13071,60 @@
       "hash": "630d45e4813eab2422ead614593c1837cc0f639903db72f8c5075c40d5426c1d"
     },
     {
+      "id": "364065",
+      "number": "RFA-AG-28-002",
+      "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
+      "status": "forecasted",
+      "openDate": "10/13/2026",
+      "closeDate": "",
+      "hash": "2e506058e116e8ffb6547b389f0fd629470b560c119b36f0be157ba6e179b665"
+    },
+    {
+      "id": "364059",
+      "number": "O-NIJ-2026-172799",
+      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "9d22131f841dfdbfa42c4141c83c6a553f896309c67ee9ad16d3e8b1cff67dcb"
+    },
+    {
+      "id": "364061",
+      "number": "O-NIJ-2026-172801",
+      "title": "NIJ FY 2026 Crime and Justice Research",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "f2a36abb9c62f938c7eaa0212cfe4fafa167d81c59275458b4af8f53fa2e7063"
+    },
+    {
+      "id": "364050",
+      "number": "O-BJA-2026-172795",
+      "title": "BJA FY 2026 Invited to Apply- Medicaid and Corrections Program",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "10/21/2026",
+      "hash": "51672e209ed2e94227905e8feb5d459ef771afc44ac69bfe1005fd9ce998b680"
+    },
+    {
+      "id": "364056",
+      "number": "O-OJJDP-2026-172752",
+      "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "de20b5b79ab67f43b64e1eee4667ed0fb0bf32f0f6341c3c416b6e6810171690"
+    },
+    {
+      "id": "364058",
+      "number": "O-OJJDP-2026-172743",
+      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "7f1ad6cc23afe8744b35870e0767bd6640571e51f18e11e256ab2edd8dfe520a"
+    },
+    {
       "id": "364063",
       "number": "O-SMART-2026-172794",
       "title": "SMART FY26 Support for Adam Walsh Act Implementation Grant Program",
@@ -13177,6 +13132,69 @@
       "openDate": "10/09/2026",
       "closeDate": "11/25/2026",
       "hash": "9d24d0a782ddde3478713ab51356da7f2543e961576c1e824babfa338eefb302"
+    },
+    {
+      "id": "363233",
+      "number": "24-590",
+      "title": "Engineering Research Initiation (ERI)",
+      "status": "posted",
+      "openDate": "07/17/2026",
+      "closeDate": "09/16/2027",
+      "hash": "25aa5c113a6ffbf7769ce053713d6157cfb50d43252845cf0362e14fe7f21ae3"
+    },
+    {
+      "id": "364066",
+      "number": "PAR-28-084",
+      "title": "Testing Centers for Evaluation of Somatic Cell Genome Editing Approaches for Translational Applications (U42 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "10/13/2026",
+      "closeDate": "",
+      "hash": "4018385cc67d8367536ca96c676f186258c48f6cc2fbda0f2118315b640096bd"
+    },
+    {
+      "id": "359142",
+      "number": "RFA-AI-28-025",
+      "title": "Implementation and Evaluation of Databases to Examine AIDS",
+      "status": "forecasted",
+      "openDate": "05/27/2025",
+      "closeDate": "",
+      "hash": "5fd2fc04b99296fdff748d539c296bb59fe659b7d4350cf4bd2cfe991b33fedd"
+    },
+    {
+      "id": "358403",
+      "number": "14-579",
+      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
+      "status": "posted",
+      "openDate": "01/31/2025",
+      "closeDate": "10/13/2076",
+      "hash": "3104a3cc1b71ad2243173076d7be46a7dd09cede9acf8324fe1a32e4d09669ef"
+    },
+    {
+      "id": "364057",
+      "number": "O-OJJDP-2026-172748",
+      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "75977137b228363dc501fcbac58479dd0b2466ef6daf09d997b56702f1e99407"
+    },
+    {
+      "id": "359853",
+      "number": "RFA-CA-27-021",
+      "title": "Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "05/21/2026",
+      "closeDate": "10/19/2026",
+      "hash": "58e068884cba877bca1a478a1f4e9cc2b3225bc4204578686d43aaacc2ebec3a"
+    },
+    {
+      "id": "360554",
+      "number": "PAR-27-051",
+      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access (X01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "09/01/2026",
+      "closeDate": "04/17/2029",
+      "hash": "aa51a418074ca101306de07c5408ff95037cd3b6948680e0a1580e661cc9c9f4"
     }
   ]
 }
