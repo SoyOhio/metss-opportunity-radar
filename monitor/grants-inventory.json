@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T17:40:37.311Z",
-  "hitCount": 1466,
+  "updatedAt": "2026-10-14T15:14:13.015Z",
+  "hitCount": 1464,
   "records": [
     {
       "id": "355824",
@@ -7617,15 +7617,6 @@
       "hash": "ecdf7e7912d3b6a6ba44b1ea9d942d8fe84357e85e67e7c88b459ecfe538cab2"
     },
     {
-      "id": "363348",
-      "number": "USDA-FS-2026-CFP",
-      "title": "Community Forest and Open Space Conservation Program",
-      "status": "posted",
-      "openDate": "08/12/2026",
-      "closeDate": "10/13/2026",
-      "hash": "375e7bb632d765700d78a228680a3891ccde0bf523934508f8f825d525e81275"
-    },
-    {
       "id": "363594",
       "number": "DE-FOA-0003215",
       "title": "Annual Recurring University Training and Research",
@@ -8137,15 +8128,6 @@
       "openDate": "09/14/2026",
       "closeDate": "11/20/2026",
       "hash": "8af854b2a9eaea7ea14ad565bfd99456a6557625c8ffc5acdd8b4167f7544442"
-    },
-    {
-      "id": "363599",
-      "number": "O-BJS-2026-172687",
-      "title": "BJS FY 2026 State Justice Statistics Program for Statistical Analysis Centers",
-      "status": "posted",
-      "openDate": "08/14/2026",
-      "closeDate": "10/13/2026",
-      "hash": "9e085833a8d3bd3123285068c1995977e6a959dfce35c1c2d56fdad22996eb49"
     },
     {
       "id": "363855",
@@ -11586,15 +11568,6 @@
       "hash": "6d604acb6dfbaaa097baa42a3c0f43e9411f53f06211a43301e766ada85a06d0"
     },
     {
-      "id": "362629",
-      "number": "F26AS00062",
-      "title": "F26AS00062: Great Lakes Fish and Wildlife Restoration Act FY 2026",
-      "status": "posted",
-      "openDate": "06/01/2026",
-      "closeDate": "10/13/2026",
-      "hash": "9f93fb8f90982f62a142b5e2ec0d70054ec3cd3f95f6e5a5902c3e4c66ea8f88"
-    },
-    {
       "id": "363992",
       "number": "F26AS00023",
       "title": "F26AS00023 FY2026 Prescott Marine Mammal Rescue and Response Grant Program",
@@ -11845,15 +11818,6 @@
       "openDate": "10/02/2026",
       "closeDate": "01/15/2027",
       "hash": "734f3ff2af2cb70959799f79370f0cc0c24278a800f85571638ea05ddd729715"
-    },
-    {
-      "id": "362990",
-      "number": "O-BJA-2026-172648",
-      "title": "DOJ FY 2026 Invited to Apply - National Integrated Ballistic Information (NIBIN) Modernization Program",
-      "status": "posted",
-      "openDate": "06/26/2026",
-      "closeDate": "10/13/2026",
-      "hash": "13f0f5953ad32854b16f222bb76a5b6d24f03cbb1a1fc4676aacc46ecc54a749"
     },
     {
       "id": "357724",
@@ -12513,15 +12477,6 @@
       "hash": "740cb29b9db710e89a7b3faf5c6baeba177b0722ad9a6db474f57153e2676abd"
     },
     {
-      "id": "364045",
-      "number": "O-BJA-2026-172797",
-      "title": "BJA FY 2026 Invited to Apply- Justice Information Sharing Training and Technical Assistance Program (RISS Support)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "10/13/2026",
-      "hash": "888ebd210dd86279bd53ed730f393fa7385550439477274fef54bb77e6d9e1d5"
-    },
-    {
       "id": "360873",
       "number": "RFA-AI-27-018",
       "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
@@ -13161,24 +13116,6 @@
       "hash": "5fd2fc04b99296fdff748d539c296bb59fe659b7d4350cf4bd2cfe991b33fedd"
     },
     {
-      "id": "358403",
-      "number": "14-579",
-      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
-      "status": "posted",
-      "openDate": "01/31/2025",
-      "closeDate": "10/13/2076",
-      "hash": "3104a3cc1b71ad2243173076d7be46a7dd09cede9acf8324fe1a32e4d09669ef"
-    },
-    {
-      "id": "364057",
-      "number": "O-OJJDP-2026-172748",
-      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "hash": "75977137b228363dc501fcbac58479dd0b2466ef6daf09d997b56702f1e99407"
-    },
-    {
       "id": "359853",
       "number": "RFA-CA-27-021",
       "title": "Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
@@ -13195,6 +13132,51 @@
       "openDate": "09/01/2026",
       "closeDate": "04/17/2029",
       "hash": "aa51a418074ca101306de07c5408ff95037cd3b6948680e0a1580e661cc9c9f4"
+    },
+    {
+      "id": "364068",
+      "number": "24-554",
+      "title": "Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)",
+      "status": "posted",
+      "openDate": "10/13/2026",
+      "closeDate": "",
+      "hash": "2e330ec3f4b6e2f84731a5ad91796d504deec901fba4f94f27340fef1eb63fbb"
+    },
+    {
+      "id": "364057",
+      "number": "O-OJJDP-2026-172748",
+      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "hash": "75977137b228363dc501fcbac58479dd0b2466ef6daf09d997b56702f1e99407"
+    },
+    {
+      "id": "358403",
+      "number": "14-579",
+      "title": "Facilitating Research at Primarily Undergraduate Institutions: (RUI and ROA-PUI)",
+      "status": "posted",
+      "openDate": "01/31/2025",
+      "closeDate": "10/13/2076",
+      "hash": "7cdfa69e45217d778819361db654534a995a376251a56cc81eec5e72dcaaab36"
+    },
+    {
+      "id": "364070",
+      "number": "DE-FOA-0003648",
+      "title": "Notice of Intent to Issue NOFO DE-FOA-0003649: Leveraging Domestic Infrastructure and Resources to Unleash Alternative Chemicals, Fuels and Feedstocks",
+      "status": "posted",
+      "openDate": "10/13/2026",
+      "closeDate": "04/26/2027",
+      "hash": "04c646b2b73f79de755f5943196c465de836ef2c5a12fc1c7dc9a27a7229a58e"
+    },
+    {
+      "id": "364069",
+      "number": "NOAA-NESDIS-NESDISPO-2027-33921",
+      "title": "FY 2027-2028 NESDIS Broad Agency Announcement (BAA)",
+      "status": "posted",
+      "openDate": "10/13/2026",
+      "closeDate": "09/30/2028",
+      "hash": "1eaa8ee840374ffa281f70216146715489bde21a2df54654e3107383cb637e91"
     }
   ]
 }
