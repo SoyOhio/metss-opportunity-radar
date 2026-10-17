@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T14:55:51.197Z",
-  "hitCount": 1460,
+  "updatedAt": "2026-10-17T13:48:54.987Z",
+  "hitCount": 1456,
   "records": [
     {
       "id": "355824",
@@ -3331,15 +3331,6 @@
       "openDate": "11/22/2024",
       "closeDate": "12/23/2027",
       "hash": "fd255c3ea08b33e305a70336523d1966ca0a2b5679e8f0c95c6a891df2370b7d"
-    },
-    {
-      "id": "356935",
-      "number": "PAR-25-077",
-      "title": "CCRP Initiative: NIH Countermeasures Against Chemical Threats (CounterACT) Basic Research on Chemical Threats that Affect the Nervous System (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/01/2024",
-      "closeDate": "10/16/2026",
-      "hash": "6599ab5bef501337a2f630046de632d0a598cfd716451f64c9aa33190dddaccf"
     },
     {
       "id": "356815",
@@ -7338,15 +7329,6 @@
       "hash": "5347e7683843fec296193bd593d637187d19b83f26b9032a8028b7c622480f52"
     },
     {
-      "id": "360759",
-      "number": "CDC-RFA-JG-26-0178",
-      "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a more effective, efficient, and sustainable response to HIV, TB, and other priority health threats",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/16/2026",
-      "hash": "fee9a19fbecd1852070a0ff8534ff09e20bbe64520c23ad29ed554f891d43885"
-    },
-    {
       "id": "363625",
       "number": "CDC-RFA-DD-27-0065",
       "title": "Surveillance and Case Control Study of Stillbirth and Birth Defects (SUCCSSBD)",
@@ -7354,15 +7336,6 @@
       "openDate": "08/17/2026",
       "closeDate": "",
       "hash": "ec30eb406b2eb35a772223559dd5b302fb7da9121cc5fa58a38a1033cb3fb60e"
-    },
-    {
-      "id": "362787",
-      "number": "L26AS00064",
-      "title": "FY26 Bureau of Land Management Youth Conservation Corps - Bureau wide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "status": "posted",
-      "openDate": "06/12/2026",
-      "closeDate": "10/16/2026",
-      "hash": "a655a6fbd207c5010797aebddebd3f373c733e5cab5a6232591ca8b1a5ea0b39"
     },
     {
       "id": "363632",
@@ -8391,15 +8364,6 @@
       "hash": "4123760363bc4e07aa3513c1149f2d45466353416bbcc17a4b22ba2183f99f17"
     },
     {
-      "id": "363590",
-      "number": "OFOP0003602",
-      "title": "Logistical Support for Citizen Security, counternarcotics, border security, criminal deterrence and Law Enforcement Projects in Honduras",
-      "status": "posted",
-      "openDate": "08/14/2026",
-      "closeDate": "10/16/2026",
-      "hash": "13513d2b4b31bf6195b43fc0bbbb358214f43d1c2e4eb54366526fc0c7f9b2d4"
-    },
-    {
       "id": "363946",
       "number": "AFPMB-BAA-27-01",
       "title": "Deployed Warfighter Protection FY27",
@@ -8812,15 +8776,6 @@
       "openDate": "09/28/2026",
       "closeDate": "10/30/2026",
       "hash": "fbc6078ef26b6a0d20f9817792aa9b2748eeaf56b65c652232868f4d16c48c37"
-    },
-    {
-      "id": "363843",
-      "number": "DFOP0019791",
-      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
-      "status": "posted",
-      "openDate": "09/10/2026",
-      "closeDate": "10/16/2026",
-      "hash": "701e58a8fa2544926543729d6af6997f3dc5d8f189dedb5661fedc19de19bc71"
     },
     {
       "id": "363983",
@@ -12747,15 +12702,6 @@
       "hash": "bcaab93823e468c6b47b4adc2dbe439f70e3938ea472c7221999c3c1ff74a33f"
     },
     {
-      "id": "363594",
-      "number": "DE-FOA-0003215",
-      "title": "Annual Recurring University Training and Research",
-      "status": "posted",
-      "openDate": "08/14/2026",
-      "closeDate": "10/16/2026",
-      "hash": "f772d2009f5d0daf8fcf33146300a3540361356e8d653385a4e93b4c43ec63cf"
-    },
-    {
       "id": "361216",
       "number": "RFA-AA-28-001",
       "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
@@ -12882,15 +12828,6 @@
       "hash": "2bfb36477c6605d9fbe46d54ad8d6e292126feb187f796af5a5c19532b46440a"
     },
     {
-      "id": "359606",
-      "number": "PD-98-1391",
-      "title": "Archaeology and Archaeometry",
-      "status": "posted",
-      "openDate": "06/06/2025",
-      "closeDate": "",
-      "hash": "0450459b042f254c770db2fe19711a9665665d047dc0f8f1aa9fcdd9bc8969ae"
-    },
-    {
       "id": "343285",
       "number": "22-629",
       "title": "Science and Technology Studies (STS)",
@@ -12916,15 +12853,6 @@
       "openDate": "02/15/2024",
       "closeDate": "02/01/2027",
       "hash": "864a0036f0804e368f48abb6c491178550a9e4903b56b9eafdec1dfa59bbc00c"
-    },
-    {
-      "id": "364025",
-      "number": "25-534",
-      "title": "Strengthening American Infrastructure (SAI)",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "",
-      "hash": "7d1230f70117fcec7415769961a72fdb956bf30fb9754a8f55d9609df58fe55c"
     },
     {
       "id": "320098",
@@ -13053,76 +12981,31 @@
       "hash": "3c615bc2ee3f89e631f3b34386cc51d1de0c60b0b70acc244a13c2da610e75a4"
     },
     {
-      "id": "356659",
-      "number": "25-502",
-      "title": "Cultural Anthropology Program Senior Research Awards (CA-SR)",
-      "status": "posted",
-      "openDate": "10/08/2024",
-      "closeDate": "01/15/2027",
-      "hash": "382fa254898c7c1d62395546fe610d65a53b22825695aecf894c19a2fd163b00"
-    },
-    {
-      "id": "344001",
-      "number": "23-503",
-      "title": "Biological Anthropology Program Senior Research Awards (BA-SR)",
-      "status": "posted",
-      "openDate": "10/12/2022",
-      "closeDate": "02/01/2027",
-      "hash": "a41ec70670cdaa48efa60fcc8fd111cd3922ac82ec5630151c5f213df48bfa8a"
-    },
-    {
-      "id": "363844",
-      "number": "HHS-2027-IHS-NPHR-0001",
-      "title": "Native Public Health Resilience",
-      "status": "forecasted",
-      "openDate": "09/10/2026",
-      "closeDate": "",
-      "hash": "7223cd23555ba4a9dcf63d62a05031f20f04473f63cc1a83adc9902690786dae"
-    },
-    {
-      "id": "364097",
-      "number": "O-BJA-2026-172793",
-      "title": "OJP FY 2026 Integrity in American Elections Grant Program",
-      "status": "posted",
-      "openDate": "10/15/2026",
-      "closeDate": "12/01/2026",
-      "hash": "6f21d888aeab0e03d8af21817e702b335a34e2f70f623a299b7414424181b153"
-    },
-    {
-      "id": "360869",
-      "number": "PAR-28-090",
-      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
+      "id": "364099",
+      "number": "NOAA-NMFS-FHQ-2027-33600",
+      "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
       "status": "posted",
       "openDate": "10/16/2026",
-      "closeDate": "05/25/2029",
-      "hash": "bd796296abfe7f8b95e2567c7c66cd84cc66a735f1721cd0ad0a709a8dc34cb1"
+      "closeDate": "09/30/2028",
+      "hash": "894f65c66869bfd7da781cee1db8d22d80d2757e0f6aa6b316dc75f584ddc9a6"
     },
     {
-      "id": "361204",
-      "number": "PAR-28-093",
-      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "01/26/2026",
-      "closeDate": "",
-      "hash": "f2ce0a38a62b86246e581a1f9b154407b7c89382b2a5db33e58b8a1c046c7ca2"
-    },
-    {
-      "id": "361318",
-      "number": "RFA-LM-28-001",
-      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
+      "id": "364087",
+      "number": "ED-GRANTS-101526-002",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",
       "status": "posted",
       "openDate": "10/16/2026",
-      "closeDate": "02/11/2027",
-      "hash": "54ab9ed8ee3ea8256715d2a38145035558a39f98429be6dbeb1b95746be0a99e"
+      "closeDate": "12/11/2026",
+      "hash": "06164c0b13a06fd030606508ee57c8d5d00f8014b94b92f26aeea92484362af6"
     },
     {
-      "id": "362990",
-      "number": "O-BJA-2026-172648",
-      "title": "DOJ FY 2026 Invited to Apply - National Integrated Ballistic Information (NIBIN) Modernization Program",
+      "id": "364086",
+      "number": "ED-GRANTS-101526-001",
+      "title": "Institute of Education Sciences (IES): National Center on Education Research (NCER): From Seedlings to Scale, Assistance Listing Number (ALN) 84.305J",
       "status": "posted",
-      "openDate": "06/26/2026",
-      "closeDate": "10/20/2026",
-      "hash": "9c76cd6f7848617c19bcbdd9d2862b7a25d4dda4977242d10b5010f610821b31"
+      "openDate": "10/16/2026",
+      "closeDate": "12/11/2026",
+      "hash": "e9cd4225cf1e3322379971fb1477a74d3b8824c0a8c8aae5fb100a32ae04163b"
     },
     {
       "id": "364032",
@@ -13134,6 +13017,78 @@
       "hash": "fb980a8f2e47aed37c540d17ff98b3015d4e6f8093b0bd6b46bca2992d03baf7"
     },
     {
+      "id": "361204",
+      "number": "PAR-28-093",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "01/26/2026",
+      "closeDate": "",
+      "hash": "f2ce0a38a62b86246e581a1f9b154407b7c89382b2a5db33e58b8a1c046c7ca2"
+    },
+    {
+      "id": "356659",
+      "number": "25-502",
+      "title": "Cultural Anthropology Program Senior Research Awards (CA-SR)",
+      "status": "posted",
+      "openDate": "10/08/2024",
+      "closeDate": "01/15/2027",
+      "hash": "382fa254898c7c1d62395546fe610d65a53b22825695aecf894c19a2fd163b00"
+    },
+    {
+      "id": "362990",
+      "number": "O-BJA-2026-172648",
+      "title": "DOJ FY 2026 Invited to Apply - National Integrated Ballistic Information (NIBIN) Modernization Program",
+      "status": "posted",
+      "openDate": "06/26/2026",
+      "closeDate": "10/20/2026",
+      "hash": "9c76cd6f7848617c19bcbdd9d2862b7a25d4dda4977242d10b5010f610821b31"
+    },
+    {
+      "id": "344001",
+      "number": "23-503",
+      "title": "Biological Anthropology Program Senior Research Awards (BA-SR)",
+      "status": "posted",
+      "openDate": "10/12/2022",
+      "closeDate": "02/01/2027",
+      "hash": "a41ec70670cdaa48efa60fcc8fd111cd3922ac82ec5630151c5f213df48bfa8a"
+    },
+    {
+      "id": "364097",
+      "number": "O-BJA-2026-172793",
+      "title": "OJP FY 2026 Integrity in American Elections Grant Program",
+      "status": "posted",
+      "openDate": "10/15/2026",
+      "closeDate": "12/01/2026",
+      "hash": "6f21d888aeab0e03d8af21817e702b335a34e2f70f623a299b7414424181b153"
+    },
+    {
+      "id": "363844",
+      "number": "HHS-2027-IHS-NPHR-0001",
+      "title": "Native Public Health Resilience",
+      "status": "forecasted",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "hash": "7223cd23555ba4a9dcf63d62a05031f20f04473f63cc1a83adc9902690786dae"
+    },
+    {
+      "id": "360869",
+      "number": "PAR-28-090",
+      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/16/2026",
+      "closeDate": "05/25/2029",
+      "hash": "bd796296abfe7f8b95e2567c7c66cd84cc66a735f1721cd0ad0a709a8dc34cb1"
+    },
+    {
+      "id": "361318",
+      "number": "RFA-LM-28-001",
+      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "10/16/2026",
+      "closeDate": "02/11/2027",
+      "hash": "54ab9ed8ee3ea8256715d2a38145035558a39f98429be6dbeb1b95746be0a99e"
+    },
+    {
       "id": "364098",
       "number": "20261209-GE-GI-BP-BR-GGX",
       "title": "Public Humanities Projects",
@@ -13141,6 +13096,15 @@
       "openDate": "10/16/2026",
       "closeDate": "12/16/2026",
       "hash": "8aea79eaa18cce62d836c0b0070a2bfb3569b7ca3d39d96e4809a1634ba2227d"
+    },
+    {
+      "id": "364067",
+      "number": "DHS-27-GPD-161-00-99",
+      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+      "status": "posted",
+      "openDate": "10/16/2026",
+      "closeDate": "11/16/2026",
+      "hash": "67e9cbf6b189d0dc3a25462ba8eb899d5e27ea394475a426d3eb7e2cd44aad1e"
     }
   ]
 }
