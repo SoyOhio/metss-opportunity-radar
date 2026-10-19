@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T14:04:08.946Z",
-  "hitCount": 1457,
+  "updatedAt": "2026-10-19T17:01:58.311Z",
+  "hitCount": 1469,
   "records": [
     {
       "id": "355824",
@@ -5295,15 +5295,6 @@
       "hash": "e700e14e1dbbb343c5971483b321fbd1b5426b3a502f677fff7c0e7516821961"
     },
     {
-      "id": "360581",
-      "number": "PA-26-002",
-      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "01/20/2026",
-      "closeDate": "05/07/2029",
-      "hash": "a250554b0649fef2bcf4ff1bf64f2de4950c0e1b43e1328cf1bf7697373dfa1e"
-    },
-    {
       "id": "361186",
       "number": "RFA-AR-26-006",
       "title": "Restoring Joint Health and Function to Reduce Pain (RE-JOIN) 2.0",
@@ -7642,15 +7633,6 @@
       "openDate": "09/10/2026",
       "closeDate": "",
       "hash": "a24b46c57a8b9e6be1ae7139969f15f34f6bbe8f47f7cbb1b5379f03201206e9"
-    },
-    {
-      "id": "363779",
-      "number": "RUS-ARC-2026",
-      "title": "Affordable Rural Cooperative (ARC) Energy Program",
-      "status": "forecasted",
-      "openDate": "09/14/2026",
-      "closeDate": "",
-      "hash": "74b55ccaa66e25ecf4fe73eaecee23f29f5486fe66913acdc4f53174f23b110f"
     },
     {
       "id": "363849",
@@ -13017,15 +12999,6 @@
       "hash": "fb980a8f2e47aed37c540d17ff98b3015d4e6f8093b0bd6b46bca2992d03baf7"
     },
     {
-      "id": "361204",
-      "number": "PAR-28-093",
-      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "01/26/2026",
-      "closeDate": "",
-      "hash": "f2ce0a38a62b86246e581a1f9b154407b7c89382b2a5db33e58b8a1c046c7ca2"
-    },
-    {
       "id": "356659",
       "number": "25-502",
       "title": "Cultural Anthropology Program Senior Research Awards (CA-SR)",
@@ -13114,6 +13087,141 @@
       "openDate": "10/17/2026",
       "closeDate": "10/17/2027",
       "hash": "9965c955e9f9d1ed6681269bbc18c785f9f5e6054bf825281aa81a82d79831b0"
+    },
+    {
+      "id": "364110",
+      "number": "O-OVC-2027-172803",
+      "title": "OVC FY2027 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Highland Park, Illinois",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "10/22/2026",
+      "hash": "ee8d3f24695e1662572aeedf4ab2ab5bcc09aa0d2d1681ea4bf9e37ce9745511"
+    },
+    {
+      "id": "364111",
+      "number": "O-BJS-2026-172789",
+      "title": "BJS FY 2026 Invited To Apply Census of Tribal Law Enforcement Agencies and Census of Tribal Court Systems",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "10/20/2026",
+      "hash": "61efdc3d28b0f47fa20e19a3ea027912af38981e6ed242dc69b7b416591bda14"
+    },
+    {
+      "id": "361204",
+      "number": "PAR-28-093",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "07/16/2029",
+      "hash": "d67aa96e8b51b30a8becc6918c36f0f3915e5e199308d69a13f4751a90f6e126"
+    },
+    {
+      "id": "364112",
+      "number": "HHS-2027-ACL-AOA-ABRC-0012",
+      "title": "National Center on Elder Abuse Resource Center",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "b6f1206604862ddf2fe54be2cfe0f9c58a03e67c3081844096d6b0db5845d367"
+    },
+    {
+      "id": "364113",
+      "number": "HHS-2027-ACL-AOA-ADPI-0008",
+      "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "544b48cec1cb6ebfc0100362d86c72e5e7162312430f69c4ed72b07818b5ee9d"
+    },
+    {
+      "id": "364114",
+      "number": "HHS-2027-ACL-AOA-ADPI-0009",
+      "title": "Alheimer's Disease Programs Initiative (ADPI) - State Programs for Dementia Specific Respite",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "7cb2acd0433527779f650372774a067b8f3f83adabd5e841657047c28dc90422"
+    },
+    {
+      "id": "364115",
+      "number": "HHS-2027-ACL-AOA-ADPI-0010",
+      "title": "Alzheimer's Disease Programs Initiative (ADPI) - Dementia Capability in Indian Country",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "0610ddc2ea78a94e037ac8aded50697cc950fba9a19f2c7a6376fb6ea13117ca"
+    },
+    {
+      "id": "364116",
+      "number": "HHS-2027-ACL-AOA-CGNS-0039",
+      "title": "Advancing State Implementation of the National Strategy to Support Family Caregivers",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "7768e4a2b69d3119cc3dc73fc7313bf319fa5462c0f91583c8d67c5f572fbd59"
+    },
+    {
+      "id": "364117",
+      "number": "HHS-2027-ACL-AOA-EJIG-0011",
+      "title": "FY2027 Grants to Highest State Courts to Improve Guardianship",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "7774a513682a2150e9e4378fca65d8f22726bb2a772d5b571d817e07b905185c"
+    },
+    {
+      "id": "364118",
+      "number": "HHS-2027-ACL-AOA-EJIG-0013",
+      "title": "Elder Justice Innovation Grants FY2027",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "b7a026c580560081efc3c2942e77eab38780e5cff0aa2a2cc686fadbfb52a6e7"
+    },
+    {
+      "id": "364119",
+      "number": "HHS-2027-ACL-AOA-EJRC-0015",
+      "title": "National Adult Protective Services Training Center",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "acc30ab0d649ecb2acfae0f2edd82b4a2cb8c6258466423247f507cadea2b54e"
+    },
+    {
+      "id": "364120",
+      "number": "HHS-2027-ACL-AOA-INNU-0014",
+      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "bef786cf8e6d98cc9e564677c389517112f84c0c671ab06a7b6fd18681c02c15"
+    },
+    {
+      "id": "364121",
+      "number": "HHS-2027-ACL-CIP-NWGV-0005",
+      "title": "No Wrong Door System Modernization: Connecting People to Services",
+      "status": "forecasted",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "hash": "9d4ed1f1c1b5c883b148a59043c6885a1304b1cd7837caaf1f39fc41a1853aed"
+    },
+    {
+      "id": "360581",
+      "number": "PA-26-002",
+      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "01/20/2026",
+      "closeDate": "05/07/2029",
+      "hash": "cbffe2e6bd041324634bf69dad1f840ccf830acb44db99262edc3bafd354c3cd"
+    },
+    {
+      "id": "363779",
+      "number": "RUS-ARC-2026",
+      "title": "Affordable Rural Cooperative (ARC) Energy Program",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "11/20/2026",
+      "hash": "f29fa6c6d19c841b2bface107b2bbf191ac6f510b141ca22f332eb3d50d4e36b"
     }
   ]
 }
