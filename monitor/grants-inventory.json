@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:22:09.609Z",
+  "updatedAt": "2026-10-22T15:22:33.570Z",
   "hitCount": 1465,
   "records": [
     {
@@ -7617,15 +7617,6 @@
       "hash": "0f0a403296d85e92fa5ae2b994fbb308c3bc790af0d69b81e73473fc7b4a3383"
     },
     {
-      "id": "363845",
-      "number": "FOA-VETS-27-01",
-      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
-      "status": "forecasted",
-      "openDate": "09/10/2026",
-      "closeDate": "",
-      "hash": "a183010e8bf3a6c84084a24fa597e3c46871487b3ab836ebd02968b1dc04f5ec"
-    },
-    {
       "id": "363848",
       "number": "RFA-NS-28-005",
       "title": "Limited Competition: BRAIN Initiative: Promoting Health for All Through BRAIN Technology Partnerships",
@@ -8092,15 +8083,6 @@
       "openDate": "08/10/2026",
       "closeDate": "",
       "hash": "fec0b568308e0a71dae490a3997bbb266dfe10c2042dcad8e170729753689d7c"
-    },
-    {
-      "id": "363889",
-      "number": "O-BJA-2026-172718",
-      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "hash": "1121432662acafee2990e19d2b0a86f63b100c428bf83bcc479a8640e3308545"
     },
     {
       "id": "363888",
@@ -8571,15 +8553,6 @@
       "hash": "f79906615b181c9d2f7d0a9575f6910759db231fec9b63fde6b0fe509aefea61"
     },
     {
-      "id": "363959",
-      "number": "O-BJA-2026-172727",
-      "title": "BJA FY 2026 Tribal Justice Training and Technical Assistance Program",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "10/21/2026",
-      "hash": "9101f0249dd6f1edea847f46c248778ea5a8e87c28625fec425631ce246cc749"
-    },
-    {
       "id": "361275",
       "number": "PAR-28-056",
       "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
@@ -8605,15 +8578,6 @@
       "openDate": "09/28/2026",
       "closeDate": "10/28/2026",
       "hash": "495431e1300b11fa4521616eeb5b16cec4208ef997f3722e42fa1b82da300bf0"
-    },
-    {
-      "id": "363985",
-      "number": "P26AS00055",
-      "title": "National Parks Business Plan Internship",
-      "status": "posted",
-      "openDate": "09/28/2026",
-      "closeDate": "01/04/2027",
-      "hash": "fef5b2d1a0fc900554a2442bcb8198e937658b14e62034559e96f82359a310af"
     },
     {
       "id": "363797",
@@ -8868,15 +8832,6 @@
       "hash": "e500ca065a928f18ecf1e919fc1e8e963e207627d19300444fed82b271cc3b6d"
     },
     {
-      "id": "362254",
-      "number": "HT942526MBRPDA",
-      "title": "DoW Military Burn, Discovery Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
-      "hash": "6a6db9b6a44640845ac37603529c9199332956654b555b25df26a9e91a81ffe2"
-    },
-    {
       "id": "327763",
       "number": "W81XWH-21-NFRP-OUTREACH",
       "title": "NFRP Outreach and Invitation for Response",
@@ -9030,15 +8985,6 @@
       "hash": "2bc16c01ca4b948911d49a1e5a90b557fe99999ae0d355ca9d840b3ceffe9339"
     },
     {
-      "id": "362248",
-      "number": "HT942526MBRPPCRA",
-      "title": "DoW Military Burn, Patient-Centered Research Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
-      "hash": "a4274a81b2c4c088a6527ec439146a1b72791480ca1d36082f02e6b34af6d2ee"
-    },
-    {
       "id": "362171",
       "number": "HT942526TBDRPIDA",
       "title": "DoW Tick-Borne Disease Idea Development Award",
@@ -9073,15 +9019,6 @@
       "openDate": "05/21/2026",
       "closeDate": "11/19/2026",
       "hash": "a37dbe43d97b0abe1b0e03f10e31e6dc2b38938ef2a97f87ec1572ba5c7b4804"
-    },
-    {
-      "id": "362252",
-      "number": "HT942526MBRPTTDA",
-      "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
-      "hash": "c49b653a59fdb188e93e94c55b31d590ea1f26e31c0578c6dcdeb0ea8d9f212e"
     },
     {
       "id": "362226",
@@ -11127,15 +11064,6 @@
       "hash": "5ede5d86587235de20203f0afcea4ce4e1f3478e2c4b4116bc792eea98555c5b"
     },
     {
-      "id": "349280",
-      "number": "23-603",
-      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
-      "status": "posted",
-      "openDate": "07/14/2023",
-      "closeDate": "10/21/2026",
-      "hash": "5eee53a74f20761f80a1de8acf5b6981c5bf6d8c091ee40a541997443520e013"
-    },
-    {
       "id": "362905",
       "number": "HR001126S0011",
       "title": "Information Processing Techniques Office Office-Wide",
@@ -11253,15 +11181,6 @@
       "hash": "7b4f9ce02c54e8f3d31a196793c9eab3706993ef60403ed448f074c0a1486e0e"
     },
     {
-      "id": "364020",
-      "number": "USDA-NIFA-SBIR-012221",
-      "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "11/17/2026",
-      "hash": "a852340740eb8df906b716c1197c72f897d9587f7138802f76f09edd53cb9364"
-    },
-    {
       "id": "362842",
       "number": "2026-NTIA-NEGP",
       "title": "Native Entities Grant Program",
@@ -11296,15 +11215,6 @@
       "openDate": "04/15/2026",
       "closeDate": "07/27/2027",
       "hash": "e7bfa1c1ad6a20e88b8665e4dd30598c6f6c9c8720ef78d0b780c08670772f3e"
-    },
-    {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "48679df33dc7101f62c585464e970e033751085fab4a30e118c14d789bc9403a"
     },
     {
       "id": "358036",
@@ -11584,15 +11494,6 @@
       "openDate": "10/09/2026",
       "closeDate": "02/09/2027",
       "hash": "4df3ad429c39bc82df8a57b2e49516844e060ab0b724d93cfe331734d3372dae"
-    },
-    {
-      "id": "364047",
-      "number": "OFOP0003897",
-      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/19/2026",
-      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
     },
     {
       "id": "364048",
@@ -11908,15 +11809,6 @@
       "openDate": "07/17/2026",
       "closeDate": "09/16/2027",
       "hash": "25aa5c113a6ffbf7769ce053713d6157cfb50d43252845cf0362e14fe7f21ae3"
-    },
-    {
-      "id": "364050",
-      "number": "O-BJA-2026-172795",
-      "title": "BJA FY 2026 Invited to Apply- Medicaid and Corrections Program",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "10/21/2026",
-      "hash": "51672e209ed2e94227905e8feb5d459ef771afc44ac69bfe1005fd9ce998b680"
     },
     {
       "id": "364075",
@@ -12738,15 +12630,6 @@
       "hash": "a41ec70670cdaa48efa60fcc8fd111cd3922ac82ec5630151c5f213df48bfa8a"
     },
     {
-      "id": "364097",
-      "number": "O-BJA-2026-172793",
-      "title": "OJP FY 2026 Integrity in American Elections Grant Program",
-      "status": "posted",
-      "openDate": "10/15/2026",
-      "closeDate": "12/01/2026",
-      "hash": "6f21d888aeab0e03d8af21817e702b335a34e2f70f623a299b7414424181b153"
-    },
-    {
       "id": "363844",
       "number": "HHS-2027-IHS-NPHR-0001",
       "title": "Native Public Health Resilience",
@@ -13098,13 +12981,31 @@
       "hash": "fe8445121f4d8ef7733d7ff48b7408ad08343c874a3989031159c87cd93333e6"
     },
     {
-      "id": "362946",
-      "number": "RFA-AI-28-005",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "id": "364136",
+      "number": "DE-FOA-0003630",
+      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
+      "status": "posted",
+      "openDate": "10/21/2026",
+      "closeDate": "11/20/2026",
+      "hash": "84bfa69791f86c5017fb4476aa8c975d4fb2661ae4d196be7e087e24ffc37ac4"
+    },
+    {
+      "id": "364135",
+      "number": "DE-FOA-0003631",
+      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources SBIR/STTR (UNLOCK SBIR/STTR)",
+      "status": "posted",
+      "openDate": "10/21/2026",
+      "closeDate": "11/20/2026",
+      "hash": "e66372a8688069ffa10ad63806f6063ce1583df9e0a30267ec575e1286083794"
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
       "status": "posted",
       "openDate": "10/20/2026",
-      "closeDate": "01/29/2027",
-      "hash": "c8513aab8bb31c025a683e95e448be7bdd69ffa1ddefbf152b60fc52939c411d"
+      "closeDate": "11/19/2026",
+      "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
     },
     {
       "id": "353413",
@@ -13125,6 +13026,15 @@
       "hash": "f1851b712e2aa72ecedb431b345daab6835604eabbcd76bd9e5c4dd4cb56862b"
     },
     {
+      "id": "364008",
+      "number": "W911NF-27-R-A001",
+      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "12/03/2026",
+      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
+    },
+    {
       "id": "364129",
       "number": "DARPARA2701",
       "title": "Young Faculty Award (YFA) 2027",
@@ -13134,13 +13044,22 @@
       "hash": "b74a566a22224b76005cfb1d0c67bcc5af707f24570035ba9a37c892315d6b1c"
     },
     {
-      "id": "364008",
-      "number": "W911NF-27-R-A001",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "id": "362946",
+      "number": "RFA-AI-28-005",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "12/03/2026",
-      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
+      "hash": "c8513aab8bb31c025a683e95e448be7bdd69ffa1ddefbf152b60fc52939c411d"
+    },
+    {
+      "id": "356205",
+      "number": "RFA-NS-27-015",
+      "title": "BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "05/28/2026",
+      "closeDate": "10/04/2027",
+      "hash": "11ba4c6adcea1d964eb212341bacc69ab9d40faa1adba3376faa1e2db51a81e6"
     },
     {
       "id": "364130",
@@ -13152,13 +13071,40 @@
       "hash": "057c7f6d34522be147cafeb7551cf46d9721c17d9ee2d3f9c25eade173502d8c"
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "id": "364133",
+      "number": "F26AS00088",
+      "title": "F26AS00088 Endangered Species Conservation &ndash; Wolf Livestock Loss Compensation and Prevention",
       "status": "posted",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
+      "openDate": "10/21/2026",
+      "closeDate": "01/15/2027",
+      "hash": "0ff89d12835cddd0fd5e5d2bff5a954bfcec0f9118f24c9052324840217db34e"
+    },
+    {
+      "id": "363845",
+      "number": "FOA-VETS-27-01",
+      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
+      "status": "forecasted",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "hash": "a183010e8bf3a6c84084a24fa597e3c46871487b3ab836ebd02968b1dc04f5ec"
+    },
+    {
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "11/04/2026",
+      "hash": "873801500e897a6fbfcd4a884dfa7137fd62305820f4776f6e38d3de778daf61"
+    },
+    {
+      "id": "364134",
+      "number": "HHS-2027-ACF-ORR-ZU-0045",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "status": "forecasted",
+      "openDate": "10/21/2026",
+      "closeDate": "",
+      "hash": "6fa2df1ed29f103ca78a0cf0840046a54cfd8f11d913dcb630d7ad02abdde51a"
     },
     {
       "id": "355100",
@@ -13170,22 +13116,76 @@
       "hash": "6979f1edec0037c5bee171ecafd158a3257dcecf521af89bc6c04d0b0373af83"
     },
     {
-      "id": "364133",
-      "number": "F26AS00088",
-      "title": "F26AS00088 Endangered Species Conservation &ndash; Wolf Livestock Loss Compensation and Prevention",
+      "id": "363889",
+      "number": "O-BJA-2026-172718",
+      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
       "status": "posted",
-      "openDate": "10/21/2026",
-      "closeDate": "01/15/2027",
-      "hash": "0ff89d12835cddd0fd5e5d2bff5a954bfcec0f9118f24c9052324840217db34e"
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "hash": "1121432662acafee2990e19d2b0a86f63b100c428bf83bcc479a8640e3308545"
     },
     {
-      "id": "356205",
-      "number": "RFA-NS-27-015",
-      "title": "BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)",
+      "id": "364097",
+      "number": "O-BJA-2026-172793",
+      "title": "OJP FY 2026 Integrity in American Elections Grant Program",
       "status": "posted",
-      "openDate": "05/28/2026",
-      "closeDate": "10/04/2027",
-      "hash": "11ba4c6adcea1d964eb212341bacc69ab9d40faa1adba3376faa1e2db51a81e6"
+      "openDate": "10/15/2026",
+      "closeDate": "12/01/2026",
+      "hash": "6f21d888aeab0e03d8af21817e702b335a34e2f70f623a299b7414424181b153"
+    },
+    {
+      "id": "349280",
+      "number": "23-603",
+      "title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)",
+      "status": "posted",
+      "openDate": "07/14/2023",
+      "closeDate": "10/20/2027",
+      "hash": "1462d5c56f6054b5e02ba965679c17ffe1d90535f69cea4e8264c9c5061b5efd"
+    },
+    {
+      "id": "364020",
+      "number": "USDA-NIFA-SBIR-012221",
+      "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "11/17/2026",
+      "hash": "a852340740eb8df906b716c1197c72f897d9587f7138802f76f09edd53cb9364"
+    },
+    {
+      "id": "364137",
+      "number": "SB-OEDSB-26-002",
+      "title": "2027 Small Business Development Centers CORE",
+      "status": "posted",
+      "openDate": "10/21/2026",
+      "closeDate": "12/03/2026",
+      "hash": "50af87bbd05e73b71a114946c9fd1cd3888af2497a83a5bda1a027a12252959b"
+    },
+    {
+      "id": "364047",
+      "number": "OFOP0003897",
+      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
+      "status": "posted",
+      "openDate": "10/09/2026",
+      "closeDate": "11/19/2026",
+      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
+    },
+    {
+      "id": "364124",
+      "number": "DHS-26-MT-029-000-98",
+      "title": "Fiscal Year 2026 Flood Mitigation Assistance",
+      "status": "posted",
+      "openDate": "10/22/2026",
+      "closeDate": "02/26/2027",
+      "hash": "7516a00a3f3b1386b47f48d6cb3508153f5a6046de2ed85ea013dc96ed7fc5ff"
+    },
+    {
+      "id": "363985",
+      "number": "P26AS00055",
+      "title": "National Parks Business Plan Internship",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "01/04/2027",
+      "hash": "fef5b2d1a0fc900554a2442bcb8198e937658b14e62034559e96f82359a310af"
     }
   ]
 }
