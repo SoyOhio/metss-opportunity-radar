@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:12:38.629Z",
+  "updatedAt": "2026-10-24T14:03:35.999Z",
   "hitCount": 1458,
   "records": [
     {
@@ -7032,15 +7032,6 @@
       "hash": "932f9bfd9db3a1e891c971260d65c3ce63e725db6a2cb2f7969ca575f382827e"
     },
     {
-      "id": "363533",
-      "number": "HRSA-27-033",
-      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
-      "status": "forecasted",
-      "openDate": "08/11/2026",
-      "closeDate": "",
-      "hash": "26ce2bdbbe10483fe5d804c3321ff4ba33487dde54cc958ea2a0d5c65e8bcf43"
-    },
-    {
       "id": "363512",
       "number": "HRSA-27-021",
       "title": "Infant-Toddler Court Program&ndash;State Awards",
@@ -12045,15 +12036,6 @@
       "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
     },
     {
-      "id": "341086",
-      "number": "22-603",
-      "title": "Mid-Career Advancement (MCA)",
-      "status": "posted",
-      "openDate": "06/11/2022",
-      "closeDate": "03/01/2027",
-      "hash": "28effe4350995369539ca9792bbd59fea240c043a9ddf6ca86672f3f322257b4"
-    },
-    {
       "id": "347680",
       "number": "23-578",
       "title": "Infrastructure Innovation for Biological Research (Innovation)",
@@ -12855,15 +12837,6 @@
       "hash": "e66372a8688069ffa10ad63806f6063ce1583df9e0a30267ec575e1286083794"
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "status": "posted",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
-    },
-    {
       "id": "353413",
       "number": "24-564",
       "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
@@ -13123,6 +13096,33 @@
       "openDate": "03/21/2023",
       "closeDate": "02/09/2027",
       "hash": "e16930f4ced578b9a13fa29be79cbed33f50de5c0a0ad8999a6153cba0901e91"
+    },
+    {
+      "id": "363533",
+      "number": "HRSA-27-033",
+      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
+      "status": "forecasted",
+      "openDate": "08/11/2026",
+      "closeDate": "",
+      "hash": "26ce2bdbbe10483fe5d804c3321ff4ba33487dde54cc958ea2a0d5c65e8bcf43"
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "status": "posted",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
+    },
+    {
+      "id": "341086",
+      "number": "22-603",
+      "title": "Mid-Career Advancement (MCA)",
+      "status": "posted",
+      "openDate": "06/11/2022",
+      "closeDate": "03/01/2027",
+      "hash": "cb4474d64a69c2f316a7b57f6f8f80cf2a8e95a035fa44347aab960f583d4910"
     }
   ]
 }
