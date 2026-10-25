@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T14:03:35.999Z",
-  "hitCount": 1458,
+  "updatedAt": "2026-10-25T14:27:08.799Z",
+  "hitCount": 1457,
   "records": [
     {
       "id": "355824",
@@ -10423,15 +10423,6 @@
       "openDate": "07/27/2026",
       "closeDate": "10/26/2026",
       "hash": "9aaf2a235da10a89b1911e27df0a196caf5673af0fb0fca97bc50bcc05260353"
-    },
-    {
-      "id": "363714",
-      "number": "F26AS00107",
-      "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "10/24/2026",
-      "hash": "db935ec53603778dac56d992c88cf34dac81dd6487c401220c499a2c92b064ae"
     },
     {
       "id": "360679",
