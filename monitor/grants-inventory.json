@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T14:27:08.799Z",
-  "hitCount": 1457,
+  "updatedAt": "2026-10-26T16:50:14.010Z",
+  "hitCount": 1458,
   "records": [
     {
       "id": "355824",
@@ -640,15 +640,6 @@
       "openDate": "06/11/2025",
       "closeDate": "06/14/2027",
       "hash": "89b111620e9559fe72e8c8e782ed2527bb89465098aec993ae5c19f65b200a44"
-    },
-    {
-      "id": "358886",
-      "number": "FOR-EB-26-001",
-      "title": "Notice of Intent to Publish a Funding Opportunity Announcement for Trailblazer Award for New and Early-Stage Investigators (R21 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "06/11/2025",
-      "closeDate": "",
-      "hash": "c70b11462c50699db286473d03ae7f8809f1d02c7154b406bb82c9eef86cdaf6"
     },
     {
       "id": "358375",
@@ -7869,15 +7860,6 @@
       "hash": "43af6ca59b758229904b94f238a57b330766141ea0d9b46b2f0667c7e7deff11"
     },
     {
-      "id": "363905",
-      "number": "W911NF26S1000",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
-    },
-    {
       "id": "363899",
       "number": "NOFOAFRLAFOSR20260002",
       "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
@@ -10974,15 +10956,6 @@
       "hash": "90539893139a73ebdbe8db11b5f77520f59286e6106123fcb39a3aaa8479c245"
     },
     {
-      "id": "347679",
-      "number": "23-580",
-      "title": "Infrastructure Capacity for Biological Research (Capacity)",
-      "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/05/2076",
-      "hash": "8dea7200be2d5a3318b6f1db0d85fb630c6079b8f9f7cdf9376ebce134421fef"
-    },
-    {
       "id": "363614",
       "number": "26-515",
       "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
@@ -11161,24 +11134,6 @@
       "openDate": "04/14/2026",
       "closeDate": "12/15/2026",
       "hash": "43ad3cafd534cb9faac9cc7f99786f0030cd56d61814ff18c202ae924bddef13"
-    },
-    {
-      "id": "349724",
-      "number": "23-572",
-      "title": "Arctic Research Opportunities",
-      "status": "posted",
-      "openDate": "08/02/2023",
-      "closeDate": "01/15/2027",
-      "hash": "305d0e518516c5d1973f29c2383671d1fbc0d4a7dd66b3ef1bee73bd39d70b11"
-    },
-    {
-      "id": "357893",
-      "number": "25-525",
-      "title": "Antarctic Research Requiring U.S. Antarctic Program (USAP) Support for Fieldwork",
-      "status": "posted",
-      "openDate": "12/22/2024",
-      "closeDate": "06/01/2027",
-      "hash": "90325eba4d6f7bc6419327437fd2dbd647a142dca963a4e6b52952b87e727d0a"
     },
     {
       "id": "364027",
@@ -12027,15 +11982,6 @@
       "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
     },
     {
-      "id": "347680",
-      "number": "23-578",
-      "title": "Infrastructure Innovation for Biological Research (Innovation)",
-      "status": "posted",
-      "openDate": "04/21/2023",
-      "closeDate": "10/07/2076",
-      "hash": "29b81bed185d8e3ac7336a796dc3e1434667b1ebedd899981f0fd8cb7024825f"
-    },
-    {
       "id": "361832",
       "number": "RFA-AI-28-024",
       "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
@@ -12855,24 +12801,6 @@
       "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
     },
     {
-      "id": "364129",
-      "number": "DARPARA2701",
-      "title": "Young Faculty Award (YFA) 2027",
-      "status": "posted",
-      "openDate": "10/20/2026",
-      "closeDate": "01/13/2027",
-      "hash": "b74a566a22224b76005cfb1d0c67bcc5af707f24570035ba9a37c892315d6b1c"
-    },
-    {
-      "id": "362946",
-      "number": "RFA-AI-28-005",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "10/20/2026",
-      "closeDate": "01/29/2027",
-      "hash": "c8513aab8bb31c025a683e95e448be7bdd69ffa1ddefbf152b60fc52939c411d"
-    },
-    {
       "id": "356205",
       "number": "RFA-NS-27-015",
       "title": "BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)",
@@ -12954,15 +12882,6 @@
       "hash": "1462d5c56f6054b5e02ba965679c17ffe1d90535f69cea4e8264c9c5061b5efd"
     },
     {
-      "id": "364067",
-      "number": "DHS-27-GPD-161-00-99",
-      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
-      "status": "posted",
-      "openDate": "10/16/2026",
-      "closeDate": "11/16/2026",
-      "hash": "67e9cbf6b189d0dc3a25462ba8eb899d5e27ea394475a426d3eb7e2cd44aad1e"
-    },
-    {
       "id": "359157",
       "number": "PAR-27-077",
       "title": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
@@ -13035,40 +12954,13 @@
       "hash": "490e078dd69b6d369976cfa0ec291e520739dba9f7512ee2f32dfa1db98a4ec0"
     },
     {
-      "id": "364138",
-      "number": "O-NIJ-2026-172804",
-      "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+      "id": "364067",
+      "number": "DHS-27-GPD-161-00-99",
+      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
       "status": "posted",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "hash": "fbbe757ea0f4bb2a0649fdd8257f544a5c91fb2d5e2aa596949bbb7f5bd2e52d"
-    },
-    {
-      "id": "363906",
-      "number": "N0001426SF002",
-      "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "0d458c87358a3428049506d0a866bb9224074a048069f4fcd945be5fa9ab8a2d"
-    },
-    {
-      "id": "364139",
-      "number": "O-NIJ-2026-172805",
-      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
-      "status": "posted",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
-    },
-    {
-      "id": "364143",
-      "number": "O-OVC-2026-172807",
-      "title": "OVC and OVW FY 2026 Victim Services for Angel Families Program &ndash; Invited Notice of Funding Opportunity",
-      "status": "posted",
-      "openDate": "10/22/2026",
+      "openDate": "10/16/2026",
       "closeDate": "11/16/2026",
-      "hash": "fb8da3d3976fc6aa4f18b16a1f61915b96aeea91207de9728852426070622e03"
+      "hash": "67e9cbf6b189d0dc3a25462ba8eb899d5e27ea394475a426d3eb7e2cd44aad1e"
     },
     {
       "id": "361380",
@@ -13080,6 +12972,24 @@
       "hash": "e2e59d0ca15a7bb6f2ad3f603c06eb020e3b192b93c554c5bff0f5d2f652eb88"
     },
     {
+      "id": "358886",
+      "number": "PAR-27-120",
+      "title": "Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "06/11/2025",
+      "closeDate": "",
+      "hash": "f21a755f1f43e723a3ff8dab8674103a6837505a3701a89de0b0c95d2b91bd5e"
+    },
+    {
+      "id": "341086",
+      "number": "22-603",
+      "title": "Mid-Career Advancement (MCA)",
+      "status": "posted",
+      "openDate": "06/11/2022",
+      "closeDate": "03/01/2027",
+      "hash": "cb4474d64a69c2f316a7b57f6f8f80cf2a8e95a035fa44347aab960f583d4910"
+    },
+    {
       "id": "347026",
       "number": "23-569",
       "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
@@ -13087,6 +12997,24 @@
       "openDate": "03/21/2023",
       "closeDate": "02/09/2027",
       "hash": "e16930f4ced578b9a13fa29be79cbed33f50de5c0a0ad8999a6153cba0901e91"
+    },
+    {
+      "id": "364139",
+      "number": "O-NIJ-2026-172805",
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "status": "posted",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
+    },
+    {
+      "id": "364138",
+      "number": "O-NIJ-2026-172804",
+      "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+      "status": "posted",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "hash": "fbbe757ea0f4bb2a0649fdd8257f544a5c91fb2d5e2aa596949bbb7f5bd2e52d"
     },
     {
       "id": "363533",
@@ -13098,6 +13026,24 @@
       "hash": "26ce2bdbbe10483fe5d804c3321ff4ba33487dde54cc958ea2a0d5c65e8bcf43"
     },
     {
+      "id": "364143",
+      "number": "O-OVC-2026-172807",
+      "title": "OVC and OVW FY 2026 Victim Services for Angel Families Program &ndash; Invited Notice of Funding Opportunity",
+      "status": "posted",
+      "openDate": "10/22/2026",
+      "closeDate": "11/16/2026",
+      "hash": "fb8da3d3976fc6aa4f18b16a1f61915b96aeea91207de9728852426070622e03"
+    },
+    {
+      "id": "363906",
+      "number": "N0001426SF002",
+      "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "0d458c87358a3428049506d0a866bb9224074a048069f4fcd945be5fa9ab8a2d"
+    },
+    {
       "id": "364132",
       "number": "SB-OEDSB-27-001",
       "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
@@ -13107,13 +13053,76 @@
       "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
     },
     {
-      "id": "341086",
-      "number": "22-603",
-      "title": "Mid-Career Advancement (MCA)",
+      "id": "363905",
+      "number": "W911NF26S1000",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
       "status": "posted",
-      "openDate": "06/11/2022",
-      "closeDate": "03/01/2027",
-      "hash": "cb4474d64a69c2f316a7b57f6f8f80cf2a8e95a035fa44347aab960f583d4910"
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
+    },
+    {
+      "id": "347680",
+      "number": "23-578",
+      "title": "Infrastructure Innovation for Biological Research (Innovation)",
+      "status": "posted",
+      "openDate": "04/21/2023",
+      "closeDate": "10/26/2076",
+      "hash": "b4c5ac7542ca466b94e30b1c3a38f655a2437908f7f24ac824fa8d288177b91c"
+    },
+    {
+      "id": "347679",
+      "number": "23-580",
+      "title": "Infrastructure Capacity for Biological Research (Capacity)",
+      "status": "posted",
+      "openDate": "04/21/2023",
+      "closeDate": "10/26/2076",
+      "hash": "6f92170f6093611172a640d3b52be8fa53c0adbceda3b2293dd14128a56eca9b"
+    },
+    {
+      "id": "362946",
+      "number": "RFA-AI-28-005",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
+      "hash": "c8513aab8bb31c025a683e95e448be7bdd69ffa1ddefbf152b60fc52939c411d"
+    },
+    {
+      "id": "349724",
+      "number": "23-572",
+      "title": "Arctic Research Opportunities",
+      "status": "posted",
+      "openDate": "08/02/2023",
+      "closeDate": "01/15/2027",
+      "hash": "305d0e518516c5d1973f29c2383671d1fbc0d4a7dd66b3ef1bee73bd39d70b11"
+    },
+    {
+      "id": "357893",
+      "number": "25-525",
+      "title": "Antarctic Research Requiring U.S. Antarctic Program (USAP) Support for Fieldwork",
+      "status": "posted",
+      "openDate": "12/22/2024",
+      "closeDate": "06/01/2027",
+      "hash": "90325eba4d6f7bc6419327437fd2dbd647a142dca963a4e6b52952b87e727d0a"
+    },
+    {
+      "id": "364129",
+      "number": "DARPARA2701",
+      "title": "Young Faculty Award (YFA) 2027",
+      "status": "posted",
+      "openDate": "10/20/2026",
+      "closeDate": "01/13/2027",
+      "hash": "b74a566a22224b76005cfb1d0c67bcc5af707f24570035ba9a37c892315d6b1c"
+    },
+    {
+      "id": "364147",
+      "number": "DFOP0020010",
+      "title": "U.S. Jordan Private Sector Innovation Fund APS",
+      "status": "posted",
+      "openDate": "10/26/2026",
+      "closeDate": "09/30/2027",
+      "hash": "519a5bc5de8394f9d65fea19fa59c781e8e495dba5b0a0207f28f8a847ea40f1"
     }
   ]
 }
