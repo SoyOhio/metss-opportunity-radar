@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "attempts": [
     {
+      "id": "grants-2026-10-27T15:54:46.693Z-f91848a6",
+      "status": "success",
+      "startedAt": "2026-10-27T15:54:46.693Z",
+      "completedAt": "2026-10-27T15:55:40.192Z",
+      "durationSeconds": 53,
+      "scope": {
+        "statuses": "forecasted|posted",
+        "keyword": null,
+        "maxRecords": null,
+        "pageSize": 100
+      },
+      "counts": {
+        "fetched": 1464,
+        "created": 6,
+        "updated": 12,
+        "unchanged": 1446,
+        "removedFromActive": 4,
+        "archivedOrClosed": 4,
+        "failed": 0
+      },
+      "pagination": {
+        "totalAvailable": 1460,
+        "target": 1460,
+        "uniqueResults": 1460,
+        "pagesRequested": 15,
+        "pagesSucceeded": 15,
+        "pagesFailed": 0
+      },
+      "integrity": {
+        "storedRecords": 2513,
+        "duplicateIds": 0,
+        "duplicateOpportunityNumbers": 23
+      },
+      "errors": []
+    },
+    {
       "id": "grants-2026-10-26T16:49:29.982Z-b513cf29",
       "status": "success",
       "startedAt": "2026-10-26T16:49:29.982Z",
@@ -1760,42 +1796,6 @@
       },
       "integrity": {
         "storedRecords": 2245,
-        "duplicateIds": 0,
-        "duplicateOpportunityNumbers": 22
-      },
-      "errors": []
-    },
-    {
-      "id": "grants-2026-09-07T15:54:41.490Z-f46f819f",
-      "status": "success",
-      "startedAt": "2026-09-07T15:54:41.490Z",
-      "completedAt": "2026-09-07T15:55:29.875Z",
-      "durationSeconds": 48,
-      "scope": {
-        "statuses": "forecasted|posted",
-        "keyword": null,
-        "maxRecords": null,
-        "pageSize": 100
-      },
-      "counts": {
-        "fetched": 1587,
-        "created": 1,
-        "updated": 3,
-        "unchanged": 1583,
-        "removedFromActive": 2,
-        "archivedOrClosed": 2,
-        "failed": 0
-      },
-      "pagination": {
-        "totalAvailable": 1585,
-        "target": 1585,
-        "uniqueResults": 1585,
-        "pagesRequested": 16,
-        "pagesSucceeded": 16,
-        "pagesFailed": 0
-      },
-      "integrity": {
-        "storedRecords": 2243,
         "duplicateIds": 0,
         "duplicateOpportunityNumbers": 22
       },
