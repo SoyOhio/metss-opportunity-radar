@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T15:48:03.111Z",
-  "hitCount": 1461,
+  "updatedAt": "2026-11-01T16:52:01.503Z",
+  "hitCount": 1453,
   "records": [
     {
       "id": "355824",
@@ -6474,24 +6474,6 @@
       "hash": "df3a9d95bc2061cb584f8d6b6be8aa1c84619d6717bb6b10cdfe61365086524c"
     },
     {
-      "id": "362484",
-      "number": "F25AS00332",
-      "title": "F25AS00332 Highlands Conservation Act &ndash; Competitive Funding Round",
-      "status": "posted",
-      "openDate": "05/19/2026",
-      "closeDate": "10/31/2026",
-      "hash": "6f65cc1d2218d914d365deba4fdd5719fd18b28acf2d633fc2d760b73da4738e"
-    },
-    {
-      "id": "362480",
-      "number": "F25AS00379",
-      "title": "F25AS00379 Highlands Conservation Act - Base Funding Round",
-      "status": "posted",
-      "openDate": "05/19/2026",
-      "closeDate": "10/31/2026",
-      "hash": "c6bc6905d681818162ac3f8ac4817ccf170321637244768ccef5f5e200da751a"
-    },
-    {
       "id": "362488",
       "number": "PAR-28-019",
       "title": "Integrated Specific Pathogen Free Research Models and Human New Approach Methodologies to Advance HIV/AIDS Research (U42 Clinical Trial Not Allowed)",
@@ -10767,24 +10749,6 @@
       "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
     },
     {
-      "id": "363998",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION3-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "hash": "b3163e9b1c73692aa8a11c854a8d7e789698658ad63cefe1abbbcca83088eb4f"
-    },
-    {
-      "id": "363996",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION1-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "hash": "214c365de109603159d34f1d375b3c1dbbc61b4f4abfa4b00a91ea893a038297"
-    },
-    {
       "id": "360664",
       "number": "25-549",
       "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
@@ -10846,15 +10810,6 @@
       "openDate": "10/06/2026",
       "closeDate": "01/26/2027",
       "hash": "bb06056a5fc56f5b8ccf8d8ff484be382aa37ed33b7801c664324d7d5aea6620"
-    },
-    {
-      "id": "364004",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
-      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "10/31/2026",
-      "hash": "e1df56d4e88a892037862c7b36e807476899c5ffe1d0c68232ef4ced0cbbf0c3"
     },
     {
       "id": "360048",
@@ -11685,15 +11640,6 @@
       "hash": "8985b736b55425460abef4af8cd1281d50d6348bf43546b690525021f5575815"
     },
     {
-      "id": "356562",
-      "number": "GR-RDC-25-001",
-      "title": "RESTORE Act Direct Component &ndash; Construction and Real Property Acquisition Activities",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "10/31/2026",
-      "hash": "e4a310897dc5345bdb3bbd46ff53ef30187e11ba2a8a3841b9d2cf70db7eb5ec"
-    },
-    {
       "id": "364169",
       "number": "GR-RDC-26-002",
       "title": "RESTORE Act Direct Component - Non-Construction Activities",
@@ -11703,15 +11649,6 @@
       "hash": "23b080173eb916a8da97f316e8af7c9409bc32104a87709c0a8a387fe350b411"
     },
     {
-      "id": "356561",
-      "number": "GR-RDC-25-002",
-      "title": "RESTORE Act Direct Component - Non-Construction Activities",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "10/31/2026",
-      "hash": "4efed97a6004caf513ab2d86764da6c67f11fcc608ce399449bea72e2bde5811"
-    },
-    {
       "id": "364170",
       "number": "GR-RCE-26-001",
       "title": "RESTORE Act Centers of Excellence Research Grants Program",
@@ -11719,15 +11656,6 @@
       "openDate": "10/28/2026",
       "closeDate": "10/31/2027",
       "hash": "5865b0a9e987cd059d2abcd1157f1c6558f486fab9521e41690398b42b2834dc"
-    },
-    {
-      "id": "356559",
-      "number": "GR-RCE-25-001",
-      "title": "RESTORE Act Centers of Excellence Research Grants Program",
-      "status": "posted",
-      "openDate": "09/26/2024",
-      "closeDate": "10/31/2026",
-      "hash": "b88fc53743b5b8ddf1a9bd370315a2a4c2a76e9967e9e599405c1cd955d716c0"
     },
     {
       "id": "363481",
