@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T20:25:42.403Z",
-  "hitCount": 1469,
+  "updatedAt": "2026-11-03T17:56:08.578Z",
+  "hitCount": 1461,
   "records": [
     {
       "id": "355824",
@@ -433,15 +433,6 @@
       "openDate": "06/17/2025",
       "closeDate": "05/07/2028",
       "hash": "cfee0d1e1bf0b3a844d6dcb2f007a3e26641e6837cc41878e1bb112bc3310227"
-    },
-    {
-      "id": "359019",
-      "number": "FOR-MH-26-145",
-      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care",
-      "status": "forecasted",
-      "openDate": "06/17/2025",
-      "closeDate": "",
-      "hash": "be47e295fae05c937ed1af38d9a5b9653ef6d71f00c11b1b312eabce108fe6c0"
     },
     {
       "id": "359203",
@@ -2199,15 +2190,6 @@
       "hash": "bc7d2e7ed873efe7cecc52d8fd0120babc919f6de897a4758ecf18cb3d381e25"
     },
     {
-      "id": "357604",
-      "number": "PAR-24-280",
-      "title": "Clinical Observational (CO) Studies in Musculoskeletal, Rheumatic, and Skin Diseases (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "12/09/2024",
-      "closeDate": "11/02/2026",
-      "hash": "77753299368e0182e5305981ccc228bf19afce10abafd055bc83033fcbcf5bed"
-    },
-    {
       "id": "357817",
       "number": "PAR-25-327",
       "title": "Translational Efforts to Advance Gene-based Therapies for Ultra-Rare Neurological and Neuromuscular Disorders (U01 - Clinical Trial Optional)",
@@ -2269,15 +2251,6 @@
       "openDate": "12/18/2024",
       "closeDate": "01/07/2028",
       "hash": "51b3268314bc9e5c3164b2c2b6e6e56ec10f9a1133760c02b6b3a6f7c2190406"
-    },
-    {
-      "id": "357602",
-      "number": "PAR-24-279",
-      "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R61 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "12/09/2024",
-      "closeDate": "11/02/2026",
-      "hash": "e8ee017d73b27dcab02b5df6a6d4fbf2d8926af38f65243c896756ff123835eb"
     },
     {
       "id": "358202",
@@ -3495,15 +3468,6 @@
       "hash": "d5c24be165766d220b4d84f8afb8b3f4bdd97db6db14259d936b96dcffce0752"
     },
     {
-      "id": "360551",
-      "number": "RFA-DK-27-128",
-      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "09/10/2025",
-      "closeDate": "",
-      "hash": "6ddd65a73a61e2fd37d62daf7953193150f1db1be8f24ad0933d704839875e31"
-    },
-    {
       "id": "360673",
       "number": "RFA-TR-26-002",
       "title": "Limited Competition: HEAL Initiative Resource Centers for the Pain Management Effectiveness Network (ERN) (Clinical Trial Not Allowed)",
@@ -4710,15 +4674,6 @@
       "hash": "ef7fc04031f2c96c5449e1977a3484ca1b8cd95251ba2352ebdacf3cecd0cec3"
     },
     {
-      "id": "360946",
-      "number": "PAR-26-091",
-      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "12/08/2025",
-      "closeDate": "",
-      "hash": "a6995088c1a058e3f087ec565c55b4efc28e1eb0a3fe04b53ac2fbc39ab2bb06"
-    },
-    {
       "id": "359659",
       "number": "PAR-26-116",
       "title": "Opportunities for Collaborative Research at the NIH Clinical Center (U01 Clinical Trial Optional)",
@@ -4737,15 +4692,6 @@
       "hash": "b021216a66d34e08815fb83fae0f7f7bce4490583d22ac38fe3afbadbddc310e"
     },
     {
-      "id": "360623",
-      "number": "RFA-DK-27-118",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium Clinical Centers (DGIC)",
-      "status": "forecasted",
-      "openDate": "09/18/2025",
-      "closeDate": "",
-      "hash": "6737b53c35f7516f5b384231882ee0b4c747b78c0b6a037ae5dc67a7e7db9e74"
-    },
-    {
       "id": "360622",
       "number": "RFA-DK-27-124",
       "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center",
@@ -4762,15 +4708,6 @@
       "openDate": "09/18/2025",
       "closeDate": "",
       "hash": "17f6e0963be634e95ac33ee4eddebf32d095a38516dce31b69c21783e14e072e"
-    },
-    {
-      "id": "360625",
-      "number": "RFA-DK-27-117",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium Clinical Centers (DGIC)",
-      "status": "forecasted",
-      "openDate": "09/18/2025",
-      "closeDate": "",
-      "hash": "36fa3c87b63258c34e33c800fba7f874d668d2e93291641288fd733248a20995"
     },
     {
       "id": "360634",
@@ -7077,15 +7014,6 @@
       "hash": "7ae7e54624bd879d35d3aea3fc17fb14ce528e527cff94da21fd0f46aba9e91d"
     },
     {
-      "id": "362880",
-      "number": "OFH-2600-DC-021A",
-      "title": "Fair Housing Initiatives Program - Education and Outreach Initiative",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "11/02/2026",
-      "hash": "ebecf9e95c2de614bff7c51f19c29245340603527582020d350d9e1ac1bebc34"
-    },
-    {
       "id": "362394",
       "number": "R26AS00017",
       "title": "WaterSMART Enhancing Water Resources Projects",
@@ -7201,15 +7129,6 @@
       "openDate": "04/16/2025",
       "closeDate": "12/01/2026",
       "hash": "ce800547b14b31bb88269ef760b947ef3ed1cb1328b9b45fc7d978c55fe0b122"
-    },
-    {
-      "id": "363058",
-      "number": "RFA-CE-27-017",
-      "title": "Improving Linkage to Care for People with Opioid Use Disorder (U01)",
-      "status": "forecasted",
-      "openDate": "07/02/2026",
-      "closeDate": "",
-      "hash": "c8a33bd70b92d0d3f8d8a3b7ca2c1e468c98f4b5d4ed7728ee5ab1525ee24c3f"
     },
     {
       "id": "363248",
@@ -7590,15 +7509,6 @@
       "hash": "991a12773edaa1cd150fc3469363af1fbb83f215f60fcd7ea6d13b4121950b7f"
     },
     {
-      "id": "360296",
-      "number": "HHS-2026-IHS-NIHOE-0001",
-      "title": "National Indian Health Outreach and Education",
-      "status": "posted",
-      "openDate": "09/09/2026",
-      "closeDate": "11/02/2026",
-      "hash": "37ce193d2ca12b6e5e77a1ff901aeeae36e266eb2402907a69e490fe2fcbf253"
-    },
-    {
       "id": "359701",
       "number": "PAR-26-106",
       "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
@@ -7743,15 +7653,6 @@
       "hash": "388e0b6cc461e6704650a7ccd9ddecac3887a442a3cda0755aaa9b541e437e59"
     },
     {
-      "id": "363893",
-      "number": "O-BJA-2026-172726",
-      "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "11/02/2026",
-      "hash": "7073b18d7d977e82795c8d2e87d41e7a9ebff5bfbfd43c1849b2a0fa5f974f69"
-    },
-    {
       "id": "363516",
       "number": "HRSA-27-022",
       "title": "Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV)",
@@ -7867,15 +7768,6 @@
       "openDate": "09/01/2026",
       "closeDate": "",
       "hash": "158f8727e0dbd2ed4b10138b406cc4b015b288a61ed8e28513e1efd7f7ccda56"
-    },
-    {
-      "id": "363891",
-      "number": "O-BJA-2026-172724",
-      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Program (COSSUP) Training and Technical Assistance (TTA)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "11/02/2026",
-      "hash": "60c1ea27424924333eb4de3dd1a328181a94295801feedd0fa3439fbe221059e"
     },
     {
       "id": "363942",
@@ -8137,24 +8029,6 @@
       "openDate": "09/25/2026",
       "closeDate": "",
       "hash": "926bce925f55cc02251368b502891d3730e2caaa4f0d4e6648add209255b9c09"
-    },
-    {
-      "id": "363961",
-      "number": "O-OJJDP-2026-172751",
-      "title": "OJJDP FY 2026 Second Chance Act Youth Reentry Program",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "11/02/2026",
-      "hash": "d79af2862c2e17c8882440efee29c67c49b69bf67deb5d3485b00ce981c6ea7c"
-    },
-    {
-      "id": "363977",
-      "number": "O-OJJDP-2026-172731",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children (ICAC) Task Force Program Support",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "11/02/2026",
-      "hash": "6eedac51f3917964ca25a2e36636c0507994de73861100315f09b8ee388f106b"
     },
     {
       "id": "361276",
@@ -8616,15 +8490,6 @@
       "hash": "d201285078b0e5b5854246aa5c3f5b3dcdd8b79731bbc28743c2d5db5d9e7db1"
     },
     {
-      "id": "363141",
-      "number": "RFA-CE-27-015",
-      "title": "Preventing Suicide and Interpersonal Violence Among Youth and Young Adults",
-      "status": "forecasted",
-      "openDate": "07/09/2026",
-      "closeDate": "",
-      "hash": "077b25a13e2951c263a26a41c681d12682e4089dd43aa0a361c3cbc8ee26bf98"
-    },
-    {
       "id": "363153",
       "number": "CDC-RFA-CK-27-0046",
       "title": "Continuing Enhanced National Surveillance for Prion Diseases in the United States",
@@ -8632,15 +8497,6 @@
       "openDate": "07/10/2026",
       "closeDate": "",
       "hash": "fc3bf0e55f110f509935818ed5a108aab52c6d87f4ff9fb8a8e11130fe149cde"
-    },
-    {
-      "id": "363147",
-      "number": "RFA-CE-27-016",
-      "title": "Rigorously Evaluating Approaches to Prevent Child Sexual Abuse and Problematic Sexual Behavior among Youth",
-      "status": "forecasted",
-      "openDate": "07/10/2026",
-      "closeDate": "",
-      "hash": "7c2f5662d4f8f803f140c3db90770416f3640f0979cadd9ba8c6cb113153c006"
     },
     {
       "id": "363059",
@@ -8731,15 +8587,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "25622d69b67e0c5937e61e56ba5c339fd972727a3d067bf792760617b810d8c9"
-    },
-    {
-      "id": "363055",
-      "number": "RFA-CE-27-013",
-      "title": "CDC National Centers of Excellence in Youth Violence Prevention (YVPCs): Rigorous Evaluation of Prevention Approaches to Prevent and Reduce Youth Violence",
-      "status": "forecasted",
-      "openDate": "07/02/2026",
-      "closeDate": "",
-      "hash": "2f69e489a027179b72426d9a75eab8e7bdc97ce6b8b696866f3e039954112b1d"
     },
     {
       "id": "363195",
@@ -9138,15 +8985,6 @@
       "hash": "622a43003f132b649e217d05d264d79ff08721fc30a98e6a795051903cbed58e"
     },
     {
-      "id": "363137",
-      "number": "RFA-CE-27-014",
-      "title": "Research Grants to Rigorously Evaluate Innovative and Promising Approaches to Prevent Firearm-Related Violence and Injuries",
-      "status": "forecasted",
-      "openDate": "07/09/2026",
-      "closeDate": "",
-      "hash": "71dbbd4516cce7d334a5678401dcfd7aa2790a7e8e9288e2c38331eeee013073"
-    },
-    {
       "id": "363126",
       "number": "RFA-OD-28-001",
       "title": "Tobacco Centers of Regulatory Science (TCORS) (Clinical Trial Optional)",
@@ -9172,15 +9010,6 @@
       "openDate": "07/02/2026",
       "closeDate": "",
       "hash": "1eb16e0c6182f14d9a59e68c1b46c401a879db1b5a4b4ec4361d4123c64b0d36"
-    },
-    {
-      "id": "362827",
-      "number": "OFH-2600-DC-021C",
-      "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
-      "status": "posted",
-      "openDate": "07/02/2026",
-      "closeDate": "11/02/2026",
-      "hash": "cf66224c9e67251dfcf8c4c5ae8d8ddbe47a48056fe8e73efbf170082927d1d1"
     },
     {
       "id": "363167",
@@ -9820,24 +9649,6 @@
       "openDate": "09/01/2026",
       "closeDate": "11/13/2026",
       "hash": "282c7b41e9658fb7e006838ad369e2c675821951093b3a716152b005c03172ab"
-    },
-    {
-      "id": "363784",
-      "number": "USDA-NIFA-SLBCD-012281",
-      "title": "Tribal Colleges Extension Program Special Emphasis",
-      "status": "posted",
-      "openDate": "09/02/2026",
-      "closeDate": "11/02/2026",
-      "hash": "a46312b8cfbbd3404a28a55c7acfa88594e884242f0035c5d0d803e6b70db6d1"
-    },
-    {
-      "id": "363785",
-      "number": "USDA-NIFA-SCRI-012018",
-      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
-      "status": "posted",
-      "openDate": "09/02/2026",
-      "closeDate": "11/02/2026",
-      "hash": "d40b5fc407afd1c9283d695363eb9b3a7139e79bd46fefbb2beeded607af4022"
     },
     {
       "id": "363782",
@@ -11604,15 +11415,6 @@
       "hash": "0d458c87358a3428049506d0a866bb9224074a048069f4fcd945be5fa9ab8a2d"
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
-    },
-    {
       "id": "364149",
       "number": "DFOP0019929",
       "title": "FY26 DRL/IRF Global Request for Statements of Interest",
@@ -13143,40 +12945,22 @@
       "hash": "8925c8aea2c111eb15c02f6ccbec71c6bb2317c48a93d9e502213e3b37f3d483"
     },
     {
-      "id": "364195",
-      "number": "20270113-CHE",
-      "title": "Endowments for Advancing the Humanities",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "01/13/2027",
-      "hash": "b9a53f0b067814243dc79a26e4945b15eaa6d3830fc6a5ae267aa9efe02dfbd0"
-    },
-    {
-      "id": "364196",
-      "number": "G27AS00381",
-      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "02/01/2027",
-      "hash": "b50946be9ca008fb7cce08d42ca8be9ff86a06bd1deae921e71f7a1dc643a6c9"
-    },
-    {
-      "id": "361431",
-      "number": "RFA-RM-27-024",
-      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "10/22/2027",
-      "hash": "317f84a789d328d4c638c5c488e2f465c1e1490f24f5f0e8cbacdafa68adfb4c"
-    },
-    {
-      "id": "364198",
-      "number": "EPA-OLEM-OBLR-26-02",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
+      "id": "364202",
+      "number": "EPA-OLEM-OBLR-26-06",
+      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
       "status": "posted",
       "openDate": "11/02/2026",
       "closeDate": "01/21/2027",
-      "hash": "99066b87f2e0d3b7b0592d8c9c7738f28b095bd04ea14f27f385f1241703b301"
+      "hash": "63f8d3841a9aeb7f7297b1b76c9f6e8e8cb8cb7f48a7bc4d193795116ee87bd9"
+    },
+    {
+      "id": "364201",
+      "number": "EPA-OLEM-OBLR-26-05",
+      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "01/21/2027",
+      "hash": "ddf98ca5ab2ff53bcd060f73450bc59c3cfd4afa12aace37c83baac2eef2ed52"
     },
     {
       "id": "364199",
@@ -13197,13 +12981,94 @@
       "hash": "9745718e6d9ba24772e52b398e0ef091f5e757f673b9b8a98835ab09630774d4"
     },
     {
-      "id": "364201",
-      "number": "EPA-OLEM-OBLR-26-05",
-      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "id": "364198",
+      "number": "EPA-OLEM-OBLR-26-02",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
       "status": "posted",
       "openDate": "11/02/2026",
       "closeDate": "01/21/2027",
-      "hash": "ddf98ca5ab2ff53bcd060f73450bc59c3cfd4afa12aace37c83baac2eef2ed52"
+      "hash": "99066b87f2e0d3b7b0592d8c9c7738f28b095bd04ea14f27f385f1241703b301"
+    },
+    {
+      "id": "364195",
+      "number": "20270113-CHE",
+      "title": "Endowments for Advancing the Humanities",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "01/13/2027",
+      "hash": "b9a53f0b067814243dc79a26e4945b15eaa6d3830fc6a5ae267aa9efe02dfbd0"
+    },
+    {
+      "id": "361431",
+      "number": "RFA-RM-27-024",
+      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "10/22/2027",
+      "hash": "317f84a789d328d4c638c5c488e2f465c1e1490f24f5f0e8cbacdafa68adfb4c"
+    },
+    {
+      "id": "363055",
+      "number": "RFA-CE-27-013",
+      "title": "CDC National Centers of Excellence in Youth Violence Prevention (YVPCs): Rigorous Evaluation of Prevention Approaches to Prevent and Reduce Youth Violence",
+      "status": "forecasted",
+      "openDate": "07/02/2026",
+      "closeDate": "",
+      "hash": "2f69e489a027179b72426d9a75eab8e7bdc97ce6b8b696866f3e039954112b1d"
+    },
+    {
+      "id": "363141",
+      "number": "RFA-CE-27-015",
+      "title": "Preventing Suicide and Interpersonal Violence Among Youth and Young Adults",
+      "status": "forecasted",
+      "openDate": "07/09/2026",
+      "closeDate": "",
+      "hash": "077b25a13e2951c263a26a41c681d12682e4089dd43aa0a361c3cbc8ee26bf98"
+    },
+    {
+      "id": "363147",
+      "number": "RFA-CE-27-016",
+      "title": "Rigorously Evaluating Approaches to Prevent Child Sexual Abuse and Problematic Sexual Behavior among Youth",
+      "status": "forecasted",
+      "openDate": "07/10/2026",
+      "closeDate": "",
+      "hash": "7c2f5662d4f8f803f140c3db90770416f3640f0979cadd9ba8c6cb113153c006"
+    },
+    {
+      "id": "363058",
+      "number": "RFA-CE-27-017",
+      "title": "Improving Linkage to Care for People with Opioid Use Disorder (U01)",
+      "status": "forecasted",
+      "openDate": "07/02/2026",
+      "closeDate": "",
+      "hash": "c8a33bd70b92d0d3f8d8a3b7ca2c1e468c98f4b5d4ed7728ee5ab1525ee24c3f"
+    },
+    {
+      "id": "363137",
+      "number": "RFA-CE-27-014",
+      "title": "Research Grants to Rigorously Evaluate Innovative and Promising Approaches to Prevent Firearm-Related Violence and Injuries",
+      "status": "forecasted",
+      "openDate": "07/09/2026",
+      "closeDate": "",
+      "hash": "71dbbd4516cce7d334a5678401dcfd7aa2790a7e8e9288e2c38331eeee013073"
+    },
+    {
+      "id": "364205",
+      "number": "NNH27ZHA002C",
+      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "02/01/2027",
+      "hash": "4d04fed9bfb1c2ffc03c0bb36f2ccc1f2a78d9a0d7c60523baf34c2d4359421e"
+    },
+    {
+      "id": "364196",
+      "number": "G27AS00381",
+      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "02/01/2027",
+      "hash": "b50946be9ca008fb7cce08d42ca8be9ff86a06bd1deae921e71f7a1dc643a6c9"
     },
     {
       "id": "364172",
@@ -13215,13 +13080,76 @@
       "hash": "d21d3fe3bb13b0d5e91cc229700ea3a852a7196eb3ba502322f25887eac0831c"
     },
     {
-      "id": "364202",
-      "number": "EPA-OLEM-OBLR-26-06",
-      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
+      "id": "362827",
+      "number": "OFH-2600-DC-021C",
+      "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
       "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "01/21/2027",
-      "hash": "63f8d3841a9aeb7f7297b1b76c9f6e8e8cb8cb7f48a7bc4d193795116ee87bd9"
+      "openDate": "07/02/2026",
+      "closeDate": "01/01/2027",
+      "hash": "30ff5a415255f2dc6eb600c36fcc5598d278d3c87d0736960137fa89233ecb99"
+    },
+    {
+      "id": "362880",
+      "number": "OFH-2600-DC-021A",
+      "title": "Fair Housing Initiatives Program - Education and Outreach Initiative",
+      "status": "posted",
+      "openDate": "07/02/2026",
+      "closeDate": "01/01/2027",
+      "hash": "3bd6ac75d018d56a65a828fa76d0f095275b01fa48798a733c03a0661e39b81a"
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
+    },
+    {
+      "id": "359019",
+      "number": "RFA-MH-28-145",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "06/17/2025",
+      "closeDate": "",
+      "hash": "7624bce0f9c80c9fa07c1034ff2e89ca517171716b097dffeb1cbba18001e4c2"
+    },
+    {
+      "id": "360946",
+      "number": "PAR-28-042",
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "12/08/2025",
+      "closeDate": "",
+      "hash": "866468fbeb37c6373af946704f8216ae2273b495924abf33cc177f26dbd5f1fc"
+    },
+    {
+      "id": "360551",
+      "number": "RFA-DK-28-314",
+      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+      "status": "forecasted",
+      "openDate": "09/10/2025",
+      "closeDate": "",
+      "hash": "de6ad021cc5cec74fd961723cb79f7fdaba7c3a5038a859140075f770b65585a"
+    },
+    {
+      "id": "360625",
+      "number": "RFA-DK-28-213",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "hash": "2037eb38118a7e6812272ddf00c023e7370660b68b58569641826a1058391197"
+    },
+    {
+      "id": "360623",
+      "number": "RFA-DK-28-214",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "hash": "465b12df87bcbd2133a9bc4c8acc21d5c134313e59c9eb59589c9a3ef573ad13"
     }
   ]
 }
