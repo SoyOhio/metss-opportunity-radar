@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T17:56:08.578Z",
-  "hitCount": 1461,
+  "updatedAt": "2026-11-04T18:05:21.848Z",
+  "hitCount": 1454,
   "records": [
     {
       "id": "355824",
@@ -4197,15 +4197,6 @@
       "hash": "2556e16e9dc4a01fc8ae4ced98693c1b6b931442c31567fb10bc8a14aaabeb8d"
     },
     {
-      "id": "361287",
-      "number": "RFA-NS-26-030",
-      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "02/12/2026",
-      "closeDate": "",
-      "hash": "50224473340bb078d6fae0b5637b0aa642231fcb5a014a3282f5b3c1fe50b021"
-    },
-    {
       "id": "361294",
       "number": "PAR-26-108",
       "title": "Global Collaborative Research Training on Non-Communicable Diseases and Disorders Across the Lifespan",
@@ -4420,24 +4411,6 @@
       "openDate": "08/04/2022",
       "closeDate": "11/16/2026",
       "hash": "adb5cfe4defe33de3fc6c462c40966c2620513980ff3660432ac0140b2bc434f"
-    },
-    {
-      "id": "340545",
-      "number": "PD-22-1265",
-      "title": "Geometric Analysis",
-      "status": "posted",
-      "openDate": "05/20/2022",
-      "closeDate": "11/03/2026",
-      "hash": "25c65446a7c769f8e7490725325fec906ef83de04ce5a9ace20faabffff4828e"
-    },
-    {
-      "id": "340544",
-      "number": "PD-22-1267",
-      "title": "Topology",
-      "status": "posted",
-      "openDate": "05/20/2022",
-      "closeDate": "11/03/2026",
-      "hash": "251699b46f926b9bdc1f17b0c3de1dcd8ae45b2b2fcda54718b595cfd766b57f"
     },
     {
       "id": "350018",
@@ -5392,15 +5365,6 @@
       "openDate": "03/25/2026",
       "closeDate": "",
       "hash": "8bfeef65c3a0eafc7dc5c1a7708b04fbbd11f47f7e0f1cbc35afe2e4c08c64fa"
-    },
-    {
-      "id": "362277",
-      "number": "PAR-27-089",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "05/06/2026",
-      "closeDate": "",
-      "hash": "3b1e14b5f6c565a27e061698398360010ecb4e84dcefa7b2016afbc593676b69"
     },
     {
       "id": "362315",
@@ -7050,15 +7014,6 @@
       "hash": "3a26498e64d882dcbd4836105e325226f272d9fd96fd17408c8cb126d5d13ab5"
     },
     {
-      "id": "363115",
-      "number": "RFA-TS-27-018",
-      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
-      "status": "forecasted",
-      "openDate": "07/08/2026",
-      "closeDate": "",
-      "hash": "971e1dc097d1f73467efb0f3132743c13e8c493af1600ed28af507ad291dabf7"
-    },
-    {
       "id": "363112",
       "number": "HRSA-27-058",
       "title": "Health Workforce Research Center (HWRC)",
@@ -7680,15 +7635,6 @@
       "hash": "2c1f91ccbbe231e8fba9a6d7792cab3272f6c9c283441693ce099b5d3222f1a1"
     },
     {
-      "id": "363924",
-      "number": "O-BJA-2026-172680",
-      "title": "BJA FY26 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Competitive Grants Program",
-      "status": "posted",
-      "openDate": "09/23/2026",
-      "closeDate": "11/03/2026",
-      "hash": "311cb1e2d62c284b9cffcee5ec470dbb0cd14983dfc0f7f235741ca7963ac840"
-    },
-    {
       "id": "363912",
       "number": "DFOP0017890",
       "title": "Advancing Global Health",
@@ -7831,15 +7777,6 @@
       "openDate": "09/24/2026",
       "closeDate": "",
       "hash": "bcb7231609158aa7bbf94b36a8107b85a9881aa07eb7134c0461a1e91f8c18c9"
-    },
-    {
-      "id": "363957",
-      "number": "O-BJA-2026-172779",
-      "title": "BJA FY 2026 John R. Justice (JRJ) Formula Grant Program",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "11/03/2026",
-      "hash": "2b3168edab346a15ccdfa99fd61281115ac54991c5d1b6e830ee5d8a9d1d064f"
     },
     {
       "id": "363948",
@@ -8110,15 +8047,6 @@
       "openDate": "06/24/2026",
       "closeDate": "",
       "hash": "5554d616f4ba882ef67cc8c354813e5dfc2fa02fd2bd1fcbefd3cf5fbe4c9ca4"
-    },
-    {
-      "id": "362952",
-      "number": "RFA-AI-28-014",
-      "title": "Precision and Systems Biology to Uncover the Link Between Chronic and Infectious Diseases",
-      "status": "forecasted",
-      "openDate": "06/24/2026",
-      "closeDate": "",
-      "hash": "459bb5081229864c8558b9f68acae548c08104808db311cdaa4e192db5781c57"
     },
     {
       "id": "362948",
@@ -10191,15 +10119,6 @@
       "hash": "7c986bd84320305a01d3fbbad2c81d895e5376b45f97f0fe6659feb80f824ace"
     },
     {
-      "id": "364018",
-      "number": "SWMFY27",
-      "title": "Solid Waste Management Grant Program",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "196c5997d3292bee639a5d4de3b0e68364c497d72f6ddb76e8380535a16ff8ba"
-    },
-    {
       "id": "344715",
       "number": "23-525",
       "title": "Oceanographic Facilities and Equipment Support",
@@ -10281,15 +10200,6 @@
       "hash": "a5d74e0bddd0cb7cef7844f95219e8a2e6fbe8ac1a555a5e35fb56d6f6652316"
     },
     {
-      "id": "364019",
-      "number": "TAT-FY27",
-      "title": "Technical Assistance and Training Grant Program",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
-    },
-    {
       "id": "327047",
       "number": "20-576",
       "title": "Plant Biotic Interactions",
@@ -10333,15 +10243,6 @@
       "openDate": "06/22/2026",
       "closeDate": "06/22/2027",
       "hash": "9aa34dd5282fecba9f084dce6e891ece325cbf1fd6d7c00022c5c2e8ea49ef1e"
-    },
-    {
-      "id": "364024",
-      "number": "NNH26ZTR001N-26STRI-B3",
-      "title": "Space Technology Research Institutes",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "11/03/2026",
-      "hash": "bb8bef4b89dbb24351a5cda6a1ee213d09012bf2680f22a3e2c97be20bb1ca08"
     },
     {
       "id": "340828",
@@ -10963,15 +10864,6 @@
       "openDate": "05/11/2023",
       "closeDate": "01/19/2027",
       "hash": "6e1e6ddeb575f9eba966b0a869b6378a15e5a2d49abe0fc8d5294f7ff5e7f709"
-    },
-    {
-      "id": "363712",
-      "number": "O-BJA-2026-172705",
-      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;Local Formula",
-      "status": "posted",
-      "openDate": "08/25/2026",
-      "closeDate": "11/03/2026",
-      "hash": "bcaab93823e468c6b47b4adc2dbe439f70e3938ea472c7221999c3c1ff74a33f"
     },
     {
       "id": "361216",
@@ -11746,15 +11638,6 @@
       "openDate": "08/31/2026",
       "closeDate": "12/03/2026",
       "hash": "c756699990393455bca73d8f41f9f3477f6f424bc98b30de0b23a10a741cf8b7"
-    },
-    {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "873801500e897a6fbfcd4a884dfa7137fd62305820f4776f6e38d3de778daf61"
     },
     {
       "id": "364140",
@@ -12864,15 +12747,6 @@
       "hash": "4cb3607626ddd232f8969dc89be92d03bf3a6a63bdcf41904e67eec4ce0dc034"
     },
     {
-      "id": "363830",
-      "number": "OFOP0003790",
-      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
-      "status": "posted",
-      "openDate": "09/09/2026",
-      "closeDate": "11/09/2026",
-      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
-    },
-    {
       "id": "364182",
       "number": "G27AS00085",
       "title": "Cooperative Agreement for affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit",
@@ -12909,15 +12783,6 @@
       "hash": "0590642cabd0847caf1fe1d1db94b0343960040f34530d20827d68636a06ef04"
     },
     {
-      "id": "363296",
-      "number": "O-BJA-2026-172661",
-      "title": "BJA FY 2026 Daniel Anderl Judicial Security and Privacy Program",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "11/03/2026",
-      "hash": "53263a2133db9ee663251cd3272a0eb937a57f921672cab50d43a166b04aad9f"
-    },
-    {
       "id": "363889",
       "number": "O-BJA-2026-172718",
       "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
@@ -12943,6 +12808,87 @@
       "openDate": "08/27/2026",
       "closeDate": "11/06/2026",
       "hash": "8925c8aea2c111eb15c02f6ccbec71c6bb2317c48a93d9e502213e3b37f3d483"
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
+    },
+    {
+      "id": "360551",
+      "number": "RFA-DK-28-314",
+      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "02/01/2027",
+      "hash": "115d0782a46f99b6c1ccda4a263f509c4d89bdfd5a175a05ce348fb13beb645b"
+    },
+    {
+      "id": "364172",
+      "number": "FA955027S0001",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "status": "posted",
+      "openDate": "10/29/2026",
+      "closeDate": "04/02/2027",
+      "hash": "d21d3fe3bb13b0d5e91cc229700ea3a852a7196eb3ba502322f25887eac0831c"
+    },
+    {
+      "id": "364196",
+      "number": "G27AS00381",
+      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "02/01/2027",
+      "hash": "b50946be9ca008fb7cce08d42ca8be9ff86a06bd1deae921e71f7a1dc643a6c9"
+    },
+    {
+      "id": "360946",
+      "number": "PAR-28-042",
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "11/16/2029",
+      "hash": "2b6529182f3c04d31be37a9743b821ec061627ecf92f62202b4b38098784d0ad"
+    },
+    {
+      "id": "360623",
+      "number": "RFA-DK-28-214",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "hash": "465b12df87bcbd2133a9bc4c8acc21d5c134313e59c9eb59589c9a3ef573ad13"
+    },
+    {
+      "id": "360625",
+      "number": "RFA-DK-28-213",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "hash": "2037eb38118a7e6812272ddf00c023e7370660b68b58569641826a1058391197"
+    },
+    {
+      "id": "361287",
+      "number": "RFA-NS-28-012",
+      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "10/10/2028",
+      "hash": "8358a3b11b0802b6afc0192a821d61f11107861032cffb63a88e102a32f033cf"
+    },
+    {
+      "id": "359019",
+      "number": "RFA-MH-28-145",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "02/17/2028",
+      "hash": "31ed77cd1772355b207e8e42e8253978440e2d96da1bf732c9ec14504059bff6"
     },
     {
       "id": "364202",
@@ -13062,24 +13008,6 @@
       "hash": "4d04fed9bfb1c2ffc03c0bb36f2ccc1f2a78d9a0d7c60523baf34c2d4359421e"
     },
     {
-      "id": "364196",
-      "number": "G27AS00381",
-      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "02/01/2027",
-      "hash": "b50946be9ca008fb7cce08d42ca8be9ff86a06bd1deae921e71f7a1dc643a6c9"
-    },
-    {
-      "id": "364172",
-      "number": "FA955027S0001",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "status": "posted",
-      "openDate": "10/29/2026",
-      "closeDate": "04/02/2027",
-      "hash": "d21d3fe3bb13b0d5e91cc229700ea3a852a7196eb3ba502322f25887eac0831c"
-    },
-    {
       "id": "362827",
       "number": "OFH-2600-DC-021C",
       "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
@@ -13098,58 +13026,67 @@
       "hash": "3bd6ac75d018d56a65a828fa76d0f095275b01fa48798a733c03a0661e39b81a"
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
-    },
-    {
-      "id": "359019",
-      "number": "RFA-MH-28-145",
-      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "06/17/2025",
-      "closeDate": "",
-      "hash": "7624bce0f9c80c9fa07c1034ff2e89ca517171716b097dffeb1cbba18001e4c2"
-    },
-    {
-      "id": "360946",
-      "number": "PAR-28-042",
-      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-      "status": "forecasted",
-      "openDate": "12/08/2025",
-      "closeDate": "",
-      "hash": "866468fbeb37c6373af946704f8216ae2273b495924abf33cc177f26dbd5f1fc"
-    },
-    {
-      "id": "360551",
-      "number": "RFA-DK-28-314",
-      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
-      "status": "forecasted",
-      "openDate": "09/10/2025",
-      "closeDate": "",
-      "hash": "de6ad021cc5cec74fd961723cb79f7fdaba7c3a5038a859140075f770b65585a"
-    },
-    {
-      "id": "360625",
-      "number": "RFA-DK-28-213",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "id": "362277",
+      "number": "PAR-28-063",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
       "status": "posted",
       "openDate": "11/03/2026",
-      "closeDate": "03/05/2027",
-      "hash": "2037eb38118a7e6812272ddf00c023e7370660b68b58569641826a1058391197"
+      "closeDate": "02/20/2029",
+      "hash": "a3a392097b088883e07d33c4e1e26c9bcf2918edb231da3bed26cf8ad87a2394"
     },
     {
-      "id": "360623",
-      "number": "RFA-DK-28-214",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
       "status": "posted",
-      "openDate": "11/03/2026",
-      "closeDate": "03/05/2027",
-      "hash": "465b12df87bcbd2133a9bc4c8acc21d5c134313e59c9eb59589c9a3ef573ad13"
+      "openDate": "07/21/2026",
+      "closeDate": "11/04/2026",
+      "hash": "873801500e897a6fbfcd4a884dfa7137fd62305820f4776f6e38d3de778daf61"
+    },
+    {
+      "id": "363830",
+      "number": "OFOP0003790",
+      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
+      "status": "posted",
+      "openDate": "09/09/2026",
+      "closeDate": "11/09/2026",
+      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
+    },
+    {
+      "id": "364019",
+      "number": "TAT-FY27",
+      "title": "Technical Assistance and Training Grant Program",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
+    },
+    {
+      "id": "364018",
+      "number": "SWMFY27",
+      "title": "Solid Waste Management Grant Program",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "196c5997d3292bee639a5d4de3b0e68364c497d72f6ddb76e8380535a16ff8ba"
+    },
+    {
+      "id": "362952",
+      "number": "RFA-AI-28-014",
+      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "02/18/2027",
+      "hash": "3c2215269b43e9715f67e0cea9c0d9448a31d7d8e826fe1ee81e02dfbed7358b"
+    },
+    {
+      "id": "363115",
+      "number": "RFA-TS-27-018",
+      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
+      "status": "forecasted",
+      "openDate": "07/08/2026",
+      "closeDate": "",
+      "hash": "971e1dc097d1f73467efb0f3132743c13e8c493af1600ed28af507ad291dabf7"
     }
   ]
 }

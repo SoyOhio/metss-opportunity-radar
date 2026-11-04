@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T17:56:13.038Z",
-  "inventoryCheckedAt": "2026-11-03T17:56:08.578Z",
+  "generatedAt": "2026-11-04T18:05:26.238Z",
+  "inventoryCheckedAt": "2026-11-04T18:05:21.848Z",
   "screeningSnapshotAt": "2026-09-06T14:31:26.709Z",
   "screeningCriteriaVersion": "metss-corporation-v2",
-  "currentActiveSourceRecords": 1461,
+  "currentActiveSourceRecords": 1454,
   "historicalSourceRecords": 2562,
   "previouslyScreenedSnapshotRecords": 1586,
-  "currentRecordsCoveredBySnapshot": 672,
+  "currentRecordsCoveredBySnapshot": 665,
   "currentRecordsRequiringScreening": 789,
-  "newRecordsRequiringScreening": 249,
-  "changedRecordsRequiringScreening": 540,
+  "newRecordsRequiringScreening": 246,
+  "changedRecordsRequiringScreening": 543,
   "publishedMetssMatches": 5,
   "historicalOpportunityNumberReuses": [
     [
