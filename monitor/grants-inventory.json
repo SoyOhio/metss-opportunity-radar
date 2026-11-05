@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T18:05:21.848Z",
-  "hitCount": 1454,
+  "updatedAt": "2026-11-05T18:07:52.824Z",
+  "hitCount": 1457,
   "records": [
     {
       "id": "355824",
@@ -5952,15 +5952,6 @@
       "hash": "985cc92db1874f8fbb06e4a9115145517181c207c339216f1e1464a79d585dd2"
     },
     {
-      "id": "361994",
-      "number": "PIH-2600-DC-0005",
-      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
-      "status": "forecasted",
-      "openDate": "04/21/2026",
-      "closeDate": "",
-      "hash": "6e64233562bbae0730e7fb268845dc515d4617745889c19b47b7900f41861a1f"
-    },
-    {
       "id": "357337",
       "number": "RFA-HL-26-018",
       "title": "Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)",
@@ -6958,15 +6949,6 @@
       "openDate": "04/13/2026",
       "closeDate": "12/04/2026",
       "hash": "ecdf7e7912d3b6a6ba44b1ea9d942d8fe84357e85e67e7c88b459ecfe538cab2"
-    },
-    {
-      "id": "363591",
-      "number": "CDC-RFA-JG-27-0069",
-      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
-      "status": "forecasted",
-      "openDate": "08/14/2026",
-      "closeDate": "",
-      "hash": "11cbd7af372f2a830405c52cb2cd3add4a33876f5fb056b673828349c1c7e44b"
     },
     {
       "id": "363592",
@@ -8130,15 +8112,6 @@
       "hash": "ad76a2945a4aba17e9b4d0824fd5430785209073e162179defa69e20a7800062"
     },
     {
-      "id": "362855",
-      "number": "HT942526BMFRPIIRA",
-      "title": "DoW Bone Marrow Failure, Investigator-Initiated Research Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "hash": "bea4f0719b80194a6e44c73cc963e0ad17f742a9d044c90081f92c45a27d08e8"
-    },
-    {
       "id": "361251",
       "number": "PA-27-030",
       "title": "Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)",
@@ -8209,15 +8182,6 @@
       "openDate": "06/18/2020",
       "closeDate": "",
       "hash": "6aae10ae5e252d90527d34e5b3794be29cf3b2549a0509c59f9ab323c1897acf"
-    },
-    {
-      "id": "362856",
-      "number": "HT942526BMFRPRDA",
-      "title": "DoW Bone Marrow Failure, Resource Development Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "hash": "0170608fb260dd2becd23142a64e538593c463b63249d206a590d572fa74e3d0"
     },
     {
       "id": "362983",
@@ -8605,15 +8569,6 @@
       "openDate": "05/27/2026",
       "closeDate": "",
       "hash": "5448c4f56e3b490381ab09631c487190fe2fc8432ceefbf9316f2f438027004a"
-    },
-    {
-      "id": "363281",
-      "number": "RFA-OH-27-048",
-      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
     },
     {
       "id": "363274",
@@ -9300,15 +9255,6 @@
       "hash": "4f1cc496e3b63aab8760942af68ddcf9dcc326d047e14b66f2400c83735c8f7d"
     },
     {
-      "id": "362607",
-      "number": "HT942526RTRPCA",
-      "title": "DoW Reconstructive Transplant, Concept Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "hash": "dbfdeb8d44e48c08a66f657596df214dbf759b3f450200a1a3e3364f496ab7a1"
-    },
-    {
       "id": "363407",
       "number": "HRSA-27-028",
       "title": "Alliance for Innovation on Maternal Health (AIM) Capacity Program",
@@ -9388,15 +9334,6 @@
       "openDate": "08/24/2026",
       "closeDate": "01/22/2027",
       "hash": "8c3033f4170da965418896d3fed0db3ff860636fc58d67d620945ed951e064a9"
-    },
-    {
-      "id": "363455",
-      "number": "HT942526RTRPIIRA",
-      "title": "DoW Reconstructive Transplant, Investigator-Initiated Research Award",
-      "status": "posted",
-      "openDate": "08/26/2026",
-      "closeDate": "11/04/2026",
-      "hash": "8053bd56c81c174ea5d72cfd0ab82f1c695b3a040a15d27424de1b78e5f47a89"
     },
     {
       "id": "363720",
@@ -9631,15 +9568,6 @@
       "openDate": "09/03/2026",
       "closeDate": "11/18/2026",
       "hash": "61f344634e0128d8fa2fea41b719cda612ca303a24eb315c3a196c468d469ba8"
-    },
-    {
-      "id": "363796",
-      "number": "USDA-NIFA-CBGP-011698",
-      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
-      "status": "posted",
-      "openDate": "09/03/2026",
-      "closeDate": "11/04/2026",
-      "hash": "ea78224a0d8e49197c266ac6a9ff3e997a18d564532b92c409f66bf6737ea206"
     },
     {
       "id": "363800",
@@ -9984,15 +9912,6 @@
       "hash": "0b20c24e406b567e2c951ed4d7112c3a6363756d651a0e3cb8118a77a46c1f85"
     },
     {
-      "id": "363728",
-      "number": "P27AS00032",
-      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
-      "status": "posted",
-      "openDate": "08/27/2026",
-      "closeDate": "11/04/2026",
-      "hash": "d797a40b6a283226d2c738c9ece88388bc02a7738829e0b8e5c395c7a7d6a884"
-    },
-    {
       "id": "360402",
       "number": "RFA-NS-28-010",
       "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R01 Clinical Trial Not Allowed)",
@@ -10000,15 +9919,6 @@
       "openDate": "09/30/2026",
       "closeDate": "02/08/2029",
       "hash": "280d02b23f2785b419f8473d030d0a482faac70fcdbeefbbc1cc34407ae2f822"
-    },
-    {
-      "id": "364006",
-      "number": "USDA-AMS-TM-DBI-G-26-0011",
-      "title": "Dairy Business Innovation Initiatives Program (DBI) Fiscal Year 2026",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "12/01/2026",
-      "hash": "d2100f444433a7ba07f84c150d51914c77fde47f53188a921c4ae1381d822907"
     },
     {
       "id": "364009",
@@ -10045,15 +9955,6 @@
       "openDate": "09/30/2026",
       "closeDate": "09/30/2027",
       "hash": "62844a95d9d6f31cac44388c4696980e5adc87f338de12910b21f7ff3613ab9f"
-    },
-    {
-      "id": "362854",
-      "number": "HT942526BMFRPIDA",
-      "title": "DoW Bone Marrow Failure, Idea Development Award",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "hash": "a7b5e44796cba17bcd7cb34920c04d5d87522ffe3d420e183042d09c1ecb0425"
     },
     {
       "id": "363991",
@@ -10261,15 +10162,6 @@
       "openDate": "06/28/2024",
       "closeDate": "04/06/2027",
       "hash": "90539893139a73ebdbe8db11b5f77520f59286e6106123fcb39a3aaa8479c245"
-    },
-    {
-      "id": "363614",
-      "number": "26-515",
-      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "10/05/2076",
-      "hash": "ddc7527f72215df023bf959e8ecd900f8475399d5df8f28c1a51f5d2f80b7584"
     },
     {
       "id": "363622",
@@ -10740,15 +10632,6 @@
       "hash": "641c342fde717cb379b18dab85298bd6edaa7b3640f55f625e9df0f7130548dc"
     },
     {
-      "id": "359325",
-      "number": "23-589",
-      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
-      "status": "posted",
-      "openDate": "06/06/2025",
-      "closeDate": "09/10/2027",
-      "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
-    },
-    {
       "id": "361832",
       "number": "RFA-AI-28-024",
       "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
@@ -10918,15 +10801,6 @@
       "openDate": "11/22/2022",
       "closeDate": "01/15/2027",
       "hash": "644d75b90bf90b868dfe7b853ebc7d88d0de5ca690a15b70102c9c009302f022"
-    },
-    {
-      "id": "343980",
-      "number": "23-500",
-      "title": "SBE Postdoctoral Research Fellowships (SPRF)",
-      "status": "posted",
-      "openDate": "10/08/2022",
-      "closeDate": "11/04/2026",
-      "hash": "b0608b19f567460620914eb1d56d4fc9391c6e5b9761f198a94968ec7fbc9c12"
     },
     {
       "id": "45812",
@@ -11242,60 +11116,6 @@
       "openDate": "10/30/2026",
       "closeDate": "12/29/2026",
       "hash": "67266880bc3508334bdef4d61b292c72cb20111cb4ca2e0d5f91c5fed29e2f6f"
-    },
-    {
-      "id": "364192",
-      "number": "G27AS00040",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes Northern Forrest Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "12/02/2026",
-      "hash": "26c6dd9780962256d7200d0c8524516950aff24edb5721d3fa4600b4059e8330"
-    },
-    {
-      "id": "364194",
-      "number": "G27AS00090",
-      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "12/23/2026",
-      "hash": "7dfac546f634d441382a7eb0820ac1f61e98f23fb4de6f798d724acf07215c4e"
-    },
-    {
-      "id": "364191",
-      "number": "G27AS00039",
-      "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "12/02/2026",
-      "hash": "7bdf258068fd49f0ce34e69d8b48021fe4272594d571003bf7163dc73ae56ee4"
-    },
-    {
-      "id": "364190",
-      "number": "G27AS00038",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "12/02/2026",
-      "hash": "1b5040f12c7ec6a2c98aaea48b4227995232e3f99f2195c7c4de6c2b5f5a5382"
-    },
-    {
-      "id": "364193",
-      "number": "G27AS00051",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "12/02/2026",
-      "hash": "9f16028505989724cc167f85a3a66be5157138aeaf4a65e47b5019211f70840a"
-    },
-    {
-      "id": "364187",
-      "number": "G27AS00046",
-      "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "fa7cf7edb5fd9f81b78cd5ecf4a89f105d8d49da5c1ec3bc3a10e00253d8e05b"
     },
     {
       "id": "363906",
@@ -11793,15 +11613,6 @@
       "hash": "e44a24284115c281685a17fef3b2299aed051d87f6c2b13589fab65fc95bf22c"
     },
     {
-      "id": "364122",
-      "number": "O-BJA-2026-172716",
-      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
-      "status": "posted",
-      "openDate": "10/19/2026",
-      "closeDate": "12/02/2026",
-      "hash": "9cb7affbfa2b260ce2b11535fcb090b460675f2641cc04def8a1db7a3fea84b8"
-    },
-    {
       "id": "243973",
       "number": "FAA-COE-AJFE",
       "title": "Center of Excellence for Alternative Jet Fuels and Environment",
@@ -12000,15 +11811,6 @@
       "hash": "b7149a987ff291b2319a030f18fba004ec628bcab00abac25808eba256face58"
     },
     {
-      "id": "364160",
-      "number": "NOAA-OAR-CPO-2027-33392",
-      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "02/09/2027",
-      "hash": "c847b0d56fcb1cc4bd2b487ef29db693fa878efa0b43a41ad67149e5b7aa0cc0"
-    },
-    {
       "id": "364164",
       "number": "USDA-FNA-CN-HTH-NSLP-EAG-2027",
       "title": "Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants",
@@ -12097,15 +11899,6 @@
       "openDate": "10/28/2026",
       "closeDate": "10/31/2027",
       "hash": "5865b0a9e987cd059d2abcd1157f1c6558f486fab9521e41690398b42b2834dc"
-    },
-    {
-      "id": "363481",
-      "number": "26-513",
-      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
-      "status": "posted",
-      "openDate": "08/06/2026",
-      "closeDate": "11/04/2026",
-      "hash": "2a577315a92017f7ede9ca45fc290693fc6dea884d0ea3f870c0d08acd9ea603"
     },
     {
       "id": "364153",
@@ -12585,42 +12378,6 @@
       "hash": "30bd833250afc8293e18291102a0838cc5fa7006f4984f0b040f0a36003bed52"
     },
     {
-      "id": "364178",
-      "number": "G27AS00081",
-      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "1157709e7e5faf9a4afef1abb26398edf548ef3f131d67cfe7008e20291e0186"
-    },
-    {
-      "id": "364179",
-      "number": "G27AS00082",
-      "title": "Cooperative Agreement for affiliated Partner with the Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "436dad42973d60dbc7b5cbbb787433faead6e0757ccd5a8032a986750e886b1d"
-    },
-    {
-      "id": "364177",
-      "number": "G27AS00076",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Plains Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "348b6c7d5256166e02b6ca7ff73626ebf8b5bdec7d7052ec342047b7e8389d87"
-    },
-    {
-      "id": "364176",
-      "number": "G27AS00166",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "12/04/2026",
-      "hash": "db48cecdc8d388e8deb90d28d4e13d38319b0ee6f85bf004c657dc3c73b3b66b"
-    },
-    {
       "id": "350338",
       "number": "2023-NIST-CHIPS-SMME-01",
       "title": "CHIPS Incentives Program &ndash; Facilities for Semiconductor Materials and Manufacturing Equipment",
@@ -12646,15 +12403,6 @@
       "openDate": "09/30/2026",
       "closeDate": "11/12/2026",
       "hash": "48bbbde7b929d88ec46f72a97a36df0c4c1896bf020e91b43541f5b6b3ff6c23"
-    },
-    {
-      "id": "362551",
-      "number": "26-511",
-      "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
-      "status": "posted",
-      "openDate": "05/22/2026",
-      "closeDate": "11/04/2026",
-      "hash": "4b3361b8adbdd5bc88b0ecfbc61b1d2411520db80f7edeea9fbc4b22c581e26a"
     },
     {
       "id": "364173",
@@ -12693,69 +12441,6 @@
       "hash": "adad5c4345abe935642f29d1ce3737320c3f852ff7e3f6eb8ed1de6c0fe8f479"
     },
     {
-      "id": "364181",
-      "number": "G27AS00084",
-      "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "ac14efd44ec98da4d99c2be468f6d6661328a320624c85b24a6b2fe5db98026f"
-    },
-    {
-      "id": "364180",
-      "number": "G27AS00083",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "42d8f7256f2f2132d98961c80fa90652fc8d948f1f8276f9d609cca4ad70810c"
-    },
-    {
-      "id": "364185",
-      "number": "G27AS00044",
-      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "334b3f27daea048b16a81c2ef5e6018e663fa576ad97707274acda012b523111"
-    },
-    {
-      "id": "364184",
-      "number": "G27AS00043",
-      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "dcffa48484e1ff37fb33999c6751d15349d07793ec310cb0697bacaaa314b44f"
-    },
-    {
-      "id": "364186",
-      "number": "G27AS00061",
-      "title": "Cooperative Agreement for affiliated Partner with Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "a3ddef6231ce1a67791f529050eb6b4e8148469e51ae9c8f66d4925384c496a9"
-    },
-    {
-      "id": "364183",
-      "number": "G27AS00045",
-      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "4cb3607626ddd232f8969dc89be92d03bf3a6a63bdcf41904e67eec4ce0dc034"
-    },
-    {
-      "id": "364182",
-      "number": "G27AS00085",
-      "title": "Cooperative Agreement for affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "11/30/2026",
-      "hash": "6ead9c515ad913f88baf083709ca20630ddf8744401267be6ebb7c3a524f58d0"
-    },
-    {
       "id": "363759",
       "number": "NNH25ZDA001N-CRYO",
       "title": "ROSES 2025: A.16 Cryosphere",
@@ -12781,15 +12466,6 @@
       "openDate": "11/02/2026",
       "closeDate": "11/17/2026",
       "hash": "0590642cabd0847caf1fe1d1db94b0343960040f34530d20827d68636a06ef04"
-    },
-    {
-      "id": "363889",
-      "number": "O-BJA-2026-172718",
-      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "46227271b04909e819d767535ca4c2d22771f56131cf4d4ffa01290400447edc"
     },
     {
       "id": "364188",
@@ -13008,6 +12684,69 @@
       "hash": "4d04fed9bfb1c2ffc03c0bb36f2ccc1f2a78d9a0d7c60523baf34c2d4359421e"
     },
     {
+      "id": "364019",
+      "number": "TAT-FY27",
+      "title": "Technical Assistance and Training Grant Program",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
+    },
+    {
+      "id": "362277",
+      "number": "PAR-28-063",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "status": "posted",
+      "openDate": "11/03/2026",
+      "closeDate": "02/20/2029",
+      "hash": "a3a392097b088883e07d33c4e1e26c9bcf2918edb231da3bed26cf8ad87a2394"
+    },
+    {
+      "id": "363830",
+      "number": "OFOP0003790",
+      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
+      "status": "posted",
+      "openDate": "09/09/2026",
+      "closeDate": "11/09/2026",
+      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
+    },
+    {
+      "id": "363591",
+      "number": "CDC-RFA-JG-27-0069",
+      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
+      "status": "forecasted",
+      "openDate": "08/14/2026",
+      "closeDate": "",
+      "hash": "11cbd7af372f2a830405c52cb2cd3add4a33876f5fb056b673828349c1c7e44b"
+    },
+    {
+      "id": "359325",
+      "number": "23-589",
+      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
+      "status": "posted",
+      "openDate": "06/06/2025",
+      "closeDate": "09/10/2027",
+      "hash": "e3f33b58b4c61d89f6a060ffd3813dccf416d4b822aa0d68d1365bcc501edf34"
+    },
+    {
+      "id": "363115",
+      "number": "RFA-TS-27-018",
+      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
+      "status": "forecasted",
+      "openDate": "07/08/2026",
+      "closeDate": "",
+      "hash": "971e1dc097d1f73467efb0f3132743c13e8c493af1600ed28af507ad291dabf7"
+    },
+    {
+      "id": "363614",
+      "number": "26-515",
+      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/04/2076",
+      "hash": "fc1c8eab4c6f25d5d0b30ea57e949202ebc737c21862fba3eb00b3652af66c22"
+    },
+    {
       "id": "362827",
       "number": "OFH-2600-DC-021C",
       "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
@@ -13026,49 +12765,13 @@
       "hash": "3bd6ac75d018d56a65a828fa76d0f095275b01fa48798a733c03a0661e39b81a"
     },
     {
-      "id": "362277",
-      "number": "PAR-28-063",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
       "status": "posted",
-      "openDate": "11/03/2026",
-      "closeDate": "02/20/2029",
-      "hash": "a3a392097b088883e07d33c4e1e26c9bcf2918edb231da3bed26cf8ad87a2394"
-    },
-    {
-      "id": "363268",
-      "number": "26-512",
-      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
-      "status": "posted",
-      "openDate": "07/21/2026",
-      "closeDate": "11/04/2026",
-      "hash": "873801500e897a6fbfcd4a884dfa7137fd62305820f4776f6e38d3de778daf61"
-    },
-    {
-      "id": "363830",
-      "number": "OFOP0003790",
-      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
-      "status": "posted",
-      "openDate": "09/09/2026",
-      "closeDate": "11/09/2026",
-      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
-    },
-    {
-      "id": "364019",
-      "number": "TAT-FY27",
-      "title": "Technical Assistance and Training Grant Program",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "1b3b12aa4b188348f1164dc4feea156e034cda65928156004bca453baab3ac1e"
-    },
-    {
-      "id": "364018",
-      "number": "SWMFY27",
-      "title": "Solid Waste Management Grant Program",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "12/31/2026",
-      "hash": "196c5997d3292bee639a5d4de3b0e68364c497d72f6ddb76e8380535a16ff8ba"
+      "openDate": "11/04/2026",
+      "closeDate": "07/04/2027",
+      "hash": "213f9adb412c8dccbadf4ec0a5f400b33bcfd221f6025eca9cf07431338e472d"
     },
     {
       "id": "362952",
@@ -13080,13 +12783,337 @@
       "hash": "3c2215269b43e9715f67e0cea9c0d9448a31d7d8e826fe1ee81e02dfbed7358b"
     },
     {
-      "id": "363115",
-      "number": "RFA-TS-27-018",
-      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
-      "status": "forecasted",
-      "openDate": "07/08/2026",
+      "id": "364018",
+      "number": "SWMFY27",
+      "title": "Solid Waste Management Grant Program",
+      "status": "posted",
+      "openDate": "10/01/2026",
+      "closeDate": "12/31/2026",
+      "hash": "196c5997d3292bee639a5d4de3b0e68364c497d72f6ddb76e8380535a16ff8ba"
+    },
+    {
+      "id": "364181",
+      "number": "G27AS00084",
+      "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "ac14efd44ec98da4d99c2be468f6d6661328a320624c85b24a6b2fe5db98026f"
+    },
+    {
+      "id": "364182",
+      "number": "G27AS00085",
+      "title": "Cooperative Agreement for affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "6ead9c515ad913f88baf083709ca20630ddf8744401267be6ebb7c3a524f58d0"
+    },
+    {
+      "id": "364183",
+      "number": "G27AS00045",
+      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "4cb3607626ddd232f8969dc89be92d03bf3a6a63bdcf41904e67eec4ce0dc034"
+    },
+    {
+      "id": "364184",
+      "number": "G27AS00043",
+      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "dcffa48484e1ff37fb33999c6751d15349d07793ec310cb0697bacaaa314b44f"
+    },
+    {
+      "id": "364185",
+      "number": "G27AS00044",
+      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "334b3f27daea048b16a81c2ef5e6018e663fa576ad97707274acda012b523111"
+    },
+    {
+      "id": "364186",
+      "number": "G27AS00061",
+      "title": "Cooperative Agreement for affiliated Partner with Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "a3ddef6231ce1a67791f529050eb6b4e8148469e51ae9c8f66d4925384c496a9"
+    },
+    {
+      "id": "364177",
+      "number": "G27AS00076",
+      "title": "Cooperative Agreement for affiliated Partner with the Great Plains Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "348b6c7d5256166e02b6ca7ff73626ebf8b5bdec7d7052ec342047b7e8389d87"
+    },
+    {
+      "id": "364178",
+      "number": "G27AS00081",
+      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "1157709e7e5faf9a4afef1abb26398edf548ef3f131d67cfe7008e20291e0186"
+    },
+    {
+      "id": "364179",
+      "number": "G27AS00082",
+      "title": "Cooperative Agreement for affiliated Partner with the Chesapeake Watershed Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "436dad42973d60dbc7b5cbbb787433faead6e0757ccd5a8032a986750e886b1d"
+    },
+    {
+      "id": "364180",
+      "number": "G27AS00083",
+      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "42d8f7256f2f2132d98961c80fa90652fc8d948f1f8276f9d609cca4ad70810c"
+    },
+    {
+      "id": "364215",
+      "number": "USDA-APHIS-10025-VSSP0000-27-0002",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "01/07/2027",
+      "hash": "b63c60f34ec1a5cbc7081c0cba9cf4da8b11dea1a076b11d3b7d58101cc02cca"
+    },
+    {
+      "id": "364214",
+      "number": "USDA-APHIS-10025-VSSP0000-27-0001",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "01/07/2027",
+      "hash": "944d129739d5b33d67a2385cdcb4ab9c3094996246644e1027960c24920edde5"
+    },
+    {
+      "id": "364160",
+      "number": "NOAA-OAR-CPO-2027-33392",
+      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
+      "status": "posted",
+      "openDate": "10/27/2026",
+      "closeDate": "02/09/2027",
+      "hash": "c847b0d56fcb1cc4bd2b487ef29db693fa878efa0b43a41ad67149e5b7aa0cc0"
+    },
+    {
+      "id": "364217",
+      "number": "PAR-27-014",
+      "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
+      "status": "posted",
+      "openDate": "11/04/2026",
       "closeDate": "",
-      "hash": "971e1dc097d1f73467efb0f3132743c13e8c493af1600ed28af507ad291dabf7"
+      "hash": "a0c0783828dedc1e7653eb27aec5b59b88260e3dfdb54b3fbbe3de913881b62c"
+    },
+    {
+      "id": "364218",
+      "number": "PAR-27-010",
+      "title": "National Produce Safety Partnership Program",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "",
+      "hash": "430cf939e34e0a9b311e38efd461f6a0ee9eb974fb7550aac7174053469ae73b"
+    },
+    {
+      "id": "364212",
+      "number": "NHTSA-693JJ927R000007-FY27",
+      "title": "State Process for Informing Consumers of Recalls Program",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "02/04/2027",
+      "hash": "880fdec9cc236dfd4702b8afc263591d15be97236df04f328e6c117a0cbf725d"
+    },
+    {
+      "id": "364194",
+      "number": "G27AS00090",
+      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "12/23/2026",
+      "hash": "7dfac546f634d441382a7eb0820ac1f61e98f23fb4de6f798d724acf07215c4e"
+    },
+    {
+      "id": "364176",
+      "number": "G27AS00166",
+      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "12/04/2026",
+      "hash": "db48cecdc8d388e8deb90d28d4e13d38319b0ee6f85bf004c657dc3c73b3b66b"
+    },
+    {
+      "id": "363481",
+      "number": "26-513",
+      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
+      "status": "posted",
+      "openDate": "08/06/2026",
+      "closeDate": "11/03/2027",
+      "hash": "0f384a5948c44904399b269960192827eb0516ab72ef115eeb206f4ed21890f2"
+    },
+    {
+      "id": "362551",
+      "number": "26-511",
+      "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
+      "status": "posted",
+      "openDate": "05/22/2026",
+      "closeDate": "03/04/2027",
+      "hash": "ed0b254fc95def8bd417090d33093a8fb3d129719f9fcd2f90a811de7a678d74"
+    },
+    {
+      "id": "363268",
+      "number": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
+      "status": "posted",
+      "openDate": "07/21/2026",
+      "closeDate": "11/03/2027",
+      "hash": "d10b5e1c4336b7229961f2ae816b87bdb38a8dbbc19e2a7859643dec5161fff3"
+    },
+    {
+      "id": "364221",
+      "number": "NNH25ZDA001N-ATP",
+      "title": "ROSES 2025:  D.10 Astrophysics Theory",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "02/03/2027",
+      "hash": "e1e6ded5c5e7234207163637bcd88b552e5b6ef6e6c13d0e3ebd586917d14e3d"
+    },
+    {
+      "id": "364219",
+      "number": "RFA-DK-28-113",
+      "title": "Leveraging NAMs to understand disease triggers, discover early biomarkers and develop new classes of therapeutic strategies for Type 1 Diabetes (U01 Clinical Trial Not Allowed)",
+      "status": "forecasted",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "hash": "87c176372239e96a8680365091273c806b05903ed67d0bcf84c5ad712fc573f0"
+    },
+    {
+      "id": "364187",
+      "number": "G27AS00046",
+      "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "11/30/2026",
+      "hash": "fa7cf7edb5fd9f81b78cd5ecf4a89f105d8d49da5c1ec3bc3a10e00253d8e05b"
+    },
+    {
+      "id": "364190",
+      "number": "G27AS00038",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "12/02/2026",
+      "hash": "1b5040f12c7ec6a2c98aaea48b4227995232e3f99f2195c7c4de6c2b5f5a5382"
+    },
+    {
+      "id": "364191",
+      "number": "G27AS00039",
+      "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "12/02/2026",
+      "hash": "7bdf258068fd49f0ce34e69d8b48021fe4272594d571003bf7163dc73ae56ee4"
+    },
+    {
+      "id": "364192",
+      "number": "G27AS00040",
+      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes Northern Forrest Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "12/02/2026",
+      "hash": "26c6dd9780962256d7200d0c8524516950aff24edb5721d3fa4600b4059e8330"
+    },
+    {
+      "id": "364193",
+      "number": "G27AS00051",
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/02/2026",
+      "closeDate": "12/02/2026",
+      "hash": "9f16028505989724cc167f85a3a66be5157138aeaf4a65e47b5019211f70840a"
+    },
+    {
+      "id": "363957",
+      "number": "O-BJA-2026-172779",
+      "title": "BJA FY 2026 John R. Justice (JRJ) Formula Grant Program",
+      "status": "posted",
+      "openDate": "09/25/2026",
+      "closeDate": "11/06/2026",
+      "hash": "2953d30df0d359f76bd82ff3e1a4b5c066e635c1df40b9929d950d6270c88d7a"
+    },
+    {
+      "id": "364220",
+      "number": "HSG-2700-DC-0053",
+      "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "04/20/2027",
+      "hash": "b275dce257831862df588cdbebc51e186f5ef6892ace135d761979900cd51cdb"
+    },
+    {
+      "id": "364122",
+      "number": "O-BJA-2026-172716",
+      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "12/02/2026",
+      "hash": "59ff440864888227ab094b03a350c74d3e3065214744150162739942c0260aec"
+    },
+    {
+      "id": "364222",
+      "number": "O-OVW-2026-172811",
+      "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "de50d8d97cedff8373f29c4c225a27ad1651def6e43c9ffc569ea8610a2d7dc8"
+    },
+    {
+      "id": "364006",
+      "number": "USDA-AMS-TM-DBI-G-26-0011",
+      "title": "Dairy Business Innovation Initiatives Program (DBI) Fiscal Year 2026",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "01/04/2027",
+      "hash": "f3d4ab6bc828bd501ef204905e0ad06d9fd0073d063906b3597783423ea4256b"
+    },
+    {
+      "id": "364223",
+      "number": "PAR-27-017",
+      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "hash": "771c140717b422fd2def3b5994456c9a1819cc25de1ff434a2788afdbee37a14"
+    },
+    {
+      "id": "363281",
+      "number": "RFA-OH-27-048",
+      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
+      "status": "forecasted",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
+    },
+    {
+      "id": "361994",
+      "number": "PIH-2600-DC-0005",
+      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "01/05/2027",
+      "hash": "c25fb97aa905cb7bbaaf5a7d010d409e5b621607141869cc92834dc7d6ac9905"
     }
   ]
 }
