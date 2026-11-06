@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T18:07:52.824Z",
-  "hitCount": 1457,
+  "updatedAt": "2026-11-06T17:34:28.340Z",
+  "hitCount": 1471,
   "records": [
     {
       "id": "355824",
@@ -1560,15 +1560,6 @@
       "hash": "bef976a76a671df892ca54615d12fed62223a635eae6cc73177d45d850653d8c"
     },
     {
-      "id": "357135",
-      "number": "PAR-25-255",
-      "title": "Developing novel theory and methods for understanding the genetic architecture of complex human traits (R01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "11/15/2024",
-      "closeDate": "11/05/2026",
-      "hash": "6eef42a4c56fe33bd5896ebf983b880f7d3a935ca8924f8a56436590c3f52dc0"
-    },
-    {
       "id": "356924",
       "number": "PAR-25-207",
       "title": "Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
@@ -2242,15 +2233,6 @@
       "openDate": "12/30/2024",
       "closeDate": "01/07/2028",
       "hash": "29346c1abb9a88bd529bc51f64eee8e83312514df35df406ae5857189e238a5a"
-    },
-    {
-      "id": "357813",
-      "number": "PA-25-305",
-      "title": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "12/18/2024",
-      "closeDate": "01/07/2028",
-      "hash": "51b3268314bc9e5c3164b2c2b6e6e56ec10f9a1133760c02b6b3a6f7c2190406"
     },
     {
       "id": "358202",
@@ -6564,24 +6546,6 @@
       "hash": "a75d1a06155447ec1cbe00712a8425db7f8e3177e30745e12da08b10a95b41b5"
     },
     {
-      "id": "363450",
-      "number": "HRSA-27-014",
-      "title": "Fiscal Year (FY) 2027 State and Regional Primary Care Association (PCA) Cooperative Agreements",
-      "status": "forecasted",
-      "openDate": "08/03/2026",
-      "closeDate": "",
-      "hash": "3e3fcdddef905cbb08e38c3c29b7c3fcf95a7124a73a2a8bf77e1d383c28c61c"
-    },
-    {
-      "id": "360199",
-      "number": "RFA-CK-26-035",
-      "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
-      "status": "posted",
-      "openDate": "08/03/2026",
-      "closeDate": "11/05/2026",
-      "hash": "bfa93cc4cf0c4b4483dc3f5f459ba11e1d4ed2ed7f0c98d87fef375fda5c0b40"
-    },
-    {
       "id": "361822",
       "number": "HHS-2026-ACF-ORR-ZU-0019",
       "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
@@ -6814,15 +6778,6 @@
       "openDate": "08/12/2026",
       "closeDate": "",
       "hash": "0250c4a17871735fcd2dcc9aab273334f93e708e8503a632bfd82ba502a4a722"
-    },
-    {
-      "id": "363546",
-      "number": "HRSA-27-072",
-      "title": "Women's Initiative for Screening and Health (WISH)",
-      "status": "forecasted",
-      "openDate": "08/12/2026",
-      "closeDate": "",
-      "hash": "89cabc420bae779310d5a18f75acfb1a8cf0e042d97065f0a004150bc5407b77"
     },
     {
       "id": "363557",
@@ -7977,15 +7932,6 @@
       "hash": "2f80b0c6f2183f31038dd5e150821cf643f7bccebdbe9f29282742873dff8c27"
     },
     {
-      "id": "363797",
-      "number": "DE-FOA-0003671",
-      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
-      "status": "posted",
-      "openDate": "09/03/2026",
-      "closeDate": "11/05/2026",
-      "hash": "d1262bf9c99c59c2f13b7265b372465d827e47c8ed03746cc1038dc1a0d81218"
-    },
-    {
       "id": "363986",
       "number": "CDC-RFA-DP-27-0076",
       "title": "Promoting Cancer Surveillance Workforce, Education, and Data Use",
@@ -8263,15 +8209,6 @@
       "openDate": "06/25/2026",
       "closeDate": "07/01/2028",
       "hash": "d491841af4254f5f0a5635c5c06066cd4900590cd1dd410627e4aead79360707"
-    },
-    {
-      "id": "343725",
-      "number": "HT942523SBAA1",
-      "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
-      "status": "posted",
-      "openDate": "09/22/2022",
-      "closeDate": "09/30/2027",
-      "hash": "6ecef1e40e680ea7d576923abce9637e6eda119c73ea4a303e15d1511e0c9972"
     },
     {
       "id": "343653",
@@ -8839,15 +8776,6 @@
       "openDate": "07/29/2026",
       "closeDate": "01/01/2099",
       "hash": "41a68cbb28582a027c46a9604829d7a367aa3111f7d53a2173bc04599ccb668a"
-    },
-    {
-      "id": "360200",
-      "number": "RFA-CK-26-036",
-      "title": "US Travelers Health Research, Surveillance, Communication, and Outreach Network",
-      "status": "posted",
-      "openDate": "08/05/2026",
-      "closeDate": "11/05/2026",
-      "hash": "089b2f1746e0d751a67ff63f8db365c3bc4bad2656157b57a11037369a2cc967"
     },
     {
       "id": "363383",
@@ -11190,24 +11118,6 @@
       "hash": "cccda55a492db9513ab14f822534edcc3f9be7ac70133c5c530e87a202df4366"
     },
     {
-      "id": "363905",
-      "number": "W911NF26S1000",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
-    },
-    {
-      "id": "363899",
-      "number": "NOFOAFRLAFOSR20260002",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "04/09/2027",
-      "hash": "0af2047b9dfba837b38688ed426cf1b597d506aa889b64eb4202b53334ad584f"
-    },
-    {
       "id": "364008",
       "number": "W911NF-27-R-A001",
       "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
@@ -12486,15 +12396,6 @@
       "hash": "8925c8aea2c111eb15c02f6ccbec71c6bb2317c48a93d9e502213e3b37f3d483"
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "status": "posted",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
-    },
-    {
       "id": "360551",
       "number": "RFA-DK-28-314",
       "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
@@ -12763,15 +12664,6 @@
       "openDate": "07/02/2026",
       "closeDate": "01/01/2027",
       "hash": "3bd6ac75d018d56a65a828fa76d0f095275b01fa48798a733c03a0661e39b81a"
-    },
-    {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "status": "posted",
-      "openDate": "11/04/2026",
-      "closeDate": "07/04/2027",
-      "hash": "213f9adb412c8dccbadf4ec0a5f400b33bcfd221f6025eca9cf07431338e472d"
     },
     {
       "id": "362952",
@@ -13044,40 +12936,94 @@
       "hash": "9f16028505989724cc167f85a3a66be5157138aeaf4a65e47b5019211f70840a"
     },
     {
-      "id": "363957",
-      "number": "O-BJA-2026-172779",
-      "title": "BJA FY 2026 John R. Justice (JRJ) Formula Grant Program",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "11/06/2026",
-      "hash": "2953d30df0d359f76bd82ff3e1a4b5c066e635c1df40b9929d950d6270c88d7a"
-    },
-    {
-      "id": "364220",
-      "number": "HSG-2700-DC-0053",
-      "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
-      "status": "posted",
-      "openDate": "11/05/2026",
-      "closeDate": "04/20/2027",
-      "hash": "b275dce257831862df588cdbebc51e186f5ef6892ace135d761979900cd51cdb"
-    },
-    {
-      "id": "364122",
-      "number": "O-BJA-2026-172716",
-      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
-      "status": "posted",
-      "openDate": "10/19/2026",
-      "closeDate": "12/02/2026",
-      "hash": "59ff440864888227ab094b03a350c74d3e3065214744150162739942c0260aec"
-    },
-    {
-      "id": "364222",
-      "number": "O-OVW-2026-172811",
-      "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
+      "id": "364230",
+      "number": "G27AS00050",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
       "status": "posted",
       "openDate": "11/05/2026",
       "closeDate": "12/07/2026",
-      "hash": "de50d8d97cedff8373f29c4c225a27ad1651def6e43c9ffc569ea8610a2d7dc8"
+      "hash": "cce43d806e28461040a52a1dc508e64356438877662106eb819ba1618e881289"
+    },
+    {
+      "id": "364231",
+      "number": "G27AS00064",
+      "title": "Cooperative Agreement for affiliated Partner with Gulf Coast Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "01/05/2027",
+      "hash": "1d6bdf5378ef1d8555a95c75d9e57f2658709d2775ca5e8a83b25f0529a654c2"
+    },
+    {
+      "id": "364229",
+      "number": "G27AS00047",
+      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "2e61cb3e9c121ab6a92320d3fcad0e318c44acf40c81fc26270916989493d906"
+    },
+    {
+      "id": "364228",
+      "number": "G27AS00054",
+      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "7f9dd3d13c114eebf42166c1a1acc55aef116afb94e7bd27ee0bd6491bbfcf6a"
+    },
+    {
+      "id": "364227",
+      "number": "G27AS00055",
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes Northern Forest Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "8cd2fd9cbcdddaee9680a999a73f0c1e914ce56dbb696d1ecddf963328e3da95"
+    },
+    {
+      "id": "364226",
+      "number": "G27AS00053",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "f270823bfe9e6f0f0d02d11378d3137d63f19e340bf21cd7fc2c867147cf5dec"
+    },
+    {
+      "id": "364232",
+      "number": "HRSA-27-109",
+      "title": "The National Rural Health Information Technology Assessment Program",
+      "status": "forecasted",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "hash": "c4dcddf5c9312804dbc6f97c8cf591f64680f51c2d96288656c1cd55a4808343"
+    },
+    {
+      "id": "363908",
+      "number": "O-BJA-2026-172759",
+      "title": "BJA FY26 Paul Coverdell Forensic Science Improvement - Formula Grants Program",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "11/10/2026",
+      "hash": "fedd12dd0d9d46930d8ebf4dd8e26a9bf9ec52150ba6ce388093c6ae121968b9"
+    },
+    {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "07/04/2027",
+      "hash": "213f9adb412c8dccbadf4ec0a5f400b33bcfd221f6025eca9cf07431338e472d"
+    },
+    {
+      "id": "361994",
+      "number": "PIH-2600-DC-0005",
+      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "01/05/2027",
+      "hash": "c25fb97aa905cb7bbaaf5a7d010d409e5b621607141869cc92834dc7d6ac9905"
     },
     {
       "id": "364006",
@@ -13107,13 +13053,193 @@
       "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
     },
     {
-      "id": "361994",
-      "number": "PIH-2600-DC-0005",
-      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "id": "363450",
+      "number": "HRSA-27-014",
+      "title": "Fiscal Year (FY) 2027 State and Regional Primary Care Association (PCA) Cooperative Agreements",
+      "status": "forecasted",
+      "openDate": "08/03/2026",
+      "closeDate": "",
+      "hash": "3e3fcdddef905cbb08e38c3c29b7c3fcf95a7124a73a2a8bf77e1d383c28c61c"
+    },
+    {
+      "id": "364220",
+      "number": "HSG-2700-DC-0053",
+      "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
       "status": "posted",
       "openDate": "11/05/2026",
-      "closeDate": "01/05/2027",
-      "hash": "c25fb97aa905cb7bbaaf5a7d010d409e5b621607141869cc92834dc7d6ac9905"
+      "closeDate": "04/20/2027",
+      "hash": "b275dce257831862df588cdbebc51e186f5ef6892ace135d761979900cd51cdb"
+    },
+    {
+      "id": "363637",
+      "number": "O-BJA-2026-172698",
+      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/06/2026",
+      "hash": "adacf651435ceba79f54f41f7feaef60ab0e506addfd17558ebb009521a5b7a4"
+    },
+    {
+      "id": "364222",
+      "number": "O-OVW-2026-172811",
+      "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "de50d8d97cedff8373f29c4c225a27ad1651def6e43c9ffc569ea8610a2d7dc8"
+    },
+    {
+      "id": "364122",
+      "number": "O-BJA-2026-172716",
+      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
+      "status": "posted",
+      "openDate": "10/19/2026",
+      "closeDate": "12/02/2026",
+      "hash": "59ff440864888227ab094b03a350c74d3e3065214744150162739942c0260aec"
+    },
+    {
+      "id": "364224",
+      "number": "O-BJA-2026-172810",
+      "title": "BJA FY26 State Criminal Alien Assistance Program (SCAAP)",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/15/2026",
+      "hash": "a529f182ac993230abd06cbc56dd846c97b94eba5dd725dd63acb3e329c65fff"
+    },
+    {
+      "id": "363957",
+      "number": "O-BJA-2026-172779",
+      "title": "BJA FY 2026 John R. Justice (JRJ) Formula Grant Program",
+      "status": "posted",
+      "openDate": "09/25/2026",
+      "closeDate": "11/06/2026",
+      "hash": "2953d30df0d359f76bd82ff3e1a4b5c066e635c1df40b9929d950d6270c88d7a"
+    },
+    {
+      "id": "364233",
+      "number": "G27AS00059",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "e28f4b9043fd14b523dccfd533992b63e09a99822e2fa3b280feb73289939cf7"
+    },
+    {
+      "id": "364234",
+      "number": "G27AS00058",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "7b4b6d03fefad578cc387c63c6d792b5dfd172c98f2ae81f73f33c2815694a51"
+    },
+    {
+      "id": "364239",
+      "number": "G27AS00066",
+      "title": "Cooperative Agreement for affiliated Partner with Alaska Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "4f654263802c04faafdd4a714f342976438b727f3ff577ecaef038df2350f36b"
+    },
+    {
+      "id": "364238",
+      "number": "G27AS00060",
+      "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "1dc380d7acfaca25cadd7adb8282c29be10abe85a0e8ff16e8c2a9e2602a209f"
+    },
+    {
+      "id": "364237",
+      "number": "G27AS00062",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "3c5e706ab05f25eed5e766ccd2aca599a28b0db0a1cea4334886b52c88ac771e"
+    },
+    {
+      "id": "364236",
+      "number": "G27AS00056",
+      "title": "Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "185ddfaf85f2828c81a4627ab545b466b0fe90827b9b02a583dc69407f6f08ee"
+    },
+    {
+      "id": "363899",
+      "number": "NOFOAFRLAFOSR20260002",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "0af2047b9dfba837b38688ed426cf1b597d506aa889b64eb4202b53334ad584f"
+    },
+    {
+      "id": "363905",
+      "number": "W911NF26S1000",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "04/09/2027",
+      "hash": "5cd43b3b5ac728cc31426e62fed20692b3e871b9708b230ff5fdbbe28c1f1ac2"
+    },
+    {
+      "id": "364235",
+      "number": "G27AS00057",
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "2b75f2863f9dad6f7eb08aee3f5504ef882fb5c05f3a0fa01f7af1da8f62a669"
+    },
+    {
+      "id": "364240",
+      "number": "DFOP0019913",
+      "title": "Strengthening Moldova&rsquo;s Energy and Trade Security",
+      "status": "posted",
+      "openDate": "11/06/2026",
+      "closeDate": "12/06/2026",
+      "hash": "db0e8e1f04bac5fa4d303556b4a2a3f169f57a794f045e57dc1f7206c84ccdd9"
+    },
+    {
+      "id": "363546",
+      "number": "HRSA-27-072",
+      "title": "Women's Initiative for Screening and Health (WISH)",
+      "status": "posted",
+      "openDate": "11/06/2026",
+      "closeDate": "01/08/2027",
+      "hash": "1a94d2312bff88cf22dbe1078eef795e2a9cda2e0b87f29ac92ed04860b7472a"
+    },
+    {
+      "id": "343725",
+      "number": "HT942523SBAA1",
+      "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
+      "status": "posted",
+      "openDate": "09/22/2022",
+      "closeDate": "09/30/2027",
+      "hash": "6ecef1e40e680ea7d576923abce9637e6eda119c73ea4a303e15d1511e0c9972"
+    },
+    {
+      "id": "357813",
+      "number": "PA-25-305",
+      "title": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "12/18/2024",
+      "closeDate": "01/07/2028",
+      "hash": "d04fd0a625f735cf28496f27d6c92d7c97e062e13cbacfd8c8ceb1053465db45"
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "status": "posted",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
     }
   ]
 }
