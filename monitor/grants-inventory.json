@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T16:44:37.759Z",
-  "hitCount": 1460,
+  "updatedAt": "2026-11-09T20:51:38.624Z",
+  "hitCount": 1461,
   "records": [
     {
       "id": "355824",
@@ -11028,15 +11028,6 @@
       "hash": "cccda55a492db9513ab14f822534edcc3f9be7ac70133c5c530e87a202df4366"
     },
     {
-      "id": "364008",
-      "number": "W911NF-27-R-A001",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "12/03/2026",
-      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
-    },
-    {
       "id": "364074",
       "number": "G27AS00037",
       "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
@@ -13141,6 +13132,24 @@
       "openDate": "10/22/2026",
       "closeDate": "11/30/2026",
       "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
+    },
+    {
+      "id": "364244",
+      "number": "DHS-27-061-COE-SUPP",
+      "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
+      "status": "posted",
+      "openDate": "11/09/2026",
+      "closeDate": "05/21/2027",
+      "hash": "f42c72922641352bb3d4b898bd03984a32d81a4b8980d5c595ab331664a82be4"
+    },
+    {
+      "id": "364008",
+      "number": "W911NF-27-R-A001",
+      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "12/03/2026",
+      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
     }
   ]
 }
