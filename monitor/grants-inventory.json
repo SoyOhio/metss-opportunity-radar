@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:51:38.624Z",
+  "updatedAt": "2026-11-10T17:58:20.538Z",
   "hitCount": 1461,
   "records": [
     {
@@ -6240,15 +6240,6 @@
       "hash": "2627fef332bf692717937b81871e401b93b5ac084bed63a6b68233c8d5628c4f"
     },
     {
-      "id": "361997",
-      "number": "CDC-RFA-CK-27-0007",
-      "title": "Centers of Excellence in Healthcare Quality and Safety",
-      "status": "forecasted",
-      "openDate": "04/21/2026",
-      "closeDate": "",
-      "hash": "0a32fd80b8323eb0698793e11019ae7c6016a6cb7343b34b69e1be2c394781e4"
-    },
-    {
       "id": "362034",
       "number": "NOAA-NMFS-AK-2026-33268",
       "title": "2026 Alaska Marine Education and Training Mini-Grant Program",
@@ -7725,15 +7716,6 @@
       "hash": "2841af41a3862b4eda02075c21ac4c05352e561ac5255e48f6f3fc5230defd94"
     },
     {
-      "id": "363829",
-      "number": "FA955026S0003",
-      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-      "status": "posted",
-      "openDate": "09/08/2026",
-      "closeDate": "12/04/2026",
-      "hash": "0df6f96aed4ff2f38866e260eb49c191403fb4a4ff656f5078d1b2c4be574fc1"
-    },
-    {
       "id": "362965",
       "number": "RFA-OD-27-009",
       "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
@@ -9156,15 +9138,6 @@
       "hash": "67356017863716057326b9d67c2871e8932f5d690b6bc40ae9d632b4d6948b56"
     },
     {
-      "id": "363409",
-      "number": "HRSA-27-031",
-      "title": "Fetal, Infant, and Child Death Review Program",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "a7e60e2d48c01ad8b8031611f83801e7fde65f4a9fef33dce905bc9c262af1e8"
-    },
-    {
       "id": "362984",
       "number": "2027FCAHDOM02",
       "title": "NEA Arts and Artifacts Domestic Indemnity Program 2, FY2027 (6/27)",
@@ -9570,15 +9543,6 @@
       "hash": "72794611dd6f735245600d57c94bd20535798415ac8f32a04df3e96e09db16c9"
     },
     {
-      "id": "361213",
-      "number": "RFA-DK-27-112",
-      "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "11/09/2026",
-      "hash": "fe0ecd80619a910f376aa8871cb23781a437f0bbe08494f87fcad6a757a62526"
-    },
-    {
       "id": "363696",
       "number": "AC-08-28-26",
       "title": "Fiscal Year (FY) 2027 AmeriCorps State and National Competitive Grants",
@@ -9649,15 +9613,6 @@
       "openDate": "08/31/2026",
       "closeDate": "07/07/2028",
       "hash": "e908e5e201b86b1981dde1ef24208079c053c9a47de05f20abfc77fa2ba83445"
-    },
-    {
-      "id": "360458",
-      "number": "RFA-DK-27-139",
-      "title": "Single Source for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Scientific and Data Research Center (U01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "08/31/2026",
-      "closeDate": "11/09/2026",
-      "hash": "f7db39d7550f5c0a35d53c19d68e57e084f04cf295eb73b8f004f22f0c1dea64"
     },
     {
       "id": "361518",
@@ -9811,15 +9766,6 @@
       "openDate": "06/08/2026",
       "closeDate": "11/30/2030",
       "hash": "17430d69979a6f48b7041d1bd9b77155950add428e8736fa95289a524a6b2b63"
-    },
-    {
-      "id": "363993",
-      "number": "DE-FOA-0003665",
-      "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "09/30/2027",
-      "hash": "62844a95d9d6f31cac44388c4696980e5adc87f338de12910b21f7ff3613ab9f"
     },
     {
       "id": "363991",
@@ -10297,15 +10243,6 @@
       "openDate": "05/08/2026",
       "closeDate": "12/08/2026",
       "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
-    },
-    {
-      "id": "363611",
-      "number": "EPA-OW-OWOW-26-01",
-      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "11/09/2026",
-      "hash": "896271c6604c9b52684903b28d3872f017591bd2e62cbd57e0eb154e54ea112d"
     },
     {
       "id": "364042",
@@ -11242,15 +11179,6 @@
       "openDate": "10/09/2026",
       "closeDate": "11/19/2026",
       "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
-    },
-    {
-      "id": "363985",
-      "number": "P26AS00055",
-      "title": "National Parks Business Plan Internship",
-      "status": "posted",
-      "openDate": "09/28/2026",
-      "closeDate": "01/04/2027",
-      "hash": "fef5b2d1a0fc900554a2442bcb8198e937658b14e62034559e96f82359a310af"
     },
     {
       "id": "363747",
@@ -12216,15 +12144,6 @@
       "hash": "60851d3b292e6589bc2ff190b4f4b79d64bf59597c8186fc3a90c3b50a36f0da"
     },
     {
-      "id": "364174",
-      "number": "DE-FOA-0003641",
-      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
-      "status": "posted",
-      "openDate": "10/30/2026",
-      "closeDate": "02/08/2027",
-      "hash": "54af86b56e54ab956509d9d2df1ae9d929e36045df9a40b9c467428f07a9c74e"
-    },
-    {
       "id": "347680",
       "number": "23-578",
       "title": "Infrastructure Innovation for Biological Research (Innovation)",
@@ -12475,15 +12394,6 @@
       "openDate": "11/03/2026",
       "closeDate": "02/20/2029",
       "hash": "a3a392097b088883e07d33c4e1e26c9bcf2918edb231da3bed26cf8ad87a2394"
-    },
-    {
-      "id": "363830",
-      "number": "OFOP0003790",
-      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
-      "status": "posted",
-      "openDate": "09/09/2026",
-      "closeDate": "11/09/2026",
-      "hash": "66ea3c11b3acf2928cc9243d36c7e9721987aa593970cb1e54c4142c98821525"
     },
     {
       "id": "363591",
@@ -13125,6 +13035,24 @@
       "hash": "0d458c87358a3428049506d0a866bb9224074a048069f4fcd945be5fa9ab8a2d"
     },
     {
+      "id": "364008",
+      "number": "W911NF-27-R-A001",
+      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "status": "posted",
+      "openDate": "09/30/2026",
+      "closeDate": "12/03/2026",
+      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
+    },
+    {
+      "id": "364174",
+      "number": "DE-FOA-0003641",
+      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+      "status": "posted",
+      "openDate": "10/30/2026",
+      "closeDate": "02/08/2027",
+      "hash": "54af86b56e54ab956509d9d2df1ae9d929e36045df9a40b9c467428f07a9c74e"
+    },
+    {
       "id": "364139",
       "number": "O-NIJ-2026-172805",
       "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
@@ -13132,6 +13060,24 @@
       "openDate": "10/22/2026",
       "closeDate": "11/30/2026",
       "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
+    },
+    {
+      "id": "363409",
+      "number": "HRSA-27-031",
+      "title": "Fetal, Infant, and Child Death Review Program",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "a7e60e2d48c01ad8b8031611f83801e7fde65f4a9fef33dce905bc9c262af1e8"
+    },
+    {
+      "id": "363637",
+      "number": "O-BJA-2026-172698",
+      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/11/2026",
+      "hash": "c89a428195a9f27ea55a8dbe803ec98cfecbb82b225fc33be35f9056e1f4757d"
     },
     {
       "id": "364244",
@@ -13143,13 +13089,67 @@
       "hash": "f42c72922641352bb3d4b898bd03984a32d81a4b8980d5c595ab331664a82be4"
     },
     {
-      "id": "364008",
-      "number": "W911NF-27-R-A001",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "id": "363712",
+      "number": "O-BJA-2026-172705",
+      "title": "BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant (JAG) Program&mdash;Local Formula",
+      "status": "posted",
+      "openDate": "08/25/2026",
+      "closeDate": "11/18/2026",
+      "hash": "bbd29209a90b033a378f4cfe57d9c3eec0e8b3298f7cf88450609b2e36905f96"
+    },
+    {
+      "id": "364245",
+      "number": "NEAPANS26",
+      "title": "National Services for State Arts Agencies and Regional Arts Organizations",
+      "status": "posted",
+      "openDate": "11/10/2026",
+      "closeDate": "01/14/2027",
+      "hash": "d287beaae1886c18bd3b85555ce47f4a8ca7e3c71f4541d9f32d56089c41a3de"
+    },
+    {
+      "id": "363829",
+      "number": "FA955026S0003",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "12/04/2026",
+      "hash": "0df6f96aed4ff2f38866e260eb49c191403fb4a4ff656f5078d1b2c4be574fc1"
+    },
+    {
+      "id": "364247",
+      "number": "NNH26ZTR001N-26NSTGRO-B4",
+      "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+      "status": "posted",
+      "openDate": "11/10/2026",
+      "closeDate": "03/18/2027",
+      "hash": "c5ea4619a4c81baddb1de65dd7495efd06cfcba3eba343356ceb9a3aeb5cff7d"
+    },
+    {
+      "id": "363985",
+      "number": "P26AS00055",
+      "title": "National Parks Business Plan Internship",
+      "status": "posted",
+      "openDate": "09/28/2026",
+      "closeDate": "03/05/2027",
+      "hash": "b5400809df9a9aaa2ca799796b615a53a25fc26d9ce1eb844963b9c4c62b5b35"
+    },
+    {
+      "id": "363993",
+      "number": "DE-FOA-0003665",
+      "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
       "status": "posted",
       "openDate": "09/30/2026",
-      "closeDate": "12/03/2026",
-      "hash": "3db455753bc21dc0fcd312f563b3e1886fcb16d3b528a9a9180e68d61077d2ea"
+      "closeDate": "09/30/2027",
+      "hash": "62844a95d9d6f31cac44388c4696980e5adc87f338de12910b21f7ff3613ab9f"
+    },
+    {
+      "id": "361997",
+      "number": "CDC-RFA-CK-27-0007",
+      "title": "Centers of Excellence in Healthcare Quality and Safety",
+      "status": "forecasted",
+      "openDate": "04/21/2026",
+      "closeDate": "",
+      "hash": "0a32fd80b8323eb0698793e11019ae7c6016a6cb7343b34b69e1be2c394781e4"
     }
   ]
 }
