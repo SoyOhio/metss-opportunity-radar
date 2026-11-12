@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:57:30.346Z",
+  "updatedAt": "2026-11-12T18:25:40.708Z",
   "hitCount": 1451,
   "records": [
     {
@@ -6402,15 +6402,6 @@
       "hash": "e61ef85efae15c3dcfb22a92d908612fc9e499c42e99cd26526b918fe1f4926f"
     },
     {
-      "id": "363292",
-      "number": "RFA-OH-27-044",
-      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "0f219ffc9f59b7a6302b593f0a9bb569f7c3604ef56ff95846ebf050c83becab"
-    },
-    {
       "id": "363290",
       "number": "RFA-OH-27-041",
       "title": "NIOSH Support for Conferences and Scientific Meetings (R13 Clinical Trial Not Allowed)",
@@ -6904,15 +6895,6 @@
       "openDate": "07/17/2026",
       "closeDate": "",
       "hash": "8945a89f85ab75af0a0f5b82bf6c9c80120fc4737a3fc09dbe1c7f919752c321"
-    },
-    {
-      "id": "363232",
-      "number": "RFA-OH-27-045",
-      "title": "NIOSH Miner Safety and Health Training Program - Western United States &ndash; U60",
-      "status": "forecasted",
-      "openDate": "07/17/2026",
-      "closeDate": "",
-      "hash": "139f034618d0c0b2ce5d363fa2b1e319c758c710639a906892e4527f9b89aa46"
     },
     {
       "id": "362014",
@@ -8337,15 +8319,6 @@
       "hash": "0f45fc7fc963087fd3cf22bf42076c40ec84c3b2ea886196243395be2a5b5fe6"
     },
     {
-      "id": "363289",
-      "number": "RFA-OH-27-032",
-      "title": "Occupational Safety and Health Research (R01)",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "b0da8975769b938da2fc2d96c029ae7b04bc776f8b8411c3a06fa12faf72166b"
-    },
-    {
       "id": "362077",
       "number": "CPD-2600-DC-0099",
       "title": "Preservation and Reinvestment Initiative for Community Enhancement (PRICE)",
@@ -8416,24 +8389,6 @@
       "openDate": "07/11/2025",
       "closeDate": "11/12/2026",
       "hash": "6fe97004de9e8dde10266e5870ef8fccb7719115dfd80bd3915747fe479d80fb"
-    },
-    {
-      "id": "363431",
-      "number": "RFA-OH-27-050",
-      "title": "State Occupational Safety and Health Surveillance Program (U60)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "e1e7410c4cb8326065b68f6af51db73fc719a150737459191cb8ce48165c5f69"
-    },
-    {
-      "id": "363417",
-      "number": "RFA-OH-27-054",
-      "title": "World Trade Center Youth Research Coordinating Center (U54)",
-      "status": "forecasted",
-      "openDate": "07/31/2026",
-      "closeDate": "",
-      "hash": "ae64ff39bf9e12f8682a994bb158943f99a18e49baf490444d0f9b6122e3c916"
     },
     {
       "id": "363412",
@@ -8803,15 +8758,6 @@
       "openDate": "07/28/2026",
       "closeDate": "",
       "hash": "d526b7d1ddd6d03847b1aa4aa569e77b45e65daa800e1f0bed28073bd511781d"
-    },
-    {
-      "id": "363369",
-      "number": "RFA-OH-27-049",
-      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
-      "status": "forecasted",
-      "openDate": "07/28/2026",
-      "closeDate": "",
-      "hash": "5af6b336f23d642616804b48a2d34c0ccac9a19052ec3c85be3a4b5247b24dd6"
     },
     {
       "id": "363356",
@@ -9802,15 +9748,6 @@
       "openDate": "05/14/2020",
       "closeDate": "10/05/2076",
       "hash": "8f45cba9b14d2bc577baa8e4759c0f358f41fe7815ff29ae52f0d09084fb3126"
-    },
-    {
-      "id": "364003",
-      "number": "UST-SIPPRA-2027-003",
-      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
-      "status": "forecasted",
-      "openDate": "10/07/2026",
-      "closeDate": "",
-      "hash": "7f7abf7bd6b36beaae9a4d5e1a64d9e533a9dab8b5f29db94b2407f21d65a476"
     },
     {
       "id": "361249",
@@ -11964,15 +11901,6 @@
       "hash": "b1ef1e0f80f8e87b87ade2c79c3a6fe97d35fdffd5df70a44a1670a4736906dd"
     },
     {
-      "id": "364142",
-      "number": "NOAA-NOS-MB-2027-33927",
-      "title": "FY 2026 - 2028 Broad Agency Announcement (BAA), National Ocean Service",
-      "status": "posted",
-      "openDate": "10/29/2026",
-      "closeDate": "09/30/2028",
-      "hash": "77eae3c6c9448427f6ef573e3e257ec6adbca7cfbf82cbd529af4f06fdbbf79f"
-    },
-    {
       "id": "364012",
       "number": "G27AS00164",
       "title": "WATER RESOURCES RESEARCH ACT PROGRAM NATIONAL COMPETITIVE GRANTS FY2026 (104g General)",
@@ -12459,15 +12387,6 @@
       "hash": "a7e60e2d48c01ad8b8031611f83801e7fde65f4a9fef33dce905bc9c262af1e8"
     },
     {
-      "id": "363637",
-      "number": "O-BJA-2026-172698",
-      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
-      "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "11/11/2026",
-      "hash": "c89a428195a9f27ea55a8dbe803ec98cfecbb82b225fc33be35f9056e1f4757d"
-    },
-    {
       "id": "364244",
       "number": "DHS-27-061-COE-SUPP",
       "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
@@ -12520,24 +12439,6 @@
       "openDate": "10/27/2026",
       "closeDate": "02/09/2027",
       "hash": "c847b0d56fcb1cc4bd2b487ef29db693fa878efa0b43a41ad67149e5b7aa0cc0"
-    },
-    {
-      "id": "364217",
-      "number": "PAR-27-014",
-      "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
-      "status": "posted",
-      "openDate": "11/04/2026",
-      "closeDate": "",
-      "hash": "a0c0783828dedc1e7653eb27aec5b59b88260e3dfdb54b3fbbe3de913881b62c"
-    },
-    {
-      "id": "364218",
-      "number": "PAR-27-010",
-      "title": "National Produce Safety Partnership Program",
-      "status": "posted",
-      "openDate": "11/04/2026",
-      "closeDate": "",
-      "hash": "430cf939e34e0a9b311e38efd461f6a0ee9eb974fb7550aac7174053469ae73b"
     },
     {
       "id": "364212",
@@ -12666,15 +12567,6 @@
       "hash": "0a32fd80b8323eb0698793e11019ae7c6016a6cb7343b34b69e1be2c394781e4"
     },
     {
-      "id": "363875",
-      "number": "RFA-MH-27-150",
-      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
-      "status": "forecasted",
-      "openDate": "09/16/2026",
-      "closeDate": "",
-      "hash": "b10440ec8f9bd72ebc743e4d3d043bd959fe43568c1ef324765c9ba6b4d80ffb"
-    },
-    {
       "id": "364187",
       "number": "G27AS00046",
       "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
@@ -12799,24 +12691,6 @@
       "openDate": "09/30/2026",
       "closeDate": "01/04/2027",
       "hash": "f3d4ab6bc828bd501ef204905e0ad06d9fd0073d063906b3597783423ea4256b"
-    },
-    {
-      "id": "364223",
-      "number": "PAR-27-017",
-      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
-      "status": "posted",
-      "openDate": "11/05/2026",
-      "closeDate": "",
-      "hash": "771c140717b422fd2def3b5994456c9a1819cc25de1ff434a2788afdbee37a14"
-    },
-    {
-      "id": "363281",
-      "number": "RFA-OH-27-048",
-      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
-      "status": "forecasted",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
     },
     {
       "id": "363450",
@@ -12999,22 +12873,40 @@
       "hash": "d510f1ad14188881355a055a696395f4981d6c365f020968c16695699ac6473b"
     },
     {
-      "id": "362551",
-      "number": "26-511",
-      "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
+      "id": "350230",
+      "number": "PD-24-1340",
+      "title": "Research in the Formation of Engineers (RFE)",
       "status": "posted",
-      "openDate": "05/22/2026",
-      "closeDate": "03/04/2027",
-      "hash": "ed0b254fc95def8bd417090d33093a8fb3d129719f9fcd2f90a811de7a678d74"
+      "openDate": "09/17/2023",
+      "closeDate": "11/10/2076",
+      "hash": "35bc1db2efb42494ceb9a8f996bc3c6a907a56b8a95f91956fec2f78d6da19cb"
     },
     {
-      "id": "356537",
-      "number": "PD-24-7791",
-      "title": "Infrastructure Cluster (AGS-IC)",
-      "status": "posted",
-      "openDate": "09/26/2024",
+      "id": "363292",
+      "number": "RFA-OH-27-044",
+      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
+      "status": "forecasted",
+      "openDate": "07/22/2026",
       "closeDate": "",
-      "hash": "4b55b16fc0d12f5a54ca35490fc7267619cfddc1ebede3b09c6996b4f65ec45c"
+      "hash": "0f219ffc9f59b7a6302b593f0a9bb569f7c3604ef56ff95846ebf050c83becab"
+    },
+    {
+      "id": "353413",
+      "number": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "status": "posted",
+      "openDate": "04/05/2024",
+      "closeDate": "04/13/2027",
+      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
+    },
+    {
+      "id": "364252",
+      "number": "RFA-DA-28-009",
+      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
+      "status": "forecasted",
+      "openDate": "11/10/2026",
+      "closeDate": "",
+      "hash": "386afd6cbf55e88f4b8487468781d98408c4e3d888e9b3e54a70f83a1ddf824e"
     },
     {
       "id": "364251",
@@ -13035,31 +12927,139 @@
       "hash": "05772e45347e6504e21494ebbef0e8d3b62b2864952720c35c97327b1a919933"
     },
     {
-      "id": "350230",
-      "number": "PD-24-1340",
-      "title": "Research in the Formation of Engineers (RFE)",
+      "id": "364253",
+      "number": "NEAPS2604",
+      "title": "US-Greece &amp; US-UK Artist Exchange, FY 2027",
       "status": "posted",
-      "openDate": "09/17/2023",
-      "closeDate": "11/10/2076",
-      "hash": "35bc1db2efb42494ceb9a8f996bc3c6a907a56b8a95f91956fec2f78d6da19cb"
+      "openDate": "11/12/2026",
+      "closeDate": "12/14/2026",
+      "hash": "7731412031adf4cbf5f84d657e14a25aa95f85ec01aea6ee8ca2d32ca5cfeccc"
     },
     {
-      "id": "364252",
-      "number": "RFA-DA-28-009",
-      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
+      "id": "363875",
+      "number": "RFA-MH-27-150",
+      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
+      "status": "posted",
+      "openDate": "11/12/2026",
+      "closeDate": "06/10/2027",
+      "hash": "28e4f692c4b88a878cf8d5910903ff42814dac841da77c96f60bea46c14244c5"
+    },
+    {
+      "id": "363289",
+      "number": "RFA-OH-27-032",
+      "title": "Occupational Safety and Health Research (R01)",
       "status": "forecasted",
-      "openDate": "11/10/2026",
+      "openDate": "07/22/2026",
       "closeDate": "",
-      "hash": "386afd6cbf55e88f4b8487468781d98408c4e3d888e9b3e54a70f83a1ddf824e"
+      "hash": "b0da8975769b938da2fc2d96c029ae7b04bc776f8b8411c3a06fa12faf72166b"
     },
     {
-      "id": "353413",
-      "number": "24-564",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "id": "363417",
+      "number": "RFA-OH-27-054",
+      "title": "World Trade Center Youth Research Coordinating Center (U54)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "ae64ff39bf9e12f8682a994bb158943f99a18e49baf490444d0f9b6122e3c916"
+    },
+    {
+      "id": "363431",
+      "number": "RFA-OH-27-050",
+      "title": "State Occupational Safety and Health Surveillance Program (U60)",
+      "status": "forecasted",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "hash": "e1e7410c4cb8326065b68f6af51db73fc719a150737459191cb8ce48165c5f69"
+    },
+    {
+      "id": "363369",
+      "number": "RFA-OH-27-049",
+      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
+      "status": "forecasted",
+      "openDate": "07/28/2026",
+      "closeDate": "",
+      "hash": "5af6b336f23d642616804b48a2d34c0ccac9a19052ec3c85be3a4b5247b24dd6"
+    },
+    {
+      "id": "363281",
+      "number": "RFA-OH-27-048",
+      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
+      "status": "forecasted",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "hash": "6db9e160040f52248e51d09c2408d741f4c0b2cfbbe3f3dcb9e279c882112ca8"
+    },
+    {
+      "id": "363232",
+      "number": "RFA-OH-27-045",
+      "title": "NIOSH Miner Safety and Health Training Program - Western United States &ndash; U60",
+      "status": "forecasted",
+      "openDate": "07/17/2026",
+      "closeDate": "",
+      "hash": "139f034618d0c0b2ce5d363fa2b1e319c758c710639a906892e4527f9b89aa46"
+    },
+    {
+      "id": "364003",
+      "number": "UST-SIPPRA-2027-003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
       "status": "posted",
-      "openDate": "04/05/2024",
-      "closeDate": "04/13/2027",
-      "hash": "cbc922725e94913cdebb476dfb13252cc524a114ecc45740d5085a653b179101"
+      "openDate": "11/12/2026",
+      "closeDate": "04/06/2027",
+      "hash": "4a32e600da2736c23ffbcaad5a1bfe7c2eb7876cfdbdfd8aba251b5adb4f0691"
+    },
+    {
+      "id": "364217",
+      "number": "PAR-27-014",
+      "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "",
+      "hash": "a0c0783828dedc1e7653eb27aec5b59b88260e3dfdb54b3fbbe3de913881b62c"
+    },
+    {
+      "id": "364223",
+      "number": "PAR-27-017",
+      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "hash": "771c140717b422fd2def3b5994456c9a1819cc25de1ff434a2788afdbee37a14"
+    },
+    {
+      "id": "364218",
+      "number": "PAR-27-010",
+      "title": "National Produce Safety Partnership Program",
+      "status": "posted",
+      "openDate": "11/04/2026",
+      "closeDate": "",
+      "hash": "430cf939e34e0a9b311e38efd461f6a0ee9eb974fb7550aac7174053469ae73b"
+    },
+    {
+      "id": "364142",
+      "number": "NOAA-NOS-MB-2027-33927",
+      "title": "FY 2026 - 2028 Broad Agency Announcement (BAA), National Ocean Service",
+      "status": "posted",
+      "openDate": "10/29/2026",
+      "closeDate": "09/30/2028",
+      "hash": "77eae3c6c9448427f6ef573e3e257ec6adbca7cfbf82cbd529af4f06fdbbf79f"
+    },
+    {
+      "id": "362551",
+      "number": "26-511",
+      "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
+      "status": "posted",
+      "openDate": "05/22/2026",
+      "closeDate": "03/04/2027",
+      "hash": "ed0b254fc95def8bd417090d33093a8fb3d129719f9fcd2f90a811de7a678d74"
+    },
+    {
+      "id": "364255",
+      "number": "26-510",
+      "title": "Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: Developing Deep Technologies that Advance U.S. Competitiveness and Security",
+      "status": "posted",
+      "openDate": "11/12/2026",
+      "closeDate": "03/04/2027",
+      "hash": "64f178822d9f127a2e18780716b22240b9aa7551fc7fa44a029e781276d159bc"
     }
   ]
 }
