@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T16:39:19.407Z",
-  "hitCount": 1428,
+  "updatedAt": "2026-11-15T17:20:22.302Z",
+  "hitCount": 1415,
   "records": [
     {
       "id": "355824",
@@ -10038,33 +10038,6 @@
       "hash": "f2a36abb9c62f938c7eaa0212cfe4fafa167d81c59275458b4af8f53fa2e7063"
     },
     {
-      "id": "364077",
-      "number": "G27AS00049",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "ccfeab16d10a5828d411f2738409bf23e361b7086eeb0c6a108c138912d98117"
-    },
-    {
-      "id": "364082",
-      "number": "G27AS00072",
-      "title": "Cooperative Agreement for Affiliated Partner with the Rocky Mountains Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "85732cd0101fbce7290a35f78bfec9cc752a6c7d3d258e65a64736d022a2854c"
-    },
-    {
-      "id": "364085",
-      "number": "G27AS00077",
-      "title": "Cooperative Agreement for Affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "825d73e8b6725aaf84e5232010dcb7e3ec48328131e6a5cd089bd4ad654c8ced"
-    },
-    {
       "id": "334326",
       "number": "21-595",
       "title": "Tribal Colleges and Universities Program (TCUP)",
@@ -10128,24 +10101,6 @@
       "hash": "bd6e65ed3295a66611d9e9fbd9b881951c10bb516676272c1be8968740c28e33"
     },
     {
-      "id": "364079",
-      "number": "G27AS00042",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "5c4903e052c464f205c72cd6ebc9c37c566377674bd46b2fbb3322b3dc7aa62f"
-    },
-    {
-      "id": "364083",
-      "number": "G27AS00073",
-      "title": "Cooperative Agreement for Affiliated Partner with the Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "003d4ec2e49e3c1331ffad34b0b2dded872c4868a90401a46927233a12ddcb52"
-    },
-    {
       "id": "344634",
       "number": "PD-22-1332",
       "title": "Social Psychology",
@@ -10189,15 +10144,6 @@
       "openDate": "03/06/2009",
       "closeDate": "10/15/2076",
       "hash": "a9b337098eac6eac17789bf20c572012c02d1d1c18641f0ae9716085b06e6a82"
-    },
-    {
-      "id": "364084",
-      "number": "G27AS00074",
-      "title": "Cooperative Agreement for Affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "ec689b1fec52cf726bbd61e087284875d49088e0c88908c315948bc94ac330e3"
     },
     {
       "id": "350561",
@@ -10531,15 +10477,6 @@
       "openDate": "08/21/2026",
       "closeDate": "10/27/2076",
       "hash": "cccda55a492db9513ab14f822534edcc3f9be7ac70133c5c530e87a202df4366"
-    },
-    {
-      "id": "364074",
-      "number": "G27AS00037",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "35c78e2c3ad6855f1d2e7513a106e6351ff58ebea6b177f9fd79e3121d23ca3e"
     },
     {
       "id": "363392",
@@ -11532,15 +11469,6 @@
       "hash": "25aa5c113a6ffbf7769ce053713d6157cfb50d43252845cf0362e14fe7f21ae3"
     },
     {
-      "id": "364075",
-      "number": "G27AS00079",
-      "title": "Cooperative Agreement for Affiliated Partner with the Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "240b1a951de940f6ef1e944bcb1e3f62a6a5afb01e3c1e3708590859b1055423"
-    },
-    {
       "id": "364069",
       "number": "NOAA-NESDIS-NESDISPO-2027-33921",
       "title": "FY 2027-2028 NESDIS Broad Agency Announcement (BAA)",
@@ -11548,15 +11476,6 @@
       "openDate": "10/13/2026",
       "closeDate": "09/30/2028",
       "hash": "1eaa8ee840374ffa281f70216146715489bde21a2df54654e3107383cb637e91"
-    },
-    {
-      "id": "364076",
-      "number": "G27AS00048",
-      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "54a757dc39118a1af00b6f295dea2ab3cb232baff09b0de8ff01e79c56e29dea"
     },
     {
       "id": "364066",
@@ -11611,33 +11530,6 @@
       "openDate": "10/14/2026",
       "closeDate": "09/26/2029",
       "hash": "0635baab0772dd939620a2d1056e9d864185959dcc84d69f6d99af2c262e119e"
-    },
-    {
-      "id": "364078",
-      "number": "G27AS00052",
-      "title": "Cooperative Agreement for affiliated Partner with Northern Great Plains Cooperative Ecosystem Studies Unit",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "b877f2087d1b80ba9ecd1032f59704bda7059e6eb162075738454e28f14a1ca0"
-    },
-    {
-      "id": "364081",
-      "number": "G27AS00078",
-      "title": "Cooperative Agreement for Affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "d4ff728dd8bb12dc5e1227b9c885a3977a4bf50ccb26b2058a7881dbf41e5c5d"
-    },
-    {
-      "id": "364080",
-      "number": "G27AS00080",
-      "title": "Cooperative Agreement for Affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit (CESU)",
-      "status": "posted",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "hash": "30bd833250afc8293e18291102a0838cc5fa7006f4984f0b040f0a36003bed52"
     },
     {
       "id": "350338",
@@ -12781,15 +12673,6 @@
       "openDate": "10/05/2026",
       "closeDate": "12/07/2026",
       "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
-    },
-    {
-      "id": "363296",
-      "number": "O-BJA-2026-172661",
-      "title": "BJA FY 2026 Daniel Anderl Judicial Security and Privacy Program",
-      "status": "posted",
-      "openDate": "07/23/2026",
-      "closeDate": "11/14/2026",
-      "hash": "f9c4da2923d16c6bcdb8c200f73376e3209843618eb19dedc43abd6f4514460e"
     },
     {
       "id": "363660",
