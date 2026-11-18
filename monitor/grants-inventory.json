@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T19:15:32.512Z",
-  "hitCount": 1401,
+  "updatedAt": "2026-11-18T18:55:03.423Z",
+  "hitCount": 1396,
   "records": [
     {
       "id": "355824",
@@ -28,24 +28,6 @@
       "openDate": "08/01/2024",
       "closeDate": "",
       "hash": "fb78ff53ca48f38a27627bbcafc74b00e59ec8c0c53ad7ca9e87a711949e9df6"
-    },
-    {
-      "id": "357305",
-      "number": "PAR-25-274",
-      "title": "Feasibility Clinical Trials of Mind and Body Interventions for NCCIH High Priority Research Topics (R34 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "hash": "024409ac816333340a6e6ddeefa2652c561591aeec982bc4f10578381b2242bf"
-    },
-    {
-      "id": "357303",
-      "number": "PAR-25-268",
-      "title": "Investigator Initiated Clinical Trials of Complementary and Integrative Interventions Delivered Remotely or via mHealth (R01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "hash": "74ca1a7e235469d573b4fb44103c14f2753ff679e757c8c5128f5a8f97c95416"
     },
     {
       "id": "356893",
@@ -1396,15 +1378,6 @@
       "openDate": "12/22/2022",
       "closeDate": "12/31/2027",
       "hash": "b43a611635a666a0bf8b6807dd8dafbcd3c9ad23231e964ed064d1d36e08fe07"
-    },
-    {
-      "id": "357301",
-      "number": "PAR-25-267",
-      "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "hash": "d580e45bee51cfca1885fb6e4a98d2823161f838548d4e1879ed64ad74d18249"
     },
     {
       "id": "357307",
@@ -3124,15 +3097,6 @@
       "openDate": "08/15/2024",
       "closeDate": "",
       "hash": "95c1debbc590e660bd7f6a312f0a6d5a7459999fbbb414d4678754211b6702ff"
-    },
-    {
-      "id": "357375",
-      "number": "PAR-25-158",
-      "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R61/R33 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/25/2024",
-      "closeDate": "11/17/2026",
-      "hash": "99fc2dfabcfcc064ae844a77cfd806a42dd7a743e4803e9b332844cc49ba598b"
     },
     {
       "id": "357340",
@@ -5311,15 +5275,6 @@
       "openDate": "05/28/2026",
       "closeDate": "07/16/2029",
       "hash": "83523da0d6e2d2df3930a5e9401899c971bf1c384e173d12ae82cb2e27ba2e16"
-    },
-    {
-      "id": "357205",
-      "number": "PAR-25-096",
-      "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "11/18/2024",
-      "closeDate": "11/17/2026",
-      "hash": "c08845d85191e717e266588010e343313557ed8cc41a6e992476077709468c2d"
     },
     {
       "id": "362597",
@@ -9363,24 +9318,6 @@
       "hash": "2b5b9d709d3f8d086d867dca038b67ce70ead3b180a30d042231a835c4466ee8"
     },
     {
-      "id": "362843",
-      "number": "2026-NTIA-TBCP",
-      "title": "Tribal Broadband Connectivity Program",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/17/2026",
-      "hash": "7b4f9ce02c54e8f3d31a196793c9eab3706993ef60403ed448f074c0a1486e0e"
-    },
-    {
-      "id": "362842",
-      "number": "2026-NTIA-NEGP",
-      "title": "Native Entities Grant Program",
-      "status": "posted",
-      "openDate": "06/17/2026",
-      "closeDate": "11/17/2026",
-      "hash": "88cfee5e0b90007d26b7e9bc50bc04cd4121ba81a301a68d1aa1bf0677291c9c"
-    },
-    {
       "id": "364022",
       "number": "PDR-2700-DC-0054",
       "title": "Distressed Cities Technical Assistance (DCTA) Program for Fiscal Years 2026 and 2027",
@@ -9802,15 +9739,6 @@
       "openDate": "10/15/2026",
       "closeDate": "02/11/2027",
       "hash": "f5b7a2a5bf336570d14a9382786db37ba9fe72e00994404d8717832254295316"
-    },
-    {
-      "id": "360627",
-      "number": "RFA-DK-27-122",
-      "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
-      "status": "posted",
-      "openDate": "10/15/2026",
-      "closeDate": "11/17/2026",
-      "hash": "bd6e65ed3295a66611d9e9fbd9b881951c10bb516676272c1be8968740c28e33"
     },
     {
       "id": "344634",
@@ -10335,15 +10263,6 @@
       "hash": "da0fe7595ceec05faf8e859c42fd731fdb3e15e46d7ce67b021d58475b9a1c5b"
     },
     {
-      "id": "364020",
-      "number": "USDA-NIFA-SBIR-012221",
-      "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
-      "status": "posted",
-      "openDate": "10/01/2026",
-      "closeDate": "11/17/2026",
-      "hash": "a852340740eb8df906b716c1197c72f897d9587f7138802f76f09edd53cb9364"
-    },
-    {
       "id": "364124",
       "number": "DHS-26-MT-029-000-98",
       "title": "Fiscal Year 2026 Flood Mitigation Assistance",
@@ -10776,33 +10695,6 @@
       "hash": "8ecfc88256888a77100a09a3773f4d5ff3656e5bec2c0de6ca0a14d6fc628691"
     },
     {
-      "id": "364171",
-      "number": "FM-CCFP-27-001",
-      "title": "FY 2027 Crash Causal Factors Program",
-      "status": "posted",
-      "openDate": "10/29/2026",
-      "closeDate": "12/28/2026",
-      "hash": "8985b736b55425460abef4af8cd1281d50d6348bf43546b690525021f5575815"
-    },
-    {
-      "id": "364169",
-      "number": "GR-RDC-26-002",
-      "title": "RESTORE Act Direct Component - Non-Construction Activities",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "10/31/2027",
-      "hash": "23b080173eb916a8da97f316e8af7c9409bc32104a87709c0a8a387fe350b411"
-    },
-    {
-      "id": "364170",
-      "number": "GR-RCE-26-001",
-      "title": "RESTORE Act Centers of Excellence Research Grants Program",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "10/31/2027",
-      "hash": "5865b0a9e987cd059d2abcd1157f1c6558f486fab9521e41690398b42b2834dc"
-    },
-    {
       "id": "364153",
       "number": "HHS-2027-ACL-AOD-DNDP-0016",
       "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
@@ -10828,24 +10720,6 @@
       "openDate": "10/29/2026",
       "closeDate": "01/08/2027",
       "hash": "d9cd5a829f05c4c6458ba34a4048151a2aa07b87b614d9a2a2cfd3df66eaa158"
-    },
-    {
-      "id": "364145",
-      "number": "USDA-FS-2026-LSR-TRIBAL",
-      "title": "Landscape Scale Restoration Grant Program for Tribes",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "hash": "b7fa5bbf1e39d5e7c30a3cd4466f951169fbe5397b3a35955c4c504c6d06a36b"
-    },
-    {
-      "id": "364144",
-      "number": "USDA-FS-2026-LSR",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "hash": "cc12159de01b076d644d9e9bf8dc551bb1f5d975223724cfb8208d17d06637a2"
     },
     {
       "id": "358954",
@@ -11224,15 +11098,6 @@
       "openDate": "09/01/2026",
       "closeDate": "12/04/2026",
       "hash": "34c960bf063b085673fa973b33044736e61f05c2978b775f095b15ad735c73f0"
-    },
-    {
-      "id": "364197",
-      "number": "O-BJA-2026-172812",
-      "title": "OJP FY 2026 Special Attorneys Program Round 11",
-      "status": "posted",
-      "openDate": "11/02/2026",
-      "closeDate": "11/17/2026",
-      "hash": "0590642cabd0847caf1fe1d1db94b0343960040f34530d20827d68636a06ef04"
     },
     {
       "id": "364188",
@@ -12081,15 +11946,6 @@
       "hash": "2b75f2863f9dad6f7eb08aee3f5504ef882fb5c05f3a0fa01f7af1da8f62a669"
     },
     {
-      "id": "364240",
-      "number": "DFOP0019913",
-      "title": "Strengthening Moldova&rsquo;s Energy and Trade Security",
-      "status": "posted",
-      "openDate": "11/06/2026",
-      "closeDate": "12/06/2026",
-      "hash": "db0e8e1f04bac5fa4d303556b4a2a3f169f57a794f045e57dc1f7206c84ccdd9"
-    },
-    {
       "id": "357813",
       "number": "PA-25-305",
       "title": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
@@ -12576,6 +12432,87 @@
       "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
     },
     {
+      "id": "364278",
+      "number": "G27AS00170",
+      "title": "WATER RESOURCES RESEARCH ACT PROGRAM ANNUAL BASE GRANTS",
+      "status": "posted",
+      "openDate": "11/17/2026",
+      "closeDate": "12/30/2026",
+      "hash": "34a5eb723f8d373ab048b29eff4406bbc30c9ca5eb0dd4d9e23972c38abde5db"
+    },
+    {
+      "id": "364240",
+      "number": "DFOP0019913",
+      "title": "Strengthening Moldova&rsquo;s Energy and Trade Security",
+      "status": "posted",
+      "openDate": "11/06/2026",
+      "closeDate": "12/06/2026",
+      "hash": "db0e8e1f04bac5fa4d303556b4a2a3f169f57a794f045e57dc1f7206c84ccdd9"
+    },
+    {
+      "id": "364277",
+      "number": "FHWA-CRPP-27-001",
+      "title": "Fiscal Years 2025 and 2026 Congestion Relief Program",
+      "status": "posted",
+      "openDate": "11/17/2026",
+      "closeDate": "12/17/2026",
+      "hash": "5b44c90122d16c3520427ab0a183b734e42fdc95c291927768237f76d614ab83"
+    },
+    {
+      "id": "356561",
+      "number": "GR-RDC-25-002",
+      "title": "RESTORE Act Direct Component - Non-Construction Activities",
+      "status": "posted",
+      "openDate": "09/26/2024",
+      "closeDate": "10/31/2027",
+      "hash": "fdb14a82cc0b8279c864cf2be25896e57fc350b7789297d7b7d408e4cb69c329"
+    },
+    {
+      "id": "356559",
+      "number": "GR-RCE-25-001",
+      "title": "RESTORE Act Centers of Excellence Research Grants Program",
+      "status": "posted",
+      "openDate": "09/26/2024",
+      "closeDate": "10/31/2027",
+      "hash": "384e63553dc5a33ed82511712a0a8735895454a39bd4fa027fdd4d60e84e8c54"
+    },
+    {
+      "id": "364276",
+      "number": "27PR30C1",
+      "title": "Evidence-Informed Practices in the Management of Women&rsquo;s Prisons",
+      "status": "posted",
+      "openDate": "11/17/2026",
+      "closeDate": "12/16/2026",
+      "hash": "72239cd911b7637bcb7e382525cc0cd4e54c17abb0526fdf997da7adfac4c915"
+    },
+    {
+      "id": "364279",
+      "number": "RFA-DK-28-117",
+      "title": "Single Source Competition for Biostatistical and Coordinating Center Renewal of the NIDDK CLEAR Study Consortium (Closed-Loop and Education for Hypoglycemia Awareness Restoration) (U24- Resource-Related Research Project, Cooperative Agreements)",
+      "status": "forecasted",
+      "openDate": "11/18/2026",
+      "closeDate": "",
+      "hash": "3797fdfa5c59b6eb671424976e534d8351e609b337a32a29adbf028249d3a99b"
+    },
+    {
+      "id": "363913",
+      "number": "O-BJA-2026-172709",
+      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
+      "status": "posted",
+      "openDate": "09/21/2026",
+      "closeDate": "11/18/2026",
+      "hash": "d187a1c0e0a0c582185bd1882e75e5c16992b59fd3c52ecb087594d215f52712"
+    },
+    {
+      "id": "356562",
+      "number": "GR-RDC-25-001",
+      "title": "RESTORE Act Direct Component &ndash; Construction and Real Property Acquisition Activities",
+      "status": "posted",
+      "openDate": "09/26/2024",
+      "closeDate": "10/31/2027",
+      "hash": "95ea6a33c762f7cf65d4ca256fc0a350864f008c7e9a5e9fdd311734f17c60d9"
+    },
+    {
       "id": "364213",
       "number": "DOW2027APEXACCELERATORCLOSED",
       "title": "APEX Accelerator-Option Period for Existing Award Recipients",
@@ -12594,22 +12531,40 @@
       "hash": "4cf5a34ba84416c94cabe2b6ab2811a5ad444d90e2c16586777e6a0aa1f98e3a"
     },
     {
-      "id": "364277",
-      "number": "FHWA-CRPP-27-001",
-      "title": "Fiscal Years 2025 and 2026 Congestion Relief Program",
+      "id": "364171",
+      "number": "FM-CCFP-27-001",
+      "title": "FY 2027 Crash Causal Factors Program",
       "status": "posted",
-      "openDate": "11/17/2026",
-      "closeDate": "12/17/2026",
-      "hash": "5b44c90122d16c3520427ab0a183b734e42fdc95c291927768237f76d614ab83"
+      "openDate": "10/29/2026",
+      "closeDate": "12/28/2026",
+      "hash": "8985b736b55425460abef4af8cd1281d50d6348bf43546b690525021f5575815"
     },
     {
-      "id": "364276",
-      "number": "27PR30C1",
-      "title": "Evidence-Informed Practices in the Management of Women&rsquo;s Prisons",
+      "id": "364280",
+      "number": "NNH25ZDA001N-USCAPS",
+      "title": "ROSES 2025: D.11 U.S. Contributions to Ariel Preparatory Science",
       "status": "posted",
-      "openDate": "11/17/2026",
-      "closeDate": "12/16/2026",
-      "hash": "72239cd911b7637bcb7e382525cc0cd4e54c17abb0526fdf997da7adfac4c915"
+      "openDate": "11/18/2026",
+      "closeDate": "02/18/2027",
+      "hash": "91ceb150203b34f63b7fc2f8ac4afe23cdb5d56dc6630b1316d53b1bbc45dbeb"
+    },
+    {
+      "id": "364145",
+      "number": "USDA-FS-2026-LSR-TRIBAL",
+      "title": "Landscape Scale Restoration Grant Program for Tribes",
+      "status": "posted",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "hash": "b7fa5bbf1e39d5e7c30a3cd4466f951169fbe5397b3a35955c4c504c6d06a36b"
+    },
+    {
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "status": "posted",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "hash": "cc12159de01b076d644d9e9bf8dc551bb1f5d975223724cfb8208d17d06637a2"
     }
   ]
 }
