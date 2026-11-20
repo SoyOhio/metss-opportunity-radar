@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T19:03:31.270Z",
-  "hitCount": 1388,
+  "updatedAt": "2026-11-20T18:40:45.529Z",
+  "hitCount": 1383,
   "records": [
     {
       "id": "355824",
@@ -1288,15 +1288,6 @@
       "openDate": "11/05/2024",
       "closeDate": "10/25/2027",
       "hash": "4146a41eabf816b242a83d5964395e40d3df8dda6df4da0cad393fec3a62b313"
-    },
-    {
-      "id": "357256",
-      "number": "PAR-25-052",
-      "title": "NIH StrokeNet Clinical Trials and Biomarker Studies for Stroke Treatment, Recovery, and Prevention (UG3/UH3 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/20/2024",
-      "closeDate": "11/19/2026",
-      "hash": "6645305a55ec01c521bc3004fe2a4e7cd3ebdc357df8ce7ba9d92d04cb15285f"
     },
     {
       "id": "356517",
@@ -3747,15 +3738,6 @@
       "hash": "895253288db67cf788e0c21fa2bc7630828faefd12a6eef335b815c89fd873c1"
     },
     {
-      "id": "357343",
-      "number": "PAR-25-226",
-      "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
-      "status": "posted",
-      "openDate": "11/22/2024",
-      "closeDate": "11/19/2026",
-      "hash": "5a7cb6b1870695e7964cd4e30f25b5d28b84cd4669173505b0b0b97077c0e495"
-    },
-    {
       "id": "355987",
       "number": "PAR-24-260",
       "title": "Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) (R24 - Clinical Trial Not Allowed)",
@@ -5430,15 +5412,6 @@
       "hash": "55f3e1afeefe8fd08d13fb15eccc2dc8d0ffe462b0dd435d04122c38009611c9"
     },
     {
-      "id": "361821",
-      "number": "RFA-AI-28-004",
-      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units",
-      "status": "forecasted",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "hash": "59433b055aea868d3f312f9b1b2e9eb63d026df8d54702be202a5a88c06ca64c"
-    },
-    {
       "id": "351947",
       "number": "24-529",
       "title": "Innovations in Graduate Education (IGE) Program",
@@ -5446,33 +5419,6 @@
       "openDate": "01/24/2024",
       "closeDate": "03/25/2027",
       "hash": "1179935e9904683192c14471a0dec7626a124831b8850a11bf7183715547d29e"
-    },
-    {
-      "id": "361815",
-      "number": "RFA-AI-28-001",
-      "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers",
-      "status": "forecasted",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "hash": "ec829b4d12b9778aca0daa5a58b0a16c7aed405e1626857197d08c3e19be1502"
-    },
-    {
-      "id": "361820",
-      "number": "RFA-AI-28-002",
-      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers",
-      "status": "forecasted",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "hash": "1f2bf2010034d8e897ad9a003bedc01cb507b417ae4b52e71657c5f258c828a0"
-    },
-    {
-      "id": "361816",
-      "number": "RFA-AI-28-003",
-      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers",
-      "status": "forecasted",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "hash": "74d4a8edeec26fd6a9820d6e93ae9ea6c3011320e73f2797e5994adc45f5ba26"
     },
     {
       "id": "361831",
@@ -6861,15 +6807,6 @@
       "hash": "c68c94a1af4d13b577660495751f14ac6b454c1f6185446b11c4bdddd7c9f854"
     },
     {
-      "id": "339594",
-      "number": "22-586",
-      "title": "Faculty Early Career Development Program (CAREER)",
-      "status": "posted",
-      "openDate": "04/19/2022",
-      "closeDate": "07/28/2027",
-      "hash": "3eddd50383b9b986b9386d034a869322b1d7e8424a0a7eeae972d75de3737d4c"
-    },
-    {
       "id": "363860",
       "number": "RFA-RM-28-017",
       "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Experimental and Computational Technology Development (RM1 Clinical Trial Not Allowed)",
@@ -7626,15 +7563,6 @@
       "hash": "d4d59997c1c77c48cbafa7e59426265f7675454a1384bf0e2ed29cb3b42eda70"
     },
     {
-      "id": "362302",
-      "number": "HT942526TERPCTA",
-      "title": "DoW Toxic Exposures Clinical Trial Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "hash": "3f0d6fbcb31bfd04ebd89cff18a44a76ce79d830b88ae84be2dea040b2722536"
-    },
-    {
       "id": "327763",
       "number": "W81XWH-21-NFRP-OUTREACH",
       "title": "NFRP Outreach and Invitation for Response",
@@ -7732,24 +7660,6 @@
       "openDate": "09/19/2022",
       "closeDate": "09/18/2027",
       "hash": "b4becae8e366fdc271bbfd88568452a636e4eec7ac4db98ffcf4e2b73ffaf579"
-    },
-    {
-      "id": "362304",
-      "number": "HT942526TERPIIRA",
-      "title": "DoW Toxic Exposures Investigator Initiated Research Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "hash": "a37dbe43d97b0abe1b0e03f10e31e6dc2b38938ef2a97f87ec1572ba5c7b4804"
-    },
-    {
-      "id": "362305",
-      "number": "HT942526TERPTRA",
-      "title": "DoW Toxic Exposures Translational Research Award",
-      "status": "posted",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "hash": "6fe189af158f1acfedb4b68cdd542289a4a5fed1dc4d11ddbeddfb055f7c22d1"
     },
     {
       "id": "363142",
@@ -10164,15 +10074,6 @@
       "hash": "7516a00a3f3b1386b47f48d6cb3508153f5a6046de2ed85ea013dc96ed7fc5ff"
     },
     {
-      "id": "364047",
-      "number": "OFOP0003897",
-      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/19/2026",
-      "hash": "d20d2da3041e699c0cab4e1862a767180417e543d53710fa444dfff400a64c26"
-    },
-    {
       "id": "363747",
       "number": "NNH25ZDA001N-TCAN",
       "title": "ROSES 2025: D.4 Theoretical and Computational Astrophysics Networks",
@@ -10306,15 +10207,6 @@
       "openDate": "10/20/2026",
       "closeDate": "01/29/2027",
       "hash": "ddc6eec25f4429295e3849a56fa73db199ff0a586f58d08baeb6bd95334e75ef"
-    },
-    {
-      "id": "363920",
-      "number": "USDA-NHQ-ACEP-26-NOFO0001456",
-      "title": "Easement Restoration and Stewardship",
-      "status": "posted",
-      "openDate": "09/25/2026",
-      "closeDate": "11/19/2026",
-      "hash": "7526868f6c09275cee76bdda44992aecf31182d30cb234a2a539ea4c14f2a1b9"
     },
     {
       "id": "361207",
@@ -10954,15 +10846,6 @@
       "openDate": "11/03/2026",
       "closeDate": "02/01/2027",
       "hash": "115d0782a46f99b6c1ccda4a263f509c4d89bdfd5a175a05ce348fb13beb645b"
-    },
-    {
-      "id": "364172",
-      "number": "FA955027S0001",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "status": "posted",
-      "openDate": "10/29/2026",
-      "closeDate": "04/02/2027",
-      "hash": "d21d3fe3bb13b0d5e91cc229700ea3a852a7196eb3ba502322f25887eac0831c"
     },
     {
       "id": "364196",
@@ -12315,13 +12198,85 @@
       "hash": "905602a8dd938d4e412ae73c6f64e72f95e1a5641259e3d445c1a9a5528af087"
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "id": "364008",
+      "number": "W911NF-27-R-A001",
+      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
       "status": "posted",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "hash": "269cf1ad7db4253d5f5c739eb4b4999279f2e729f4a53804eb87cbb7637d2fd0"
+      "openDate": "09/30/2026",
+      "closeDate": "12/17/2026",
+      "hash": "93a95675be559b2e0489ce3160dc3e18dea6466d473482abcdac443d45d853c8"
+    },
+    {
+      "id": "364161",
+      "number": "DFOP0019982",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "status": "posted",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
+      "hash": "5b7d0b12ba2a8d45e29862774325e1d932718042c19af9cf4a61f813daed4b81"
+    },
+    {
+      "id": "364162",
+      "number": "DFOP0019970",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "status": "posted",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
+      "hash": "de32c662032a1c826519c8b459fd7a6d2fd815718a2dd6b75e01462c64a28343"
+    },
+    {
+      "id": "364003",
+      "number": "UST-SIPPRA-2027-003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
+      "status": "posted",
+      "openDate": "11/12/2026",
+      "closeDate": "04/06/2027",
+      "hash": "4a32e600da2736c23ffbcaad5a1bfe7c2eb7876cfdbdfd8aba251b5adb4f0691"
+    },
+    {
+      "id": "364291",
+      "number": "EPA-OA-OASES-26-10",
+      "title": "Addressing Uncertainties in the Evidence for Health Effects of Lower Air Pollution Exposures",
+      "status": "posted",
+      "openDate": "11/19/2026",
+      "closeDate": "01/20/2027",
+      "hash": "e644dfda6f63b073c552e24c39a0261a5cf8a6d97f7062d625daf9af4eb0d19a"
+    },
+    {
+      "id": "364290",
+      "number": "EPA-OA-OASES-26-09",
+      "title": "Research for PFAS Destruction in Environmental Media",
+      "status": "posted",
+      "openDate": "11/19/2026",
+      "closeDate": "01/20/2027",
+      "hash": "b2befb1142a4eb11a4cf17f6453e6db3dd86ffc38b76c9eefff222c9b3d7dc2b"
+    },
+    {
+      "id": "363615",
+      "number": "26-517",
+      "title": "Core Research in Biological Sciences (BIO Core)",
+      "status": "posted",
+      "openDate": "08/17/2026",
+      "closeDate": "11/18/2076",
+      "hash": "ef211b3ef5f07894080160cd773d7d99f362d5e139442a6195ea5218fc8980d8"
+    },
+    {
+      "id": "364105",
+      "number": "IVV-FT-OPP-10172026141319",
+      "title": "IVV-FT-OPP-10172026141319",
+      "status": "posted",
+      "openDate": "10/17/2026",
+      "closeDate": "10/17/2027",
+      "hash": "9965c955e9f9d1ed6681269bbc18c785f9f5e6054bf825281aa81a82d79831b0"
+    },
+    {
+      "id": "364292",
+      "number": "IVV-FT-OPP-11192026112006",
+      "title": "IVV-FT-OPP-11192026112006",
+      "status": "posted",
+      "openDate": "11/19/2026",
+      "closeDate": "11/19/2027",
+      "hash": "ee7844ecd9bff547649480f0d5d7a551ec5740d35b5b1d2eabfdadf8ec75a971"
     },
     {
       "id": "364278",
@@ -12405,76 +12360,58 @@
       "hash": "4cf5a34ba84416c94cabe2b6ab2811a5ad444d90e2c16586777e6a0aa1f98e3a"
     },
     {
-      "id": "363615",
-      "number": "26-517",
-      "title": "Core Research in Biological Sciences (BIO Core)",
+      "id": "364172",
+      "number": "FA955027S0001",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
       "status": "posted",
-      "openDate": "08/17/2026",
-      "closeDate": "11/18/2076",
-      "hash": "ef211b3ef5f07894080160cd773d7d99f362d5e139442a6195ea5218fc8980d8"
+      "openDate": "10/29/2026",
+      "closeDate": "04/02/2027",
+      "hash": "d21d3fe3bb13b0d5e91cc229700ea3a852a7196eb3ba502322f25887eac0831c"
     },
     {
-      "id": "364161",
-      "number": "DFOP0019982",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "id": "361815",
+      "number": "RFA-AI-28-001",
+      "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "5b7d0b12ba2a8d45e29862774325e1d932718042c19af9cf4a61f813daed4b81"
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "hash": "d8695467ad6854d168aa942f32b6fb9d68e59992febb58c4a8ee562350ec20af"
     },
     {
-      "id": "364162",
-      "number": "DFOP0019970",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "id": "364206",
+      "number": "EDA-B2S-2027",
+      "title": "FY 2027 Build to Scale Notice of Funding Opportunity",
       "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "de32c662032a1c826519c8b459fd7a6d2fd815718a2dd6b75e01462c64a28343"
+      "openDate": "11/20/2026",
+      "closeDate": "02/26/2027",
+      "hash": "54b32088804bfe2ac1e9a34b46cedfebbe9b2d77cc56d138639edffcbde0a3b7"
     },
     {
-      "id": "364290",
-      "number": "EPA-OA-OASES-26-09",
-      "title": "Research for PFAS Destruction in Environmental Media",
+      "id": "361816",
+      "number": "RFA-AI-28-003",
+      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "11/19/2026",
-      "closeDate": "01/20/2027",
-      "hash": "b2befb1142a4eb11a4cf17f6453e6db3dd86ffc38b76c9eefff222c9b3d7dc2b"
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "hash": "f6be8e068a1f69af69f4a902d3669881a369827d72702ab3b2edb217e7aa64ac"
     },
     {
-      "id": "364291",
-      "number": "EPA-OA-OASES-26-10",
-      "title": "Addressing Uncertainties in the Evidence for Health Effects of Lower Air Pollution Exposures",
+      "id": "361820",
+      "number": "RFA-AI-28-002",
+      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "11/19/2026",
-      "closeDate": "01/20/2027",
-      "hash": "e644dfda6f63b073c552e24c39a0261a5cf8a6d97f7062d625daf9af4eb0d19a"
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "hash": "0d30ee550fc53718b02eaa2408d79a2fbc30630ca248f2e500f948bfad7d9386"
     },
     {
-      "id": "364105",
-      "number": "IVV-FT-OPP-10172026141319",
-      "title": "IVV-FT-OPP-10172026141319",
+      "id": "361821",
+      "number": "RFA-AI-28-004",
+      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
       "status": "posted",
-      "openDate": "10/17/2026",
-      "closeDate": "10/17/2027",
-      "hash": "9965c955e9f9d1ed6681269bbc18c785f9f5e6054bf825281aa81a82d79831b0"
-    },
-    {
-      "id": "364003",
-      "number": "UST-SIPPRA-2027-003",
-      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
-      "status": "posted",
-      "openDate": "11/12/2026",
-      "closeDate": "04/06/2027",
-      "hash": "4a32e600da2736c23ffbcaad5a1bfe7c2eb7876cfdbdfd8aba251b5adb4f0691"
-    },
-    {
-      "id": "364292",
-      "number": "IVV-FT-OPP-11192026112006",
-      "title": "IVV-FT-OPP-11192026112006",
-      "status": "posted",
-      "openDate": "11/19/2026",
-      "closeDate": "11/19/2027",
-      "hash": "ee7844ecd9bff547649480f0d5d7a551ec5740d35b5b1d2eabfdadf8ec75a971"
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "hash": "1607d6fee821fc6f26ceac9262f0d51b053b466bd286963b2acda340cac907c7"
     },
     {
       "id": "364293",
@@ -12486,13 +12423,31 @@
       "hash": "48cd3aa75138f6e8449ab81f6c769e874d1df175e7dfd1cf5a4f3707adec6e9e"
     },
     {
-      "id": "364008",
-      "number": "W911NF-27-R-A001",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+      "id": "364294",
+      "number": "27-501",
+      "title": "Foundational Research in Robotics (FRR)",
       "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "12/17/2026",
-      "hash": "93a95675be559b2e0489ce3160dc3e18dea6466d473482abcdac443d45d853c8"
+      "openDate": "11/19/2026",
+      "closeDate": "11/19/2076",
+      "hash": "c7bdd11f696d12e8d5b39ae254b6f3c2829f02f7d42ae482d340ba04c9336028"
+    },
+    {
+      "id": "364297",
+      "number": "O-BJA-2026-172819",
+      "title": "OJP FY 2026 Special Attorneys Program Round 12",
+      "status": "posted",
+      "openDate": "11/20/2026",
+      "closeDate": "12/08/2026",
+      "hash": "dc9567a86a0d42c13d2d35cdf6f72ddfdec5d626318ada964664884f841d0d4d"
+    },
+    {
+      "id": "339594",
+      "number": "22-586",
+      "title": "Faculty Early Career Development Program (CAREER)",
+      "status": "posted",
+      "openDate": "04/19/2022",
+      "closeDate": "07/28/2027",
+      "hash": "18d9edf63132b8a2445648eed7d40fe2810ba95ee2c8c04ce48f9214ba9f2870"
     }
   ]
 }
