@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T18:40:45.529Z",
-  "hitCount": 1383,
+  "updatedAt": "2026-11-21T17:39:10.424Z",
+  "hitCount": 1376,
   "records": [
     {
       "id": "355824",
@@ -6843,15 +6843,6 @@
       "hash": "f4bcd6ec263a99d3e658ed58fc84437449145187bd49c8cc58582c5a1f032f25"
     },
     {
-      "id": "363856",
-      "number": "F26AS00030",
-      "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
-      "status": "posted",
-      "openDate": "09/14/2026",
-      "closeDate": "11/20/2026",
-      "hash": "8af854b2a9eaea7ea14ad565bfd99456a6557625c8ffc5acdd8b4167f7544442"
-    },
-    {
       "id": "363855",
       "number": "CDC-RFA-DP-27-0023",
       "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
@@ -7138,15 +7129,6 @@
       "openDate": "09/24/2026",
       "closeDate": "03/17/2027",
       "hash": "4a13f3656b4bbdda68b5caa5b12e36b974b9d15286688ec8ce1bda5bcb2757c8"
-    },
-    {
-      "id": "363047",
-      "number": "HHS-2026-ACF-ECD-TP-0039",
-      "title": "Preschool Development Grant Birth Through Five (PDG B-5) SMART Grant",
-      "status": "posted",
-      "openDate": "09/21/2026",
-      "closeDate": "11/20/2026",
-      "hash": "f0ffdc6941721276924307e41553f3b57ebdf72e27b8a2e2b04da874d29b0b78"
     },
     {
       "id": "363421",
@@ -7462,15 +7444,6 @@
       "openDate": "09/25/2026",
       "closeDate": "01/22/2027",
       "hash": "4308b57972a5265792a6a10e36e30cec1bc5822833c36e53d6f1eb20c952583d"
-    },
-    {
-      "id": "362644",
-      "number": "R26AS00021",
-      "title": "Native American Affairs: Fiscal Year 2025 Colorado River Basin Tribal Drought Resiliency Program",
-      "status": "posted",
-      "openDate": "06/02/2026",
-      "closeDate": "11/20/2026",
-      "hash": "7b73f5d25dd292959786ac2b18b0259362314853d1816f20f9ffdb0bf297b3ea"
     },
     {
       "id": "362893",
@@ -9246,15 +9219,6 @@
       "hash": "3242a33bbb596befd01acd559183d97eccede5c3b93d7e68f509f4aaf87d7cff"
     },
     {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
-      "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "11/30/2026",
-      "hash": "aae64d210f6c022fab37d4e173d94ca1ad33b905565589c4021b944285dcb283"
-    },
-    {
       "id": "360664",
       "number": "25-549",
       "title": "National Science Foundation National Innovation Corps Teams (NSF National I-CorpsTM Teams) Program",
@@ -9325,15 +9289,6 @@
       "openDate": "05/08/2026",
       "closeDate": "12/08/2026",
       "hash": "9be7735c5cb236df28c68b8345c566d5aa5371d2a11fbad48b939c7350c27de7"
-    },
-    {
-      "id": "364043",
-      "number": "O-BJA-2026-172763",
-      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
-      "status": "posted",
-      "openDate": "10/08/2026",
-      "closeDate": "11/20/2026",
-      "hash": "bb9777d50da64ded2ac9ccb8483e2ba898e328116efb1ae9ff9597bd15a245f5"
     },
     {
       "id": "359676",
@@ -9793,15 +9748,6 @@
       "openDate": "09/10/2026",
       "closeDate": "",
       "hash": "7223cd23555ba4a9dcf63d62a05031f20f04473f63cc1a83adc9902690786dae"
-    },
-    {
-      "id": "363779",
-      "number": "RUS-ARC-2026",
-      "title": "Affordable Rural Cooperative (ARC) Energy Program",
-      "status": "posted",
-      "openDate": "10/19/2026",
-      "closeDate": "11/20/2026",
-      "hash": "f29fa6c6d19c841b2bface107b2bbf191ac6f510b141ca22f332eb3d50d4e36b"
     },
     {
       "id": "360581",
@@ -10317,24 +10263,6 @@
       "hash": "c2fde419e5b122b148f7f6aef98a2157e690f0a06236f1c018e3ebc918079816"
     },
     {
-      "id": "364136",
-      "number": "DE-FOA-0003630",
-      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
-      "status": "posted",
-      "openDate": "10/21/2026",
-      "closeDate": "11/20/2026",
-      "hash": "84bfa69791f86c5017fb4476aa8c975d4fb2661ae4d196be7e087e24ffc37ac4"
-    },
-    {
-      "id": "364135",
-      "number": "DE-FOA-0003631",
-      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources SBIR/STTR (UNLOCK SBIR/STTR)",
-      "status": "posted",
-      "openDate": "10/21/2026",
-      "closeDate": "11/20/2026",
-      "hash": "e66372a8688069ffa10ad63806f6063ce1583df9e0a30267ec575e1286083794"
-    },
-    {
       "id": "361159",
       "number": "PA-27-036",
       "title": "NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)",
@@ -10603,15 +10531,6 @@
       "openDate": "10/01/2022",
       "closeDate": "10/07/2076",
       "hash": "c534a7b70b48e09fd0fde79af5e58b44b65a7cd0560f59496ccd146a310c963f"
-    },
-    {
-      "id": "364037",
-      "number": "O-BJA-2026-172770",
-      "title": "BJA FY 2026 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism",
-      "status": "posted",
-      "openDate": "10/07/2026",
-      "closeDate": "11/20/2026",
-      "hash": "293f8c5a06e06c82d8e2473944890866e10e55eaf0b3c34862ba652bb56af1ce"
     },
     {
       "id": "361754",
@@ -11829,15 +11748,6 @@
       "hash": "f9b334440ee238805f9860824b061a77f614b3e506939d6d27751b9ebb0e4dce"
     },
     {
-      "id": "363847",
-      "number": "DHS-USCG-STATE-2027",
-      "title": "State Recreational Boating Safety (RBS) Grant Program",
-      "status": "posted",
-      "openDate": "09/10/2026",
-      "closeDate": "11/20/2026",
-      "hash": "c4a92bafbef6241087aa4628bf18573431e030a0f86a7e9dbe17a2a4dd1aa291"
-    },
-    {
       "id": "364265",
       "number": "G27AS00148",
       "title": "The State Component of the National Cooperative Geologic Mapping Program",
@@ -12115,24 +12025,6 @@
       "openDate": "10/27/2026",
       "closeDate": "11/25/2026",
       "hash": "9abed33462f5124ab3cb785d98dc09dbe290fbb9ef95313c62f32ecbcb190d4b"
-    },
-    {
-      "id": "364145",
-      "number": "USDA-FS-2026-LSR-TRIBAL",
-      "title": "Landscape Scale Restoration Grant Program for Tribes",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "hash": "b7fa5bbf1e39d5e7c30a3cd4466f951169fbe5397b3a35955c4c504c6d06a36b"
-    },
-    {
-      "id": "364144",
-      "number": "USDA-FS-2026-LSR",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "hash": "cc12159de01b076d644d9e9bf8dc551bb1f5d975223724cfb8208d17d06637a2"
     },
     {
       "id": "364171",
@@ -12448,6 +12340,51 @@
       "openDate": "04/19/2022",
       "closeDate": "07/28/2027",
       "hash": "18d9edf63132b8a2445648eed7d40fe2810ba95ee2c8c04ce48f9214ba9f2870"
+    },
+    {
+      "id": "364299",
+      "number": "HRSA-27-113",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "11/20/2026",
+      "closeDate": "",
+      "hash": "b3af790e593954ef916883e2d7cbedb6f3c41252f6be241d0759bc806fafd7e6"
+    },
+    {
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "status": "posted",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "hash": "cc12159de01b076d644d9e9bf8dc551bb1f5d975223724cfb8208d17d06637a2"
+    },
+    {
+      "id": "364145",
+      "number": "USDA-FS-2026-LSR-TRIBAL",
+      "title": "Landscape Scale Restoration Grant Program for Tribes",
+      "status": "posted",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "hash": "b7fa5bbf1e39d5e7c30a3cd4466f951169fbe5397b3a35955c4c504c6d06a36b"
+    },
+    {
+      "id": "364298",
+      "number": "27CS30",
+      "title": "Facilitating Behavior Change Training for Trainers",
+      "status": "posted",
+      "openDate": "11/20/2026",
+      "closeDate": "01/19/2027",
+      "hash": "f986759a4d10e21083f9dfcc784025ada420709fadfdabef26a268b7b2f99497"
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "status": "posted",
+      "openDate": "01/08/2025",
+      "closeDate": "01/31/2027",
+      "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
     }
   ]
 }
