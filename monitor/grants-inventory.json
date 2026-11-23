@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T17:54:32.009Z",
-  "hitCount": 1376,
+  "updatedAt": "2026-11-23T22:06:50.694Z",
+  "hitCount": 1378,
   "records": [
     {
       "id": "355824",
@@ -10407,15 +10407,6 @@
       "hash": "97980ea00a004b5266d2413c3d38a227355796886071fc57375c972cd9a7de6b"
     },
     {
-      "id": "356163",
-      "number": "RFA-OH-26-001",
-      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
-      "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
-    },
-    {
       "id": "360905",
       "number": "RFA-CA-28-013",
       "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
@@ -12385,6 +12376,33 @@
       "openDate": "01/08/2025",
       "closeDate": "01/31/2027",
       "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
+    },
+    {
+      "id": "364301",
+      "number": "USDA-FAS-10627-0700-25-26-P",
+      "title": "Food for Peace International Food Relief Partnership Shelf-Stable Food Commodity Production, Packaging, and Stockpiling",
+      "status": "posted",
+      "openDate": "11/23/2026",
+      "closeDate": "01/07/2027",
+      "hash": "d4c7e15029747cccdcf73874f7a019451553b16cb384a04c4e6cdc84db3a7e4c"
+    },
+    {
+      "id": "364302",
+      "number": "NNH25ZDA001N-HFORT",
+      "title": "ROSES 2025: B.9 Heliophysics Flight Opportunities in Research and Technology",
+      "status": "posted",
+      "openDate": "11/23/2026",
+      "closeDate": "06/25/2027",
+      "hash": "c2c59658a0ff3dd4bc2f5a11c1cc3282accd0691c8ba8d9471a0bb035812645f"
+    },
+    {
+      "id": "356163",
+      "number": "RFA-OH-26-001",
+      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
     }
   ]
 }
