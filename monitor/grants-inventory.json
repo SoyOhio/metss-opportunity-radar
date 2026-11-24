@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T22:06:50.694Z",
-  "hitCount": 1378,
+  "updatedAt": "2026-11-24T20:43:36.084Z",
+  "hitCount": 1375,
   "records": [
     {
       "id": "355824",
@@ -2017,15 +2017,6 @@
       "openDate": "01/02/2025",
       "closeDate": "05/07/2028",
       "hash": "1655c411cffc3c318c0f309c52d1ac9f04acb0a3d422a060f90c1e5200d7681c"
-    },
-    {
-      "id": "358090",
-      "number": "RFA-AT-25-003",
-      "title": "HEAL Initiative: Pain Research Enhancement Program (PREP) (R15 Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "11/23/2026",
-      "hash": "80731eab94a0226e2e7a00e8aa12a1a6bff6ea07b1618725597930c8fc413739"
     },
     {
       "id": "358230",
@@ -9426,15 +9417,6 @@
       "hash": "5ac4f02d1047723dea1411ac08762e36a023d1ecfeb2f2e3a41133012afffb78"
     },
     {
-      "id": "364062",
-      "number": "O-NIJ-2026-172802",
-      "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "630d45e4813eab2422ead614593c1837cc0f639903db72f8c5075c40d5426c1d"
-    },
-    {
       "id": "364065",
       "number": "RFA-AG-28-002",
       "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
@@ -10281,15 +10263,6 @@
       "hash": "11ba4c6adcea1d964eb212341bacc69ab9d40faa1adba3376faa1e2db51a81e6"
     },
     {
-      "id": "364154",
-      "number": "DFOP0020006",
-      "title": "2027 Donald M. Payne International Development Graduate Fellowship Program Administration Gran",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "hash": "b7149a987ff291b2319a030f18fba004ec628bcab00abac25808eba256face58"
-    },
-    {
       "id": "364164",
       "number": "USDA-FNA-CN-HTH-NSLP-EAG-2027",
       "title": "Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants",
@@ -10416,15 +10389,6 @@
       "hash": "4df3ad429c39bc82df8a57b2e49516844e060ab0b724d93cfe331734d3372dae"
     },
     {
-      "id": "364048",
-      "number": "O-NIJ-2026-172796",
-      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "b5538a4bf11623084762a271f721e27692487cf79ddfb61b751a7a634a9faddf"
-    },
-    {
       "id": "363612",
       "number": "26-520",
       "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
@@ -10533,15 +10497,6 @@
       "hash": "777804f5ce851369c5d180e486ab4a932ab691e4cfa5f9c48a57b424c0deff83"
     },
     {
-      "id": "359168",
-      "number": "RFA-RM-27-007",
-      "title": "Cellular Senescence Network (SenNet): SenNet Technology Projects (SenTecs) (UG3/UH3 Clinical Trial Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "137ef87818bbd194ab39306443d7bc94ffee424b661e05c82644c9707f8ebe6d"
-    },
-    {
       "id": "359152",
       "number": "RFA-AR-28-001",
       "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
@@ -10549,24 +10504,6 @@
       "openDate": "10/09/2026",
       "closeDate": "03/01/2029",
       "hash": "f4a5dbd6a5a6dba3899d883133f100d9a66ee8f1e9f9e481096e6cb43d74a6d3"
-    },
-    {
-      "id": "359169",
-      "number": "RFA-RM-27-016",
-      "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "f6bf8b7cdfba50ffe3f9275c8b3364b65bc9d8141af6b68a64c24aa13a1845f9"
-    },
-    {
-      "id": "361817",
-      "number": "RFA-RM-27-025",
-      "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination and Integration Center (SenNet DCIC) (UM1 Clinical Trials Not Allowed)",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "hash": "298c80bdab5854c425c27660f26774eec64f8f8b9397633ae40c51e4b6dba3fb"
     },
     {
       "id": "364055",
@@ -11127,15 +11064,6 @@
       "hash": "54af86b56e54ab956509d9d2df1ae9d929e36045df9a40b9c467428f07a9c74e"
     },
     {
-      "id": "364139",
-      "number": "O-NIJ-2026-172805",
-      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
-      "status": "posted",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
-    },
-    {
       "id": "363409",
       "number": "HRSA-27-031",
       "title": "Fetal, Infant, and Child Death Review Program",
@@ -11161,24 +11089,6 @@
       "openDate": "11/10/2026",
       "closeDate": "01/14/2027",
       "hash": "d287beaae1886c18bd3b85555ce47f4a8ca7e3c71f4541d9f32d56089c41a3de"
-    },
-    {
-      "id": "364215",
-      "number": "USDA-APHIS-10025-VSSP0000-27-0002",
-      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
-      "status": "posted",
-      "openDate": "11/05/2026",
-      "closeDate": "01/07/2027",
-      "hash": "b63c60f34ec1a5cbc7081c0cba9cf4da8b11dea1a076b11d3b7d58101cc02cca"
-    },
-    {
-      "id": "364214",
-      "number": "USDA-APHIS-10025-VSSP0000-27-0001",
-      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
-      "status": "posted",
-      "openDate": "11/05/2026",
-      "closeDate": "01/07/2027",
-      "hash": "944d129739d5b33d67a2385cdcb4ab9c3094996246644e1027960c24920edde5"
     },
     {
       "id": "364160",
@@ -11278,15 +11188,6 @@
       "openDate": "09/30/2026",
       "closeDate": "09/30/2027",
       "hash": "62844a95d9d6f31cac44388c4696980e5adc87f338de12910b21f7ff3613ab9f"
-    },
-    {
-      "id": "363829",
-      "number": "FA955026S0003",
-      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-      "status": "posted",
-      "openDate": "09/08/2026",
-      "closeDate": "12/11/2026",
-      "hash": "bb03bc4057a4b55ae69fb89440a92eee3f257ba45824cd9139a0bf82cff26644"
     },
     {
       "id": "364247",
@@ -12306,42 +12207,6 @@
       "hash": "48cd3aa75138f6e8449ab81f6c769e874d1df175e7dfd1cf5a4f3707adec6e9e"
     },
     {
-      "id": "364294",
-      "number": "27-501",
-      "title": "Foundational Research in Robotics (FRR)",
-      "status": "posted",
-      "openDate": "11/19/2026",
-      "closeDate": "11/19/2076",
-      "hash": "c7bdd11f696d12e8d5b39ae254b6f3c2829f02f7d42ae482d340ba04c9336028"
-    },
-    {
-      "id": "364297",
-      "number": "O-BJA-2026-172819",
-      "title": "OJP FY 2026 Special Attorneys Program Round 12",
-      "status": "posted",
-      "openDate": "11/20/2026",
-      "closeDate": "12/08/2026",
-      "hash": "dc9567a86a0d42c13d2d35cdf6f72ddfdec5d626318ada964664884f841d0d4d"
-    },
-    {
-      "id": "339594",
-      "number": "22-586",
-      "title": "Faculty Early Career Development Program (CAREER)",
-      "status": "posted",
-      "openDate": "04/19/2022",
-      "closeDate": "07/28/2027",
-      "hash": "18d9edf63132b8a2445648eed7d40fe2810ba95ee2c8c04ce48f9214ba9f2870"
-    },
-    {
-      "id": "364299",
-      "number": "HRSA-27-113",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "status": "forecasted",
-      "openDate": "11/20/2026",
-      "closeDate": "",
-      "hash": "b3af790e593954ef916883e2d7cbedb6f3c41252f6be241d0759bc806fafd7e6"
-    },
-    {
       "id": "364144",
       "number": "USDA-FS-2026-LSR",
       "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
@@ -12358,24 +12223,6 @@
       "openDate": "10/28/2026",
       "closeDate": "01/26/2027",
       "hash": "b7fa5bbf1e39d5e7c30a3cd4466f951169fbe5397b3a35955c4c504c6d06a36b"
-    },
-    {
-      "id": "364298",
-      "number": "27CS30",
-      "title": "Facilitating Behavior Change Training for Trainers",
-      "status": "posted",
-      "openDate": "11/20/2026",
-      "closeDate": "01/19/2027",
-      "hash": "f986759a4d10e21083f9dfcc784025ada420709fadfdabef26a268b7b2f99497"
-    },
-    {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
-      "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "01/31/2027",
-      "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
     },
     {
       "id": "364301",
@@ -12396,13 +12243,139 @@
       "hash": "c2c59658a0ff3dd4bc2f5a11c1cc3282accd0691c8ba8d9471a0bb035812645f"
     },
     {
+      "id": "339594",
+      "number": "22-586",
+      "title": "Faculty Early Career Development Program (CAREER)",
+      "status": "posted",
+      "openDate": "04/19/2022",
+      "closeDate": "07/28/2027",
+      "hash": "18d9edf63132b8a2445648eed7d40fe2810ba95ee2c8c04ce48f9214ba9f2870"
+    },
+    {
+      "id": "364139",
+      "number": "O-NIJ-2026-172805",
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "status": "posted",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "hash": "17875321aa88e4a890d72e4a8c9bfd14ebf7ae8108b376af2811ffad21568457"
+    },
+    {
+      "id": "364297",
+      "number": "O-BJA-2026-172819",
+      "title": "OJP FY 2026 Special Attorneys Program Round 12",
+      "status": "posted",
+      "openDate": "11/20/2026",
+      "closeDate": "12/08/2026",
+      "hash": "dc9567a86a0d42c13d2d35cdf6f72ddfdec5d626318ada964664884f841d0d4d"
+    },
+    {
+      "id": "364294",
+      "number": "27-501",
+      "title": "Foundational Research in Robotics (FRR)",
+      "status": "posted",
+      "openDate": "11/19/2026",
+      "closeDate": "11/19/2076",
+      "hash": "c7bdd11f696d12e8d5b39ae254b6f3c2829f02f7d42ae482d340ba04c9336028"
+    },
+    {
+      "id": "364299",
+      "number": "HRSA-27-113",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "status": "forecasted",
+      "openDate": "11/20/2026",
+      "closeDate": "",
+      "hash": "b3af790e593954ef916883e2d7cbedb6f3c41252f6be241d0759bc806fafd7e6"
+    },
+    {
+      "id": "364303",
+      "number": "NEAPS2605",
+      "title": "NEA Jazz Masters Tribute Concert and Related Events, FY 2027",
+      "status": "posted",
+      "openDate": "11/24/2026",
+      "closeDate": "01/14/2027",
+      "hash": "751445a2aa07a251b9206d2c11d8438bf4226c0e41b8a137e7afe7e6381d9bdc"
+    },
+    {
+      "id": "364298",
+      "number": "27CS30",
+      "title": "Facilitating Behavior Change Training for Trainers",
+      "status": "posted",
+      "openDate": "11/20/2026",
+      "closeDate": "01/19/2027",
+      "hash": "f986759a4d10e21083f9dfcc784025ada420709fadfdabef26a268b7b2f99497"
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "status": "posted",
+      "openDate": "01/08/2025",
+      "closeDate": "01/31/2027",
+      "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
+    },
+    {
+      "id": "364215",
+      "number": "USDA-APHIS-10025-VSSP0000-27-0002",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "02/03/2027",
+      "hash": "f2e2fb6a896e01fb9db77d294cea542b5d12a3b8bb9042277ffb17a7f94e16bc"
+    },
+    {
+      "id": "364214",
+      "number": "USDA-APHIS-10025-VSSP0000-27-0001",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
+      "status": "posted",
+      "openDate": "11/05/2026",
+      "closeDate": "02/03/2027",
+      "hash": "8b20c1ed421bbcaddce2021b62354eadb05f17ccc9e402624d0759dca2441528"
+    },
+    {
+      "id": "364304",
+      "number": "NNH25ZDA001N-SBR",
+      "title": "ROSES 2025: E.3 Space Biology: Research Studies",
+      "status": "posted",
+      "openDate": "11/24/2026",
+      "closeDate": "03/19/2027",
+      "hash": "79c89c87ce8712407576431df38bb593ff85d0b3d83dcead45f3a8fa5e04b178"
+    },
+    {
+      "id": "364305",
+      "number": "G27AS00041",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "status": "posted",
+      "openDate": "11/24/2026",
+      "closeDate": "01/08/2027",
+      "hash": "fd9094b5ce85ffa07c00a0c9677934c09489907bcf84ed67f4b4862778ea0d5d"
+    },
+    {
+      "id": "363829",
+      "number": "FA955026S0003",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "status": "posted",
+      "openDate": "09/08/2026",
+      "closeDate": "12/11/2026",
+      "hash": "bb03bc4057a4b55ae69fb89440a92eee3f257ba45824cd9139a0bf82cff26644"
+    },
+    {
+      "id": "364043",
+      "number": "O-BJA-2026-172763",
+      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
+      "status": "posted",
+      "openDate": "10/08/2026",
+      "closeDate": "11/30/2026",
+      "hash": "26566bdc0602c6e06f46a0631e887a225403958274469f8472fb3940c24433dd"
+    },
+    {
       "id": "356163",
       "number": "RFA-OH-26-001",
       "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
       "status": "posted",
       "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "hash": "77b3a65971b257ace182c6da98c1aedda040095cebd33d72cb7ba59fa4a1e05e"
+      "closeDate": "01/05/2027",
+      "hash": "b5bdf8b6af661adce78962c773dd81fcdeabee189fdb387f9a420158ccc9d030"
     }
   ]
 }
