@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T20:43:36.084Z",
-  "hitCount": 1375,
+  "updatedAt": "2026-11-25T20:00:00.926Z",
+  "hitCount": 1381,
   "records": [
     {
       "id": "355824",
@@ -3493,15 +3493,6 @@
       "openDate": "11/01/2023",
       "closeDate": "",
       "hash": "fab8e1135f5f25e05214fc34eba9d2ca31ddee655c29bb5844f7514c7de43717"
-    },
-    {
-      "id": "351124",
-      "number": "PA-23-317",
-      "title": "Competing Revisions to Existing NIH Single Project Research Grants and Cooperative Agreements (Clinical Trial Optional)",
-      "status": "posted",
-      "openDate": "11/24/2023",
-      "closeDate": "11/24/2026",
-      "hash": "c3ebd280cdb3c2db4ae26b643a45e4c63df4bb20f7d5446a38033bc3cd38e8ce"
     },
     {
       "id": "345738",
@@ -11694,15 +11685,6 @@
       "hash": "691815406132c37a80df70d9ef61858901ce52a7a578be42b0bf23905c30d969"
     },
     {
-      "id": "364270",
-      "number": "CDC-RFA-PW-27-0038",
-      "title": "Strengthening U.S. Public Health Infrastructure, Workforce, and Data Systems",
-      "status": "forecasted",
-      "openDate": "11/16/2026",
-      "closeDate": "",
-      "hash": "52ef42852858e2035e282afb28611f777ba9c5aa1c91059b0e59c4eccbbcfd71"
-    },
-    {
       "id": "353758",
       "number": "PA-24-179",
       "title": "Independent Scientist Award (Parent K02 - Independent Clinical Trial Not Allowed)",
@@ -11980,15 +11962,6 @@
       "openDate": "05/01/2023",
       "closeDate": "04/30/2028",
       "hash": "905602a8dd938d4e412ae73c6f64e72f95e1a5641259e3d445c1a9a5528af087"
-    },
-    {
-      "id": "364008",
-      "number": "W911NF-27-R-A001",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
-      "status": "posted",
-      "openDate": "09/30/2026",
-      "closeDate": "12/17/2026",
-      "hash": "93a95675be559b2e0489ce3160dc3e18dea6466d473482abcdac443d45d853c8"
     },
     {
       "id": "364161",
@@ -12297,22 +12270,31 @@
       "hash": "751445a2aa07a251b9206d2c11d8438bf4226c0e41b8a137e7afe7e6381d9bdc"
     },
     {
-      "id": "364298",
-      "number": "27CS30",
-      "title": "Facilitating Behavior Change Training for Trainers",
+      "id": "364008",
+      "number": "W911NF-27-R-A001",
+      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
       "status": "posted",
-      "openDate": "11/20/2026",
-      "closeDate": "01/19/2027",
-      "hash": "f986759a4d10e21083f9dfcc784025ada420709fadfdabef26a268b7b2f99497"
+      "openDate": "09/30/2026",
+      "closeDate": "12/17/2026",
+      "hash": "93a95675be559b2e0489ce3160dc3e18dea6466d473482abcdac443d45d853c8"
     },
     {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "id": "363829",
+      "number": "FA955026S0003",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
       "status": "posted",
-      "openDate": "01/08/2025",
-      "closeDate": "01/31/2027",
-      "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
+      "openDate": "09/08/2026",
+      "closeDate": "12/11/2026",
+      "hash": "bb03bc4057a4b55ae69fb89440a92eee3f257ba45824cd9139a0bf82cff26644"
+    },
+    {
+      "id": "356163",
+      "number": "RFA-OH-26-001",
+      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "status": "posted",
+      "openDate": "05/08/2026",
+      "closeDate": "01/05/2027",
+      "hash": "b5bdf8b6af661adce78962c773dd81fcdeabee189fdb387f9a420158ccc9d030"
     },
     {
       "id": "364215",
@@ -12333,13 +12315,13 @@
       "hash": "8b20c1ed421bbcaddce2021b62354eadb05f17ccc9e402624d0759dca2441528"
     },
     {
-      "id": "364304",
-      "number": "NNH25ZDA001N-SBR",
-      "title": "ROSES 2025: E.3 Space Biology: Research Studies",
+      "id": "364307",
+      "number": "DOS-MANAMA-PD-2027-001",
+      "title": "U.S. Mission to the Kingdom of Bahrain Annual Program Statement (Public Diplomacy Small Grants Program)",
       "status": "posted",
-      "openDate": "11/24/2026",
-      "closeDate": "03/19/2027",
-      "hash": "79c89c87ce8712407576431df38bb593ff85d0b3d83dcead45f3a8fa5e04b178"
+      "openDate": "11/25/2026",
+      "closeDate": "08/15/2027",
+      "hash": "bc1b03bda79602c20b01aade9beb58d077acac70d41860b2615b7cc392e2f38f"
     },
     {
       "id": "364305",
@@ -12351,13 +12333,13 @@
       "hash": "fd9094b5ce85ffa07c00a0c9677934c09489907bcf84ed67f4b4862778ea0d5d"
     },
     {
-      "id": "363829",
-      "number": "FA955026S0003",
-      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "id": "364304",
+      "number": "NNH25ZDA001N-SBR",
+      "title": "ROSES 2025: E.3 Space Biology: Research Studies",
       "status": "posted",
-      "openDate": "09/08/2026",
-      "closeDate": "12/11/2026",
-      "hash": "bb03bc4057a4b55ae69fb89440a92eee3f257ba45824cd9139a0bf82cff26644"
+      "openDate": "11/24/2026",
+      "closeDate": "03/19/2027",
+      "hash": "79c89c87ce8712407576431df38bb593ff85d0b3d83dcead45f3a8fa5e04b178"
     },
     {
       "id": "364043",
@@ -12369,13 +12351,85 @@
       "hash": "26566bdc0602c6e06f46a0631e887a225403958274469f8472fb3940c24433dd"
     },
     {
-      "id": "356163",
-      "number": "RFA-OH-26-001",
-      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "id": "364298",
+      "number": "27CS30",
+      "title": "Facilitating Behavior Change Training for Trainers",
       "status": "posted",
-      "openDate": "05/08/2026",
-      "closeDate": "01/05/2027",
-      "hash": "b5bdf8b6af661adce78962c773dd81fcdeabee189fdb387f9a420158ccc9d030"
+      "openDate": "11/20/2026",
+      "closeDate": "01/19/2027",
+      "hash": "f986759a4d10e21083f9dfcc784025ada420709fadfdabef26a268b7b2f99497"
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "status": "posted",
+      "openDate": "01/08/2025",
+      "closeDate": "01/31/2027",
+      "hash": "2565a4a607512ffd7a3380dc52fcb8e5d38551b62c9391f8be04d221f56d8676"
+    },
+    {
+      "id": "364309",
+      "number": "20270505-TD-TR",
+      "title": "Media Projects",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "9240fcdf5e29aad9382a5b46e553666a736d41e4c2190595567234d2eb291031"
+    },
+    {
+      "id": "364310",
+      "number": "20270505-ECD",
+      "title": "Curriculum Development: Western Civilization",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "d1e0cc92f9642a035503860f5ee002518338ce8c26c92085c4900e1b5a4c3e57"
+    },
+    {
+      "id": "364311",
+      "number": "HHS-2027-ACL-AOA-DASG-0029",
+      "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "e0d98eb2136d2581c169d119b473c82e89e9d752fe12ff9fa8d1d718969c7e6c"
+    },
+    {
+      "id": "364312",
+      "number": "HHS-2027-ACF-OHS-CI-0025",
+      "title": "American Indian Alaska Native Head Start Expansion, Early Head Start Expansion and Early Head Start-Child Care Partnership Grants",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "8bbe1a843c62a4f78aeb710999dc9c93a826dc8bace6599c80077da03bd69442"
+    },
+    {
+      "id": "364313",
+      "number": "HHS-2027-ACF-OHS-CI-0204",
+      "title": "American Indian Alaska Native Head Start Grants in Multiple States",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "e593e25dfadc55219d7d060b7c3a2902503a2045a5b052aaaed1f4ebb8d08e6b"
+    },
+    {
+      "id": "364314",
+      "number": "CDC-RFA-PW-27-0040",
+      "title": "Strengthening U.S. Public Health Infrastructure Through Tailored Support",
+      "status": "forecasted",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "hash": "e8ea7444f57bebb9b679b643c63586107c2546fbb9ed641625d7a135f58c2c59"
+    },
+    {
+      "id": "364270",
+      "number": "CDC-RFA-PW-27-0038",
+      "title": "Strengthening U.S. Public Health Infrastructure, Workforce, and Data Systems",
+      "status": "forecasted",
+      "openDate": "11/16/2026",
+      "closeDate": "",
+      "hash": "52ef42852858e2035e282afb28611f777ba9c5aa1c91059b0e59c4eccbbcfd71"
     }
   ]
 }
