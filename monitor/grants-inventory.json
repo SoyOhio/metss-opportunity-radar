@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T20:00:00.926Z",
-  "hitCount": 1381,
+  "updatedAt": "2026-11-26T19:43:56.871Z",
+  "hitCount": 1375,
   "records": [
     {
       "id": "355824",
@@ -10533,15 +10533,6 @@
       "hash": "04c646b2b73f79de755f5943196c465de836ef2c5a12fc1c7dc9a27a7229a58e"
     },
     {
-      "id": "364063",
-      "number": "O-SMART-2026-172794",
-      "title": "SMART FY26 Support for Adam Walsh Act Implementation Grant Program",
-      "status": "posted",
-      "openDate": "10/09/2026",
-      "closeDate": "11/25/2026",
-      "hash": "9d24d0a782ddde3478713ab51356da7f2543e961576c1e824babfa338eefb302"
-    },
-    {
       "id": "359142",
       "number": "RFA-AI-28-025",
       "title": "Implementation and Evaluation of Databases to Examine AIDS",
@@ -11892,15 +11883,6 @@
       "hash": "31b06aaf06de9418b2d1b11c0e8f413afc96f8feaa020b5d7620e29bf2f33854"
     },
     {
-      "id": "364159",
-      "number": "DFOP0019978",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "9abed33462f5124ab3cb785d98dc09dbe290fbb9ef95313c62f32ecbcb190d4b"
-    },
-    {
       "id": "364171",
       "number": "FM-CCFP-27-001",
       "title": "FY 2027 Crash Causal Factors Program",
@@ -11908,24 +11890,6 @@
       "openDate": "10/29/2026",
       "closeDate": "12/28/2026",
       "hash": "8985b736b55425460abef4af8cd1281d50d6348bf43546b690525021f5575815"
-    },
-    {
-      "id": "364158",
-      "number": "DFOP0019974",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "bbbc70c4feb97e8db1faf15fec14d6c7980581028b88aeb371553bbf23b5aea7"
-    },
-    {
-      "id": "364155",
-      "number": "DFOP0019966",
-      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "deb77cfeea1ae500a035af61306e20cca9e3a04d0adf8733c75ac5b0111817be"
     },
     {
       "id": "364288",
@@ -11962,24 +11926,6 @@
       "openDate": "05/01/2023",
       "closeDate": "04/30/2028",
       "hash": "905602a8dd938d4e412ae73c6f64e72f95e1a5641259e3d445c1a9a5528af087"
-    },
-    {
-      "id": "364161",
-      "number": "DFOP0019982",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "5b7d0b12ba2a8d45e29862774325e1d932718042c19af9cf4a61f813daed4b81"
-    },
-    {
-      "id": "364162",
-      "number": "DFOP0019970",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
-      "status": "posted",
-      "openDate": "10/27/2026",
-      "closeDate": "11/25/2026",
-      "hash": "de32c662032a1c826519c8b459fd7a6d2fd815718a2dd6b75e01462c64a28343"
     },
     {
       "id": "364003",
