@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:43:56.871Z",
+  "updatedAt": "2026-11-27T19:32:50.318Z",
   "hitCount": 1375,
   "records": [
     {
@@ -11865,15 +11865,6 @@
       "hash": "acd5817db76ccf18b339b7abc23b1904bf405c5e1710eb381c78a2ea469f916b"
     },
     {
-      "id": "364275",
-      "number": "O-BJA-2026-172814",
-      "title": "DOJ FY 2026 Invited to Apply &ndash; Model Cities Initiative (MCI)",
-      "status": "posted",
-      "openDate": "11/17/2026",
-      "closeDate": "11/30/2026",
-      "hash": "f2a0a006c7b880b1a8fdd03433d14e1b5764c810d79874a35ad87d8e6ca9f558"
-    },
-    {
       "id": "364213",
       "number": "DOW2027APEXACCELERATORCLOSED",
       "title": "APEX Accelerator-Option Period for Existing Award Recipients",
@@ -12376,6 +12367,15 @@
       "openDate": "11/16/2026",
       "closeDate": "",
       "hash": "52ef42852858e2035e282afb28611f777ba9c5aa1c91059b0e59c4eccbbcfd71"
+    },
+    {
+      "id": "364275",
+      "number": "O-BJA-2026-172814",
+      "title": "DOJ FY 2026 Invited to Apply &ndash; Model Cities Initiative (MCI)",
+      "status": "posted",
+      "openDate": "11/17/2026",
+      "closeDate": "11/28/2026",
+      "hash": "91772088fd40e618b1d5362d3c06a25eda7bd5ab1ba97cf57195d4e543744bf6"
     }
   ]
 }
