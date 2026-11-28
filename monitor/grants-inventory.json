@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T19:32:50.318Z",
-  "hitCount": 1375,
+  "updatedAt": "2026-11-28T18:18:24.891Z",
+  "hitCount": 1373,
   "records": [
     {
       "id": "355824",
@@ -10261,24 +10261,6 @@
       "openDate": "10/28/2026",
       "closeDate": "01/11/2027",
       "hash": "980124cadc17624f3ae9e0809099a3e123361d000f18924afa5ea22efbaf5ca8"
-    },
-    {
-      "id": "364166",
-      "number": "FR-AMT-27-001",
-      "title": "FY27 Northeast Corridor Cooperative Agreement to the National Railroad Passenger Corporation",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "11/27/2026",
-      "hash": "22d20b9f256703bde1b6818d623a0c8809189cf99300753587d87a176778dd84"
-    },
-    {
-      "id": "364167",
-      "number": "FR-AMT-27-002",
-      "title": "FY27 National Network Cooperative Agreement to the National Railroad Passenger Corporation",
-      "status": "posted",
-      "openDate": "10/28/2026",
-      "closeDate": "11/27/2026",
-      "hash": "0efb7ba5abd96e2e04850558a8d4f5fd42de0a2ea8c8131aa98afcecdfe3125b"
     },
     {
       "id": "347026",
